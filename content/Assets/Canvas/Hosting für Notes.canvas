@@ -1,0 +1,18 @@
+{
+	"nodes":[
+		{"id":"5c261ba08a8d5d76","type":"text","text":"Repo => Notes","x":-560,"y":-200,"width":250,"height":60},
+		{"id":"748109fd46265687","type":"text","text":"Repo => Quartz WebService","x":160,"y":-200,"width":250,"height":60},
+		{"id":"f0e6c38fee47d2e2","type":"text","text":"GitHub Action Zeugs für Free Seite","x":160,"y":0,"width":250,"height":60},
+		{"id":"3b206c806c9a4b52","type":"text","text":"inwx für Domain Eintrag","x":-560,"y":0,"width":250,"height":60},
+		{"id":"fc80c0b9d7a737d5","type":"text","text":"Free Seite 😎","x":160,"y":192,"width":250,"height":60},
+		{"id":"a90d1460e583a8d3","x":-280,"y":-680,"width":400,"height":400,"type":"file","file":"Programming Specific Stuff/Git-Stuff/Submodule.md"}
+	],
+	"edges":[
+		{"id":"93cd4ff451355a1d","fromNode":"5c261ba08a8d5d76","fromSide":"right","toNode":"748109fd46265687","toSide":"left","label":"Notes Sync für aktuelle Darstellung"},
+		{"id":"5cad1b2cbc09ff96","fromNode":"748109fd46265687","fromSide":"bottom","toNode":"f0e6c38fee47d2e2","toSide":"top"},
+		{"id":"d71acd548cb0de72","fromNode":"3b206c806c9a4b52","fromSide":"right","toNode":"f0e6c38fee47d2e2","toSide":"left"},
+		{"id":"2086e694f8e21a26","fromNode":"f0e6c38fee47d2e2","fromSide":"bottom","toNode":"fc80c0b9d7a737d5","toSide":"top"},
+		{"id":"d101908d9e96a360","fromNode":"5c261ba08a8d5d76","fromSide":"right","toNode":"a90d1460e583a8d3","toSide":"left"},
+		{"id":"68d5ae74e1ab98c0","fromNode":"a90d1460e583a8d3","fromSide":"right","toNode":"748109fd46265687","toSide":"left"}
+	]
+}

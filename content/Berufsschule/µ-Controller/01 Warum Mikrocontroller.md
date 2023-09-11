@@ -1,0 +1,66 @@
+<h2 align="center"> Prozessor Arten im Vergleich </h2>
+
+### MPU (x86) (CISC)
+
+- universell
+- leistungsstark
+- hoher 100er € Bereich
+- braucht externe Dinge (RAM,....) => teures Komplexes System
+
+### Digitale Signalprozessoren (DSP)
+
+- Audio, Video, Sprache, Grafik
+- Wortbreite (20,24,30.... bit)
+- Kombiniertes Addieren/Multiplizieren
+- 1000er € Bereich
+
+### Mikrocontroller (MCU) (RISC)
+
+- wenig Speicher (aber dafür on Board)
+- (relativ) wenig Leistung
+- effizient
+
+<h2 align="center"> Was macht einen Mikrocontroller besonders? </h2>
+
+### Ein Mikrocontroller beinhaltet:
+
+- CPU (RISC)
+- FLASH/EEPROM
+- RAM
+- mehrere 8/16bit Timer
+- mehrere PWM-Kanäle
+- real-time-counter
+- mehrere ADC / DAC
+- programmierbare UART
+- mehrere prog. I/O-Ports
+- multifunktionale I/O-Ports
+- Powermanagment
+- Einzelbitverarbeitung
+- Interrupt mit Prioritäten
+- viele schnelle Register
+- WiFi / Bluetooth / Ethernet
+- ...
+
+### Einsatzgebiete von Mikrocontroller
+
+- Kommunikationstechnik
+- Haushaltsgeräte
+- Automobiletechnik
+- Computer - Hardware
+- Multimedia
+- Medizintechnik
+- ...
+
+<h2 align="center"> Wie findet man den richtigen Mikrocontroller? </h2>
+
+- Applikation
+- Geplante Stückzahlen
+- Verfügbarkeit des Controllers
+- Verfügbarkeit der Entwicklertools
+- Erfahrungen mit anderen Produkten des Herstellers
+- Support durch Firma und "Fan-Gemeinde"
+- Geometrische Beschränkungen
+- Leistungswünsche
+- ....
+
+
