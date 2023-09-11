@@ -4,22 +4,37 @@ tags:
 ---
 <h1 align=center>Table of Contents</h1>
 
-## Obsidian Specific Stuff 
+<h2 align="center"> Assets </h2>
 
-- [[Guide to Obsidian]]
+### Canvas
+
+- [[Hosting für Notes.canvas|Hosting für Notes]]
+
+<hr>
+<h2 align="center"> Berufsschule </h2>
+
+### Lernfeld 7
+
+-  [[Was ist Lernfeld 7]]
+### Lernfeld 9
+
+- [[DNS]]
+### Sozialkunde
+
+- [[Table of Contents]]
+#### Lernbaustein 1
+
+- [[Produktionsfaktoren]]
+
+### µ-Controller
+
+- [[01. Warum Mikrocontroller]]
 
 <hr>
 
-<h2 align="center">Web-Entwicklung </h2>
+## Obsidian Specific Stuff 
 
-### Angular
-
-- [[01. Angular Installation Guide]]
-
-### CSS
-- [[01. Was ist CSS]]
-- [[02. Wie verwende ich CSS]]
-- [[03. Bootstrap - CSS Framework]]
+- [[Guide to Obsidian]]
 
 <hr>
 <h2 align="center"> Java </h2>
@@ -35,39 +50,18 @@ tags:
 - [[02. Spring Initializr]]
 - [[03. Spring REST Controller]]
 - [[04. Was ist ein Spring Project und warum Spring]]
-<hr>
-<h2 align="center"> Berufsschule </h2>
 
-### Lernfeld 1
-### Lernfeld 2
-### Lernfeld 3
-### Lernfeld 4
-
-### Lernfeld 5
-
-### Lernfeld 6
-
-### Lernfeld 7
-
--  [[Was ist Lernfeld 7]]
-### Lernfeld 8
-
-### Lernfeld 9
-
-- [[DNS]]
-### Lernfeld 10
-
-### Lernfeld 11
-
-### Lernfeld 12
-
-### µ-Controller
-
-[[01. Warum Mikrocontroller]]
-
-### Sozialkunde
-#### Lernbaustein 1
-
-- [[Produktionsfaktoren]]
 <hr>
 
+<h2 align="center">Web-Entwicklung </h2>
+
+### Angular
+
+- [[01. Angular Installation Guide]]
+
+### CSS
+- [[01. Was ist CSS]]
+- [[02. Wie verwende ich CSS]]
+- [[03. Bootstrap - CSS Framework]]
+
+<hr>
