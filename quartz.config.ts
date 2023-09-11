@@ -9,7 +9,7 @@ const config: QuartzConfig = {
     analytics: {
       provider: "plausible",
     },
-    baseUrl: "https://hitohitonika.github.io/quartz_v4_impl/",
+    baseUrl: "hitohitonika.github.io/quartz_v4_impl/",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
     theme: {
