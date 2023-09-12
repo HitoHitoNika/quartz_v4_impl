@@ -1,3 +1,9 @@
+---
+tags:
+  - Guide
+  - Obsidian
+Created: 12-09-2023, 18:30
+---
 # Was ist Quartz?
 
 Quartz ist eine Serveranwendung, welche unsere Obsidian Notes in eine Webseite konvertieren kann und diese mittels [[NodeJS]] hosten kann.

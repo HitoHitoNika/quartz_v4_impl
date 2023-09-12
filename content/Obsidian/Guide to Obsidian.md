@@ -1,7 +1,7 @@
 ---
 tags:
   - Guide
-  - Template
+  - Obsidian
 Created: 29-08-2023, 20:44
 ---
 Zurück zu [[Table of Contents]]
