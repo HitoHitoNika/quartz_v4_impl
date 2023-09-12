@@ -8,9 +8,9 @@ Dazu kannst du oben die Suchleiste verwenden oder direkt in mein [[Table of Cont
 
 <h2 align="center"> Womit hast du diese Seite erstellt ? </h2>
 Diese Seite wurde mit Hilfe von Obsidian und Quartz erstellt. Mehr dazu erfahrt ihr hier in meinem Wiki:
+
 - [[Guide to Obsidian]]
-- 
+- [[Quartz]]
 
 
-
-![[Example Gif - Gear 5.gif]]
+![[Code Monkey.png]]

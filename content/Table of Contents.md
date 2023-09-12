@@ -54,5 +54,6 @@ tags:
 ## Obsidian 
 
 - [[Guide to Obsidian]]
+- [[Quartz]]
 
 <br>
