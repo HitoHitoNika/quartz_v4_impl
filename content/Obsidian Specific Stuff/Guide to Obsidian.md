@@ -1,8 +1,10 @@
 ---
 tags:
   - Guide
+  - Template
 Created: 29-08-2023, 20:44
 ---
+Zurück zu [[Table of Contents]]
 # Funktionen
 ## Shortcuts
 Strg+N öffnet eine neue Untiteld Note, während Strg+Shift+N eine neue Note in einem extra Tab öffnet.
@@ -20,6 +22,7 @@ Tags sind genaue wie Hashtags. Sie bieten Filtermöglichkeiten mit welchen man s
 Bilder/Gifs können per Drag + drop hinzugefügt werden 	:
 ![[Example Gif - Gear 5.gif]]
 
+Diese werden in einem Ordner innerhalb des Vaults abgespeichert. Diesen kann man in den Einstellungen festlegen.
 
 # Style
 ## Überschriften

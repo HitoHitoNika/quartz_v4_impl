@@ -1,6 +1,10 @@
-Erstellt am **04-09-2023** um **10:42**  
-#Berufsschule #Sozi 
-Back to [[index]]
+---
+tags:
+  - Berufsschule
+  - Sozi
+Created: 04-09-2023, 10:42
+---
+Zurück zu [[Table of Contents]] oder [[Berufsschule/Sozialkunde/Table of Contents]]
 ## 1. Was sind Produktionsfaktoren ?
 
 Produktionsfaktoren sind Ressourcen oder Elemente, die in der Wirtschaft zur Herstellung von Gütern und Dienstleistungen verwendet werden. ==**Die Hauptfaktoren sind Arbeit, Kapital, Boden (natürliche Ressourcen) und Wissensmanagement**==. Sie sind entscheidend für die Wirtschaftsleistung, da sie kombiniert werden, um Produkte herzustellen und Dienstleistungen zu erbringen. Die effiziente Nutzung dieser Faktoren ist wichtig für den Erfolg von Unternehmen und die Wirtschaft insgesamt.
