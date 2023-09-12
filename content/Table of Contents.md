@@ -22,12 +22,6 @@ tags:
 - [[01. Warum Mikrocontroller]]
 
 <hr>
-
-## Obsidian Specific Stuff 
-
-- [[Guide to Obsidian]]
-
-<hr>
 <h2 align="center"> Java </h2>
 
 ### Maven
@@ -56,3 +50,9 @@ tags:
 - [[03. Bootstrap - CSS Framework]]
 
 <hr>
+
+## Obsidian 
+
+- [[Guide to Obsidian]]
+
+<br>

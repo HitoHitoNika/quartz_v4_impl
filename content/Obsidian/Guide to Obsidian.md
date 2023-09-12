@@ -5,6 +5,10 @@ tags:
 Created: 29-08-2023, 20:44
 ---
 Zurück zu [[Table of Contents]]
+
+# Was ist Obsidian ?
+
+Obsidian ist eine Open Source Notizen App. Sie arbeitet mit Markdown Dateien und ermöglicht daher nicht nur eine Vielzahl an Optionen, sondern erlaubt auch das die Notizen außerhalb von Obsidian geöffnet und verwendet werden können.
 # Funktionen
 ## Shortcuts
 Strg+N öffnet eine neue Untiteld Note, während Strg+Shift+N eine neue Note in einem extra Tab öffnet.
