@@ -2,4 +2,4 @@
 tags:
   - Template
 ---
-Zurück zu [[Table of Contents]]
+Zurück zu [[Inhaltsverzeichnis]]

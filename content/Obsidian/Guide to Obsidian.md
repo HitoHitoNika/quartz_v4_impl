@@ -4,7 +4,7 @@ tags:
   - Obsidian
 Created: 29-08-2023, 20:44
 ---
-Zurück zu [[Table of Contents]]
+Zurück zu [[Inhaltsverzeichnis]]
 
 # Was ist Obsidian ?
 

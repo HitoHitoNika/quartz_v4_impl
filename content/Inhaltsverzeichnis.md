@@ -12,7 +12,7 @@ tags:
 - [[DNS]]
 ### Sozialkunde
 
-- [[Berufsschule/Sozialkunde/Table of Contents]]
+- [[Inhaltsverzeichnis Sozi]]
 #### Lernbaustein 1
 
 - [[Produktionsfaktoren]]
@@ -30,7 +30,7 @@ tags:
 
 ### Spring
 
-- [[Programming Specific Stuff/Java/Spring/00. Table of Contents|00. Table of Contents]]
+- [[00. Inhaltsverzeichnis Spring|00. Inhaltsverzeichnis Spring]]
 - [[01. Spring vs Springboot]]
 - [[02. Spring Initializr]]
 - [[03. Spring REST Controller]]

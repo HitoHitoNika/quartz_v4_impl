@@ -4,7 +4,7 @@ tags:
   - LF9
 Created: 07-09-2023, 09:11
 ---
-Zurück zu [[Table of Contents]]
+Zurück zu [[Inhaltsverzeichnis]]
 ## Was ist DNS?
 
 Das Domain Name System ordnet lesbare/merkbare Name bzw. Adressen (google.com) zu IPs zu.
