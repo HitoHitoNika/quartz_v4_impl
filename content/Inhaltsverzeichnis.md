@@ -14,10 +14,9 @@ tags:
 
 ### Lernfeld 8
 
-[[00. Was ist Lernfeld 8]]
-[[01. Klassendiagramm]]
-[[02. Aktivitätsdiagramm]]
-
+- [[00. Was ist Lernfeld 8]]
+- [[01. Klassendiagramm]]
+- [[02. Aktivitätsdiagramm]]
 
 ### Lernfeld 9
 
