@@ -6,18 +6,24 @@ tags:
 
 ### Lernfeld 6
 
-[[Lernfeld 6 - Serviceanfragen bearbeiten]]
-[[Lernjob 1]]
-
+- [[Lernfeld 6 - Serviceanfragen bearbeiten]]
+- [[Lernjob 1]]
 ### Lernfeld 7
 
 -  [[Was ist Lernfeld 7]]
+
+### Lernfeld 8
+
+[[00. Was ist Lernfeld 8]]
+[[01. Klassendiagramm]]
+[[02. Aktivitätsdiagramm]]
+
+
 ### Lernfeld 9
 
 - [[DNS]]
 ### Sozialkunde
 
-- [[Inhaltsverzeichnis Sozi]]
 #### Lernbaustein 1
 
 - [[Produktionsfaktoren]]
@@ -35,7 +41,6 @@ tags:
 
 ### Spring
 
-- [[00. Inhaltsverzeichnis Spring|00. Inhaltsverzeichnis Spring]]
 - [[01. Spring vs Springboot]]
 - [[02. Spring Initializr]]
 - [[03. Spring REST Controller]]
