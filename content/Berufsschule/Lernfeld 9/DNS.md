@@ -8,9 +8,9 @@ Zurück zu [[Inhaltsverzeichnis]]
 
 - [[#Was ist DNS?|Was ist DNS?]]
 - [[#Resource Records|Resource Records]]
-	- [[#Resource Records#Beispiele|Beispiele]]
-	- [[#Resource Records#Root-Zone|Root-Zone]]
-	- [[#Resource Records#Reverse DNS|Reverse DNS]]
+	- [[#Beispiele]]
+	- [[#Root-Zone]]
+	- [[#Reverse DNS]]
 
 ## Was ist DNS?
 
