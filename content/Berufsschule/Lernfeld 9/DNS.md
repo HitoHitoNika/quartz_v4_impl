@@ -5,6 +5,13 @@ tags:
 Created: 07-09-2023, 09:11
 ---
 Zurück zu [[Inhaltsverzeichnis]]
+
+- [[#Was ist DNS?|Was ist DNS?]]
+- [[#Resource Records|Resource Records]]
+	- [[#Resource Records#Beispiele|Beispiele]]
+	- [[#Resource Records#Root-Zone|Root-Zone]]
+	- [[#Resource Records#Reverse DNS|Reverse DNS]]
+
 ## Was ist DNS?
 
 Das Domain Name System ordnet lesbare/merkbare Name bzw. Adressen (google.com) zu IPs zu.
