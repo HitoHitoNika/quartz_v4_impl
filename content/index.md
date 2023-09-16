@@ -6,7 +6,6 @@ title: 👋🏻 Willkommen in meinem Wiki ! 👋🏻
 ---
 
 
-<h2 align="center"> 👋🏻 Willkommen in meinem Wiki ! 👋🏻 </h2>
 
 Mein Wiki besteht aus Dingen die ich als wissenswert sehe. Von Notizen aus der Berufsschule, bis hin zu Dingen die ich mir selber beibringe ist hier alles dabei 😎
 
