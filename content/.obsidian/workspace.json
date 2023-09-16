@@ -1,0 +1,258 @@
+{
+  "main": {
+    "id": "17820b2acdb5fef4",
+    "type": "split",
+    "children": [
+      {
+        "id": "0d4c9f329d5d3ba6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b534630e3055dc1f",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Index.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "pinned": true
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d7a44ff99e69e6fc",
+    "type": "split",
+    "children": [
+      {
+        "id": "6b9bd74daf9293d1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "393cb06469dea704",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "56cd1e2d42bb82a9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "dbed54d61800616a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "f487f4da934c1af9",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7ebe9cef2f07b144",
+    "type": "split",
+    "children": [
+      {
+        "id": "6e647ebc66b99b84",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6bac0580e38ed510",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Index.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4db6d93846e9041e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Index.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3aebbc188e9564ad",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "7c06048b96425216",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Index.md"
+              }
+            }
+          },
+          {
+            "id": "e3e0ac610bf5dd4a",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "eeec687de229004e",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "file-properties",
+              "state": {},
+              "pinned": true
+            }
+          },
+          {
+            "id": "1d7a42c980cd162d",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "Index.md"
+              }
+            }
+          },
+          {
+            "id": "6e7251233b37d28d",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "f6a621166710a836",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "daily-notes:Open today's daily note": false,
+      "homepage:Open homepage": false
+    }
+  },
+  "active": "b534630e3055dc1f",
+  "lastOpenFiles": [
+    "Index.md",
+    "Berufsschule/Lernfeld 8/02. Aktivitätsdiagramm.md",
+    "Berufsschule/Lernfeld 8/01.1 Umsetzung eines Klassendiagramms.md",
+    "Berufsschule/Lernfeld 8/01. Klassendiagramm.md",
+    "Berufsschule/Lernfeld 8/00. Was ist Lernfeld 8.md",
+    "Berufsschule/Lernfeld 7/Was ist Lernfeld 7.md",
+    "Berufsschule/Lernfeld 6/Lernjob 1.md",
+    "Berufsschule/Lernfeld 6/Lernfeld 6 - Serviceanfragen bearbeiten.md",
+    "Assets/Pictures/Pasted image 20230913194608.png",
+    "Assets/Pictures/Pasted image 20230913134903.png",
+    "Assets/Pictures/Symbole Klassendiagramm 01.png",
+    "Assets/Pictures/Lehrplan LF8.png",
+    "Assets/Pictures/Symbole Aktivitätsdiagramm 04.png",
+    "Assets/Pictures/Symbole Aktivitätsdiagramm 02.png",
+    "Assets/Pictures/Symbole Aktivitätsdiagramm 03.png",
+    "Assets/Pictures/Symbole Aktivitätsdiagramm 01.png",
+    "Assets/Pictures/Lehrplan LF6.png",
+    "Assets/Pictures/Klassendiagramm.png",
+    "Inhaltsverzeichnis.md",
+    "Berufsschule/Lernfeld 8",
+    "Untitled Kanban.md",
+    "Assets/Canvas/Hosting für Notes.canvas",
+    "Berufsschule/Lernfeld 6",
+    "Programming Specific Stuff/Java/Spring/04. Was ist ein Spring Project und warum Spring.md",
+    "Programming Specific Stuff/Java/Spring/03. Spring REST Controller.md",
+    "Programming Specific Stuff/Java/Spring/02. Spring Initializr.md",
+    "Programming Specific Stuff/Web-Entwicklung/Angular/03. Projektstruktur.md",
+    "Programming Specific Stuff/Java/Spring/01. Spring vs Springboot.md",
+    "Programming Specific Stuff/Web-Entwicklung/Angular/02. Getting Started.md",
+    "Programming Specific Stuff/Web-Entwicklung/Angular/01. Angular Installation Guide.md",
+    "Programming Specific Stuff/Web-Entwicklung/CSS/01. Was ist CSS.md",
+    "Programming Specific Stuff/Web-Entwicklung/CSS/02. Wie verwende ich CSS.md",
+    "Programming Specific Stuff/Web-Entwicklung/CSS/03. Bootstrap - CSS Framework.md",
+    "Programming Specific Stuff/Web-Entwicklung/CSS/00. Inhaltsverzeichn.md",
+    "Programming Specific Stuff/Web-Entwicklung/Angular/00. Table of Contents.md",
+    "Obsidian/Quartz.md",
+    "Obsidian/Guide to Obsidian.md",
+    "Berufsschule/µ-Controller/01. Warum Mikrocontroller.md",
+    "Berufsschule/Sozialkunde/Lernbaustein 1/Produktionsfaktoren.md",
+    "Programming Specific Stuff/Git-Stuff/GitHub",
+    "Programming Specific Stuff/Web-Entwicklung/NodeJS",
+    "Templates",
+    "private",
+    "Assets/Canvas",
+    "Berufsschule/µ-Controller/Untitled",
+    "Assets/Pictures",
+    "Assets/Canvas",
+    "Programming Specific Stuff/Web-Entwicklung/Angular/Untitled.canvas"
+  ]
+}

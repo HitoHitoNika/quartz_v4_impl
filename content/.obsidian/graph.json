@@ -1,0 +1,58 @@
+{
+  "collapse-filter": false,
+  "search": "tag:#Java  ",
+  "showTags": true,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:Templates",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "path:\"Obsidian Specific Stuff\"",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    },
+    {
+      "query": "path:\"Programming Specific Stuff/Java\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 10356208
+      }
+    },
+    {
+      "query": "path:\"Programming Specific Stuff/Web-Entwicklung\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
+      }
+    },
+    {
+      "query": "path:Berufsschule  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": true,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": false,
+  "centerStrength": 0.515625,
+  "repelStrength": 11.9791666666667,
+  "linkStrength": 0.458333333333333,
+  "linkDistance": 30,
+  "scale": 0.713275462622442,
+  "close": true
+}
