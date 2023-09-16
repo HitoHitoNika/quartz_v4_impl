@@ -3,7 +3,7 @@ import * as Plugin from "./quartz/plugins"
 
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Max sein Wiki",
+    pageTitle: "Max Gehirn 🧠",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
@@ -15,7 +15,7 @@ const config: QuartzConfig = {
     theme: {
       typography: {
         header: "Schibsted Grotesk",
-        body: "Source Sans Pro",
+        body: "Nabla",
         code: "IBM Plex Mono",
       },
       colors: {

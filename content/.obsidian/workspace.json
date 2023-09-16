@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7630e33b5952a49f",
+        "id": "fe37869f29f9daab",
         "type": "tabs",
         "children": [
           {
-            "id": "0944923d41202d99",
+            "id": "347fa5355f182008",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -21,22 +21,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "532d441488fa8fc7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Inhaltsverzeichnis.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inhaltsverzeichnis.md",
+                "file": "Index.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inhaltsverzeichnis.md",
+                "file": "Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inhaltsverzeichnis.md"
+                "file": "Index.md"
               }
             }
           },
@@ -180,7 +166,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Inhaltsverzeichnis.md"
+                "file": "Index.md"
               }
             }
           },
@@ -220,7 +206,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "532d441488fa8fc7",
+  "active": "347fa5355f182008",
   "lastOpenFiles": [
     "Programming Specific Stuff/Git-Stuff/Submodule.md",
     "Programming Specific Stuff/Git-Stuff/Git.md",

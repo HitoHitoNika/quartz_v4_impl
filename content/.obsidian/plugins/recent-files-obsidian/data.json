@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Index",
+      "path": "Index.md"
+    },
+    {
       "basename": "Inhaltsverzeichnis",
       "path": "Inhaltsverzeichnis.md"
     },
@@ -15,10 +19,6 @@
     {
       "basename": "GitHub Pages",
       "path": "Programming Specific Stuff/Git-Stuff/GitHub/GitHub Pages.md"
-    },
-    {
-      "basename": "Index",
-      "path": "Index.md"
     },
     {
       "basename": "01. Angular Installation Guide",
