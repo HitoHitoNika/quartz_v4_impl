@@ -16,7 +16,7 @@ const config: QuartzConfig = {
       typography: {
         header: "Schibsted Grotesk",
         body: "Comfortaa",
-        code: "IBM Plex Mono",
+        code: "Press Start 2P",  //IBM Plex Mono
       },
       colors: {
         lightMode: {
