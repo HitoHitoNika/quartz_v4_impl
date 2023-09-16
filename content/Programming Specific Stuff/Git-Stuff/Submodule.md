@@ -47,6 +47,3 @@ git commit -m "Aktualisieren des Submoduls auf die neueste Version"
 
 Dadurch wird die Aktualisierung des Submoduls in Ihrem Hauptrepository festgehalten.
 
-<h3 align="center">Fazit</h3>
-
-Die Verwendung von Git-Submodulen ermöglicht es Ihnen, externe Abhängigkeiten in Ihre Projekte zu integrieren, während Sie die Versionskontrolle und Aktualisierung dieser Abhängigkeiten beibehalten können. Beachten Sie jedoch, dass Submodule eine zusätzliche Komplexität in Ihre Projekte einführen können, insbesondere wenn mehrere Entwickler am Werk sind, daher ist es wichtig, sich mit ihren Arbeitsweisen vertraut zu machen.

@@ -19,11 +19,11 @@ Die Graph View (je nach Bildschirmgröße am rechten oder unteren Rand der Seite
 Backlinks bilden das Gegenstück dazu. Das sind Seiten die auf die aktuelle Seite verlinken.
 
 <h2 align="center"> Womit hast du diese Seite erstellt ? 👨🏻‍💻</h2>
-Diese Seite wurde mit Hilfe von **Obsidian** und **Quartz** erstellt.
+Diese Seite wurde mit Hilfe von Obsidian und Quartz erstellt.
 
 Obsidian ist ein Markdown basierter Texteditor, mit dem Ziel durch eigenen Syntax ein eigenes lokales Wiki zu erstellen, was auch wenn Obsidian wegfällt lesbar ist. 
 
-Quartz bietet die Möglichkeiten diese Wiki online darzustellen.
+Quartz bietet die Möglichkeiten dieses Wiki online darzustellen.
 
 Mehr dazu erfahrt ihr hier in meinem Wiki:
 

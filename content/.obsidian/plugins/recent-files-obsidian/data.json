@@ -1,12 +1,32 @@
 {
   "recentFiles": [
     {
+      "basename": "Inhaltsverzeichnis",
+      "path": "Inhaltsverzeichnis.md"
+    },
+    {
+      "basename": "Submodule",
+      "path": "Programming Specific Stuff/Git-Stuff/Submodule.md"
+    },
+    {
+      "basename": "Git",
+      "path": "Programming Specific Stuff/Git-Stuff/Git.md"
+    },
+    {
+      "basename": "GitHub Pages",
+      "path": "Programming Specific Stuff/Git-Stuff/GitHub/GitHub Pages.md"
+    },
+    {
       "basename": "Index",
       "path": "Index.md"
     },
     {
-      "basename": "Inhaltsverzeichnis",
-      "path": "Inhaltsverzeichnis.md"
+      "basename": "01. Angular Installation Guide",
+      "path": "Programming Specific Stuff/Web-Entwicklung/Angular/01. Angular Installation Guide.md"
+    },
+    {
+      "basename": "02. Getting Started",
+      "path": "Programming Specific Stuff/Web-Entwicklung/Angular/02. Getting Started.md"
     },
     {
       "basename": "04. Was ist ein Spring Project und warum Spring",
@@ -77,10 +97,6 @@
       "path": "Assets/Canvas/Hosting für Notes.canvas"
     },
     {
-      "basename": "Submodule",
-      "path": "Programming Specific Stuff/Git-Stuff/Submodule.md"
-    },
-    {
       "basename": "Quartz",
       "path": "Obsidian/Quartz.md"
     },
@@ -91,14 +107,6 @@
     {
       "basename": "01. Spring vs Springboot",
       "path": "Programming Specific Stuff/Java/Spring/01. Spring vs Springboot.md"
-    },
-    {
-      "basename": "02. Getting Started",
-      "path": "Programming Specific Stuff/Web-Entwicklung/Angular/02. Getting Started.md"
-    },
-    {
-      "basename": "01. Angular Installation Guide",
-      "path": "Programming Specific Stuff/Web-Entwicklung/Angular/01. Angular Installation Guide.md"
     },
     {
       "basename": "01. Was ist CSS",
@@ -137,20 +145,12 @@
       "path": "Programming Specific Stuff/Web-Entwicklung/NodeJS/npm.md"
     },
     {
-      "basename": "GitHub Pages",
-      "path": "Programming Specific Stuff/Git-Stuff/GitHub/GitHub Pages.md"
-    },
-    {
       "basename": "Angular Projektübersicht",
       "path": "Assets/Pictures/Angular Projektübersicht.png"
     },
     {
       "basename": "Doku zum Syncen auf die Webseite 😎",
       "path": "private/Doku zum Syncen auf die Webseite 😎.md"
-    },
-    {
-      "basename": "GIT",
-      "path": "Programming Specific Stuff/Git-Stuff/GIT.md"
     },
     {
       "basename": "Hello World, Spring",

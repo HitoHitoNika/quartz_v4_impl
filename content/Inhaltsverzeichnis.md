@@ -33,6 +33,17 @@ tags:
 - [[01. Warum Mikrocontroller]]
 
 <hr>
+
+<h2 align="center"> Git </h2>
+
+- [[Git]]
+- [[Submodule]]
+
+### GitHub
+
+- [[GitHub Pages]]
+
+<hr>
 <h2 align="center"> Java </h2>
 
 ### Maven
@@ -53,7 +64,8 @@ tags:
 ### Angular
 
 - [[01. Angular Installation Guide]]
-
+- [[02. Getting Started]]
+- [[03. Projektstruktur]]
 ### CSS
 - [[01. Was ist CSS]]
 - [[02. Wie verwende ich CSS]]
