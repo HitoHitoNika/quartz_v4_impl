@@ -6,7 +6,7 @@ Created: 07-09-2023, 14:49
 ---
 ## Was ist Maven?
 
-Maven ist ein Buildtool für Java, welches den Bau des Programmes übernimmt.
+Maven ist ein Buildtool für Java, welches den Bau des Programmes übernimmt. Darunter fallen unteranderem die Anschaffung von außen stehenden Bibliotheken.
 
 ## Wofür nutzt man Maven ?
 
@@ -20,3 +20,16 @@ In dieser können wir Abhängigkeiten etc definieren.
 <hr>
 
 ==Klicke [hier](https://www.jrebel.com/blog/maven-cheat-sheet) um auf ein Cheatsheet zu gelangen.== 
+
+
+## Wie sieht ein Maven Projekt aus ?
+
+Die Grundstruktur des Projekts sieht so aus:
+
+![[Pasted image 20230916140433.png]]
+
+Wir sehen jedoch noch 2 "mvnw" Dateien. Diese sind dafür da um Maven local starten zu können, ohne das Maven installiert ist. Genauer ist
+- mvnw.cmd
+	- Für Windows
+- mvnw 
+	- Für Mac und Linux

@@ -5,6 +5,30 @@
       "path": "Index.md"
     },
     {
+      "basename": "Inhaltsverzeichnis",
+      "path": "Inhaltsverzeichnis.md"
+    },
+    {
+      "basename": "04. Was ist ein Spring Project und warum Spring",
+      "path": "Programming Specific Stuff/Java/Spring/04. Was ist ein Spring Project und warum Spring.md"
+    },
+    {
+      "basename": "02. Spring Initializr",
+      "path": "Programming Specific Stuff/Java/Spring/02. Spring Initializr.md"
+    },
+    {
+      "basename": "03. Spring REST Controller",
+      "path": "Programming Specific Stuff/Java/Spring/03. Spring REST Controller.md"
+    },
+    {
+      "basename": "Maven",
+      "path": "Programming Specific Stuff/Java/Maven/Maven.md"
+    },
+    {
+      "basename": "Index",
+      "path": "Index.md"
+    },
+    {
       "basename": "DNS",
       "path": "Berufsschule/Lernfeld 9/DNS.md"
     },
@@ -37,10 +61,6 @@
       "path": "Berufsschule/Lernfeld 6/Lernfeld 6 - Serviceanfragen bearbeiten.md"
     },
     {
-      "basename": "Inhaltsverzeichnis",
-      "path": "Inhaltsverzeichnis.md"
-    },
-    {
       "basename": "Symbole Klassendiagramm 01",
       "path": "Assets/Pictures/Symbole Klassendiagramm 01.png"
     },
@@ -57,10 +77,6 @@
       "path": "Assets/Pictures/Lehrplan LF6.png"
     },
     {
-      "basename": "Untitled Kanban",
-      "path": "Untitled Kanban.md"
-    },
-    {
       "basename": "Hosting für Notes",
       "path": "Assets/Canvas/Hosting für Notes.canvas"
     },
@@ -71,18 +87,6 @@
     {
       "basename": "Quartz",
       "path": "Obsidian/Quartz.md"
-    },
-    {
-      "basename": "04. Was ist ein Spring Project und warum Spring",
-      "path": "Programming Specific Stuff/Java/Spring/04. Was ist ein Spring Project und warum Spring.md"
-    },
-    {
-      "basename": "03. Spring REST Controller",
-      "path": "Programming Specific Stuff/Java/Spring/03. Spring REST Controller.md"
-    },
-    {
-      "basename": "02. Spring Initializr",
-      "path": "Programming Specific Stuff/Java/Spring/02. Spring Initializr.md"
     },
     {
       "basename": "03. Projektstruktur",
@@ -141,20 +145,12 @@
       "path": "Programming Specific Stuff/Git-Stuff/GitHub/GitHub Pages.md"
     },
     {
-      "basename": "index",
-      "path": "index.md"
-    },
-    {
       "basename": "Angular Projektübersicht",
       "path": "Assets/Pictures/Angular Projektübersicht.png"
     },
     {
       "basename": "Doku zum Syncen auf die Webseite 😎",
       "path": "private/Doku zum Syncen auf die Webseite 😎.md"
-    },
-    {
-      "basename": "Maven",
-      "path": "Programming Specific Stuff/Java/Maven/Maven.md"
     },
     {
       "basename": "GIT",

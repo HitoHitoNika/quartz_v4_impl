@@ -4,11 +4,26 @@
     "type": "split",
     "children": [
       {
-        "id": "0d4c9f329d5d3ba6",
+        "id": "f72db9101cda7125",
         "type": "tabs",
         "children": [
           {
-            "id": "b534630e3055dc1f",
+            "id": "9acdf0344b73f965",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Index.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "7ed11d865006ab31",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -22,7 +37,8 @@
               "pinned": true
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -154,7 +170,9 @@
             "pinned": true,
             "state": {
               "type": "file-properties",
-              "state": {},
+              "state": {
+                "file": "Index.md"
+              },
               "pinned": true
             }
           },
@@ -191,7 +209,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 458.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -204,8 +222,18 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "b534630e3055dc1f",
+  "active": "7c06048b96425216",
   "lastOpenFiles": [
+    "Inhaltsverzeichnis.md",
+    "Index.md",
+    "Guide.md",
+    "Programming Specific Stuff/Java/Spring/04. Was ist ein Spring Project und warum Spring.md",
+    "Untitled Kanban.md",
+    "Programming Specific Stuff/Java/Spring/05. Application Properties.md",
+    "Programming Specific Stuff/Java/Spring/02. Spring Initializr.md",
+    "Programming Specific Stuff/Java/Spring/03. Spring REST Controller.md",
+    "Programming Specific Stuff/Java/Maven/Maven.md",
+    "Assets/Pictures/Pasted image 20230916140433.png",
     "Index.md",
     "Berufsschule/Lernfeld 8/02. Aktivitätsdiagramm.md",
     "Berufsschule/Lernfeld 8/01.1 Umsetzung eines Klassendiagramms.md",
@@ -223,15 +251,9 @@
     "Assets/Pictures/Symbole Aktivitätsdiagramm 03.png",
     "Assets/Pictures/Symbole Aktivitätsdiagramm 01.png",
     "Assets/Pictures/Lehrplan LF6.png",
-    "Assets/Pictures/Klassendiagramm.png",
-    "Inhaltsverzeichnis.md",
     "Berufsschule/Lernfeld 8",
-    "Untitled Kanban.md",
     "Assets/Canvas/Hosting für Notes.canvas",
     "Berufsschule/Lernfeld 6",
-    "Programming Specific Stuff/Java/Spring/04. Was ist ein Spring Project und warum Spring.md",
-    "Programming Specific Stuff/Java/Spring/03. Spring REST Controller.md",
-    "Programming Specific Stuff/Java/Spring/02. Spring Initializr.md",
     "Programming Specific Stuff/Web-Entwicklung/Angular/03. Projektstruktur.md",
     "Programming Specific Stuff/Java/Spring/01. Spring vs Springboot.md",
     "Programming Specific Stuff/Web-Entwicklung/Angular/02. Getting Started.md",
@@ -241,10 +263,6 @@
     "Programming Specific Stuff/Web-Entwicklung/CSS/03. Bootstrap - CSS Framework.md",
     "Programming Specific Stuff/Web-Entwicklung/CSS/00. Inhaltsverzeichn.md",
     "Programming Specific Stuff/Web-Entwicklung/Angular/00. Table of Contents.md",
-    "Obsidian/Quartz.md",
-    "Obsidian/Guide to Obsidian.md",
-    "Berufsschule/µ-Controller/01. Warum Mikrocontroller.md",
-    "Berufsschule/Sozialkunde/Lernbaustein 1/Produktionsfaktoren.md",
     "Programming Specific Stuff/Git-Stuff/GitHub",
     "Programming Specific Stuff/Web-Entwicklung/NodeJS",
     "Templates",
