@@ -5,6 +5,34 @@
       "path": "Index.md"
     },
     {
+      "basename": "02. Getting Started",
+      "path": "Programming Specific Stuff/Web-Entwicklung/Angular/02. Getting Started.md"
+    },
+    {
+      "basename": "01. Angular Installation Guide",
+      "path": "Programming Specific Stuff/Web-Entwicklung/Angular/01. Angular Installation Guide.md"
+    },
+    {
+      "basename": "04. Was ist ein Spring Project und warum Spring",
+      "path": "Programming Specific Stuff/Java/Spring/04. Was ist ein Spring Project und warum Spring.md"
+    },
+    {
+      "basename": "03. Spring REST Controller",
+      "path": "Programming Specific Stuff/Java/Spring/03. Spring REST Controller.md"
+    },
+    {
+      "basename": "02. Spring Initializr",
+      "path": "Programming Specific Stuff/Java/Spring/02. Spring Initializr.md"
+    },
+    {
+      "basename": "01. Spring vs Springboot",
+      "path": "Programming Specific Stuff/Java/Spring/01. Spring vs Springboot.md"
+    },
+    {
+      "basename": "05.",
+      "path": "Programming Specific Stuff/Java/Spring/05..md"
+    },
+    {
       "basename": "Inhaltsverzeichnis",
       "path": "Inhaltsverzeichnis.md"
     },
@@ -19,26 +47,6 @@
     {
       "basename": "GitHub Pages",
       "path": "Programming Specific Stuff/Git-Stuff/GitHub/GitHub Pages.md"
-    },
-    {
-      "basename": "01. Angular Installation Guide",
-      "path": "Programming Specific Stuff/Web-Entwicklung/Angular/01. Angular Installation Guide.md"
-    },
-    {
-      "basename": "02. Getting Started",
-      "path": "Programming Specific Stuff/Web-Entwicklung/Angular/02. Getting Started.md"
-    },
-    {
-      "basename": "04. Was ist ein Spring Project und warum Spring",
-      "path": "Programming Specific Stuff/Java/Spring/04. Was ist ein Spring Project und warum Spring.md"
-    },
-    {
-      "basename": "02. Spring Initializr",
-      "path": "Programming Specific Stuff/Java/Spring/02. Spring Initializr.md"
-    },
-    {
-      "basename": "03. Spring REST Controller",
-      "path": "Programming Specific Stuff/Java/Spring/03. Spring REST Controller.md"
     },
     {
       "basename": "Maven",
@@ -103,10 +111,6 @@
     {
       "basename": "03. Projektstruktur",
       "path": "Programming Specific Stuff/Web-Entwicklung/Angular/03. Projektstruktur.md"
-    },
-    {
-      "basename": "01. Spring vs Springboot",
-      "path": "Programming Specific Stuff/Java/Spring/01. Spring vs Springboot.md"
     },
     {
       "basename": "01. Was ist CSS",

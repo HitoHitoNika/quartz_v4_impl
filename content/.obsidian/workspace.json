@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "fe37869f29f9daab",
+        "id": "c07760f9a0011f39",
         "type": "tabs",
         "children": [
           {
-            "id": "347fa5355f182008",
+            "id": "70a73f00b51da1df",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -80,7 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "7ebe9cef2f07b144",
@@ -96,7 +96,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Index.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +112,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Index.md"
+                "file": "Programming Specific Stuff/Web-Entwicklung/Angular/WIP Forms in Angular.md"
               }
             }
           },
@@ -166,7 +164,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Index.md"
+                "file": "Programming Specific Stuff/Web-Entwicklung/Angular/WIP Forms in Angular.md"
               }
             }
           },
@@ -193,7 +191,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 458.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -206,21 +204,24 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "347fa5355f182008",
+  "active": "393cb06469dea704",
   "lastOpenFiles": [
+    "Index.md",
+    "Programming Specific Stuff/Web-Entwicklung/Angular/WIP Forms in Angular.md",
+    "Programming Specific Stuff/Web-Entwicklung/Angular/01. Angular Installation Guide.md",
+    "Programming Specific Stuff/Java/Spring/03. Spring REST Controller.md",
+    "Programming Specific Stuff/Java/Spring/02. Spring Initializr.md",
+    "Programming Specific Stuff/Java/Spring/01. Spring vs Springboot.md",
+    "Programming Specific Stuff/Java/Spring/05..md",
+    "Programming Specific Stuff/Java/Spring/04. Was ist ein Spring Project und warum Spring.md",
+    "Inhaltsverzeichnis.md",
     "Programming Specific Stuff/Git-Stuff/Submodule.md",
     "Programming Specific Stuff/Git-Stuff/Git.md",
     "Programming Specific Stuff/Git-Stuff/GitHub/GitHub Pages.md",
-    "Inhaltsverzeichnis.md",
-    "Index.md",
-    "Programming Specific Stuff/Web-Entwicklung/Angular/01. Angular Installation Guide.md",
     "Programming Specific Stuff/Web-Entwicklung/Angular/02. Getting Started.md",
     "Guide.md",
-    "Programming Specific Stuff/Java/Spring/04. Was ist ein Spring Project und warum Spring.md",
     "Untitled Kanban.md",
     "Programming Specific Stuff/Java/Spring/05. Application Properties.md",
-    "Programming Specific Stuff/Java/Spring/02. Spring Initializr.md",
-    "Programming Specific Stuff/Java/Spring/03. Spring REST Controller.md",
     "Programming Specific Stuff/Java/Maven/Maven.md",
     "Assets/Pictures/Pasted image 20230916140433.png",
     "Berufsschule/Lernfeld 8/02. Aktivitätsdiagramm.md",
@@ -243,10 +244,7 @@
     "Assets/Canvas/Hosting für Notes.canvas",
     "Berufsschule/Lernfeld 6",
     "Programming Specific Stuff/Web-Entwicklung/Angular/03. Projektstruktur.md",
-    "Programming Specific Stuff/Java/Spring/01. Spring vs Springboot.md",
     "Programming Specific Stuff/Web-Entwicklung/CSS/01. Was ist CSS.md",
-    "Programming Specific Stuff/Web-Entwicklung/CSS/02. Wie verwende ich CSS.md",
-    "Programming Specific Stuff/Web-Entwicklung/CSS/03. Bootstrap - CSS Framework.md",
     "Programming Specific Stuff/Git-Stuff/GitHub",
     "Programming Specific Stuff/Web-Entwicklung/NodeJS",
     "Templates",
