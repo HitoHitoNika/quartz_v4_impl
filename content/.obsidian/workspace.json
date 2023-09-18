@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "873d8d53f32fe441",
+        "id": "c0cc7a46197a46bf",
         "type": "tabs",
         "children": [
           {
-            "id": "48349b4b781a1aa0",
+            "id": "22e73f141cde8d51",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -23,12 +23,12 @@
             }
           },
           {
-            "id": "698e836a7c7238ad",
+            "id": "bf935b3f3d99afc0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Berufsschule/µ-Controller/02. Arduino IDE.md",
+                "file": "Berufsschule/Lernfeld 9/01. DNS.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Berufsschule/µ-Controller/02. Arduino IDE.md",
+                "file": "Berufsschule/Lernfeld 9/01. DNS.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Berufsschule/µ-Controller/02. Arduino IDE.md",
+                "file": "Berufsschule/Lernfeld 9/01. DNS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Berufsschule/µ-Controller/02. Arduino IDE.md"
+                "file": "Berufsschule/Lernfeld 9/01. DNS.md"
               }
             }
           },
@@ -180,7 +180,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Berufsschule/µ-Controller/02. Arduino IDE.md"
+                "file": "Berufsschule/Lernfeld 9/01. DNS.md"
               }
             }
           },
@@ -220,10 +220,19 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "698e836a7c7238ad",
+  "active": "bf935b3f3d99afc0",
   "lastOpenFiles": [
-    "index.md",
+    "Berufsschule/Lernfeld 7/01. Maschinen Ablauf erklären.md",
+    "Berufsschule/Lernfeld 7/00. Was ist Lernfeld 7.md",
+    "Berufsschule/Lernfeld 6/Lernjob 1.md",
+    "Berufsschule/Lernfeld 6/Lernfeld 6 - Serviceanfragen bearbeiten.md",
+    "Berufsschule/Lernfeld 9/01. DNS.md",
     "Berufsschule/µ-Controller/02. Arduino IDE.md",
+    "Berufsschule/Lernfeld 8/02. Aktivitätsdiagramm.md",
+    "Berufsschule/Lernfeld 8/01.1 Umsetzung eines Klassendiagramms.md",
+    "Berufsschule/Lernfeld 8/00. Was ist Lernfeld 8.md",
+    "Berufsschule/Lernfeld 8/01. Klassendiagramm.md",
+    "index.md",
     "Assets/Pictures/Pasted image 20230918084514.png",
     "Assets/Pictures/Pasted image 20230918084135.png",
     "Assets/Pictures/Pasted image 20230918083327.png",
@@ -245,15 +254,7 @@
     "Programming Specific Stuff/Git-Stuff/GitHub/GitHub Pages.md",
     "Programming Specific Stuff/Web-Entwicklung/Angular/02. Getting Started.md",
     "Guide.md",
-    "Untitled Kanban.md",
-    "Programming Specific Stuff/Java/Spring/05. Application Properties.md",
-    "Programming Specific Stuff/Java/Maven/Maven.md",
     "Assets/Pictures/Pasted image 20230916140433.png",
-    "Berufsschule/Lernfeld 8/02. Aktivitätsdiagramm.md",
-    "Berufsschule/Lernfeld 8/01.1 Umsetzung eines Klassendiagramms.md",
-    "Berufsschule/Lernfeld 8/01. Klassendiagramm.md",
-    "Berufsschule/Lernfeld 8/00. Was ist Lernfeld 8.md",
-    "Berufsschule/Lernfeld 7/Was ist Lernfeld 7.md",
     "Assets/Pictures/Pasted image 20230913194608.png",
     "Assets/Pictures/Pasted image 20230913134903.png",
     "Assets/Pictures/Symbole Klassendiagramm 01.png",

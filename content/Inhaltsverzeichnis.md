@@ -10,7 +10,7 @@ tags:
 - [[Lernjob 1]]
 ### Lernfeld 7
 
--  [[Was ist Lernfeld 7]]
+-  [[00. Was ist Lernfeld 7]]
 
 ### Lernfeld 8
 
@@ -21,7 +21,7 @@ tags:
 
 ### Lernfeld 9
 
-- [[DNS]]
+- [[01. DNS]]
 ### Sozialkunde
 
 #### Lernbaustein 1

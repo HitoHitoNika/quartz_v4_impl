@@ -1,8 +1,44 @@
 {
   "recentFiles": [
     {
+      "basename": "01. DNS",
+      "path": "Berufsschule/Lernfeld 9/01. DNS.md"
+    },
+    {
+      "basename": "01. Maschinen Ablauf erklären",
+      "path": "Berufsschule/Lernfeld 7/01. Maschinen Ablauf erklären.md"
+    },
+    {
+      "basename": "00. Was ist Lernfeld 7",
+      "path": "Berufsschule/Lernfeld 7/00. Was ist Lernfeld 7.md"
+    },
+    {
+      "basename": "Lernjob 1",
+      "path": "Berufsschule/Lernfeld 6/Lernjob 1.md"
+    },
+    {
+      "basename": "Lernfeld 6 - Serviceanfragen bearbeiten",
+      "path": "Berufsschule/Lernfeld 6/Lernfeld 6 - Serviceanfragen bearbeiten.md"
+    },
+    {
       "basename": "02. Arduino IDE",
       "path": "Berufsschule/µ-Controller/02. Arduino IDE.md"
+    },
+    {
+      "basename": "02. Aktivitätsdiagramm",
+      "path": "Berufsschule/Lernfeld 8/02. Aktivitätsdiagramm.md"
+    },
+    {
+      "basename": "01.1 Umsetzung eines Klassendiagramms",
+      "path": "Berufsschule/Lernfeld 8/01.1 Umsetzung eines Klassendiagramms.md"
+    },
+    {
+      "basename": "00. Was ist Lernfeld 8",
+      "path": "Berufsschule/Lernfeld 8/00. Was ist Lernfeld 8.md"
+    },
+    {
+      "basename": "01. Klassendiagramm",
+      "path": "Berufsschule/Lernfeld 8/01. Klassendiagramm.md"
     },
     {
       "basename": "index",
@@ -63,38 +99,6 @@
     {
       "basename": "Maven",
       "path": "Programming Specific Stuff/Java/Maven/Maven.md"
-    },
-    {
-      "basename": "DNS",
-      "path": "Berufsschule/Lernfeld 9/DNS.md"
-    },
-    {
-      "basename": "02. Aktivitätsdiagramm",
-      "path": "Berufsschule/Lernfeld 8/02. Aktivitätsdiagramm.md"
-    },
-    {
-      "basename": "01.1 Umsetzung eines Klassendiagramms",
-      "path": "Berufsschule/Lernfeld 8/01.1 Umsetzung eines Klassendiagramms.md"
-    },
-    {
-      "basename": "01. Klassendiagramm",
-      "path": "Berufsschule/Lernfeld 8/01. Klassendiagramm.md"
-    },
-    {
-      "basename": "00. Was ist Lernfeld 8",
-      "path": "Berufsschule/Lernfeld 8/00. Was ist Lernfeld 8.md"
-    },
-    {
-      "basename": "Was ist Lernfeld 7",
-      "path": "Berufsschule/Lernfeld 7/Was ist Lernfeld 7.md"
-    },
-    {
-      "basename": "Lernjob 1",
-      "path": "Berufsschule/Lernfeld 6/Lernjob 1.md"
-    },
-    {
-      "basename": "Lernfeld 6 - Serviceanfragen bearbeiten",
-      "path": "Berufsschule/Lernfeld 6/Lernfeld 6 - Serviceanfragen bearbeiten.md"
     },
     {
       "basename": "Symbole Klassendiagramm 01",
