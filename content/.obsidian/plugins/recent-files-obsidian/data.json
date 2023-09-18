@@ -5,6 +5,10 @@
       "path": "Berufsschule/Lernfeld 9/01. DNS.md"
     },
     {
+      "basename": "Index",
+      "path": "Index.md"
+    },
+    {
       "basename": "01. Maschinen Ablauf erklären",
       "path": "Berufsschule/Lernfeld 7/01. Maschinen Ablauf erklären.md"
     },
@@ -51,10 +55,6 @@
     {
       "basename": "01. Warum Mikrocontroller",
       "path": "Berufsschule/µ-Controller/01. Warum Mikrocontroller.md"
-    },
-    {
-      "basename": "Index",
-      "path": "Index.md"
     },
     {
       "basename": "02. Getting Started",

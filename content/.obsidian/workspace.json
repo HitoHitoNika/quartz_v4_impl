@@ -12,9 +12,19 @@
             "type": "leaf",
             "pinned": true,
             "state": {
+              "type": "empty",
+              "state": {},
+              "pinned": true
+            }
+          },
+          {
+            "id": "586cb43b59daba0f",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Index.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -23,7 +33,7 @@
             }
           },
           {
-            "id": "bf935b3f3d99afc0",
+            "id": "4ad1e36d1983d880",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -36,7 +46,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -168,9 +178,7 @@
             "pinned": true,
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "index.md"
-              },
+              "state": {},
               "pinned": true
             }
           },
@@ -220,8 +228,9 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "bf935b3f3d99afc0",
+  "active": "4ad1e36d1983d880",
   "lastOpenFiles": [
+    "Index.md",
     "Berufsschule/Lernfeld 7/01. Maschinen Ablauf erklären.md",
     "Berufsschule/Lernfeld 7/00. Was ist Lernfeld 7.md",
     "Berufsschule/Lernfeld 6/Lernjob 1.md",
@@ -240,7 +249,6 @@
     "Assets/Pictures/Pasted image 20230918082904.png",
     "Assets/Pictures/Pasted image 20230918082731.png",
     "Berufsschule/µ-Controller/01. Warum Mikrocontroller.md",
-    "Index.md",
     "Programming Specific Stuff/Web-Entwicklung/Angular/WIP Forms in Angular.md",
     "Programming Specific Stuff/Web-Entwicklung/Angular/01. Angular Installation Guide.md",
     "Programming Specific Stuff/Java/Spring/03. Spring REST Controller.md",
