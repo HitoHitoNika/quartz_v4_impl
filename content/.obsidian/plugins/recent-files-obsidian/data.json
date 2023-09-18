@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "Inhaltsverzeichnis",
+      "path": "Inhaltsverzeichnis.md"
+    },
+    {
+      "basename": "index",
+      "path": "index.md"
+    },
+    {
+      "basename": "02. Arduino IDE",
+      "path": "Berufsschule/µ-Controller/02. Arduino IDE.md"
+    },
+    {
+      "basename": "01. Warum Mikrocontroller",
+      "path": "Berufsschule/µ-Controller/01. Warum Mikrocontroller.md"
+    },
+    {
       "basename": "Index",
       "path": "Index.md"
     },
@@ -31,10 +47,6 @@
     {
       "basename": "05.",
       "path": "Programming Specific Stuff/Java/Spring/05..md"
-    },
-    {
-      "basename": "Inhaltsverzeichnis",
-      "path": "Inhaltsverzeichnis.md"
     },
     {
       "basename": "Submodule",
@@ -127,10 +139,6 @@
     {
       "basename": "Guide to Obsidian",
       "path": "Obsidian/Guide to Obsidian.md"
-    },
-    {
-      "basename": "01. Warum Mikrocontroller",
-      "path": "Berufsschule/µ-Controller/01. Warum Mikrocontroller.md"
     },
     {
       "basename": "Produktionsfaktoren",
