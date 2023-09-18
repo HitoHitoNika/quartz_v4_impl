@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c07760f9a0011f39",
+        "id": "4ec5c4963fc20d1f",
         "type": "tabs",
         "children": [
           {
-            "id": "d05ecc6770f411cc",
+            "id": "6213e5ce80aa3daf",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -23,7 +23,7 @@
             }
           },
           {
-            "id": "1a49972fe5bf377d",
+            "id": "4740827c2123c38b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -34,22 +34,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "fc85d16d1a80d0d9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Inhaltsverzeichnis.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -123,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inhaltsverzeichnis.md",
+                "file": "Berufsschule/µ-Controller/02. Arduino IDE.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inhaltsverzeichnis.md",
+                "file": "Berufsschule/µ-Controller/02. Arduino IDE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inhaltsverzeichnis.md"
+                "file": "Berufsschule/µ-Controller/02. Arduino IDE.md"
               }
             }
           },
@@ -181,7 +168,9 @@
             "pinned": true,
             "state": {
               "type": "file-properties",
-              "state": {},
+              "state": {
+                "file": "index.md"
+              },
               "pinned": true
             }
           },
@@ -191,7 +180,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Inhaltsverzeichnis.md"
+                "file": "Berufsschule/µ-Controller/02. Arduino IDE.md"
               }
             }
           },
@@ -231,7 +220,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "fc85d16d1a80d0d9",
+  "active": "4740827c2123c38b",
   "lastOpenFiles": [
     "index.md",
     "Berufsschule/µ-Controller/02. Arduino IDE.md",
