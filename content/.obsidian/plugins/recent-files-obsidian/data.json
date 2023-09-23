@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "index",
+      "path": "index.md"
+    },
+    {
       "basename": "Inhaltsverzeichnis",
       "path": "Inhaltsverzeichnis.md"
     },
@@ -11,10 +15,6 @@
     {
       "basename": "06. Spring-Dev-Tools",
       "path": "Programming Specific Stuff/Java/Spring/06. Spring-Dev-Tools.md"
-    },
-    {
-      "basename": "index",
-      "path": "index.md"
     },
     {
       "basename": "05. Spring Boot Starter Parent",

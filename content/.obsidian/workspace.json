@@ -28,7 +28,7 @@
             }
           },
           {
-            "id": "6b84eaaee8a38f25",
+            "id": "55542f86e0ad35ce",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -41,22 +41,9 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "db6b26290af4dffe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Inhaltsverzeichnis.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -130,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inhaltsverzeichnis.md",
+                "file": "index.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inhaltsverzeichnis.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inhaltsverzeichnis.md"
+                "file": "index.md"
               }
             }
           },
@@ -198,7 +185,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Inhaltsverzeichnis.md"
+                "file": "index.md"
               }
             }
           },
@@ -238,7 +225,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "db6b26290af4dffe",
+  "active": "55542f86e0ad35ce",
   "lastOpenFiles": [
     "Programming Specific Stuff/Java/Spring/07. Spring Boot Actuator.md",
     "Programming Specific Stuff/Java/Spring/06. Spring-Dev-Tools.md",
