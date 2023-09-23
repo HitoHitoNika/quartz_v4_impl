@@ -54,10 +54,14 @@ tags:
 
 ### Spring
 
-- [[01. Spring vs Springboot]]
+- [[01. Spring vs Spring Boot]]
 - [[02. Spring Initializr]]
 - [[03. Spring REST Controller]]
 - [[04. Was ist ein Spring Project und warum Spring]]
+- [[05. Spring Boot Starter Parent]]
+- [[06. Spring-Dev-Tools]]
+- [[07. Spring Boot Actuator]]
+- 
 
 <hr>
 
