@@ -1,12 +1,76 @@
 {
   "recentFiles": [
     {
+      "basename": "Inhaltsverzeichnis",
+      "path": "Inhaltsverzeichnis.md"
+    },
+    {
+      "basename": "03. Bedingungen und Schleifen",
+      "path": "Berufsschule/Lernfeld 5/03. Bedingungen und Schleifen.md"
+    },
+    {
       "basename": "index",
       "path": "index.md"
     },
     {
-      "basename": "Inhaltsverzeichnis",
-      "path": "Inhaltsverzeichnis.md"
+      "basename": "02. Operatoren",
+      "path": "Berufsschule/Lernfeld 5/02. Operatoren.md"
+    },
+    {
+      "basename": "01. Einfache Datentypen",
+      "path": "Berufsschule/Lernfeld 5/01. Einfache Datentypen.md"
+    },
+    {
+      "basename": "Lernfeld 6 - Serviceanfragen bearbeiten",
+      "path": "Berufsschule/Lernfeld 6/Lernfeld 6 - Serviceanfragen bearbeiten.md"
+    },
+    {
+      "basename": "Lernjob 1",
+      "path": "Berufsschule/Lernfeld 6/Lernjob 1.md"
+    },
+    {
+      "basename": "Spring Info",
+      "path": "Assets/Pictures/Spring Info.png"
+    },
+    {
+      "basename": "Arduino IDE Push Code",
+      "path": "Assets/Pictures/Arduino IDE Push Code.png"
+    },
+    {
+      "basename": "Arduino IDE Select Port",
+      "path": "Assets/Pictures/Arduino IDE Select Port.png"
+    },
+    {
+      "basename": "Arduino IDE Select Board",
+      "path": "Assets/Pictures/Arduino IDE Select Board.png"
+    },
+    {
+      "basename": "Arduino IDE Boards Manager",
+      "path": "Assets/Pictures/Arduino IDE Boards Manager.png"
+    },
+    {
+      "basename": "Arduino IDE Settings Custom Board",
+      "path": "Assets/Pictures/Arduino IDE Settings Custom Board.png"
+    },
+    {
+      "basename": "Pasted image 20230913134903",
+      "path": "Assets/Pictures/Pasted image 20230913134903.png"
+    },
+    {
+      "basename": "Arduino IDE Settings",
+      "path": "Assets/Pictures/Arduino IDE Settings.png"
+    },
+    {
+      "basename": "Lehrplan LF6",
+      "path": "Assets/Pictures/Lehrplan LF6.png"
+    },
+    {
+      "basename": "Spring Project Aufbau",
+      "path": "Assets/Pictures/Spring Project Aufbau.png"
+    },
+    {
+      "basename": "UML_Aufgabe",
+      "path": "Assets/Pictures/UML_Aufgabe.png"
     },
     {
       "basename": "07. Spring Boot Actuator",
@@ -77,14 +141,6 @@
       "path": "Berufsschule/Lernfeld 7/00. Was ist Lernfeld 7.md"
     },
     {
-      "basename": "Lernjob 1",
-      "path": "Berufsschule/Lernfeld 6/Lernjob 1.md"
-    },
-    {
-      "basename": "Lernfeld 6 - Serviceanfragen bearbeiten",
-      "path": "Berufsschule/Lernfeld 6/Lernfeld 6 - Serviceanfragen bearbeiten.md"
-    },
-    {
       "basename": "Index",
       "path": "Index.md"
     },
@@ -125,10 +181,6 @@
       "path": "Assets/Pictures/Symbole Aktivitätsdiagramm 02.png"
     },
     {
-      "basename": "Lehrplan LF6",
-      "path": "Assets/Pictures/Lehrplan LF6.png"
-    },
-    {
       "basename": "Hosting für Notes",
       "path": "Assets/Canvas/Hosting für Notes.canvas"
     },
@@ -147,38 +199,6 @@
     {
       "basename": "03. Bootstrap - CSS Framework",
       "path": "Programming Specific Stuff/Web-Entwicklung/CSS/03. Bootstrap - CSS Framework.md"
-    },
-    {
-      "basename": "Guide to Obsidian",
-      "path": "Obsidian/Guide to Obsidian.md"
-    },
-    {
-      "basename": "Produktionsfaktoren",
-      "path": "Berufsschule/Sozialkunde/Lernbaustein 1/Produktionsfaktoren.md"
-    },
-    {
-      "basename": "Back to Home",
-      "path": "Templates/Back to Home.md"
-    },
-    {
-      "basename": "NodeJS",
-      "path": "Programming Specific Stuff/Web-Entwicklung/NodeJS/NodeJS.md"
-    },
-    {
-      "basename": "npm",
-      "path": "Programming Specific Stuff/Web-Entwicklung/NodeJS/npm.md"
-    },
-    {
-      "basename": "Angular Projektübersicht",
-      "path": "Assets/Pictures/Angular Projektübersicht.png"
-    },
-    {
-      "basename": "Hello World, Spring",
-      "path": "Assets/Pictures/Hello World, Spring.png"
-    },
-    {
-      "basename": "Example Gif - Gear 5",
-      "path": "Assets/Pictures/Example Gif - Gear 5.gif"
     }
   ],
   "omittedPaths": [],

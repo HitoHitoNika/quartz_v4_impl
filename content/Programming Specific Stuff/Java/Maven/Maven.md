@@ -26,7 +26,7 @@ In dieser können wir Abhängigkeiten etc definieren.
 
 Die Grundstruktur des Projekts sieht so aus:
 
-![[Pasted image 20230916140433.png]]
+![[Spring Project Aufbau.png]]
 
 Wir sehen jedoch noch 2 "mvnw" Dateien. Diese sind dafür da um Maven local starten zu können, ohne das Maven installiert ist. Genauer ist
 - mvnw.cmd

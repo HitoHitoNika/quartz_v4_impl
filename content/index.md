@@ -11,7 +11,7 @@ Mein Wiki besteht aus Dingen die ich als wissenswert sehe. Von Notizen aus der B
 
 <h2 align="center"> 🔎 Wo finde ich was? 🔍</h2> 
 
-Dazu kannst du oben die Suchleiste verwenden oder direkt in mein [[Inhaltsverzeichnis]] gehen oder wenn ihr am PC seid am linken Rand der Seite den Explorer verwenden.
+Dazu kannst du oben die Suchleiste verwenden oder direkt in mein [[Inhaltsverzeichnis]] gehen oder wenn ihr am PC seid am linken Rand der Seite den Explorer verwenden. (Der Explorer ist noch buggy, es hilft den Explorer auf und zu zuklappen)
 
 <h2 align="center"> Was ist die Graph View / Was sind Backlinks ? 🤔 </h2>
 Die Graph View (je nach Bildschirmgröße am rechten oder unteren Rand der Seite) zeigt welche Seiten mit dieser Seite verlinkt sind. Spannend ist das bei Fachlichen Themen, da man hier Vernetzungen / Zusammenhänge abbilden kann.
