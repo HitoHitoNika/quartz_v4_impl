@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "Inhaltsverzeichnis",
-      "path": "Inhaltsverzeichnis.md"
+      "basename": "06. Arrays",
+      "path": "Berufsschule/Lernfeld 5/06. Arrays.md"
+    },
+    {
+      "basename": "05. Zufallszahlen",
+      "path": "Berufsschule/Lernfeld 5/05. Zufallszahlen.md"
+    },
+    {
+      "basename": "04. Ausgabe und Eingabe",
+      "path": "Berufsschule/Lernfeld 5/04. Ausgabe und Eingabe.md"
     },
     {
       "basename": "03. Bedingungen und Schleifen",
       "path": "Berufsschule/Lernfeld 5/03. Bedingungen und Schleifen.md"
-    },
-    {
-      "basename": "index",
-      "path": "index.md"
     },
     {
       "basename": "02. Operatoren",
@@ -19,6 +23,14 @@
     {
       "basename": "01. Einfache Datentypen",
       "path": "Berufsschule/Lernfeld 5/01. Einfache Datentypen.md"
+    },
+    {
+      "basename": "Inhaltsverzeichnis",
+      "path": "Inhaltsverzeichnis.md"
+    },
+    {
+      "basename": "index",
+      "path": "index.md"
     },
     {
       "basename": "Lernfeld 6 - Serviceanfragen bearbeiten",
@@ -187,18 +199,6 @@
     {
       "basename": "Quartz",
       "path": "Obsidian/Quartz.md"
-    },
-    {
-      "basename": "03. Projektstruktur",
-      "path": "Programming Specific Stuff/Web-Entwicklung/Angular/03. Projektstruktur.md"
-    },
-    {
-      "basename": "01. Was ist CSS",
-      "path": "Programming Specific Stuff/Web-Entwicklung/CSS/01. Was ist CSS.md"
-    },
-    {
-      "basename": "03. Bootstrap - CSS Framework",
-      "path": "Programming Specific Stuff/Web-Entwicklung/CSS/03. Bootstrap - CSS Framework.md"
     }
   ],
   "omittedPaths": [],
