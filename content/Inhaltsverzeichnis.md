@@ -69,7 +69,6 @@ tags:
 - [[05. Spring Boot Starter Parent]]
 - [[06. Spring-Dev-Tools]]
 - [[07. Spring Boot Actuator]]
-- 
 
 <hr>
 
