@@ -9,6 +9,9 @@ tags:
 - [[01. Einfache Datentypen]]
 - [[02. Operatoren]]
 - [[03. Bedingungen und Schleifen]]
+- [[04. Ausgabe und Eingabe]]
+- [[05. Zufallszahlen]]
+- [[06. Arrays]]
 ### Lernfeld 6
 
 - [[Lernfeld 6 - Serviceanfragen bearbeiten]]

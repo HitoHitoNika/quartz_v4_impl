@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Inhaltsverzeichnis",
+      "path": "Inhaltsverzeichnis.md"
+    },
+    {
+      "basename": "index",
+      "path": "index.md"
+    },
+    {
       "basename": "06. Arrays",
       "path": "Berufsschule/Lernfeld 5/06. Arrays.md"
     },
@@ -23,14 +31,6 @@
     {
       "basename": "01. Einfache Datentypen",
       "path": "Berufsschule/Lernfeld 5/01. Einfache Datentypen.md"
-    },
-    {
-      "basename": "Inhaltsverzeichnis",
-      "path": "Inhaltsverzeichnis.md"
-    },
-    {
-      "basename": "index",
-      "path": "index.md"
     },
     {
       "basename": "Lernfeld 6 - Serviceanfragen bearbeiten",
