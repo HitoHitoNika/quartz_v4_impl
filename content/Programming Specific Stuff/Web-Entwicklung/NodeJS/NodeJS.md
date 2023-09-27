@@ -4,6 +4,7 @@ tags:
   - NodeJS
 Created: 12-09-2023, 18:30
 ---
+Zurück zu [[Inhaltsübersicht Prog|Programming Shit]]
 
 Node.js ist eine Open-Source-JavaScript-Laufzeitumgebung, die es ermöglicht, JavaScript serverseitig auszuführen. Es wurde von Ryan Dahl im Jahr 2009 entwickelt und hat sich seitdem zu einer der beliebtesten Plattformen für die Entwicklung von skalierbaren und effizienten serverseitigen Anwendungen entwickelt. Hier sind einige wichtige Informationen über Node.js:
 

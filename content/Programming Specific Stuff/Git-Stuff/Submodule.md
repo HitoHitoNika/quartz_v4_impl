@@ -1,3 +1,5 @@
+Zurück zu [[Inhaltsübersicht Prog|Programming Shit]]
+
 Git-Submodule sind eine Möglichkeit, andere Git-Repositories in ein Hauptrepository einzubinden, sodass Sie Teile eines anderen Repositories als Unterordner in Ihrem Hauptrepository verwenden können. Dies ist besonders nützlich, wenn Sie Abhängigkeiten von externen Projekten verwalten möchten oder wenn Sie ein Modulsystem für Ihre Projekte benötigen. Hier ist eine detaillierte Erklärung, wie Git-Submodule funktionieren:
 
 <h3 align="center">Hinzufügen eines Submodules </h3>

@@ -4,7 +4,23 @@ tags:
   - Sozi
 Created: 04-09-2023, 10:42
 ---
-Zurück zu [[Inhaltsverzeichnis]] 
+Zurück zu [[Berufsschulstoff|Berufsschul-Inhaltsüberischt]]
+
+ - [[#1. Was sind Produktionsfaktoren ?|1. Was sind Produktionsfaktoren ?]]
+- [[#2. Übertragen Sie die Produktionsfaktoren auf ein Beispiel ihres Ausbildungsbetriebs.|2. Übertragen Sie die Produktionsfaktoren auf ein Beispiel ihres Ausbildungsbetriebs.]]
+- [[#3. Erläutern Sie den Unterschied zwischen ursprünglichen und abgeleiteten Produktionsfaktoren.|3. Erläutern Sie den Unterschied zwischen ursprünglichen und abgeleiteten Produktionsfaktoren.]]
+	- [[#3. Erläutern Sie den Unterschied zwischen ursprünglichen und abgeleiteten Produktionsfaktoren.#Ursprüngliche Produktionsfaktoren|Ursprüngliche Produktionsfaktoren]]
+	- [[#3. Erläutern Sie den Unterschied zwischen ursprünglichen und abgeleiteten Produktionsfaktoren.#Abgeleitete Produktionsfaktoren|Abgeleitete Produktionsfaktoren]]
+- [[#4. Welche Besonderheiten weist der Produktionsfaktor Boden gegenüber den anderen Produktionsfaktoren auf?|4. Welche Besonderheiten weist der Produktionsfaktor Boden gegenüber den anderen Produktionsfaktoren auf?]]
+- [[#5. "Der Produktionsfaktor Boden wird unter wirtschaftlichen Aspekten in dreifacher Weise genutzt". Verifizieren und erläutern Sie diese Aussage.|5. "Der Produktionsfaktor Boden wird unter wirtschaftlichen Aspekten in dreifacher Weise genutzt". Verifizieren und erläutern Sie diese Aussage.]]
+- [[#6. Durch welche Faktoren hat sich die Bewirtschaftung der Landwirtschaftsflächen in den letzten 30 Jahren stark verändert?|6. Durch welche Faktoren hat sich die Bewirtschaftung der Landwirtschaftsflächen in den letzten 30 Jahren stark verändert?]]
+- [[#7. Nach welchen Gesichtspunkten kann die Wahl des Standortbodens eingeteilt werden. Bitte belegen Sie ihre Antworten mit Beispielen.|7. Nach welchen Gesichtspunkten kann die Wahl des Standortbodens eingeteilt werden. Bitte belegen Sie ihre Antworten mit Beispielen.]]
+- [[#8. Was versteht man unter dem Produktionsfaktor Arbeit?|8. Was versteht man unter dem Produktionsfaktor Arbeit?]]
+- [[#9. Die Arbeitsteilung ist eine organisatorische Aufteilung von Tätigkeiten bzw. Arbeitsprozessen. Nennen Sie mindestens je fünf positive und auch negative Auswirkungen der Arbeitsteilung.|9. Die Arbeitsteilung ist eine organisatorische Aufteilung von Tätigkeiten bzw. Arbeitsprozessen. Nennen Sie mindestens je fünf positive und auch negative Auswirkungen der Arbeitsteilung.]]
+- [[#10. Erläutern Sie den Produktionsfaktor Kapital.|10. Erläutern Sie den Produktionsfaktor Kapital.]]
+- [[#11. Welche Bestandteile gehören zum Sachkapital?|11. Welche Bestandteile gehören zum Sachkapital?]]
+- [[#12. Neben den drei Produktionsfaktoren wird in der heutigen Zeit oft von einem vierten Produktionsfaktor gesprochen. Nennen und erklären Sie diesen weiteren Produktionsfaktor.|12. Neben den drei Produktionsfaktoren wird in der heutigen Zeit oft von einem vierten Produktionsfaktor gesprochen. Nennen und erklären Sie diesen weiteren Produktionsfaktor.]]
+
 ## 1. Was sind Produktionsfaktoren ?
 
 Produktionsfaktoren sind Ressourcen oder Elemente, die in der Wirtschaft zur Herstellung von Gütern und Dienstleistungen verwendet werden. ==**Die Hauptfaktoren sind Arbeit, Kapital, Boden (natürliche Ressourcen) und Wissensmanagement**==. Sie sind entscheidend für die Wirtschaftsleistung, da sie kombiniert werden, um Produkte herzustellen und Dienstleistungen zu erbringen. Die effiziente Nutzung dieser Faktoren ist wichtig für den Erfolg von Unternehmen und die Wirtschaft insgesamt.

@@ -4,6 +4,7 @@ tags:
   - Guide
 Created: 07-09-2023, 14:49
 ---
+Zurück zu [[Inhaltsübersicht Prog|Programming Shit]]
 ## Was ist Maven?
 
 Maven ist ein Buildtool für Java, welches den Bau des Programmes übernimmt. Darunter fallen unteranderem die Anschaffung von außen stehenden Bibliotheken.

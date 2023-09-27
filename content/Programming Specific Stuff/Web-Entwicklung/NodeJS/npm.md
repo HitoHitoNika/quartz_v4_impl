@@ -4,6 +4,7 @@ tags:
   - NodeJS
 Created: 12-09-2023, 18:30
 ---
+Zurück zu [[Inhaltsübersicht Prog|Programming Shit]]
 
 npm (Node Package Manager) ist ein leistungsstarkes Paketverwaltungswerkzeug für JavaScript und Node.js. Es wird standardmäßig mit Node.js installiert und ermöglicht es Entwicklern, Open-Source-Pakete herunterzuladen, zu verwalten und in ihren Projekten zu verwenden. Hier ist ein Überblick über npm und ein Cheat Sheet mit häufig verwendeten Befehlen:
 

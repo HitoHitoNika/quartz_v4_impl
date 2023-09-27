@@ -1,5 +1,5 @@
 ---
-tags:
-  - Template
+tags: 
+aliases:
 ---
 Zurück zu [[Inhaltsverzeichnis]]
