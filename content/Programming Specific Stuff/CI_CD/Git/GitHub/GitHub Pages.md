@@ -1,3 +1,9 @@
+---
+tags:
+  - Git
+  - GitHub
+  - CI_CD
+---
 Zurück zu [[Inhaltsübersicht Prog|Programming Shit]]
 
 GitHub Pages ist ein von GitHub bereitgestellter Hosting-Service für Webseiten. Es ermöglicht GitHub-Nutzern, statische Webseiten direkt aus ihren GitHub-Repositories zu erstellen und zu hosten. Dieser Service wurde entwickelt, um die Veröffentlichung und den Zugriff auf Webinhalte einfach und kostengünstig zu gestalten. Im Folgenden werden die wichtigsten Aspekte von GitHub Pages erläutert:

@@ -30,16 +30,6 @@
           {
             "id": "ccc874e299aa8777",
             "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.14"
-              }
-            }
-          },
-          {
-            "id": "b6ae5b8af18b85ad",
-            "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
@@ -53,12 +43,12 @@
             }
           },
           {
-            "id": "cf6f147774ebfd09",
+            "id": "71b945f44b2da683",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Berufsschule/Lernfeld 8/03. Aufgabe UML.md",
+                "file": "Programming Specific Stuff/CI_CD/DevOps.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -66,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -95,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "[\"tags\"]",
+                "query": "tag:#CI ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -140,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Berufsschule/Lernfeld 8/03. Aufgabe UML.md",
+                "file": "Programming Specific Stuff/CI_CD/DevOps.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Berufsschule/Lernfeld 8/03. Aufgabe UML.md",
+                "file": "Programming Specific Stuff/CI_CD/DevOps.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Berufsschule/Lernfeld 8/03. Aufgabe UML.md"
+                "file": "Programming Specific Stuff/CI_CD/DevOps.md"
               }
             }
           },
@@ -216,7 +206,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Berufsschule/Lernfeld 8/03. Aufgabe UML.md"
+                "file": "Programming Specific Stuff/CI_CD/DevOps.md"
               }
             }
           }
@@ -238,11 +228,16 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "cf6f147774ebfd09",
+  "active": "71b945f44b2da683",
   "lastOpenFiles": [
+    "Programming Specific Stuff/CI_CD/Git/Git.md",
+    "Programming Specific Stuff/CI_CD/Git/Submodule.md",
+    "Programming Specific Stuff/CI_CD/DevOps.md",
+    "Programming Specific Stuff/CI_CD/Git",
+    "Programming Specific Stuff/CI_CD/Git/GitHub/GitHub Pages.md",
+    "Berufsschule/Lernfeld 8/03. Aufgabe UML.md",
     "index.md",
     "Berufsschule/Lernfeld 8/01. Klassendiagramm.md",
-    "Berufsschule/Lernfeld 8/03. Aufgabe UML.md",
     "Assets/Pictures/Pasted image 20230927142055.png",
     "Assets/Pictures/Pasted image 20230927142028.png",
     "Assets/Pictures/Pasted image 20230927141522.png",
@@ -267,10 +262,6 @@
     "Programming Specific Stuff/Web-Entwicklung/NodeJS/npm.md",
     "Programming Specific Stuff/Web-Entwicklung/NodeJS/NodeJS.md",
     "Programming Specific Stuff/Web-Entwicklung/CSS/03. Bootstrap - CSS Framework.md",
-    "Programming Specific Stuff/Web-Entwicklung/CSS/02. Wie verwende ich CSS.md",
-    "Programming Specific Stuff/Web-Entwicklung/CSS/01. Was ist CSS.md",
-    "Programming Specific Stuff/Web-Entwicklung/Angular/03. Projektstruktur.md",
-    "Programming Specific Stuff/Web-Entwicklung/Angular/02. Getting Started.md",
     "Assets/Pictures/Spring Info.png",
     "Berufsschule/Lernfeld 5",
     "Programming Specific Stuff/Java/Projekte",
@@ -282,10 +273,9 @@
     "Berufsschule/Lernfeld 8",
     "Assets/Canvas/Hosting für Notes.canvas",
     "Berufsschule/Lernfeld 6",
-    "Programming Specific Stuff/Git-Stuff/GitHub",
+    "Programming Specific Stuff/CI_CD/Git/GitHub",
     "Programming Specific Stuff/Web-Entwicklung/NodeJS",
     "Templates",
-    "private",
     "Programming Specific Stuff/Web-Entwicklung/Angular/Untitled.canvas"
   ]
 }

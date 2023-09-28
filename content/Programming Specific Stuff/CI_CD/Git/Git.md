@@ -1,3 +1,8 @@
+---
+tags:
+  - Git
+  - CI_CD
+---
 Zurück zu [[Inhaltsübersicht Prog|Programming Shit]]
 
 Git ist ein weit verbreitetes verteiltes Versionskontrollsystem (VCS), das von Linus Torvalds im Jahr 2005 entwickelt wurde. Es ermöglicht Entwicklern und Teams, Änderungen an ihrem Code zu verfolgen, zu verwalten und zu dokumentieren.

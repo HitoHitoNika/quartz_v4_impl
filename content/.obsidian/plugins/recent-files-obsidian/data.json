@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "DevOps",
+      "path": "Programming Specific Stuff/CI_CD/DevOps.md"
+    },
+    {
+      "basename": "Git",
+      "path": "Programming Specific Stuff/CI_CD/Git/Git.md"
+    },
+    {
+      "basename": "Submodule",
+      "path": "Programming Specific Stuff/CI_CD/Git/Submodule.md"
+    },
+    {
+      "basename": "GitHub Pages",
+      "path": "Programming Specific Stuff/CI_CD/Git/GitHub/GitHub Pages.md"
+    },
+    {
       "basename": "03. Aufgabe UML",
       "path": "Berufsschule/Lernfeld 8/03. Aufgabe UML.md"
     },
@@ -137,18 +153,6 @@
       "path": "Programming Specific Stuff/Java/Maven/Maven.md"
     },
     {
-      "basename": "Submodule",
-      "path": "Programming Specific Stuff/Git-Stuff/Submodule.md"
-    },
-    {
-      "basename": "GIT",
-      "path": "Programming Specific Stuff/Git-Stuff/GIT.md"
-    },
-    {
-      "basename": "GitHub Pages",
-      "path": "Programming Specific Stuff/Git-Stuff/GitHub/GitHub Pages.md"
-    },
-    {
       "basename": "Back to Home",
       "path": "Templates/Back to Home.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Arduino IDE Select Board",
       "path": "Assets/Pictures/Arduino IDE Select Board.png"
-    },
-    {
-      "basename": "Arduino IDE Boards Manager",
-      "path": "Assets/Pictures/Arduino IDE Boards Manager.png"
     }
   ],
   "omittedPaths": [],
