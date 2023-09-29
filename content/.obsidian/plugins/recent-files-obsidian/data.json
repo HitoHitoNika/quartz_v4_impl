@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Inhaltsübersicht Prog",
+      "path": "Programming Specific Stuff/Inhaltsübersicht Prog.md"
+    },
+    {
+      "basename": "index",
+      "path": "index.md"
+    },
+    {
       "basename": "DevOps",
       "path": "Programming Specific Stuff/CI_CD/DevOps.md"
     },
@@ -19,10 +27,6 @@
     {
       "basename": "03. Aufgabe UML",
       "path": "Berufsschule/Lernfeld 8/03. Aufgabe UML.md"
-    },
-    {
-      "basename": "index",
-      "path": "index.md"
     },
     {
       "basename": "01. Klassendiagramm",
@@ -83,10 +87,6 @@
     {
       "basename": "Back to Berufsschulzeug",
       "path": "Templates/Back to Berufsschulzeug.md"
-    },
-    {
-      "basename": "Inhaltsübersicht Prog",
-      "path": "Programming Specific Stuff/Inhaltsübersicht Prog.md"
     },
     {
       "basename": "npm",

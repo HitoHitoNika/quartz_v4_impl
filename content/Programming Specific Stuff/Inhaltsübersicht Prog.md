@@ -5,12 +5,16 @@ title: 💻Programming Shit💻
 aliases:
   - Programming Shit
 ---
-<h2 align="center"> Git </h2>
+<h2 align="center"> CI/CD-Pipeline Zeugs </h2>
+
+
+[[DevOps]]
+### Git
 
 - [[Git]]
 - [[Submodule]]
 
-### GitHub
+#### GitHub
 
 - [[GitHub Pages]]
 
