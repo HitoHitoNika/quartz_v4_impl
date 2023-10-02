@@ -1,8 +1,16 @@
+@use './variables.scss' as *;
 @use "sass:color";
 
+/*
+-
+CALLOUT THEMEING
+FROM PULL REQUEST: https://github.com/insanum/obsidian_gruvbox/pull/42/commits/9dca0cbb672ba2ce653c440ba12ec62dacdad704
+-
+*/
+
 .callout {
-  border: 1px solid var(--border);
-  background-color: var(--bg);
+  border: 1px 0.4 var(--border);
+  background-color: $depth5;
   border-radius: 5px;
   padding: 0 1rem;
   overflow-y: hidden;
@@ -14,7 +22,7 @@
   }
 
   &[data-callout="note"] {
-    --color: #448aff;
+    --color: $depth5;
     --border: #448aff44;
     --bg: #448aff10;
   }
@@ -33,25 +41,25 @@
   }
 
   &[data-callout="tip"] {
-    --color: #00bfa5;
+    --color: $aqua;
     --border: #00bfa544;
     --bg: #00bfa510;
   }
 
   &[data-callout="success"] {
-    --color: #09ad7a;
+    --color: $depth4;
     --border: #09ad7144;
     --bg: #09ad7110;
   }
 
   &[data-callout="question"] {
-    --color: #dba642;
+    --color: $depth3;
     --border: #dba64244;
     --bg: #dba64210;
   }
 
   &[data-callout="warning"] {
-    --color: #db8942;
+    --color: $depth2;
     --border: #db894244;
     --bg: #db894210;
   }
@@ -59,19 +67,19 @@
   &[data-callout="failure"],
   &[data-callout="danger"],
   &[data-callout="bug"] {
-    --color: #db4242;
+    --color: $depth1;
     --border: #db424244;
     --bg: #db424210;
   }
 
   &[data-callout="example"] {
-    --color: #7a43b5;
+    --color: $depth6;
     --border: #7a43b544;
     --bg: #7a43b510;
   }
 
   &[data-callout="quote"] {
-    --color: var(--secondary);
+    --color: $dark4;
     --border: var(--lightgray);
   }
 

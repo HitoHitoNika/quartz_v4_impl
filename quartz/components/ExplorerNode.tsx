@@ -12,7 +12,7 @@ export interface Options {
   sortFn: (a: FileNode, b: FileNode) => number
   filterFn?: (node: FileNode) => boolean
   mapFn?: (node: FileNode) => void
-  order?: OrderEntries[]
+  order?: OrderEntries[] 
 }
 
 type DataWrapper = {
@@ -143,18 +143,21 @@ type ExplorerNodeProps = {
 
 export function ExplorerNode({ node, opts, fullPath, fileData }: ExplorerNodeProps) {
   // Get options
-  const folderBehavior = opts.folderClickBehavior
-  const isDefaultOpen = opts.folderDefaultState === "open"
+  const folderBehavior = opts.folderClickBehavior;
+  const isDefaultOpen = opts.folderDefaultState === "open";
 
   // Calculate current folderPath
-  let pathOld = fullPath ? fullPath : ""
-  let folderPath = ""
+  let pathOld = fullPath ? fullPath : "";
+  let folderPath = "";
   if (node.name !== "") {
-    folderPath = `${pathOld}/${node.name}`
+    folderPath = `${pathOld}/${node.name}`;
   }
 
+  // Calculate padding based on depth
+  const paddingValue = node.depth * 1.3;  // Adjust the multiplier (1.4) to achieve the desired indentation
+
   return (
-    <li>
+    <li class={`depth-${node.depth}`} style={{ paddingLeft: `${paddingValue}rem` }}>
       {node.file ? (
         // Single file node
         <li key={node.file.slug}>
@@ -199,10 +202,6 @@ export function ExplorerNode({ node, opts, fullPath, fileData }: ExplorerNodePro
           {/* Recursively render children of folder */}
           <div class={`folder-outer ${node.depth === 0 || isDefaultOpen ? "open" : ""}`}>
             <ul
-              // Inline style for left folder paddings
-              style={{
-                paddingLeft: node.name !== "" ? "1.4rem" : "0",
-              }}
               class="content"
               data-folderul={folderPath}
             >
@@ -220,5 +219,5 @@ export function ExplorerNode({ node, opts, fullPath, fileData }: ExplorerNodePro
         </div>
       )}
     </li>
-  )
+  );
 }

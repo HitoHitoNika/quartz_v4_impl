@@ -28,7 +28,7 @@
             }
           },
           {
-            "id": "e3e2a8643f6f3935",
+            "id": "9d7b5e375e062a8a",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -43,12 +43,12 @@
             }
           },
           {
-            "id": "dd8c208f440267bf",
+            "id": "354bb40f8bdd5e73",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Berufsschule/Berufsschulstoff.md",
+                "file": "Berufsschule/Sozialkunde/Lernbaustein 1/Wirtschaftskreislauf.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Berufsschule/Berufsschulstoff.md",
+                "file": "Berufsschule/Sozialkunde/Lernbaustein 1/Wirtschaftskreislauf.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Berufsschule/Berufsschulstoff.md",
+                "file": "Berufsschule/Sozialkunde/Lernbaustein 1/Wirtschaftskreislauf.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Berufsschule/Berufsschulstoff.md"
+                "file": "Berufsschule/Sozialkunde/Lernbaustein 1/Wirtschaftskreislauf.md"
               }
             }
           },
@@ -198,16 +198,17 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Berufsschule/Berufsschulstoff.md"
+                "file": "Berufsschule/Sozialkunde/Lernbaustein 1/Wirtschaftskreislauf.md"
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -220,13 +221,21 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "dd8c208f440267bf",
+  "active": "354bb40f8bdd5e73",
   "lastOpenFiles": [
+    "Assets/Pictures/Pasted image 20231002102326.png",
+    "Assets/Pictures/Pasted image 20230927142055.png",
+    "Assets/Pictures/Pasted image 20230927142028.png",
+    "Assets/Pictures/Pasted image 20230927103600.png",
+    "Assets/Pictures/Pasted image 20230927141522.png",
+    "Assets/Pictures/Pasted image 20230927135541.png",
+    "Assets/Pictures/Pasted image 20230913134903.png",
+    "Berufsschule/Sozialkunde/Lernbaustein 1/Wirtschaftskreislauf.md",
+    "index.md",
     "Berufsschule/Sozialkunde/Lernbaustein 1/Produktionsfaktoren.md",
     "Berufsschule/Berufsschulstoff.md",
     "Berufsschule/µ-Controller/03. Widerstände bestimmen.md",
     "Berufsschule/µ-Controller/00. Wichtige Befehle.md",
-    "index.md",
     "Berufsschule/Lernfeld 8/03. Aufgabe UML.md",
     "Programming Specific Stuff/CI_CD/Git/Git.md",
     "Programming Specific Stuff/CI_CD/Git/Submodule.md",
@@ -234,12 +243,8 @@
     "Programming Specific Stuff/CI_CD/Git",
     "Programming Specific Stuff/CI_CD/Git/GitHub/GitHub Pages.md",
     "Berufsschule/Lernfeld 8/01. Klassendiagramm.md",
-    "Assets/Pictures/Pasted image 20230927142055.png",
-    "Assets/Pictures/Pasted image 20230927142028.png",
-    "Assets/Pictures/Pasted image 20230927141522.png",
     "Berufsschule/Lernfeld 8/00. Was ist Lernfeld 8.md",
     "Berufsschule/Lernfeld 8/02. Aktivitätsdiagramm.md",
-    "Assets/Pictures/Pasted image 20230927135541.png",
     "Assets/Pictures/FS1 _ LA01 - Kunstwerk.pdf",
     "Berufsschule/Lernfeld 8/01.1 Umsetzung eines Klassendiagramms.md",
     "Berufsschule/Lernfeld 6/Lernjob 1.md",
@@ -249,19 +254,15 @@
     "Berufsschule/Lernfeld 5/03. Bedingungen und Schleifen.md",
     "Berufsschule/Lernfeld 5/02. Operatoren.md",
     "Berufsschule/Lernfeld 5/01. Einfache Datentypen.md",
-    "Assets/Pictures/Pasted image 20230927103600.png",
     "Berufsschule/Lernfeld 6/Lernfeld 6 - Serviceanfragen bearbeiten.md",
     "Inhaltsverzeichnis.md",
     "Templates/Back to Programming Shit.md",
-    "Templates/Back to Berufsschulzeug.md",
-    "Programming Specific Stuff/Inhaltsübersicht Prog.md",
     "Assets/Pictures/Spring Info.png",
     "Berufsschule/Lernfeld 5",
     "Programming Specific Stuff/Java/Projekte",
     "Assets/Pictures/Arduino IDE Push Code.png",
     "Assets/Pictures/Arduino IDE Select Port.png",
     "Assets/Pictures/Arduino IDE Select Board.png",
-    "Assets/Pictures/Arduino IDE Boards Manager.png",
     "www.luv2code.com",
     "Berufsschule/Lernfeld 8",
     "Assets/Canvas/Hosting für Notes.canvas",
