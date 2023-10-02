@@ -28,7 +28,7 @@
             }
           },
           {
-            "id": "9d7b5e375e062a8a",
+            "id": "bdf69e7524278c86",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -43,12 +43,12 @@
             }
           },
           {
-            "id": "354bb40f8bdd5e73",
+            "id": "4db611046247676f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Berufsschule/Sozialkunde/Lernbaustein 1/Wirtschaftskreislauf.md",
+                "file": "Berufsschule/Sozialkunde/Lernbaustein 1/Bedürfnisse, Bedarf, Nachfrage.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Berufsschule/Sozialkunde/Lernbaustein 1/Wirtschaftskreislauf.md",
+                "file": "Berufsschule/Sozialkunde/Lernbaustein 1/Bedürfnisse, Bedarf, Nachfrage.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Berufsschule/Sozialkunde/Lernbaustein 1/Wirtschaftskreislauf.md",
+                "file": "Berufsschule/Sozialkunde/Lernbaustein 1/Bedürfnisse, Bedarf, Nachfrage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Berufsschule/Sozialkunde/Lernbaustein 1/Wirtschaftskreislauf.md"
+                "file": "Berufsschule/Sozialkunde/Lernbaustein 1/Bedürfnisse, Bedarf, Nachfrage.md"
               }
             }
           },
@@ -198,7 +198,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Berufsschule/Sozialkunde/Lernbaustein 1/Wirtschaftskreislauf.md"
+                "file": "Berufsschule/Sozialkunde/Lernbaustein 1/Bedürfnisse, Bedarf, Nachfrage.md"
               }
             }
           }
@@ -221,8 +221,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "354bb40f8bdd5e73",
+  "active": "4db611046247676f",
   "lastOpenFiles": [
+    "index.md",
+    "Berufsschule/Sozialkunde/Lernbaustein 1/Bedürfnisse, Bedarf, Nachfrage.md",
     "Assets/Pictures/Pasted image 20231002102326.png",
     "Assets/Pictures/Pasted image 20230927142055.png",
     "Assets/Pictures/Pasted image 20230927142028.png",
@@ -231,7 +233,6 @@
     "Assets/Pictures/Pasted image 20230927135541.png",
     "Assets/Pictures/Pasted image 20230913134903.png",
     "Berufsschule/Sozialkunde/Lernbaustein 1/Wirtschaftskreislauf.md",
-    "index.md",
     "Berufsschule/Sozialkunde/Lernbaustein 1/Produktionsfaktoren.md",
     "Berufsschule/Berufsschulstoff.md",
     "Berufsschule/µ-Controller/03. Widerstände bestimmen.md",
@@ -262,7 +263,6 @@
     "Programming Specific Stuff/Java/Projekte",
     "Assets/Pictures/Arduino IDE Push Code.png",
     "Assets/Pictures/Arduino IDE Select Port.png",
-    "Assets/Pictures/Arduino IDE Select Board.png",
     "www.luv2code.com",
     "Berufsschule/Lernfeld 8",
     "Assets/Canvas/Hosting für Notes.canvas",
