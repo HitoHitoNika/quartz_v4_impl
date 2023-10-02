@@ -41,5 +41,7 @@ title: 📖Berufsschul-Übersicht📖
 
 ### µ-Controller
 
+- [[00. Wichtige Befehle]]
 - [[01. Warum Mikrocontroller]]
 - [[02. Arduino IDE]]
+- [[03. Widerstände bestimmen]]

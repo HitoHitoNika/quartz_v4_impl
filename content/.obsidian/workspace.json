@@ -28,7 +28,7 @@
             }
           },
           {
-            "id": "50fd3f5dfcbe7bc8",
+            "id": "e3e2a8643f6f3935",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -43,12 +43,12 @@
             }
           },
           {
-            "id": "dfdaea0f9823ff00",
+            "id": "dd8c208f440267bf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming Specific Stuff/Inhaltsübersicht Prog.md",
+                "file": "Berufsschule/Berufsschulstoff.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming Specific Stuff/Inhaltsübersicht Prog.md",
+                "file": "Berufsschule/Berufsschulstoff.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming Specific Stuff/Inhaltsübersicht Prog.md",
+                "file": "Berufsschule/Berufsschulstoff.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming Specific Stuff/Inhaltsübersicht Prog.md"
+                "file": "Berufsschule/Berufsschulstoff.md"
               }
             }
           },
@@ -168,14 +168,6 @@
             "type": "leaf",
             "state": {
               "type": "calendar",
-              "state": {}
-            }
-          },
-          {
-            "id": "6e7251233b37d28d",
-            "type": "leaf",
-            "state": {
-              "type": "git-history-view",
               "state": {}
             }
           },
@@ -206,16 +198,16 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Programming Specific Stuff/Inhaltsübersicht Prog.md"
+                "file": "Berufsschule/Berufsschulstoff.md"
               }
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 287.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -228,15 +220,19 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "dfdaea0f9823ff00",
+  "active": "dd8c208f440267bf",
   "lastOpenFiles": [
+    "Berufsschule/Sozialkunde/Lernbaustein 1/Produktionsfaktoren.md",
+    "Berufsschule/Berufsschulstoff.md",
+    "Berufsschule/µ-Controller/03. Widerstände bestimmen.md",
+    "Berufsschule/µ-Controller/00. Wichtige Befehle.md",
     "index.md",
+    "Berufsschule/Lernfeld 8/03. Aufgabe UML.md",
     "Programming Specific Stuff/CI_CD/Git/Git.md",
     "Programming Specific Stuff/CI_CD/Git/Submodule.md",
     "Programming Specific Stuff/CI_CD/DevOps.md",
     "Programming Specific Stuff/CI_CD/Git",
     "Programming Specific Stuff/CI_CD/Git/GitHub/GitHub Pages.md",
-    "Berufsschule/Lernfeld 8/03. Aufgabe UML.md",
     "Berufsschule/Lernfeld 8/01. Klassendiagramm.md",
     "Assets/Pictures/Pasted image 20230927142055.png",
     "Assets/Pictures/Pasted image 20230927142028.png",
@@ -259,9 +255,6 @@
     "Templates/Back to Programming Shit.md",
     "Templates/Back to Berufsschulzeug.md",
     "Programming Specific Stuff/Inhaltsübersicht Prog.md",
-    "Programming Specific Stuff/Web-Entwicklung/NodeJS/npm.md",
-    "Programming Specific Stuff/Web-Entwicklung/NodeJS/NodeJS.md",
-    "Programming Specific Stuff/Web-Entwicklung/CSS/03. Bootstrap - CSS Framework.md",
     "Assets/Pictures/Spring Info.png",
     "Berufsschule/Lernfeld 5",
     "Programming Specific Stuff/Java/Projekte",

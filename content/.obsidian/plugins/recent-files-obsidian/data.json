@@ -1,12 +1,32 @@
 {
   "recentFiles": [
     {
-      "basename": "Inhaltsübersicht Prog",
-      "path": "Programming Specific Stuff/Inhaltsübersicht Prog.md"
+      "basename": "Berufsschulstoff",
+      "path": "Berufsschule/Berufsschulstoff.md"
+    },
+    {
+      "basename": "Produktionsfaktoren",
+      "path": "Berufsschule/Sozialkunde/Lernbaustein 1/Produktionsfaktoren.md"
+    },
+    {
+      "basename": "03. Widerstände bestimmen",
+      "path": "Berufsschule/µ-Controller/03. Widerstände bestimmen.md"
+    },
+    {
+      "basename": "00. Wichtige Befehle",
+      "path": "Berufsschule/µ-Controller/00. Wichtige Befehle.md"
     },
     {
       "basename": "index",
       "path": "index.md"
+    },
+    {
+      "basename": "03. Aufgabe UML",
+      "path": "Berufsschule/Lernfeld 8/03. Aufgabe UML.md"
+    },
+    {
+      "basename": "Inhaltsübersicht Prog",
+      "path": "Programming Specific Stuff/Inhaltsübersicht Prog.md"
     },
     {
       "basename": "DevOps",
@@ -23,10 +43,6 @@
     {
       "basename": "GitHub Pages",
       "path": "Programming Specific Stuff/CI_CD/Git/GitHub/GitHub Pages.md"
-    },
-    {
-      "basename": "03. Aufgabe UML",
-      "path": "Berufsschule/Lernfeld 8/03. Aufgabe UML.md"
     },
     {
       "basename": "01. Klassendiagramm",
@@ -165,10 +181,6 @@
       "path": "Berufsschule/µ-Controller/01. Warum Mikrocontroller.md"
     },
     {
-      "basename": "Produktionsfaktoren",
-      "path": "Berufsschule/Sozialkunde/Lernbaustein 1/Produktionsfaktoren.md"
-    },
-    {
       "basename": "01. DNS",
       "path": "Berufsschule/Lernfeld 9/01. DNS.md"
     },
@@ -181,24 +193,12 @@
       "path": "Berufsschule/Lernfeld 7/00. Was ist Lernfeld 7.md"
     },
     {
-      "basename": "Berufsschulstoff",
-      "path": "Berufsschule/Berufsschulstoff.md"
-    },
-    {
       "basename": "Spring Info",
       "path": "Assets/Pictures/Spring Info.png"
     },
     {
       "basename": "Arduino IDE Push Code",
       "path": "Assets/Pictures/Arduino IDE Push Code.png"
-    },
-    {
-      "basename": "Arduino IDE Select Port",
-      "path": "Assets/Pictures/Arduino IDE Select Port.png"
-    },
-    {
-      "basename": "Arduino IDE Select Board",
-      "path": "Assets/Pictures/Arduino IDE Select Board.png"
     }
   ],
   "omittedPaths": [],
