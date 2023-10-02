@@ -28,7 +28,7 @@
             }
           },
           {
-            "id": "bdf69e7524278c86",
+            "id": "942704b44f495dbc",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -43,12 +43,12 @@
             }
           },
           {
-            "id": "4db611046247676f",
+            "id": "aa9cb18731417191",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Berufsschule/Sozialkunde/Lernbaustein 1/Bedürfnisse, Bedarf, Nachfrage.md",
+                "file": "Berufsschule/Berufsschulstoff.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Berufsschule/Sozialkunde/Lernbaustein 1/Bedürfnisse, Bedarf, Nachfrage.md",
+                "file": "Berufsschule/Berufsschulstoff.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Berufsschule/Sozialkunde/Lernbaustein 1/Bedürfnisse, Bedarf, Nachfrage.md",
+                "file": "Berufsschule/Berufsschulstoff.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Berufsschule/Sozialkunde/Lernbaustein 1/Bedürfnisse, Bedarf, Nachfrage.md"
+                "file": "Berufsschule/Berufsschulstoff.md"
               }
             }
           },
@@ -198,7 +198,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Berufsschule/Sozialkunde/Lernbaustein 1/Bedürfnisse, Bedarf, Nachfrage.md"
+                "file": "Berufsschule/Berufsschulstoff.md"
               }
             }
           }
@@ -207,8 +207,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 465.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -221,8 +220,15 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "4db611046247676f",
+  "active": "aa9cb18731417191",
   "lastOpenFiles": [
+    "Berufsschule/Lernfeld 7/01. Maschinen Ablauf erklären.md",
+    "Berufsschule/Lernfeld 8/03. Aufgabe UML.md",
+    "Berufsschule/Lernfeld 8/02. Aktivitätsdiagramm.md",
+    "Berufsschule/Lernfeld 8/01.1 Umsetzung eines Klassendiagramms.md",
+    "Berufsschule/Lernfeld 8/01. Klassendiagramm.md",
+    "Berufsschule/Lernfeld 8/00. Was ist Lernfeld 8.md",
+    "Berufsschule/Lernfeld 7/00. Was ist Lernfeld 7.md",
     "index.md",
     "Berufsschule/Sozialkunde/Lernbaustein 1/Bedürfnisse, Bedarf, Nachfrage.md",
     "Assets/Pictures/Pasted image 20231002102326.png",
@@ -237,17 +243,12 @@
     "Berufsschule/Berufsschulstoff.md",
     "Berufsschule/µ-Controller/03. Widerstände bestimmen.md",
     "Berufsschule/µ-Controller/00. Wichtige Befehle.md",
-    "Berufsschule/Lernfeld 8/03. Aufgabe UML.md",
     "Programming Specific Stuff/CI_CD/Git/Git.md",
     "Programming Specific Stuff/CI_CD/Git/Submodule.md",
     "Programming Specific Stuff/CI_CD/DevOps.md",
     "Programming Specific Stuff/CI_CD/Git",
     "Programming Specific Stuff/CI_CD/Git/GitHub/GitHub Pages.md",
-    "Berufsschule/Lernfeld 8/01. Klassendiagramm.md",
-    "Berufsschule/Lernfeld 8/00. Was ist Lernfeld 8.md",
-    "Berufsschule/Lernfeld 8/02. Aktivitätsdiagramm.md",
     "Assets/Pictures/FS1 _ LA01 - Kunstwerk.pdf",
-    "Berufsschule/Lernfeld 8/01.1 Umsetzung eines Klassendiagramms.md",
     "Berufsschule/Lernfeld 6/Lernjob 1.md",
     "Berufsschule/Lernfeld 5/06. Arrays.md",
     "Berufsschule/Lernfeld 5/05. Zufallszahlen.md",
@@ -256,8 +257,6 @@
     "Berufsschule/Lernfeld 5/02. Operatoren.md",
     "Berufsschule/Lernfeld 5/01. Einfache Datentypen.md",
     "Berufsschule/Lernfeld 6/Lernfeld 6 - Serviceanfragen bearbeiten.md",
-    "Inhaltsverzeichnis.md",
-    "Templates/Back to Programming Shit.md",
     "Assets/Pictures/Spring Info.png",
     "Berufsschule/Lernfeld 5",
     "Programming Specific Stuff/Java/Projekte",

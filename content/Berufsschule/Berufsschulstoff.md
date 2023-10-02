@@ -38,7 +38,8 @@ title: 📖Berufsschul-Übersicht📖
 #### Lernbaustein 1
 
 - [[Produktionsfaktoren]]
-
+- [[Wirtschaftskreislauf]]
+- [[Bedürfnisse, Bedarf, Nachfrage]]
 ### µ-Controller
 
 - [[00. Wichtige Befehle]]

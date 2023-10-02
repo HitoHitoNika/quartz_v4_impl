@@ -1,12 +1,44 @@
 {
   "recentFiles": [
     {
-      "basename": "Bedürfnisse, Bedarf, Nachfrage",
-      "path": "Berufsschule/Sozialkunde/Lernbaustein 1/Bedürfnisse, Bedarf, Nachfrage.md"
+      "basename": "Berufsschulstoff",
+      "path": "Berufsschule/Berufsschulstoff.md"
+    },
+    {
+      "basename": "01. Maschinen Ablauf erklären",
+      "path": "Berufsschule/Lernfeld 7/01. Maschinen Ablauf erklären.md"
+    },
+    {
+      "basename": "03. Aufgabe UML",
+      "path": "Berufsschule/Lernfeld 8/03. Aufgabe UML.md"
+    },
+    {
+      "basename": "02. Aktivitätsdiagramm",
+      "path": "Berufsschule/Lernfeld 8/02. Aktivitätsdiagramm.md"
+    },
+    {
+      "basename": "01.1 Umsetzung eines Klassendiagramms",
+      "path": "Berufsschule/Lernfeld 8/01.1 Umsetzung eines Klassendiagramms.md"
+    },
+    {
+      "basename": "01. Klassendiagramm",
+      "path": "Berufsschule/Lernfeld 8/01. Klassendiagramm.md"
+    },
+    {
+      "basename": "00. Was ist Lernfeld 8",
+      "path": "Berufsschule/Lernfeld 8/00. Was ist Lernfeld 8.md"
+    },
+    {
+      "basename": "00. Was ist Lernfeld 7",
+      "path": "Berufsschule/Lernfeld 7/00. Was ist Lernfeld 7.md"
     },
     {
       "basename": "index",
       "path": "index.md"
+    },
+    {
+      "basename": "Bedürfnisse, Bedarf, Nachfrage",
+      "path": "Berufsschule/Sozialkunde/Lernbaustein 1/Bedürfnisse, Bedarf, Nachfrage.md"
     },
     {
       "basename": "Wirtschaftskreislauf",
@@ -29,10 +61,6 @@
       "path": "Assets/Pictures/Pasted image 20230913134903.png"
     },
     {
-      "basename": "Berufsschulstoff",
-      "path": "Berufsschule/Berufsschulstoff.md"
-    },
-    {
       "basename": "Produktionsfaktoren",
       "path": "Berufsschule/Sozialkunde/Lernbaustein 1/Produktionsfaktoren.md"
     },
@@ -43,10 +71,6 @@
     {
       "basename": "00. Wichtige Befehle",
       "path": "Berufsschule/µ-Controller/00. Wichtige Befehle.md"
-    },
-    {
-      "basename": "03. Aufgabe UML",
-      "path": "Berufsschule/Lernfeld 8/03. Aufgabe UML.md"
     },
     {
       "basename": "Inhaltsübersicht Prog",
@@ -67,22 +91,6 @@
     {
       "basename": "GitHub Pages",
       "path": "Programming Specific Stuff/CI_CD/Git/GitHub/GitHub Pages.md"
-    },
-    {
-      "basename": "01. Klassendiagramm",
-      "path": "Berufsschule/Lernfeld 8/01. Klassendiagramm.md"
-    },
-    {
-      "basename": "00. Was ist Lernfeld 8",
-      "path": "Berufsschule/Lernfeld 8/00. Was ist Lernfeld 8.md"
-    },
-    {
-      "basename": "02. Aktivitätsdiagramm",
-      "path": "Berufsschule/Lernfeld 8/02. Aktivitätsdiagramm.md"
-    },
-    {
-      "basename": "01.1 Umsetzung eines Klassendiagramms",
-      "path": "Berufsschule/Lernfeld 8/01.1 Umsetzung eines Klassendiagramms.md"
     },
     {
       "basename": "Lernjob 1",
