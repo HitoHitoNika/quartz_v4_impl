@@ -5,28 +5,56 @@
       "path": "Berufsschule/Berufsschulstoff.md"
     },
     {
+      "basename": "G_Access Point",
+      "path": "Berufsschule/Lernfeld 3/G_Access Point.md"
+    },
+    {
+      "basename": "Gateway",
+      "path": "Berufsschule/Lernfeld 3/Gateway.md"
+    },
+    {
+      "basename": "Hub",
+      "path": "Berufsschule/Lernfeld 3/Hub.md"
+    },
+    {
+      "basename": "Inhaltsübersicht Prog",
+      "path": "Programming Specific Stuff/Inhaltsübersicht Prog.md"
+    },
+    {
+      "basename": "08. Testen",
+      "path": "Berufsschule/Lernfeld 5/08. Testen.md"
+    },
+    {
+      "basename": "JUnit",
+      "path": "Programming Specific Stuff/Java/Testing/JUnit.md"
+    },
+    {
+      "basename": "07. Methoden",
+      "path": "Berufsschule/Lernfeld 5/07. Methoden.md"
+    },
+    {
+      "basename": "05. Zufallszahlen",
+      "path": "Berufsschule/Lernfeld 5/05. Zufallszahlen.md"
+    },
+    {
+      "basename": "06. Arrays",
+      "path": "Berufsschule/Lernfeld 5/06. Arrays.md"
+    },
+    {
+      "basename": "index",
+      "path": "index.md"
+    },
+    {
       "basename": "Inhaltsverzeichnis",
       "path": "Inhaltsverzeichnis.md"
     },
     {
-      "basename": "Gateway",
-      "path": "Berufsschule/Lernfeld 3/Netzwerke/Geräte/Gateway.md"
-    },
-    {
-      "basename": "Access Point",
-      "path": "Berufsschule/Lernfeld 3/Netzwerke/Geräte/Access Point.md"
-    },
-    {
       "basename": "Modem",
-      "path": "Berufsschule/Lernfeld 3/Netzwerke/Geräte/Modem.md"
-    },
-    {
-      "basename": "Hub",
-      "path": "Berufsschule/Lernfeld 3/Netzwerke/Geräte/Hub.md"
+      "path": "Berufsschule/Lernfeld 3/Modem.md"
     },
     {
       "basename": "Switch",
-      "path": "Berufsschule/Lernfeld 3/Netzwerke/Geräte/Switch.md"
+      "path": "Berufsschule/Lernfeld 3/Switch.md"
     },
     {
       "basename": "02. DHCP - Dynamic Host Configuration Protocol",
@@ -35,10 +63,6 @@
     {
       "basename": "01. DNS",
       "path": "Berufsschule/Lernfeld 9/01. DNS.md"
-    },
-    {
-      "basename": "index",
-      "path": "index.md"
     },
     {
       "basename": "01. Maschinen Ablauf erklären",
@@ -105,10 +129,6 @@
       "path": "Berufsschule/µ-Controller/00. Wichtige Befehle.md"
     },
     {
-      "basename": "Inhaltsübersicht Prog",
-      "path": "Programming Specific Stuff/Inhaltsübersicht Prog.md"
-    },
-    {
       "basename": "DevOps",
       "path": "Programming Specific Stuff/CI_CD/DevOps.md"
     },
@@ -127,14 +147,6 @@
     {
       "basename": "Lernjob 1",
       "path": "Berufsschule/Lernfeld 6/Lernjob 1.md"
-    },
-    {
-      "basename": "06. Arrays",
-      "path": "Berufsschule/Lernfeld 5/06. Arrays.md"
-    },
-    {
-      "basename": "05. Zufallszahlen",
-      "path": "Berufsschule/Lernfeld 5/05. Zufallszahlen.md"
     },
     {
       "basename": "04. Ausgabe und Eingabe",
@@ -187,18 +199,6 @@
     {
       "basename": "03. Projektstruktur",
       "path": "Programming Specific Stuff/Web-Entwicklung/Angular/03. Projektstruktur.md"
-    },
-    {
-      "basename": "02. Getting Started",
-      "path": "Programming Specific Stuff/Web-Entwicklung/Angular/02. Getting Started.md"
-    },
-    {
-      "basename": "01. Angular Installation Guide",
-      "path": "Programming Specific Stuff/Web-Entwicklung/Angular/01. Angular Installation Guide.md"
-    },
-    {
-      "basename": "07. Spring Boot Actuator",
-      "path": "Programming Specific Stuff/Java/Spring/07. Spring Boot Actuator.md"
     }
   ],
   "omittedPaths": [],

@@ -7,25 +7,11 @@ aliases:
 title: 📖Berufsschul-Übersicht📖
 ---
 Zurück zu [[Inhaltsverzeichnis]]
-
-Hier findest du Verlinkungen zu folgenden Themen :
-
-- [[#Lernfeld 3|Lernfeld 3]]
-	- [[#Lernfeld 3#Geräte|Geräte]]
-- [[#Lernfeld 5|Lernfeld 5]]
-- [[#Lernfeld 6|Lernfeld 6]]
-- [[#Lernfeld 7|Lernfeld 7]]
-- [[#Lernfeld 8|Lernfeld 8]]
-- [[#Lernfeld 9|Lernfeld 9]]
-- [[#Sozialkunde|Sozialkunde]]
-	- [[#Sozialkunde#Lernbaustein 1|Lernbaustein 1]]
-- [[#µ-Controller|µ-Controller]]
-
 ### Lernfeld 3
 
 #### Geräte
 
-- [[Access Point]]
+- [[G_Access Point|Access Point]]
 - [[Gateway]]
 - [[Hub]]
 - [[Modem]]
@@ -40,6 +26,8 @@ Hier findest du Verlinkungen zu folgenden Themen :
 - [[04. Ausgabe und Eingabe]]
 - [[05. Zufallszahlen]]
 - [[06. Arrays]]
+- [[07. Methoden]]
+- [[08. Testen]]
 ### Lernfeld 6
 
 - [[Lernfeld 6 - Serviceanfragen bearbeiten]]

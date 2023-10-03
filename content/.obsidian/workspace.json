@@ -28,7 +28,7 @@
             }
           },
           {
-            "id": "3bbba5fe6a7db945",
+            "id": "b5f2d4303735d68d",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -43,7 +43,59 @@
             }
           },
           {
-            "id": "17c8f16327e89718",
+            "id": "92733423875a89cd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming Specific Stuff/Inhaltsübersicht Prog.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f31bf74d2aaeb1f9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Berufsschule/Lernfeld 3/G_Access Point.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4e559c463e1022b8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Berufsschule/Lernfeld 3/Gateway.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "57b4aa1d91ea82d9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Berufsschule/Lernfeld 3/G_Access Point.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "efef55986219c405",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -56,7 +108,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -220,22 +272,30 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "17c8f16327e89718",
+  "active": "efef55986219c405",
   "lastOpenFiles": [
+    "Berufsschule/Lernfeld 3/G_Access Point.md",
+    "Berufsschule/Lernfeld 3/Gateway.md",
+    "Berufsschule/Lernfeld 3/Hub.md",
+    "Programming Specific Stuff/Inhaltsübersicht Prog.md",
+    "Berufsschule/Berufsschulstoff.md",
+    "Berufsschule/Lernfeld 5/08. Testen.md",
+    "Programming Specific Stuff/Java/Testing/JUnit.md",
+    "Programming Specific Stuff/Java/Testing",
+    "Berufsschule/Lernfeld 5/07. Methoden.md",
+    "Berufsschule/Lernfeld 5/05. Zufallszahlen.md",
+    "Berufsschule/Lernfeld 5/06. Arrays.md",
+    "index.md",
     "Inhaltsverzeichnis.md",
-    "Berufsschule/Lernfeld 3/Netzwerke/Geräte/Gateway.md",
-    "Berufsschule/Lernfeld 3/Netzwerke/Geräte/Access Point.md",
-    "Berufsschule/Lernfeld 3/Netzwerke/Geräte/Modem.md",
-    "Berufsschule/Lernfeld 3/Netzwerke/Geräte/Hub.md",
-    "Berufsschule/Lernfeld 3/Netzwerke/Geräte/Switch.md",
+    "Berufsschule/Lernfeld 3/Modem.md",
+    "Berufsschule/Lernfeld 3/Switch.md",
     "Berufsschule/Lernfeld 9/02. DHCP - Dynamic Host Configuration Protocol.md",
     "Berufsschule/Lernfeld 3/Netzwerke/Protokolle",
-    "Berufsschule/Lernfeld 3/Netzwerke/Geräte",
+    "Berufsschule/Lernfeld 3/Geräte",
     "Berufsschule/Lernfeld 3/Netzwerke",
     "Berufsschule/Lernfeld 3/Präsentationen",
     "Berufsschule/Lernfeld 3",
     "Berufsschule/Lernfeld 9/01. DNS.md",
-    "index.md",
     "Berufsschule/Lernfeld 7/Untitled",
     "Berufsschule/Lernfeld 7/01. Maschinen Ablauf erklären.md",
     "Berufsschule/Lernfeld 8/03. Aufgabe UML.md",
@@ -254,18 +314,10 @@
     "Assets/Pictures/Pasted image 20230913134903.png",
     "Berufsschule/Sozialkunde/Lernbaustein 1/Wirtschaftskreislauf.md",
     "Berufsschule/Sozialkunde/Lernbaustein 1/Produktionsfaktoren.md",
-    "Berufsschule/Berufsschulstoff.md",
-    "Berufsschule/µ-Controller/03. Widerstände bestimmen.md",
-    "Berufsschule/µ-Controller/00. Wichtige Befehle.md",
-    "Programming Specific Stuff/CI_CD/Git/Git.md",
-    "Programming Specific Stuff/CI_CD/Git/Submodule.md",
-    "Programming Specific Stuff/CI_CD/DevOps.md",
     "Programming Specific Stuff/CI_CD/Git",
-    "Programming Specific Stuff/CI_CD/Git/GitHub/GitHub Pages.md",
     "Assets/Pictures/FS1 _ LA01 - Kunstwerk.pdf",
     "Assets/Pictures/Spring Info.png",
     "Berufsschule/Lernfeld 5",
-    "Programming Specific Stuff/Java/Projekte",
     "Assets/Pictures/Arduino IDE Push Code.png",
     "Assets/Pictures/Arduino IDE Select Port.png",
     "Assets/Canvas/Hosting für Notes.canvas",

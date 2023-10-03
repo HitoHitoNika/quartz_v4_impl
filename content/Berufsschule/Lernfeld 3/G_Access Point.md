@@ -6,6 +6,7 @@ aliases:
   - Access Point
   - Access Points
   - AP
+title: Access Point
 ---
 Zurück zu [[Berufsschulstoff|Berufsschul-Inhaltsüberischt]]
 
