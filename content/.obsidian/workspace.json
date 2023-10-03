@@ -28,7 +28,7 @@
             }
           },
           {
-            "id": "942704b44f495dbc",
+            "id": "3bbba5fe6a7db945",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -43,7 +43,7 @@
             }
           },
           {
-            "id": "aa9cb18731417191",
+            "id": "17c8f16327e89718",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -85,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#CI ",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -207,7 +207,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 465.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -220,8 +220,23 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "aa9cb18731417191",
+  "active": "17c8f16327e89718",
   "lastOpenFiles": [
+    "Inhaltsverzeichnis.md",
+    "Berufsschule/Lernfeld 3/Netzwerke/Geräte/Gateway.md",
+    "Berufsschule/Lernfeld 3/Netzwerke/Geräte/Access Point.md",
+    "Berufsschule/Lernfeld 3/Netzwerke/Geräte/Modem.md",
+    "Berufsschule/Lernfeld 3/Netzwerke/Geräte/Hub.md",
+    "Berufsschule/Lernfeld 3/Netzwerke/Geräte/Switch.md",
+    "Berufsschule/Lernfeld 9/02. DHCP - Dynamic Host Configuration Protocol.md",
+    "Berufsschule/Lernfeld 3/Netzwerke/Protokolle",
+    "Berufsschule/Lernfeld 3/Netzwerke/Geräte",
+    "Berufsschule/Lernfeld 3/Netzwerke",
+    "Berufsschule/Lernfeld 3/Präsentationen",
+    "Berufsschule/Lernfeld 3",
+    "Berufsschule/Lernfeld 9/01. DNS.md",
+    "index.md",
+    "Berufsschule/Lernfeld 7/Untitled",
     "Berufsschule/Lernfeld 7/01. Maschinen Ablauf erklären.md",
     "Berufsschule/Lernfeld 8/03. Aufgabe UML.md",
     "Berufsschule/Lernfeld 8/02. Aktivitätsdiagramm.md",
@@ -229,7 +244,6 @@
     "Berufsschule/Lernfeld 8/01. Klassendiagramm.md",
     "Berufsschule/Lernfeld 8/00. Was ist Lernfeld 8.md",
     "Berufsschule/Lernfeld 7/00. Was ist Lernfeld 7.md",
-    "index.md",
     "Berufsschule/Sozialkunde/Lernbaustein 1/Bedürfnisse, Bedarf, Nachfrage.md",
     "Assets/Pictures/Pasted image 20231002102326.png",
     "Assets/Pictures/Pasted image 20230927142055.png",
@@ -249,26 +263,12 @@
     "Programming Specific Stuff/CI_CD/Git",
     "Programming Specific Stuff/CI_CD/Git/GitHub/GitHub Pages.md",
     "Assets/Pictures/FS1 _ LA01 - Kunstwerk.pdf",
-    "Berufsschule/Lernfeld 6/Lernjob 1.md",
-    "Berufsschule/Lernfeld 5/06. Arrays.md",
-    "Berufsschule/Lernfeld 5/05. Zufallszahlen.md",
-    "Berufsschule/Lernfeld 5/04. Ausgabe und Eingabe.md",
-    "Berufsschule/Lernfeld 5/03. Bedingungen und Schleifen.md",
-    "Berufsschule/Lernfeld 5/02. Operatoren.md",
-    "Berufsschule/Lernfeld 5/01. Einfache Datentypen.md",
-    "Berufsschule/Lernfeld 6/Lernfeld 6 - Serviceanfragen bearbeiten.md",
     "Assets/Pictures/Spring Info.png",
     "Berufsschule/Lernfeld 5",
     "Programming Specific Stuff/Java/Projekte",
     "Assets/Pictures/Arduino IDE Push Code.png",
     "Assets/Pictures/Arduino IDE Select Port.png",
-    "www.luv2code.com",
-    "Berufsschule/Lernfeld 8",
     "Assets/Canvas/Hosting für Notes.canvas",
-    "Berufsschule/Lernfeld 6",
-    "Programming Specific Stuff/CI_CD/Git/GitHub",
-    "Programming Specific Stuff/Web-Entwicklung/NodeJS",
-    "Templates",
     "Programming Specific Stuff/Web-Entwicklung/Angular/Untitled.canvas"
   ]
 }

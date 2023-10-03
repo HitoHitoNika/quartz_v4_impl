@@ -5,6 +5,42 @@
       "path": "Berufsschule/Berufsschulstoff.md"
     },
     {
+      "basename": "Inhaltsverzeichnis",
+      "path": "Inhaltsverzeichnis.md"
+    },
+    {
+      "basename": "Gateway",
+      "path": "Berufsschule/Lernfeld 3/Netzwerke/Geräte/Gateway.md"
+    },
+    {
+      "basename": "Access Point",
+      "path": "Berufsschule/Lernfeld 3/Netzwerke/Geräte/Access Point.md"
+    },
+    {
+      "basename": "Modem",
+      "path": "Berufsschule/Lernfeld 3/Netzwerke/Geräte/Modem.md"
+    },
+    {
+      "basename": "Hub",
+      "path": "Berufsschule/Lernfeld 3/Netzwerke/Geräte/Hub.md"
+    },
+    {
+      "basename": "Switch",
+      "path": "Berufsschule/Lernfeld 3/Netzwerke/Geräte/Switch.md"
+    },
+    {
+      "basename": "02. DHCP - Dynamic Host Configuration Protocol",
+      "path": "Berufsschule/Lernfeld 9/02. DHCP - Dynamic Host Configuration Protocol.md"
+    },
+    {
+      "basename": "01. DNS",
+      "path": "Berufsschule/Lernfeld 9/01. DNS.md"
+    },
+    {
+      "basename": "index",
+      "path": "index.md"
+    },
+    {
       "basename": "01. Maschinen Ablauf erklären",
       "path": "Berufsschule/Lernfeld 7/01. Maschinen Ablauf erklären.md"
     },
@@ -31,10 +67,6 @@
     {
       "basename": "00. Was ist Lernfeld 7",
       "path": "Berufsschule/Lernfeld 7/00. Was ist Lernfeld 7.md"
-    },
-    {
-      "basename": "index",
-      "path": "index.md"
     },
     {
       "basename": "Bedürfnisse, Bedarf, Nachfrage",
@@ -125,10 +157,6 @@
       "path": "Berufsschule/Lernfeld 6/Lernfeld 6 - Serviceanfragen bearbeiten.md"
     },
     {
-      "basename": "Inhaltsverzeichnis",
-      "path": "Inhaltsverzeichnis.md"
-    },
-    {
       "basename": "Back to Programming Shit",
       "path": "Templates/Back to Programming Shit.md"
     },
@@ -171,34 +199,6 @@
     {
       "basename": "07. Spring Boot Actuator",
       "path": "Programming Specific Stuff/Java/Spring/07. Spring Boot Actuator.md"
-    },
-    {
-      "basename": "06. Spring-Dev-Tools",
-      "path": "Programming Specific Stuff/Java/Spring/06. Spring-Dev-Tools.md"
-    },
-    {
-      "basename": "05. Spring Boot Starter Parent",
-      "path": "Programming Specific Stuff/Java/Spring/05. Spring Boot Starter Parent.md"
-    },
-    {
-      "basename": "04. Was ist ein Spring Project und warum Spring",
-      "path": "Programming Specific Stuff/Java/Spring/04. Was ist ein Spring Project und warum Spring.md"
-    },
-    {
-      "basename": "03. Spring REST Controller",
-      "path": "Programming Specific Stuff/Java/Spring/03. Spring REST Controller.md"
-    },
-    {
-      "basename": "02. Spring Initializr",
-      "path": "Programming Specific Stuff/Java/Spring/02. Spring Initializr.md"
-    },
-    {
-      "basename": "01. Spring vs Spring Boot",
-      "path": "Programming Specific Stuff/Java/Spring/01. Spring vs Spring Boot.md"
-    },
-    {
-      "basename": "Maven",
-      "path": "Programming Specific Stuff/Java/Maven/Maven.md"
     }
   ],
   "omittedPaths": [],
