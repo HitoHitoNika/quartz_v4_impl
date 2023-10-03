@@ -5,6 +5,7 @@ tags:
 aliases:
   - Switch
   - Switches
+title: Switch
 ---
 Zurück zu [[Berufsschulstoff|Berufsschul-Inhaltsüberischt]]
 

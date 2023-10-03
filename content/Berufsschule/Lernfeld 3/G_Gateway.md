@@ -2,6 +2,10 @@
 tags:
   - Berufsschule
   - LF3
+aliases:
+  - Gateway
+  - Gateways
+title: Gateway
 ---
 Zurück zu [[Berufsschulstoff|Berufsschul-Inhaltsüberischt]]
 

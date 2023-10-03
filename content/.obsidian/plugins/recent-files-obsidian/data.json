@@ -1,20 +1,48 @@
 {
   "recentFiles": [
     {
+      "basename": "02. DHCP - Dynamic Host Configuration Protocol",
+      "path": "Berufsschule/Lernfeld 9/02. DHCP - Dynamic Host Configuration Protocol.md"
+    },
+    {
+      "basename": "02.2 Stateless Adress Autoconfiguration - SLAAC",
+      "path": "Berufsschule/Lernfeld 9/02.2 Stateless Adress Autoconfiguration - SLAAC.md"
+    },
+    {
+      "basename": "P_Network Time Protocol",
+      "path": "Berufsschule/Lernfeld 3/P_Network Time Protocol.md"
+    },
+    {
+      "basename": "Inhaltsverzeichnis",
+      "path": "Inhaltsverzeichnis.md"
+    },
+    {
+      "basename": "index",
+      "path": "index.md"
+    },
+    {
       "basename": "Berufsschulstoff",
       "path": "Berufsschule/Berufsschulstoff.md"
     },
     {
+      "basename": "G_Switch",
+      "path": "Berufsschule/Lernfeld 3/G_Switch.md"
+    },
+    {
+      "basename": "G_Modem",
+      "path": "Berufsschule/Lernfeld 3/G_Modem.md"
+    },
+    {
+      "basename": "G_Hub",
+      "path": "Berufsschule/Lernfeld 3/G_Hub.md"
+    },
+    {
+      "basename": "G_Gateway",
+      "path": "Berufsschule/Lernfeld 3/G_Gateway.md"
+    },
+    {
       "basename": "G_Access Point",
       "path": "Berufsschule/Lernfeld 3/G_Access Point.md"
-    },
-    {
-      "basename": "Gateway",
-      "path": "Berufsschule/Lernfeld 3/Gateway.md"
-    },
-    {
-      "basename": "Hub",
-      "path": "Berufsschule/Lernfeld 3/Hub.md"
     },
     {
       "basename": "Inhaltsübersicht Prog",
@@ -39,26 +67,6 @@
     {
       "basename": "06. Arrays",
       "path": "Berufsschule/Lernfeld 5/06. Arrays.md"
-    },
-    {
-      "basename": "index",
-      "path": "index.md"
-    },
-    {
-      "basename": "Inhaltsverzeichnis",
-      "path": "Inhaltsverzeichnis.md"
-    },
-    {
-      "basename": "Modem",
-      "path": "Berufsschule/Lernfeld 3/Modem.md"
-    },
-    {
-      "basename": "Switch",
-      "path": "Berufsschule/Lernfeld 3/Switch.md"
-    },
-    {
-      "basename": "02. DHCP - Dynamic Host Configuration Protocol",
-      "path": "Berufsschule/Lernfeld 9/02. DHCP - Dynamic Host Configuration Protocol.md"
     },
     {
       "basename": "01. DNS",
@@ -191,14 +199,6 @@
     {
       "basename": "02. Wie verwende ich CSS",
       "path": "Programming Specific Stuff/Web-Entwicklung/CSS/02. Wie verwende ich CSS.md"
-    },
-    {
-      "basename": "01. Was ist CSS",
-      "path": "Programming Specific Stuff/Web-Entwicklung/CSS/01. Was ist CSS.md"
-    },
-    {
-      "basename": "03. Projektstruktur",
-      "path": "Programming Specific Stuff/Web-Entwicklung/Angular/03. Projektstruktur.md"
     }
   ],
   "omittedPaths": [],

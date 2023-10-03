@@ -5,6 +5,7 @@ tags:
 aliases:
   - Hub
   - Hubs
+title: Hub
 ---
 Zurück zu [[Berufsschulstoff|Berufsschul-Inhaltsüberischt]]
 

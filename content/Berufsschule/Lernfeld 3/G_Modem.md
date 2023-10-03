@@ -2,6 +2,9 @@
 tags:
   - Berufsschule
   - LF3
+aliases:
+  - Modem
+title: Modem
 ---
 Zurück zu [[Berufsschulstoff|Berufsschul-Inhaltsüberischt]]
 

@@ -12,10 +12,10 @@ Zurück zu [[Inhaltsverzeichnis]]
 #### Geräte
 
 - [[G_Access Point|Access Point]]
-- [[Gateway]]
-- [[Hub]]
-- [[Modem]]
-- [[Switch]]
+- [[G_Gateway|Gateway]]
+- [[G_Hub|Hub]]
+- [[G_Modem|Modem]]
+- [[G_Switch|Switch]]
 
 
 ### Lernfeld 5
