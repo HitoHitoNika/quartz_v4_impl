@@ -21,10 +21,14 @@ Die Funktionsweise eines Modems variiert je nach dem Übertragungsmedium, das es
 
 Hier sind einige gängige Beispiele für Modem-Typen und ihre Verwendung:
 
-1. **DSL-Modem**: Verwendet in DSL-Verbindungen über Telefonleitungen, um High-Speed-Internetzugang bereitzustellen.
+1. **DSL-Modem**: 
+	- Verwendet in DSL-Verbindungen über Telefonleitungen, um High-Speed-Internetzugang bereitzustellen.
     
-2. **Kabelmodem**: Wird in Breitbandkabelnetzwerken eingesetzt, um Internetzugang über Koaxialkabel zu ermöglichen.
+2. **Kabelmodem**:
+	- Wird in Breitbandkabelnetzwerken eingesetzt, um Internetzugang über Koaxialkabel zu ermöglichen.
     
-3. **Fiber-Optic-Modem**: Ermöglicht die Übertragung von Daten über Glasfaserleitungen mit hoher Bandbreite.
+3. **Fiber-Optic-Modem**:
+	- Ermöglicht die Übertragung von Daten über Glasfaserleitungen mit hoher Bandbreite.
     
-4. **Dial-Up-Modem**: Früher weit verbreitet, um eine Verbindung zum Internet über Telefonleitungen herzustellen, jedoch aufgrund der geringen Geschwindigkeit inzwischen veraltet.
+4. **Dial-Up-Modem**:
+	- Früher weit verbreitet, um eine Verbindung zum Internet über Telefonleitungen herzustellen, jedoch aufgrund der geringen Geschwindigkeit inzwischen veraltet.

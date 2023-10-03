@@ -36,34 +36,45 @@ ERP steht für "Enterprise Resource Planning". Es handelt sich um eine integrier
 
 ## B
 
-ERP-Systeme werden für eine Vielzahl von Aufgaben eingesetzt, darunter:
+ERP-Systeme werden für folgende Aufgaben verwendet:
 
-- **Finanzmanagement:** Buchhaltung, Budgetierung, Kostenaufstellung.
-- **Materialwirtschaft:** Bestandsverwaltung, Lieferkettenmanagement.
-- **Produktionssteuerung:** Fertigungsplanung und -steuerung.
-- **Personalmanagement:** Mitarbeiterdaten, Gehaltsabrechnung.
-- **Vertrieb und Marketing:** Auftragsverwaltung, Kundenbeziehungsmanagement.
-- **Berichterstattung und Analyse:** Generierung von Berichten und Analysen zur Unterstützung der Geschäftsentscheidungen.
+- **Finanzmanagement:** 
+	- Buchhaltung, Budgetierung, Kostenaufstellung.
+- **Materialwirtschaft:** 
+	- Bestandsverwaltung, Lieferkettenmanagement.
+- **Produktionssteuerung:** 
+	- Fertigungsplanung und -steuerung.
+- **Personalmanagement:** 
+	- Mitarbeiterdaten, Gehaltsabrechnung.
+- **Vertrieb und Marketing:** 
+	- Auftragsverwaltung, Kundenbeziehungsmanagement.
+- **Berichterstattung und Analyse:** 
+	- Generierung von Berichten und Analysen zur Unterstützung der Geschäftsentscheidungen.
 
 ## C
 
-ERP-Systeme bieten zahlreiche Vorteile, darunter:
+Folgende Vorteile werden bei ERP-Systemen angeführt:
 
-- **Effizienzsteigerung:** Durch Automatisierung von Prozessen und bessere Datenverfügbarkeit.
-- **Bessere Entscheidungsfindung:** Durch Echtzeitdaten und Analysen.
-- **Verbesserte Kundenzufriedenheit:** Durch schnellere Auftragsabwicklung und genauere Informationen.
-- **Kosteneinsparungen:** Durch optimierte Ressourcennutzung.
-- **Skalierbarkeit:** Unternehmen können wachsen, ohne ihre IT-Systeme grundlegend ändern zu müssen.
+- **Effizienzsteigerung:** 
+	- Durch Automatisierung von Prozessen und bessere Datenverfügbarkeit.
+- **Bessere Entscheidungsfindung:** 
+	- Durch Echtzeitdaten und Analysen.
+- **Verbesserte Kundenzufriedenheit:** 
+	- Durch schnellere Auftragsabwicklung und genauere Informationen.
+- **Kosteneinsparungen:** 
+	- Durch optimierte Ressourcennutzung.
+- **Skalierbarkeit:** 
+	- Unternehmen können wachsen, ohne ihre IT-Systeme grundlegend ändern zu müssen.
 
 ## D
 
 - **SAP:** SAP ERP, SAP S/4HANA.
-    - **Oracle:** Oracle ERP Cloud, Oracle NetSuite.
-    - **Microsoft:** Microsoft Dynamics 365 for Finance and Operations, Microsoft Dynamics NAV.
-    - **Infor:** Infor ERP LN, Infor CloudSuite.
-    - **Epicor:** Epicor ERP.
-    - **Sage:** Sage X3, Sage Intacct.
-    - **Odoo:** Odoo (Open Source ERP).
+- **Oracle:** Oracle ERP Cloud, Oracle NetSuite.
+- **Microsoft:** Microsoft Dynamics 365 for Finance and Operations, Microsoft Dynamics NAV.
+- **Infor:** Infor ERP LN, Infor CloudSuite.
+- **Epicor:** Epicor ERP.
+- **Sage:** Sage X3, Sage Intacct.
+- **Odoo:** Odoo (Open Source ERP).
 
 Der ERP-Softwaremarkt ist dynamisch, und es gibt viele Anbieter, die auf spezifische Branchen oder Unternehmensgrößen zugeschnittene Lösungen anbieten.
 

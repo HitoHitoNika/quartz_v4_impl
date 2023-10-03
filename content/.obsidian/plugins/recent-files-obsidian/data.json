@@ -1,8 +1,40 @@
 {
   "recentFiles": [
     {
+      "basename": "Lernjob 1",
+      "path": "Berufsschule/Lernfeld 6/Lernjob 1.md"
+    },
+    {
+      "basename": "Berufsschulstoff",
+      "path": "Berufsschule/Berufsschulstoff.md"
+    },
+    {
+      "basename": "G_Access Point",
+      "path": "Berufsschule/Lernfeld 3/G_Access Point.md"
+    },
+    {
+      "basename": "G_Gateway",
+      "path": "Berufsschule/Lernfeld 3/G_Gateway.md"
+    },
+    {
+      "basename": "G_Hub",
+      "path": "Berufsschule/Lernfeld 3/G_Hub.md"
+    },
+    {
+      "basename": "G_Switch",
+      "path": "Berufsschule/Lernfeld 3/G_Switch.md"
+    },
+    {
+      "basename": "G_Modem",
+      "path": "Berufsschule/Lernfeld 3/G_Modem.md"
+    },
+    {
       "basename": "02. DHCP - Dynamic Host Configuration Protocol",
       "path": "Berufsschule/Lernfeld 9/02. DHCP - Dynamic Host Configuration Protocol.md"
+    },
+    {
+      "basename": "index",
+      "path": "index.md"
     },
     {
       "basename": "02.2 Stateless Adress Autoconfiguration - SLAAC",
@@ -15,34 +47,6 @@
     {
       "basename": "Inhaltsverzeichnis",
       "path": "Inhaltsverzeichnis.md"
-    },
-    {
-      "basename": "index",
-      "path": "index.md"
-    },
-    {
-      "basename": "Berufsschulstoff",
-      "path": "Berufsschule/Berufsschulstoff.md"
-    },
-    {
-      "basename": "G_Switch",
-      "path": "Berufsschule/Lernfeld 3/G_Switch.md"
-    },
-    {
-      "basename": "G_Modem",
-      "path": "Berufsschule/Lernfeld 3/G_Modem.md"
-    },
-    {
-      "basename": "G_Hub",
-      "path": "Berufsschule/Lernfeld 3/G_Hub.md"
-    },
-    {
-      "basename": "G_Gateway",
-      "path": "Berufsschule/Lernfeld 3/G_Gateway.md"
-    },
-    {
-      "basename": "G_Access Point",
-      "path": "Berufsschule/Lernfeld 3/G_Access Point.md"
     },
     {
       "basename": "Inhaltsübersicht Prog",
@@ -151,10 +155,6 @@
     {
       "basename": "GitHub Pages",
       "path": "Programming Specific Stuff/CI_CD/Git/GitHub/GitHub Pages.md"
-    },
-    {
-      "basename": "Lernjob 1",
-      "path": "Berufsschule/Lernfeld 6/Lernjob 1.md"
     },
     {
       "basename": "04. Ausgabe und Eingabe",

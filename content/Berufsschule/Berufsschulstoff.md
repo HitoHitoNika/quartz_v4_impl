@@ -17,6 +17,10 @@ Zurück zu [[Inhaltsverzeichnis]]
 - [[G_Modem|Modem]]
 - [[G_Switch|Switch]]
 
+#### Protokolle
+
+- [[P_Network Time Protocol|NTP]]
+
 
 ### Lernfeld 5
 
@@ -46,6 +50,9 @@ Zurück zu [[Inhaltsverzeichnis]]
 ### Lernfeld 9
 
 - [[01. DNS]]
+- [[02. DHCP - Dynamic Host Configuration Protocol]]
+- [[02.2 Stateless Adress Autoconfiguration - SLAAC]]
+
 ### Sozialkunde
 
 #### Lernbaustein 1
