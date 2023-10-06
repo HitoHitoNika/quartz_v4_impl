@@ -41,5 +41,4 @@ NTP ist entscheidend in Computernetzwerken aus verschiedenen Gründen:
 - **Datenaufzeichnung**: In vielen Anwendungen ist eine genaue Zeiterfassung wichtig, um sicherzustellen, dass Daten und Transaktionen korrekt protokolliert werden.
 
 
-Test ==\&nbsp==
 
