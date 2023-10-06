@@ -2,7 +2,6 @@
 tags:
   - Berufsschule
   - Sozi
-Created: 04-09-2023, 10:42
 ---
 Zurück zu [[Berufsschulstoff|Berufsschul-Inhaltsüberischt]]
 

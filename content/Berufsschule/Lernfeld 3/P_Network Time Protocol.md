@@ -39,3 +39,7 @@ NTP ist entscheidend in Computernetzwerken aus verschiedenen Gründen:
 - **Sicherheit**: NTP hilft auch bei Sicherheitsmaßnahmen, da genaue Zeitstempel bei der Erkennung von Angriffen und beim Protokollieren von Sicherheitsereignissen helfen.
     
 - **Datenaufzeichnung**: In vielen Anwendungen ist eine genaue Zeiterfassung wichtig, um sicherzustellen, dass Daten und Transaktionen korrekt protokolliert werden.
+
+
+Test ==\&nbsp==
+

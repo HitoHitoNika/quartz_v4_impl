@@ -1,7 +1,6 @@
 ---
 tags:
   - Index
-Created: 12-09-2023, 18:30
 title: 👋🏻 Willkommen in meinem Wiki ! 👋🏻
 ---
 

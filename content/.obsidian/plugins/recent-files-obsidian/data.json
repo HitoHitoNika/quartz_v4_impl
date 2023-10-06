@@ -1,16 +1,104 @@
 {
   "recentFiles": [
     {
+      "basename": "P_Network Time Protocol",
+      "path": "Berufsschule/Lernfeld 3/P_Network Time Protocol.md"
+    },
+    {
+      "basename": "index",
+      "path": "index.md"
+    },
+    {
+      "basename": "Test_Kanban",
+      "path": "Assets/Canvas/Test_Kanban.md"
+    },
+    {
+      "basename": "Hosting für Notes",
+      "path": "Assets/Canvas/Hosting für Notes.canvas"
+    },
+    {
+      "basename": "G_Access Point",
+      "path": "Berufsschule/Lernfeld 3/G_Access Point.md"
+    },
+    {
+      "basename": "Quartz",
+      "path": "Obsidian/Quartz.md"
+    },
+    {
+      "basename": "Produktionsfaktoren",
+      "path": "Berufsschule/Sozialkunde/Lernbaustein 1/Produktionsfaktoren.md"
+    },
+    {
+      "basename": "npm",
+      "path": "Programming Specific Stuff/Web-Entwicklung/NodeJS/npm.md"
+    },
+    {
+      "basename": "NodeJS",
+      "path": "Programming Specific Stuff/Web-Entwicklung/NodeJS/NodeJS.md"
+    },
+    {
+      "basename": "Maven",
+      "path": "Programming Specific Stuff/Java/Maven/Maven.md"
+    },
+    {
+      "basename": "Guide to Obsidian",
+      "path": "Obsidian/Guide to Obsidian.md"
+    },
+    {
+      "basename": "04. Was ist ein Spring Project und warum Spring",
+      "path": "Programming Specific Stuff/Java/Spring/04. Was ist ein Spring Project und warum Spring.md"
+    },
+    {
+      "basename": "03. Spring REST Controller",
+      "path": "Programming Specific Stuff/Java/Spring/03. Spring REST Controller.md"
+    },
+    {
+      "basename": "03. Projektstruktur",
+      "path": "Programming Specific Stuff/Web-Entwicklung/Angular/03. Projektstruktur.md"
+    },
+    {
+      "basename": "03. Bootstrap - CSS Framework",
+      "path": "Programming Specific Stuff/Web-Entwicklung/CSS/03. Bootstrap - CSS Framework.md"
+    },
+    {
+      "basename": "02. Wie verwende ich CSS",
+      "path": "Programming Specific Stuff/Web-Entwicklung/CSS/02. Wie verwende ich CSS.md"
+    },
+    {
+      "basename": "02. Spring Initializr",
+      "path": "Programming Specific Stuff/Java/Spring/02. Spring Initializr.md"
+    },
+    {
+      "basename": "02. Getting Started",
+      "path": "Programming Specific Stuff/Web-Entwicklung/Angular/02. Getting Started.md"
+    },
+    {
+      "basename": "01. Was ist CSS",
+      "path": "Programming Specific Stuff/Web-Entwicklung/CSS/01. Was ist CSS.md"
+    },
+    {
+      "basename": "01. Spring vs Spring Boot",
+      "path": "Programming Specific Stuff/Java/Spring/01. Spring vs Spring Boot.md"
+    },
+    {
+      "basename": "01. DNS",
+      "path": "Berufsschule/Lernfeld 9/01. DNS.md"
+    },
+    {
+      "basename": "01. Angular Installation Guide",
+      "path": "Programming Specific Stuff/Web-Entwicklung/Angular/01. Angular Installation Guide.md"
+    },
+    {
+      "basename": "00. Was ist Lernfeld 7",
+      "path": "Berufsschule/Lernfeld 7/00. Was ist Lernfeld 7.md"
+    },
+    {
       "basename": "Lernjob 1",
       "path": "Berufsschule/Lernfeld 6/Lernjob 1.md"
     },
     {
       "basename": "Berufsschulstoff",
       "path": "Berufsschule/Berufsschulstoff.md"
-    },
-    {
-      "basename": "G_Access Point",
-      "path": "Berufsschule/Lernfeld 3/G_Access Point.md"
     },
     {
       "basename": "G_Gateway",
@@ -33,16 +121,8 @@
       "path": "Berufsschule/Lernfeld 9/02. DHCP - Dynamic Host Configuration Protocol.md"
     },
     {
-      "basename": "index",
-      "path": "index.md"
-    },
-    {
       "basename": "02.2 Stateless Adress Autoconfiguration - SLAAC",
       "path": "Berufsschule/Lernfeld 9/02.2 Stateless Adress Autoconfiguration - SLAAC.md"
-    },
-    {
-      "basename": "P_Network Time Protocol",
-      "path": "Berufsschule/Lernfeld 3/P_Network Time Protocol.md"
     },
     {
       "basename": "Inhaltsverzeichnis",
@@ -73,10 +153,6 @@
       "path": "Berufsschule/Lernfeld 5/06. Arrays.md"
     },
     {
-      "basename": "01. DNS",
-      "path": "Berufsschule/Lernfeld 9/01. DNS.md"
-    },
-    {
       "basename": "01. Maschinen Ablauf erklären",
       "path": "Berufsschule/Lernfeld 7/01. Maschinen Ablauf erklären.md"
     },
@@ -101,10 +177,6 @@
       "path": "Berufsschule/Lernfeld 8/00. Was ist Lernfeld 8.md"
     },
     {
-      "basename": "00. Was ist Lernfeld 7",
-      "path": "Berufsschule/Lernfeld 7/00. Was ist Lernfeld 7.md"
-    },
-    {
       "basename": "Bedürfnisse, Bedarf, Nachfrage",
       "path": "Berufsschule/Sozialkunde/Lernbaustein 1/Bedürfnisse, Bedarf, Nachfrage.md"
     },
@@ -127,78 +199,6 @@
     {
       "basename": "Pasted image 20230913134903",
       "path": "Assets/Pictures/Pasted image 20230913134903.png"
-    },
-    {
-      "basename": "Produktionsfaktoren",
-      "path": "Berufsschule/Sozialkunde/Lernbaustein 1/Produktionsfaktoren.md"
-    },
-    {
-      "basename": "03. Widerstände bestimmen",
-      "path": "Berufsschule/µ-Controller/03. Widerstände bestimmen.md"
-    },
-    {
-      "basename": "00. Wichtige Befehle",
-      "path": "Berufsschule/µ-Controller/00. Wichtige Befehle.md"
-    },
-    {
-      "basename": "DevOps",
-      "path": "Programming Specific Stuff/CI_CD/DevOps.md"
-    },
-    {
-      "basename": "Git",
-      "path": "Programming Specific Stuff/CI_CD/Git/Git.md"
-    },
-    {
-      "basename": "Submodule",
-      "path": "Programming Specific Stuff/CI_CD/Git/Submodule.md"
-    },
-    {
-      "basename": "GitHub Pages",
-      "path": "Programming Specific Stuff/CI_CD/Git/GitHub/GitHub Pages.md"
-    },
-    {
-      "basename": "04. Ausgabe und Eingabe",
-      "path": "Berufsschule/Lernfeld 5/04. Ausgabe und Eingabe.md"
-    },
-    {
-      "basename": "03. Bedingungen und Schleifen",
-      "path": "Berufsschule/Lernfeld 5/03. Bedingungen und Schleifen.md"
-    },
-    {
-      "basename": "02. Operatoren",
-      "path": "Berufsschule/Lernfeld 5/02. Operatoren.md"
-    },
-    {
-      "basename": "01. Einfache Datentypen",
-      "path": "Berufsschule/Lernfeld 5/01. Einfache Datentypen.md"
-    },
-    {
-      "basename": "Lernfeld 6 - Serviceanfragen bearbeiten",
-      "path": "Berufsschule/Lernfeld 6/Lernfeld 6 - Serviceanfragen bearbeiten.md"
-    },
-    {
-      "basename": "Back to Programming Shit",
-      "path": "Templates/Back to Programming Shit.md"
-    },
-    {
-      "basename": "Back to Berufsschulzeug",
-      "path": "Templates/Back to Berufsschulzeug.md"
-    },
-    {
-      "basename": "npm",
-      "path": "Programming Specific Stuff/Web-Entwicklung/NodeJS/npm.md"
-    },
-    {
-      "basename": "NodeJS",
-      "path": "Programming Specific Stuff/Web-Entwicklung/NodeJS/NodeJS.md"
-    },
-    {
-      "basename": "03. Bootstrap - CSS Framework",
-      "path": "Programming Specific Stuff/Web-Entwicklung/CSS/03. Bootstrap - CSS Framework.md"
-    },
-    {
-      "basename": "02. Wie verwende ich CSS",
-      "path": "Programming Specific Stuff/Web-Entwicklung/CSS/02. Wie verwende ich CSS.md"
     }
   ],
   "omittedPaths": [],

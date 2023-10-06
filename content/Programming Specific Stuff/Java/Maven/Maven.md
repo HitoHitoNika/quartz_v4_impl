@@ -2,7 +2,6 @@
 tags:
   - Java
   - Guide
-Created: 07-09-2023, 14:49
 ---
 Zurück zu [[Inhaltsübersicht Prog|Programming Shit]]
 ## Was ist Maven?

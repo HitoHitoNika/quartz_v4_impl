@@ -1,13 +1,18 @@
 {
 	"nodes":[
 		{"id":"5c261ba08a8d5d76","type":"text","text":"Repo => Notes","x":-560,"y":-200,"width":250,"height":60},
-		{"id":"748109fd46265687","type":"text","text":"Repo => Quartz WebService","x":160,"y":-200,"width":250,"height":60},
 		{"id":"f0e6c38fee47d2e2","type":"text","text":"GitHub Action Zeugs für Free Seite","x":160,"y":140,"width":250,"height":60},
 		{"id":"3b206c806c9a4b52","type":"text","text":"inwx für Domain Eintrag","x":-560,"y":140,"width":250,"height":60},
 		{"id":"fc80c0b9d7a737d5","type":"text","text":"Free Seite 😎","x":160,"y":332,"width":250,"height":60},
-		{"id":"6ab629940e1ddcae","x":-205,"y":-20,"width":250,"height":60,"type":"text","text":"Seperates Repo\nhändiges hinzufügen"},
+		{"id":"6ab629940e1ddcae","type":"text","text":"Seperates Repo\nhändiges hinzufügen","x":-205,"y":-20,"width":250,"height":60},
 		{"id":"a90d1460e583a8d3","type":"file","file":"Programming Specific Stuff/CI_CD/Git/Submodule.md","x":-242,"y":-480,"width":325,"height":240},
-		{"id":"95f5b6d2a6e4f941","x":-204,"y":-620,"width":250,"height":60,"type":"text","text":"TRASH IDEE :D:D:D:D:D:D:D"}
+		{"id":"95f5b6d2a6e4f941","type":"text","text":"Theoretisch möglich aber Overkill","x":-204,"y":-620,"width":250,"height":60},
+		{"id":"8dd4a102cf327031","x":-484,"y":-754,"width":250,"height":60,"type":"text","text":"ALTER PLAN"},
+		{"id":"4205fe9f328664b1","x":720,"y":-754,"width":250,"height":60,"type":"text","text":"Neuer Plan\n"},
+		{"id":"e743cfc1184757ab","x":720,"y":-560,"width":250,"height":60,"type":"text","text":"Quartz Repo"},
+		{"id":"6c4c2f4eaf5fd4ba","x":720,"y":-200,"width":250,"height":60,"type":"text","text":"Quartz Repo als Backup verwenden"},
+		{"id":"f35f42d97e13e9e5","x":720,"y":-390,"width":250,"height":60,"type":"text","text":"Notes im Content Ordner hinterlegen"},
+		{"id":"748109fd46265687","type":"text","text":"Repo => Quartz WebService","x":160,"y":-200,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"93cd4ff451355a1d","fromNode":"5c261ba08a8d5d76","fromSide":"right","toNode":"748109fd46265687","toSide":"left","label":"Notes Sync für aktuelle Darstellung"},
@@ -18,6 +23,10 @@
 		{"id":"68d5ae74e1ab98c0","fromNode":"a90d1460e583a8d3","fromSide":"right","toNode":"748109fd46265687","toSide":"left"},
 		{"id":"7c2dd08cf6e477ff","fromNode":"a90d1460e583a8d3","fromSide":"top","toNode":"95f5b6d2a6e4f941","toSide":"bottom"},
 		{"id":"69f23c057784c5f9","fromNode":"5c261ba08a8d5d76","fromSide":"right","toNode":"6ab629940e1ddcae","toSide":"left"},
-		{"id":"b49141f09c415bb0","fromNode":"6ab629940e1ddcae","fromSide":"right","toNode":"748109fd46265687","toSide":"left"}
+		{"id":"b49141f09c415bb0","fromNode":"6ab629940e1ddcae","fromSide":"right","toNode":"748109fd46265687","toSide":"left"},
+		{"id":"53621578d4c51669","fromNode":"8dd4a102cf327031","fromSide":"right","toNode":"4205fe9f328664b1","toSide":"left"},
+		{"id":"ba624da6113dbaf5","fromNode":"e743cfc1184757ab","fromSide":"right","toNode":"f35f42d97e13e9e5","toSide":"left"},
+		{"id":"184cf3b42e5c57f0","fromNode":"f35f42d97e13e9e5","fromSide":"right","toNode":"6c4c2f4eaf5fd4ba","toSide":"left"},
+		{"id":"8fee97ab3555e4ef","fromNode":"6c4c2f4eaf5fd4ba","fromSide":"bottom","toNode":"f0e6c38fee47d2e2","toSide":"right"}
 	]
 }
