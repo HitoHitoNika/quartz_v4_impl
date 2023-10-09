@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Berufsschulstoff",
+      "path": "Berufsschule/Berufsschulstoff.md"
+    },
+    {
+      "basename": "index",
+      "path": "index.md"
+    },
+    {
       "basename": "09. Daten suchen & sortieren",
       "path": "Berufsschule/Lernfeld 5/09. Daten suchen & sortieren.md"
     },
@@ -15,10 +23,6 @@
     {
       "basename": "03. Widerstände bestimmen",
       "path": "Berufsschule/µ-Controller/03. Widerstände bestimmen.md"
-    },
-    {
-      "basename": "index",
-      "path": "index.md"
     },
     {
       "basename": "P_Network Time Protocol",
@@ -111,10 +115,6 @@
     {
       "basename": "Lernjob 1",
       "path": "Berufsschule/Lernfeld 6/Lernjob 1.md"
-    },
-    {
-      "basename": "Berufsschulstoff",
-      "path": "Berufsschule/Berufsschulstoff.md"
     },
     {
       "basename": "G_Gateway",

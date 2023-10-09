@@ -32,6 +32,8 @@ Zurück zu [[Inhaltsverzeichnis]]
 - [[06. Arrays]]
 - [[07. Methoden]]
 - [[08. Testen]]
+- [[09. Daten suchen & sortieren]]
+
 ### Lernfeld 6
 
 - [[Lernfeld 6 - Serviceanfragen bearbeiten]]
