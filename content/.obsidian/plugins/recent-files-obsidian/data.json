@@ -1,32 +1,156 @@
 {
   "recentFiles": [
     {
-      "basename": "Berufsschulstoff",
-      "path": "Berufsschule/Berufsschulstoff.md"
+      "basename": "Inhaltsverzeichnis",
+      "path": "Inhaltsverzeichnis.md"
     },
     {
       "basename": "index",
       "path": "index.md"
     },
     {
-      "basename": "09. Daten suchen & sortieren",
-      "path": "Berufsschule/Lernfeld 5/09. Daten suchen & sortieren.md"
-    },
-    {
-      "basename": "02.2 Stateless Adress Autoconfiguration - SLAAC",
-      "path": "Berufsschule/Lernfeld 9/02.2 Stateless Adress Autoconfiguration - SLAAC.md"
-    },
-    {
-      "basename": "01. Maschinen Ablauf erklären",
-      "path": "Berufsschule/Lernfeld 7/01. Maschinen Ablauf erklären.md"
+      "basename": "Berufsschulstoff",
+      "path": "Berufsschule/Berufsschulstoff.md"
     },
     {
       "basename": "03. Widerstände bestimmen",
       "path": "Berufsschule/µ-Controller/03. Widerstände bestimmen.md"
     },
     {
+      "basename": "02. Arduino IDE",
+      "path": "Berufsschule/µ-Controller/02. Arduino IDE.md"
+    },
+    {
+      "basename": "Bedürfnisse, Bedarf, Nachfrage",
+      "path": "Berufsschule/Sozialkunde/Lernbaustein 1/Bedürfnisse, Bedarf, Nachfrage.md"
+    },
+    {
+      "basename": "01. Warum Mikrocontroller",
+      "path": "Berufsschule/µ-Controller/01. Warum Mikrocontroller.md"
+    },
+    {
+      "basename": "00. Wichtige Befehle",
+      "path": "Berufsschule/µ-Controller/00. Wichtige Befehle.md"
+    },
+    {
+      "basename": "Wirtschaftskreislauf",
+      "path": "Berufsschule/Sozialkunde/Lernbaustein 1/Wirtschaftskreislauf.md"
+    },
+    {
+      "basename": "Produktionsfaktoren",
+      "path": "Berufsschule/Sozialkunde/Lernbaustein 1/Produktionsfaktoren.md"
+    },
+    {
+      "basename": "02.2 Stateless Adress Autoconfiguration - SLAAC",
+      "path": "Berufsschule/Lernfeld 9/02.2 Stateless Adress Autoconfiguration - SLAAC.md"
+    },
+    {
+      "basename": "02. DHCP - Dynamic Host Configuration Protocol",
+      "path": "Berufsschule/Lernfeld 9/02. DHCP - Dynamic Host Configuration Protocol.md"
+    },
+    {
+      "basename": "01. DNS",
+      "path": "Berufsschule/Lernfeld 9/01. DNS.md"
+    },
+    {
+      "basename": "03. Aufgabe UML",
+      "path": "Berufsschule/Lernfeld 8/03. Aufgabe UML.md"
+    },
+    {
+      "basename": "02. Aktivitätsdiagramm",
+      "path": "Berufsschule/Lernfeld 8/02. Aktivitätsdiagramm.md"
+    },
+    {
+      "basename": "01.1 Umsetzung eines Klassendiagramms",
+      "path": "Berufsschule/Lernfeld 8/01.1 Umsetzung eines Klassendiagramms.md"
+    },
+    {
+      "basename": "01. Klassendiagramm",
+      "path": "Berufsschule/Lernfeld 8/01. Klassendiagramm.md"
+    },
+    {
+      "basename": "00. Was ist Lernfeld 8",
+      "path": "Berufsschule/Lernfeld 8/00. Was ist Lernfeld 8.md"
+    },
+    {
+      "basename": "01. Maschinen Ablauf erklären",
+      "path": "Berufsschule/Lernfeld 7/01. Maschinen Ablauf erklären.md"
+    },
+    {
+      "basename": "00. Was ist Lernfeld 7",
+      "path": "Berufsschule/Lernfeld 7/00. Was ist Lernfeld 7.md"
+    },
+    {
+      "basename": "Lernjob 1",
+      "path": "Berufsschule/Lernfeld 6/Lernjob 1.md"
+    },
+    {
+      "basename": "Lernfeld 6 - Serviceanfragen bearbeiten",
+      "path": "Berufsschule/Lernfeld 6/Lernfeld 6 - Serviceanfragen bearbeiten.md"
+    },
+    {
+      "basename": "09. Daten suchen & sortieren",
+      "path": "Berufsschule/Lernfeld 5/09. Daten suchen & sortieren.md"
+    },
+    {
+      "basename": "08. Testen",
+      "path": "Berufsschule/Lernfeld 5/08. Testen.md"
+    },
+    {
+      "basename": "07. Methoden",
+      "path": "Berufsschule/Lernfeld 5/07. Methoden.md"
+    },
+    {
+      "basename": "06. Arrays",
+      "path": "Berufsschule/Lernfeld 5/06. Arrays.md"
+    },
+    {
+      "basename": "05. Zufallszahlen",
+      "path": "Berufsschule/Lernfeld 5/05. Zufallszahlen.md"
+    },
+    {
+      "basename": "04. Ausgabe und Eingabe",
+      "path": "Berufsschule/Lernfeld 5/04. Ausgabe und Eingabe.md"
+    },
+    {
+      "basename": "03. Bedingungen und Schleifen",
+      "path": "Berufsschule/Lernfeld 5/03. Bedingungen und Schleifen.md"
+    },
+    {
+      "basename": "02. Operatoren",
+      "path": "Berufsschule/Lernfeld 5/02. Operatoren.md"
+    },
+    {
+      "basename": "01. Einfache Datentypen",
+      "path": "Berufsschule/Lernfeld 5/01. Einfache Datentypen.md"
+    },
+    {
       "basename": "P_Network Time Protocol",
       "path": "Berufsschule/Lernfeld 3/P_Network Time Protocol.md"
+    },
+    {
+      "basename": "G_Switch",
+      "path": "Berufsschule/Lernfeld 3/G_Switch.md"
+    },
+    {
+      "basename": "G_Modem",
+      "path": "Berufsschule/Lernfeld 3/G_Modem.md"
+    },
+    {
+      "basename": "G_Hub",
+      "path": "Berufsschule/Lernfeld 3/G_Hub.md"
+    },
+    {
+      "basename": "G_Gateway",
+      "path": "Berufsschule/Lernfeld 3/G_Gateway.md"
+    },
+    {
+      "basename": "G_Access Point",
+      "path": "Berufsschule/Lernfeld 3/G_Access Point.md"
+    },
+    {
+      "basename": "Back to Berufsschulzeug",
+      "path": "Templates/Back to Berufsschulzeug.md"
     },
     {
       "basename": "Test_Kanban",
@@ -37,16 +161,8 @@
       "path": "Assets/Canvas/Hosting für Notes.canvas"
     },
     {
-      "basename": "G_Access Point",
-      "path": "Berufsschule/Lernfeld 3/G_Access Point.md"
-    },
-    {
       "basename": "Quartz",
       "path": "Obsidian/Quartz.md"
-    },
-    {
-      "basename": "Produktionsfaktoren",
-      "path": "Berufsschule/Sozialkunde/Lernbaustein 1/Produktionsfaktoren.md"
     },
     {
       "basename": "npm",
@@ -83,118 +199,6 @@
     {
       "basename": "02. Wie verwende ich CSS",
       "path": "Programming Specific Stuff/Web-Entwicklung/CSS/02. Wie verwende ich CSS.md"
-    },
-    {
-      "basename": "02. Spring Initializr",
-      "path": "Programming Specific Stuff/Java/Spring/02. Spring Initializr.md"
-    },
-    {
-      "basename": "02. Getting Started",
-      "path": "Programming Specific Stuff/Web-Entwicklung/Angular/02. Getting Started.md"
-    },
-    {
-      "basename": "01. Was ist CSS",
-      "path": "Programming Specific Stuff/Web-Entwicklung/CSS/01. Was ist CSS.md"
-    },
-    {
-      "basename": "01. Spring vs Spring Boot",
-      "path": "Programming Specific Stuff/Java/Spring/01. Spring vs Spring Boot.md"
-    },
-    {
-      "basename": "01. DNS",
-      "path": "Berufsschule/Lernfeld 9/01. DNS.md"
-    },
-    {
-      "basename": "01. Angular Installation Guide",
-      "path": "Programming Specific Stuff/Web-Entwicklung/Angular/01. Angular Installation Guide.md"
-    },
-    {
-      "basename": "00. Was ist Lernfeld 7",
-      "path": "Berufsschule/Lernfeld 7/00. Was ist Lernfeld 7.md"
-    },
-    {
-      "basename": "Lernjob 1",
-      "path": "Berufsschule/Lernfeld 6/Lernjob 1.md"
-    },
-    {
-      "basename": "G_Gateway",
-      "path": "Berufsschule/Lernfeld 3/G_Gateway.md"
-    },
-    {
-      "basename": "G_Hub",
-      "path": "Berufsschule/Lernfeld 3/G_Hub.md"
-    },
-    {
-      "basename": "G_Switch",
-      "path": "Berufsschule/Lernfeld 3/G_Switch.md"
-    },
-    {
-      "basename": "G_Modem",
-      "path": "Berufsschule/Lernfeld 3/G_Modem.md"
-    },
-    {
-      "basename": "02. DHCP - Dynamic Host Configuration Protocol",
-      "path": "Berufsschule/Lernfeld 9/02. DHCP - Dynamic Host Configuration Protocol.md"
-    },
-    {
-      "basename": "Inhaltsverzeichnis",
-      "path": "Inhaltsverzeichnis.md"
-    },
-    {
-      "basename": "Inhaltsübersicht Prog",
-      "path": "Programming Specific Stuff/Inhaltsübersicht Prog.md"
-    },
-    {
-      "basename": "08. Testen",
-      "path": "Berufsschule/Lernfeld 5/08. Testen.md"
-    },
-    {
-      "basename": "JUnit",
-      "path": "Programming Specific Stuff/Java/Testing/JUnit.md"
-    },
-    {
-      "basename": "07. Methoden",
-      "path": "Berufsschule/Lernfeld 5/07. Methoden.md"
-    },
-    {
-      "basename": "05. Zufallszahlen",
-      "path": "Berufsschule/Lernfeld 5/05. Zufallszahlen.md"
-    },
-    {
-      "basename": "06. Arrays",
-      "path": "Berufsschule/Lernfeld 5/06. Arrays.md"
-    },
-    {
-      "basename": "03. Aufgabe UML",
-      "path": "Berufsschule/Lernfeld 8/03. Aufgabe UML.md"
-    },
-    {
-      "basename": "02. Aktivitätsdiagramm",
-      "path": "Berufsschule/Lernfeld 8/02. Aktivitätsdiagramm.md"
-    },
-    {
-      "basename": "01.1 Umsetzung eines Klassendiagramms",
-      "path": "Berufsschule/Lernfeld 8/01.1 Umsetzung eines Klassendiagramms.md"
-    },
-    {
-      "basename": "01. Klassendiagramm",
-      "path": "Berufsschule/Lernfeld 8/01. Klassendiagramm.md"
-    },
-    {
-      "basename": "00. Was ist Lernfeld 8",
-      "path": "Berufsschule/Lernfeld 8/00. Was ist Lernfeld 8.md"
-    },
-    {
-      "basename": "Bedürfnisse, Bedarf, Nachfrage",
-      "path": "Berufsschule/Sozialkunde/Lernbaustein 1/Bedürfnisse, Bedarf, Nachfrage.md"
-    },
-    {
-      "basename": "Wirtschaftskreislauf",
-      "path": "Berufsschule/Sozialkunde/Lernbaustein 1/Wirtschaftskreislauf.md"
-    },
-    {
-      "basename": "Pasted image 20231002102326",
-      "path": "Assets/Pictures/Pasted image 20231002102326.png"
     }
   ],
   "omittedPaths": [],

@@ -2,4 +2,4 @@
 tags:
   - Berufsschule
 ---
-Zurück zu [[Berufsschulstoff|Berufsschul-Inhaltsüberischt]]
+Zurück zu [[Berufsschulstoff|Berufsschule-Inhaltsübersicht]]

@@ -3,7 +3,7 @@ tags:
   - ToC
   - Berufsschule
 aliases:
-  - Berufsschul-Inhaltsüberischt
+  - Berufsschule-Inhaltsübersicht
 title: 📖Berufsschul-Übersicht📖
 ---
 Zurück zu [[Inhaltsverzeichnis]]

@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c3473e79c3c04bd8",
+        "id": "e3ffa2f44a847137",
         "type": "tabs",
         "children": [
           {
-            "id": "fb426cc33f47d562",
+            "id": "cb43df0610b3fa7e",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -23,12 +23,12 @@
             }
           },
           {
-            "id": "b15903387744eaeb",
+            "id": "226f6cc13869636c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Berufsschule/Berufsschulstoff.md",
+                "file": "Inhaltsverzeichnis.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Berufsschule/Berufsschulstoff.md",
+                "file": "Inhaltsverzeichnis.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Berufsschule/Berufsschulstoff.md",
+                "file": "Inhaltsverzeichnis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Berufsschule/Berufsschulstoff.md"
+                "file": "Inhaltsverzeichnis.md"
               }
             }
           },
@@ -178,7 +178,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Berufsschule/Berufsschulstoff.md"
+                "file": "Inhaltsverzeichnis.md"
               }
             }
           }
@@ -200,35 +200,35 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "393cb06469dea704",
+  "active": "226f6cc13869636c",
   "lastOpenFiles": [
     "index.md",
-    "Berufsschule/Lernfeld 9/02.2 Stateless Adress Autoconfiguration - SLAAC.md",
-    "Berufsschule/Lernfeld 7/01. Maschinen Ablauf erklären.md",
-    "Berufsschule/Lernfeld 5/09. Daten suchen & sortieren.md",
-    "Berufsschule/µ-Controller/04..md",
+    "Berufsschule/Berufsschulstoff.md",
     "Berufsschule/µ-Controller/03. Widerstände bestimmen.md",
-    "Assets/Canvas/Hosting für Notes.canvas",
-    "Assets/Canvas/Test_Kanban.md",
-    "Berufsschule/Lernfeld 3/G_Access Point.md",
-    "Obsidian/Quartz.md",
+    "Berufsschule/µ-Controller/02. Arduino IDE.md",
+    "Berufsschule/Sozialkunde/Lernbaustein 1/Bedürfnisse, Bedarf, Nachfrage.md",
+    "Berufsschule/µ-Controller/01. Warum Mikrocontroller.md",
+    "Berufsschule/µ-Controller/00. Wichtige Befehle.md",
+    "Berufsschule/Sozialkunde/Lernbaustein 1/Wirtschaftskreislauf.md",
     "Berufsschule/Sozialkunde/Lernbaustein 1/Produktionsfaktoren.md",
-    "Programming Specific Stuff/Web-Entwicklung/NodeJS/npm.md",
-    "Programming Specific Stuff/Web-Entwicklung/NodeJS/NodeJS.md",
-    "Programming Specific Stuff/Java/Maven/Maven.md",
-    "Obsidian/Guide to Obsidian.md",
-    "Programming Specific Stuff/Java/Spring/04. Was ist ein Spring Project und warum Spring.md",
-    "Programming Specific Stuff/Java/Spring/03. Spring REST Controller.md",
-    "Programming Specific Stuff/Web-Entwicklung/Angular/03. Projektstruktur.md",
-    "Programming Specific Stuff/Web-Entwicklung/CSS/03. Bootstrap - CSS Framework.md",
-    "Programming Specific Stuff/Web-Entwicklung/CSS/02. Wie verwende ich CSS.md",
-    "Programming Specific Stuff/Java/Spring/02. Spring Initializr.md",
-    "Programming Specific Stuff/Web-Entwicklung/Angular/02. Getting Started.md",
-    "Programming Specific Stuff/Web-Entwicklung/CSS/01. Was ist CSS.md",
-    "Programming Specific Stuff/Java/Spring/01. Spring vs Spring Boot.md",
+    "Berufsschule/Lernfeld 9/02.2 Stateless Adress Autoconfiguration - SLAAC.md",
+    "Berufsschule/Lernfeld 9/02. DHCP - Dynamic Host Configuration Protocol.md",
     "Berufsschule/Lernfeld 9/01. DNS.md",
-    "Programming Specific Stuff/Web-Entwicklung/Angular/01. Angular Installation Guide.md",
+    "Berufsschule/Lernfeld 8/03. Aufgabe UML.md",
+    "Berufsschule/Lernfeld 8/02. Aktivitätsdiagramm.md",
+    "Berufsschule/Lernfeld 8/01.1 Umsetzung eines Klassendiagramms.md",
+    "Berufsschule/Lernfeld 8/01. Klassendiagramm.md",
+    "Berufsschule/Lernfeld 8/00. Was ist Lernfeld 8.md",
+    "Berufsschule/Lernfeld 7/01. Maschinen Ablauf erklären.md",
     "Berufsschule/Lernfeld 7/00. Was ist Lernfeld 7.md",
+    "Berufsschule/Lernfeld 6/Lernjob 1.md",
+    "Berufsschule/Lernfeld 6/Lernfeld 6 - Serviceanfragen bearbeiten.md",
+    "Berufsschule/Lernfeld 5/09. Daten suchen & sortieren.md",
+    "Berufsschule/Lernfeld 5/08. Testen.md",
+    "Berufsschule/Lernfeld 5/07. Methoden.md",
+    "Berufsschule/Lernfeld 5/06. Arrays.md",
+    "Berufsschule/Lernfeld 3/ISO_OSI.md",
+    "Assets/Canvas/Hosting für Notes.canvas",
     "Programming Specific Stuff/Java/Testing",
     "Berufsschule/Lernfeld 3/Netzwerke/Protokolle",
     "Berufsschule/Lernfeld 3/Geräte",
