@@ -6,7 +6,7 @@ aliases:
   - Modem
 title: Modem
 ---
-Zurück zu [[Berufsschulstoff|Berufsschul-Inhaltsüberischt]]
+Zurück zu [[Berufsschulstoff|Berufsschul-Inhaltsübersicht]]
 
 - [[#Was ist ein Modem ?|Was ist ein Modem ?]]
 - [[#Funktionsweise|Funktionsweise]]

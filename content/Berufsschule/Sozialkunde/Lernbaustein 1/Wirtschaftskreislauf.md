@@ -3,7 +3,7 @@ tags:
   - Berufsschule
   - Sozi
 ---
-Zurück zu [[Berufsschulstoff|Berufsschul-Inhaltsüberischt]]
+Zurück zu [[Berufsschulstoff|Berufsschul-Inhaltsübersicht]]
 
 HIER SIND GOTTLOS VIELE LÜCKEN, TLDR LERN DEN ERWEITERTEN ([[#4. Vervollständige die Grafik]])
 

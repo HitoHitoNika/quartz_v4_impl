@@ -3,7 +3,7 @@ tags:
   - Berufsschule
   - LF6
 ---
-Zurück zu [[Berufsschulstoff|Berufsschul-Inhaltsüberischt]]
+Zurück zu [[Berufsschulstoff|Berufsschul-Inhaltsübersicht]]
 
 ![[Pasted image 20230927103600.png]]
 

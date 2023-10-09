@@ -7,7 +7,7 @@ aliases:
   - Gateways
 title: Gateway
 ---
-Zurück zu [[Berufsschulstoff|Berufsschul-Inhaltsüberischt]]
+Zurück zu [[Berufsschulstoff|Berufsschul-Inhaltsübersicht]]
 
 - [[#Was ist ein Gateway?|Was ist ein Gateway?]]
 - [[#Funktionsweise|Funktionsweise]]

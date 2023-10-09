@@ -2,7 +2,7 @@
 tags:
   - Berufsschule
 ---
-Zurück zu [[Berufsschulstoff|Berufsschul-Inhaltsüberischt]]
+Zurück zu [[Berufsschulstoff|Berufsschul-Inhaltsübersicht]]
 ## 1. Was versteht man unter Bedürfnissen?
 
 Unter Bedürfnissen versteht man das menschliche Verlangen, Mängel zu stillen

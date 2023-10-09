@@ -7,7 +7,7 @@ aliases:
   - Switches
 title: Switch
 ---
-Zurück zu [[Berufsschulstoff|Berufsschul-Inhaltsüberischt]]
+Zurück zu [[Berufsschulstoff|Berufsschul-Inhaltsübersicht]]
 
 - [[#Was ist ein Switch?|Was ist ein Switch?]]
 - [[#Funktionsweise|Funktionsweise]]

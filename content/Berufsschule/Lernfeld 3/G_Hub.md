@@ -7,7 +7,7 @@ aliases:
   - Hubs
 title: Hub
 ---
-Zurück zu [[Berufsschulstoff|Berufsschul-Inhaltsüberischt]]
+Zurück zu [[Berufsschulstoff|Berufsschul-Inhaltsübersicht]]
 
 ## Was ist ein Hub?
 

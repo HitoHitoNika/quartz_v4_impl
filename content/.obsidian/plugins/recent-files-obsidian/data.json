@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "Inhaltsverzeichnis",
-      "path": "Inhaltsverzeichnis.md"
+      "basename": "Berufsschulstoff",
+      "path": "Berufsschule/Berufsschulstoff.md"
+    },
+    {
+      "basename": "G_Access Point",
+      "path": "Berufsschule/Lernfeld 3/G_Access Point.md"
+    },
+    {
+      "basename": "01. Einfache Datentypen",
+      "path": "Berufsschule/Lernfeld 5/01. Einfache Datentypen.md"
     },
     {
       "basename": "index",
       "path": "index.md"
     },
     {
-      "basename": "Berufsschulstoff",
-      "path": "Berufsschule/Berufsschulstoff.md"
+      "basename": "Inhaltsverzeichnis",
+      "path": "Inhaltsverzeichnis.md"
     },
     {
       "basename": "03. Widerstände bestimmen",
@@ -121,10 +129,6 @@
       "path": "Berufsschule/Lernfeld 5/02. Operatoren.md"
     },
     {
-      "basename": "01. Einfache Datentypen",
-      "path": "Berufsschule/Lernfeld 5/01. Einfache Datentypen.md"
-    },
-    {
       "basename": "P_Network Time Protocol",
       "path": "Berufsschule/Lernfeld 3/P_Network Time Protocol.md"
     },
@@ -143,10 +147,6 @@
     {
       "basename": "G_Gateway",
       "path": "Berufsschule/Lernfeld 3/G_Gateway.md"
-    },
-    {
-      "basename": "G_Access Point",
-      "path": "Berufsschule/Lernfeld 3/G_Access Point.md"
     },
     {
       "basename": "Back to Berufsschulzeug",

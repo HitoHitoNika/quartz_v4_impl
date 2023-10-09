@@ -8,7 +8,7 @@ aliases:
   - Network Time Protocol
 title: Network Time Protocol
 ---
-Zurück zu [[Berufsschulstoff|Berufsschul-Inhaltsüberischt]]
+Zurück zu [[Berufsschulstoff|Berufsschul-Inhaltsübersicht]]
 
 - [[#Was ist NTP?|Was ist NTP?]]
 - [[#Funktionsweise|Funktionsweise]]

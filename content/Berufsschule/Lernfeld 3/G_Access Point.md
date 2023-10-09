@@ -8,7 +8,7 @@ aliases:
   - AP
 title: Access Point
 ---
-Zurück zu [[Berufsschulstoff|Berufsschul-Inhaltsüberischt]]
+Zurück zu [[Berufsschulstoff|Berufsschul-Inhaltsübersicht]]
 
 - [[#Was ist ein Access Point?|Was ist ein Access Point?]]
 - [[#Vorteile|Vorteile]]

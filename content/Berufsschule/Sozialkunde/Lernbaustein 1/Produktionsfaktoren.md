@@ -3,7 +3,7 @@ tags:
   - Berufsschule
   - Sozi
 ---
-Zurück zu [[Berufsschulstoff|Berufsschul-Inhaltsüberischt]]
+Zurück zu [[Berufsschulstoff|Berufsschul-Inhaltsübersicht]]
 
  - [[#1. Was sind Produktionsfaktoren ?|1. Was sind Produktionsfaktoren ?]]
 - [[#2. Übertragen Sie die Produktionsfaktoren auf ein Beispiel ihres Ausbildungsbetriebs.|2. Übertragen Sie die Produktionsfaktoren auf ein Beispiel ihres Ausbildungsbetriebs.]]

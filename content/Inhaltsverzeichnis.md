@@ -9,7 +9,7 @@ Da die Berufsschule und mein Programming Stuff ziemlich viel Platz weg nimmt, ha
 
 <h2 align="center">Berufsschule </h2>
 
-- [[Berufsschulstoff|Berufsschul-Inhaltsüberischt]]
+- [[Berufsschulstoff|Berufsschul-Inhaltsübersicht]]
 
 <h2 align="center"> Programming Stuff </h2>
 
