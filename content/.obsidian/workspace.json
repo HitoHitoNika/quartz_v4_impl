@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d16ceceb4b83a12e",
+        "id": "7ac81cb80b14a03e",
         "type": "tabs",
         "children": [
           {
-            "id": "6632f7d77f0d0e1b",
+            "id": "c4681561088d19e2",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -23,12 +23,12 @@
             }
           },
           {
-            "id": "ea54c5aa37a80572",
+            "id": "1fd2941712c66a97",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Berufsschule/Lernfeld 3/P_Network Time Protocol.md",
+                "file": "Berufsschule/Lernfeld 5/09. Daten suchen & sortieren.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Berufsschule/Lernfeld 3/P_Network Time Protocol.md",
+                "file": "Berufsschule/Lernfeld 5/09. Daten suchen & sortieren.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Berufsschule/Lernfeld 3/P_Network Time Protocol.md",
+                "file": "Berufsschule/Lernfeld 5/09. Daten suchen & sortieren.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Berufsschule/Lernfeld 3/P_Network Time Protocol.md"
+                "file": "Berufsschule/Lernfeld 5/09. Daten suchen & sortieren.md"
               }
             }
           },
@@ -178,7 +178,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Berufsschule/Lernfeld 3/P_Network Time Protocol.md"
+                "file": "Berufsschule/Lernfeld 5/09. Daten suchen & sortieren.md"
               }
             }
           }
@@ -200,8 +200,13 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "ea54c5aa37a80572",
+  "active": "1fd2941712c66a97",
   "lastOpenFiles": [
+    "Berufsschule/Lernfeld 9/02.2 Stateless Adress Autoconfiguration - SLAAC.md",
+    "Berufsschule/Lernfeld 7/01. Maschinen Ablauf erklären.md",
+    "Berufsschule/Lernfeld 5/09. Daten suchen & sortieren.md",
+    "Berufsschule/µ-Controller/04..md",
+    "Berufsschule/µ-Controller/03. Widerstände bestimmen.md",
     "index.md",
     "Assets/Canvas/Hosting für Notes.canvas",
     "Assets/Canvas/Test_Kanban.md",
@@ -224,10 +229,6 @@
     "Berufsschule/Lernfeld 9/01. DNS.md",
     "Programming Specific Stuff/Web-Entwicklung/Angular/01. Angular Installation Guide.md",
     "Berufsschule/Lernfeld 7/00. Was ist Lernfeld 7.md",
-    "Berufsschule/Berufsschulstoff.md",
-    "Berufsschule/Lernfeld 3/G_Gateway.md",
-    "Berufsschule/Lernfeld 3/G_Hub.md",
-    "Berufsschule/Lernfeld 3/G_Switch.md",
     "Programming Specific Stuff/Java/Testing",
     "Berufsschule/Lernfeld 3/Netzwerke/Protokolle",
     "Berufsschule/Lernfeld 3/Geräte",

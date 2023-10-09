@@ -1,12 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "P_Network Time Protocol",
-      "path": "Berufsschule/Lernfeld 3/P_Network Time Protocol.md"
+      "basename": "09. Daten suchen & sortieren",
+      "path": "Berufsschule/Lernfeld 5/09. Daten suchen & sortieren.md"
+    },
+    {
+      "basename": "02.2 Stateless Adress Autoconfiguration - SLAAC",
+      "path": "Berufsschule/Lernfeld 9/02.2 Stateless Adress Autoconfiguration - SLAAC.md"
+    },
+    {
+      "basename": "01. Maschinen Ablauf erklären",
+      "path": "Berufsschule/Lernfeld 7/01. Maschinen Ablauf erklären.md"
+    },
+    {
+      "basename": "03. Widerstände bestimmen",
+      "path": "Berufsschule/µ-Controller/03. Widerstände bestimmen.md"
     },
     {
       "basename": "index",
       "path": "index.md"
+    },
+    {
+      "basename": "P_Network Time Protocol",
+      "path": "Berufsschule/Lernfeld 3/P_Network Time Protocol.md"
     },
     {
       "basename": "Test_Kanban",
@@ -121,10 +137,6 @@
       "path": "Berufsschule/Lernfeld 9/02. DHCP - Dynamic Host Configuration Protocol.md"
     },
     {
-      "basename": "02.2 Stateless Adress Autoconfiguration - SLAAC",
-      "path": "Berufsschule/Lernfeld 9/02.2 Stateless Adress Autoconfiguration - SLAAC.md"
-    },
-    {
       "basename": "Inhaltsverzeichnis",
       "path": "Inhaltsverzeichnis.md"
     },
@@ -151,10 +163,6 @@
     {
       "basename": "06. Arrays",
       "path": "Berufsschule/Lernfeld 5/06. Arrays.md"
-    },
-    {
-      "basename": "01. Maschinen Ablauf erklären",
-      "path": "Berufsschule/Lernfeld 7/01. Maschinen Ablauf erklären.md"
     },
     {
       "basename": "03. Aufgabe UML",
@@ -187,18 +195,6 @@
     {
       "basename": "Pasted image 20231002102326",
       "path": "Assets/Pictures/Pasted image 20231002102326.png"
-    },
-    {
-      "basename": "Pasted image 20230927142055",
-      "path": "Assets/Pictures/Pasted image 20230927142055.png"
-    },
-    {
-      "basename": "Pasted image 20230927103600",
-      "path": "Assets/Pictures/Pasted image 20230927103600.png"
-    },
-    {
-      "basename": "Pasted image 20230913134903",
-      "path": "Assets/Pictures/Pasted image 20230913134903.png"
     }
   ],
   "omittedPaths": [],
