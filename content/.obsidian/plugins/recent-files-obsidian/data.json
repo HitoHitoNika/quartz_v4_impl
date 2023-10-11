@@ -1,12 +1,44 @@
 {
   "recentFiles": [
     {
+      "basename": "10. Objektorientierung",
+      "path": "Berufsschule/Lernfeld 5/10. Objektorientierung.md"
+    },
+    {
+      "basename": "09. Daten suchen & sortieren",
+      "path": "Berufsschule/Lernfeld 5/09. Daten suchen & sortieren.md"
+    },
+    {
       "basename": "Berufsschulstoff",
       "path": "Berufsschule/Berufsschulstoff.md"
     },
     {
-      "basename": "G_Access Point",
-      "path": "Berufsschule/Lernfeld 3/G_Access Point.md"
+      "basename": "08. Testen",
+      "path": "Berufsschule/Lernfeld 5/08. Testen.md"
+    },
+    {
+      "basename": "07. Methoden",
+      "path": "Berufsschule/Lernfeld 5/07. Methoden.md"
+    },
+    {
+      "basename": "06. Arrays",
+      "path": "Berufsschule/Lernfeld 5/06. Arrays.md"
+    },
+    {
+      "basename": "05. Zufallszahlen",
+      "path": "Berufsschule/Lernfeld 5/05. Zufallszahlen.md"
+    },
+    {
+      "basename": "04. Ausgabe und Eingabe",
+      "path": "Berufsschule/Lernfeld 5/04. Ausgabe und Eingabe.md"
+    },
+    {
+      "basename": "03. Bedingungen und Schleifen",
+      "path": "Berufsschule/Lernfeld 5/03. Bedingungen und Schleifen.md"
+    },
+    {
+      "basename": "02. Operatoren",
+      "path": "Berufsschule/Lernfeld 5/02. Operatoren.md"
     },
     {
       "basename": "01. Einfache Datentypen",
@@ -15,6 +47,10 @@
     {
       "basename": "index",
       "path": "index.md"
+    },
+    {
+      "basename": "G_Access Point",
+      "path": "Berufsschule/Lernfeld 3/G_Access Point.md"
     },
     {
       "basename": "Inhaltsverzeichnis",
@@ -97,38 +133,6 @@
       "path": "Berufsschule/Lernfeld 6/Lernfeld 6 - Serviceanfragen bearbeiten.md"
     },
     {
-      "basename": "09. Daten suchen & sortieren",
-      "path": "Berufsschule/Lernfeld 5/09. Daten suchen & sortieren.md"
-    },
-    {
-      "basename": "08. Testen",
-      "path": "Berufsschule/Lernfeld 5/08. Testen.md"
-    },
-    {
-      "basename": "07. Methoden",
-      "path": "Berufsschule/Lernfeld 5/07. Methoden.md"
-    },
-    {
-      "basename": "06. Arrays",
-      "path": "Berufsschule/Lernfeld 5/06. Arrays.md"
-    },
-    {
-      "basename": "05. Zufallszahlen",
-      "path": "Berufsschule/Lernfeld 5/05. Zufallszahlen.md"
-    },
-    {
-      "basename": "04. Ausgabe und Eingabe",
-      "path": "Berufsschule/Lernfeld 5/04. Ausgabe und Eingabe.md"
-    },
-    {
-      "basename": "03. Bedingungen und Schleifen",
-      "path": "Berufsschule/Lernfeld 5/03. Bedingungen und Schleifen.md"
-    },
-    {
-      "basename": "02. Operatoren",
-      "path": "Berufsschule/Lernfeld 5/02. Operatoren.md"
-    },
-    {
       "basename": "P_Network Time Protocol",
       "path": "Berufsschule/Lernfeld 3/P_Network Time Protocol.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "03. Bootstrap - CSS Framework",
       "path": "Programming Specific Stuff/Web-Entwicklung/CSS/03. Bootstrap - CSS Framework.md"
-    },
-    {
-      "basename": "02. Wie verwende ich CSS",
-      "path": "Programming Specific Stuff/Web-Entwicklung/CSS/02. Wie verwende ich CSS.md"
     }
   ],
   "omittedPaths": [],
