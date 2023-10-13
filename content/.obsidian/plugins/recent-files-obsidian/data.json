@@ -5,6 +5,10 @@
       "path": "Berufsschule/Lernfeld 5/10. Objektorientierung.md"
     },
     {
+      "basename": "index",
+      "path": "index.md"
+    },
+    {
       "basename": "09. Daten suchen & sortieren",
       "path": "Berufsschule/Lernfeld 5/09. Daten suchen & sortieren.md"
     },
@@ -43,10 +47,6 @@
     {
       "basename": "01. Einfache Datentypen",
       "path": "Berufsschule/Lernfeld 5/01. Einfache Datentypen.md"
-    },
-    {
-      "basename": "index",
-      "path": "index.md"
     },
     {
       "basename": "G_Access Point",

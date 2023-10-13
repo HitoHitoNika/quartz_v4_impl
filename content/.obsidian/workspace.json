@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "be3827986aeeb494",
+        "id": "aedd6e4f2042f066",
         "type": "tabs",
         "children": [
           {
-            "id": "17d8ecebcef70607",
+            "id": "bc80f160f562d456",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -23,7 +23,7 @@
             }
           },
           {
-            "id": "40bb8de0bcec6b54",
+            "id": "fd4ad562bf88df65",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -183,11 +183,11 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 395.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -200,8 +200,9 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "40bb8de0bcec6b54",
+  "active": "e3e0ac610bf5dd4a",
   "lastOpenFiles": [
+    "index.md",
     "Berufsschule/Lernfeld 5/09. Daten suchen & sortieren.md",
     "Berufsschule/Lernfeld 5/10. Objektorientierung.md",
     "Berufsschule/Berufsschulstoff.md",
@@ -213,7 +214,6 @@
     "Berufsschule/Lernfeld 5/03. Bedingungen und Schleifen.md",
     "Berufsschule/Lernfeld 5/02. Operatoren.md",
     "Berufsschule/Lernfeld 5/01. Einfache Datentypen.md",
-    "index.md",
     "Berufsschule/Lernfeld 3/G_Access Point.md",
     "Berufsschule/µ-Controller/03. Widerstände bestimmen.md",
     "Berufsschule/µ-Controller/02. Arduino IDE.md",
