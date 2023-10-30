@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "857ca342888bacf8",
+        "id": "c13bdec12f1026b3",
         "type": "tabs",
         "children": [
           {
-            "id": "a0cf10de63f63346",
+            "id": "c4a8ffd359c66fd2",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -23,12 +23,12 @@
             }
           },
           {
-            "id": "c60115e6553d0242",
+            "id": "b887ff49e3d4a889",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Berufsschule/Lernfeld 5/10. Objektorientierung.md",
+                "file": "Berufsschule/µ-Controller/04. LED und Taster.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -94,7 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 326.5
+    "width": 385.5
   },
   "right": {
     "id": "7ebe9cef2f07b144",
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Berufsschule/Lernfeld 5/10. Objektorientierung.md",
+                "file": "Berufsschule/µ-Controller/04. LED und Taster.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Berufsschule/Lernfeld 5/10. Objektorientierung.md",
+                "file": "Berufsschule/µ-Controller/04. LED und Taster.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Berufsschule/Lernfeld 5/10. Objektorientierung.md"
+                "file": "Berufsschule/µ-Controller/04. LED und Taster.md"
               }
             }
           },
@@ -178,16 +178,16 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Berufsschule/Lernfeld 5/10. Objektorientierung.md"
+                "file": "Berufsschule/µ-Controller/04. LED und Taster.md"
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 395.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -200,42 +200,46 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "c60115e6553d0242",
+  "active": "b887ff49e3d4a889",
   "lastOpenFiles": [
+    "Assets/Pictures/Pasted image 20231030095833.png",
+    "Berufsschule/µ-Controller/03. Widerstände bestimmen.md",
+    "Berufsschule/µ-Controller/04. LED und Taster.md",
     "index.md",
-    "Berufsschule/Lernfeld 5/09. Daten suchen & sortieren.md",
-    "Berufsschule/Lernfeld 5/10. Objektorientierung.md",
+    "Berufsschule/Lernfeld 3/Untitled.md",
     "Berufsschule/Berufsschulstoff.md",
+    "Berufsschule/Lernfeld 5/10. Objektorientierung.md",
+    "Projekte/PasswordManager/Java/Dev-Doku/GUI/Panels/Login.md",
+    "Berufsschule/Lernfeld 7/01. Maschinen Ablauf erklären.md",
+    "Projekte/PasswordManager/Java/Dev-Doku/GUI/Panels/RegisterUser.md",
+    "Projekte/PasswordManager/Java/Dev-Doku/GUI/Frames/Mainframe.md",
+    "Projekte/PasswordManager/Java/Dev-Doku/Overview.canvas",
+    "Projekte/PasswordManager/Java/Dev-Doku/GUI/Frames",
+    "Projekte/PasswordManager/Java/Dev-Doku/GUI/Panels",
+    "Projekte/PasswordManager/Java/Dev-Doku/GUI",
+    "Projekte/PasswordManager/Java/Dev-Doku/Services/JSON File Service.md",
+    "Projekte/PasswordManager/Java/Dev-Doku/Services/State to JSON Service.md",
+    "Projekte/PasswordManager/Java/Dev-Doku/Services/Encryption Service.md",
+    "Projekte/PasswordManager/Java/Dev-Doku/Services/User Management Service.md",
+    "Projekte/PasswordManager/Java/Dev-Doku/Entities/User.md",
+    "Projekte/PasswordManager/Java/Dev-Doku/Entities/Password.md",
+    "Projekte/PasswordManager/Java/Dev-Doku/Entities",
+    "Projekte/PasswordManager/Java/Dev-Doku/Services",
+    "Projekte/Gesamt-Projekt-Übersicht.md",
+    "Projekte/PasswordManager/Java/Dev-Doku",
+    "Projekte/PasswordManager/Java/Untitled.md",
+    "Projekte/PasswordManager/Java/Table of Contents.md",
+    "Templates/Back to Projectoverview.md",
+    "Inhaltsverzeichnis.md",
+    "Untitled",
+    "Projekte/PasswordManager/Java",
+    "Projekte/PasswordManager",
+    "Projekte",
+    "Berufsschule/Lernfeld 5/09. Daten suchen & sortieren.md",
     "Berufsschule/Lernfeld 5/08. Testen.md",
     "Berufsschule/Lernfeld 5/07. Methoden.md",
     "Berufsschule/Lernfeld 5/06. Arrays.md",
-    "Berufsschule/Lernfeld 5/05. Zufallszahlen.md",
-    "Berufsschule/Lernfeld 5/04. Ausgabe und Eingabe.md",
-    "Berufsschule/Lernfeld 5/03. Bedingungen und Schleifen.md",
-    "Berufsschule/Lernfeld 5/02. Operatoren.md",
-    "Berufsschule/Lernfeld 5/01. Einfache Datentypen.md",
-    "Berufsschule/Lernfeld 3/G_Access Point.md",
-    "Berufsschule/µ-Controller/03. Widerstände bestimmen.md",
-    "Berufsschule/µ-Controller/02. Arduino IDE.md",
-    "Berufsschule/Sozialkunde/Lernbaustein 1/Bedürfnisse, Bedarf, Nachfrage.md",
-    "Berufsschule/µ-Controller/01. Warum Mikrocontroller.md",
-    "Berufsschule/µ-Controller/00. Wichtige Befehle.md",
-    "Berufsschule/Sozialkunde/Lernbaustein 1/Wirtschaftskreislauf.md",
-    "Berufsschule/Sozialkunde/Lernbaustein 1/Produktionsfaktoren.md",
-    "Berufsschule/Lernfeld 9/02.2 Stateless Adress Autoconfiguration - SLAAC.md",
-    "Berufsschule/Lernfeld 9/02. DHCP - Dynamic Host Configuration Protocol.md",
-    "Berufsschule/Lernfeld 9/01. DNS.md",
-    "Berufsschule/Lernfeld 8/03. Aufgabe UML.md",
-    "Berufsschule/Lernfeld 8/02. Aktivitätsdiagramm.md",
-    "Berufsschule/Lernfeld 8/01.1 Umsetzung eines Klassendiagramms.md",
     "Assets/Canvas/Hosting für Notes.canvas",
-    "Programming Specific Stuff/Java/Testing",
-    "Berufsschule/Lernfeld 3/Netzwerke/Protokolle",
-    "Berufsschule/Lernfeld 3/Geräte",
-    "Berufsschule/Lernfeld 3/Netzwerke",
-    "Berufsschule/Lernfeld 3/Präsentationen",
-    "Berufsschule/Lernfeld 3",
-    "Berufsschule/Lernfeld 7/Untitled",
     "Assets/Pictures/Pasted image 20231002102326.png",
     "Assets/Pictures/Pasted image 20230927142055.png",
     "Assets/Pictures/Pasted image 20230927142028.png",
@@ -243,10 +247,7 @@
     "Assets/Pictures/Pasted image 20230927141522.png",
     "Assets/Pictures/Pasted image 20230927135541.png",
     "Assets/Pictures/Pasted image 20230913134903.png",
-    "Programming Specific Stuff/CI_CD/Git",
-    "Assets/Pictures/FS1 _ LA01 - Kunstwerk.pdf",
     "Assets/Pictures/Spring Info.png",
-    "Berufsschule/Lernfeld 5",
     "Assets/Pictures/Arduino IDE Push Code.png",
     "Assets/Pictures/Arduino IDE Select Port.png",
     "Programming Specific Stuff/Web-Entwicklung/Angular/Untitled.canvas"

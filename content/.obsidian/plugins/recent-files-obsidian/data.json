@@ -1,20 +1,88 @@
 {
   "recentFiles": [
     {
-      "basename": "10. Objektorientierung",
-      "path": "Berufsschule/Lernfeld 5/10. Objektorientierung.md"
+      "basename": "04. LED und Taster",
+      "path": "Berufsschule/µ-Controller/04. LED und Taster.md"
+    },
+    {
+      "basename": "03. Widerstände bestimmen",
+      "path": "Berufsschule/µ-Controller/03. Widerstände bestimmen.md"
     },
     {
       "basename": "index",
       "path": "index.md"
     },
     {
-      "basename": "09. Daten suchen & sortieren",
-      "path": "Berufsschule/Lernfeld 5/09. Daten suchen & sortieren.md"
-    },
-    {
       "basename": "Berufsschulstoff",
       "path": "Berufsschule/Berufsschulstoff.md"
+    },
+    {
+      "basename": "10. Objektorientierung",
+      "path": "Berufsschule/Lernfeld 5/10. Objektorientierung.md"
+    },
+    {
+      "basename": "Login",
+      "path": "Projekte/PasswordManager/Java/Dev-Doku/GUI/Panels/Login.md"
+    },
+    {
+      "basename": "01. Maschinen Ablauf erklären",
+      "path": "Berufsschule/Lernfeld 7/01. Maschinen Ablauf erklären.md"
+    },
+    {
+      "basename": "Overview",
+      "path": "Projekte/PasswordManager/Java/Dev-Doku/Overview.canvas"
+    },
+    {
+      "basename": "RegisterUser",
+      "path": "Projekte/PasswordManager/Java/Dev-Doku/GUI/Panels/RegisterUser.md"
+    },
+    {
+      "basename": "Mainframe",
+      "path": "Projekte/PasswordManager/Java/Dev-Doku/GUI/Frames/Mainframe.md"
+    },
+    {
+      "basename": "JSON File Service",
+      "path": "Projekte/PasswordManager/Java/Dev-Doku/Services/JSON File Service.md"
+    },
+    {
+      "basename": "User Management Service",
+      "path": "Projekte/PasswordManager/Java/Dev-Doku/Services/User Management Service.md"
+    },
+    {
+      "basename": "State to JSON Service",
+      "path": "Projekte/PasswordManager/Java/Dev-Doku/Services/State to JSON Service.md"
+    },
+    {
+      "basename": "Encryption Service",
+      "path": "Projekte/PasswordManager/Java/Dev-Doku/Services/Encryption Service.md"
+    },
+    {
+      "basename": "Password",
+      "path": "Projekte/PasswordManager/Java/Dev-Doku/Entities/Password.md"
+    },
+    {
+      "basename": "User",
+      "path": "Projekte/PasswordManager/Java/Dev-Doku/Entities/User.md"
+    },
+    {
+      "basename": "Gesamt-Projekt-Übersicht",
+      "path": "Projekte/Gesamt-Projekt-Übersicht.md"
+    },
+    {
+      "basename": "Table of Contents",
+      "path": "Projekte/PasswordManager/Java/Table of Contents.md"
+    },
+    {
+      "basename": "Back to Projectoverview",
+      "path": "Templates/Back to Projectoverview.md"
+    },
+    {
+      "basename": "Inhaltsverzeichnis",
+      "path": "Inhaltsverzeichnis.md"
+    },
+    {
+      "basename": "09. Daten suchen & sortieren",
+      "path": "Berufsschule/Lernfeld 5/09. Daten suchen & sortieren.md"
     },
     {
       "basename": "08. Testen",
@@ -51,14 +119,6 @@
     {
       "basename": "G_Access Point",
       "path": "Berufsschule/Lernfeld 3/G_Access Point.md"
-    },
-    {
-      "basename": "Inhaltsverzeichnis",
-      "path": "Inhaltsverzeichnis.md"
-    },
-    {
-      "basename": "03. Widerstände bestimmen",
-      "path": "Berufsschule/µ-Controller/03. Widerstände bestimmen.md"
     },
     {
       "basename": "02. Arduino IDE",
@@ -117,10 +177,6 @@
       "path": "Berufsschule/Lernfeld 8/00. Was ist Lernfeld 8.md"
     },
     {
-      "basename": "01. Maschinen Ablauf erklären",
-      "path": "Berufsschule/Lernfeld 7/01. Maschinen Ablauf erklären.md"
-    },
-    {
       "basename": "00. Was ist Lernfeld 7",
       "path": "Berufsschule/Lernfeld 7/00. Was ist Lernfeld 7.md"
     },
@@ -143,62 +199,6 @@
     {
       "basename": "G_Modem",
       "path": "Berufsschule/Lernfeld 3/G_Modem.md"
-    },
-    {
-      "basename": "G_Hub",
-      "path": "Berufsschule/Lernfeld 3/G_Hub.md"
-    },
-    {
-      "basename": "G_Gateway",
-      "path": "Berufsschule/Lernfeld 3/G_Gateway.md"
-    },
-    {
-      "basename": "Back to Berufsschulzeug",
-      "path": "Templates/Back to Berufsschulzeug.md"
-    },
-    {
-      "basename": "Test_Kanban",
-      "path": "Assets/Canvas/Test_Kanban.md"
-    },
-    {
-      "basename": "Hosting für Notes",
-      "path": "Assets/Canvas/Hosting für Notes.canvas"
-    },
-    {
-      "basename": "Quartz",
-      "path": "Obsidian/Quartz.md"
-    },
-    {
-      "basename": "npm",
-      "path": "Programming Specific Stuff/Web-Entwicklung/NodeJS/npm.md"
-    },
-    {
-      "basename": "NodeJS",
-      "path": "Programming Specific Stuff/Web-Entwicklung/NodeJS/NodeJS.md"
-    },
-    {
-      "basename": "Maven",
-      "path": "Programming Specific Stuff/Java/Maven/Maven.md"
-    },
-    {
-      "basename": "Guide to Obsidian",
-      "path": "Obsidian/Guide to Obsidian.md"
-    },
-    {
-      "basename": "04. Was ist ein Spring Project und warum Spring",
-      "path": "Programming Specific Stuff/Java/Spring/04. Was ist ein Spring Project und warum Spring.md"
-    },
-    {
-      "basename": "03. Spring REST Controller",
-      "path": "Programming Specific Stuff/Java/Spring/03. Spring REST Controller.md"
-    },
-    {
-      "basename": "03. Projektstruktur",
-      "path": "Programming Specific Stuff/Web-Entwicklung/Angular/03. Projektstruktur.md"
-    },
-    {
-      "basename": "03. Bootstrap - CSS Framework",
-      "path": "Programming Specific Stuff/Web-Entwicklung/CSS/03. Bootstrap - CSS Framework.md"
     }
   ],
   "omittedPaths": [],
