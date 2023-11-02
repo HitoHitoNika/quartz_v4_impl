@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c13bdec12f1026b3",
+        "id": "a3399b58862a10ef",
         "type": "tabs",
         "children": [
           {
-            "id": "c4a8ffd359c66fd2",
+            "id": "111c31e68315f699",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -23,12 +23,25 @@
             }
           },
           {
-            "id": "b887ff49e3d4a889",
+            "id": "aeff1707eef9e7a6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Berufsschule/µ-Controller/04. LED und Taster.md",
+                "file": "Berufsschule/Lernfeld 9/05.2 Cisco-Geräte konfigurieren.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d125547708bddf43",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Berufsschule/Berufsschulstoff.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -36,7 +49,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -110,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Berufsschule/µ-Controller/04. LED und Taster.md",
+                "file": "Berufsschule/Berufsschulstoff.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Berufsschule/µ-Controller/04. LED und Taster.md",
+                "file": "Berufsschule/Berufsschulstoff.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Berufsschule/µ-Controller/04. LED und Taster.md"
+                "file": "Berufsschule/Berufsschulstoff.md"
               }
             }
           },
@@ -178,7 +191,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Berufsschule/µ-Controller/04. LED und Taster.md"
+                "file": "Berufsschule/Berufsschulstoff.md"
               }
             }
           }
@@ -200,56 +213,56 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "b887ff49e3d4a889",
+  "active": "d125547708bddf43",
   "lastOpenFiles": [
+    "Berufsschule/Lernfeld 7/00. Was ist Lernfeld 7.md",
+    "Berufsschule/Berufsschulstoff.md",
+    "Templates/Back to Berufsschulzeug.md",
+    "Berufsschule/Lernfeld 8/03. Aufgabe UML.md",
+    "Berufsschule/Lernfeld 8/02. Aktivitätsdiagramm.md",
+    "Berufsschule/Lernfeld 8/01.1 Umsetzung eines Klassendiagramms.md",
+    "Berufsschule/Lernfeld 8/01. Klassendiagramm.md",
+    "Berufsschule/Lernfeld 8/00. Was ist Lernfeld 8.md",
+    "Berufsschule/Lernfeld 7/01. Maschinen Ablauf erklären.md",
+    "Assets/Pictures/Stationcheck_nonTransparent.png",
+    "Assets/Pictures/Stationcheck.png",
+    "Assets/Pictures/Main.png",
+    "Assets/Pictures/Pasted image 20231102134532.png",
+    "Berufsschule/Lernfeld 9/05. Packet Tracer.md",
+    "Berufsschule/Lernfeld 9/05.2 Cisco-Geräte konfigurieren.md",
+    "Berufsschule/Lernfeld 9/05.1 Geräte.md",
+    "Obsidian/Guide to Obsidian.md",
+    "Berufsschule/Lernfeld 3/G_Access Point.md",
+    "Assets/Pictures/Pasted image 20231102113053.png",
+    "Assets/Pictures/Pasted image 20231102110918.png",
+    "Berufsschule/Lernfeld 3/G_Switch.md",
+    "Templates/Back to Home.md",
+    "Begriffslexikon.md",
+    "Berufsschule/Lernfeld 9/03. Schichtenmodelle.md",
+    "index.md",
+    "Berufsschule/Lernfeld 9/04. VPN RSA Verschlüsselungen Zertifikate.md",
+    "Berufsschule/Lernfeld 9/02. DHCP - Dynamic Host Configuration Protocol.md",
+    "Berufsschule/Lernfeld 9/04. DHCP.md",
     "Assets/Pictures/Pasted image 20231030095833.png",
     "Berufsschule/µ-Controller/03. Widerstände bestimmen.md",
     "Berufsschule/µ-Controller/04. LED und Taster.md",
-    "index.md",
     "Berufsschule/Lernfeld 3/Untitled.md",
-    "Berufsschule/Berufsschulstoff.md",
     "Berufsschule/Lernfeld 5/10. Objektorientierung.md",
-    "Projekte/PasswordManager/Java/Dev-Doku/GUI/Panels/Login.md",
-    "Berufsschule/Lernfeld 7/01. Maschinen Ablauf erklären.md",
-    "Projekte/PasswordManager/Java/Dev-Doku/GUI/Panels/RegisterUser.md",
-    "Projekte/PasswordManager/Java/Dev-Doku/GUI/Frames/Mainframe.md",
     "Projekte/PasswordManager/Java/Dev-Doku/Overview.canvas",
     "Projekte/PasswordManager/Java/Dev-Doku/GUI/Frames",
     "Projekte/PasswordManager/Java/Dev-Doku/GUI/Panels",
     "Projekte/PasswordManager/Java/Dev-Doku/GUI",
-    "Projekte/PasswordManager/Java/Dev-Doku/Services/JSON File Service.md",
-    "Projekte/PasswordManager/Java/Dev-Doku/Services/State to JSON Service.md",
-    "Projekte/PasswordManager/Java/Dev-Doku/Services/Encryption Service.md",
-    "Projekte/PasswordManager/Java/Dev-Doku/Services/User Management Service.md",
-    "Projekte/PasswordManager/Java/Dev-Doku/Entities/User.md",
-    "Projekte/PasswordManager/Java/Dev-Doku/Entities/Password.md",
     "Projekte/PasswordManager/Java/Dev-Doku/Entities",
     "Projekte/PasswordManager/Java/Dev-Doku/Services",
-    "Projekte/Gesamt-Projekt-Übersicht.md",
     "Projekte/PasswordManager/Java/Dev-Doku",
-    "Projekte/PasswordManager/Java/Untitled.md",
-    "Projekte/PasswordManager/Java/Table of Contents.md",
-    "Templates/Back to Projectoverview.md",
-    "Inhaltsverzeichnis.md",
     "Untitled",
     "Projekte/PasswordManager/Java",
     "Projekte/PasswordManager",
     "Projekte",
-    "Berufsschule/Lernfeld 5/09. Daten suchen & sortieren.md",
-    "Berufsschule/Lernfeld 5/08. Testen.md",
-    "Berufsschule/Lernfeld 5/07. Methoden.md",
-    "Berufsschule/Lernfeld 5/06. Arrays.md",
     "Assets/Canvas/Hosting für Notes.canvas",
     "Assets/Pictures/Pasted image 20231002102326.png",
     "Assets/Pictures/Pasted image 20230927142055.png",
     "Assets/Pictures/Pasted image 20230927142028.png",
-    "Assets/Pictures/Pasted image 20230927103600.png",
-    "Assets/Pictures/Pasted image 20230927141522.png",
-    "Assets/Pictures/Pasted image 20230927135541.png",
-    "Assets/Pictures/Pasted image 20230913134903.png",
-    "Assets/Pictures/Spring Info.png",
-    "Assets/Pictures/Arduino IDE Push Code.png",
-    "Assets/Pictures/Arduino IDE Select Port.png",
     "Programming Specific Stuff/Web-Entwicklung/Angular/Untitled.canvas"
   ]
 }

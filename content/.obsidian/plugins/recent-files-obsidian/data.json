@@ -1,6 +1,86 @@
 {
   "recentFiles": [
     {
+      "basename": "Berufsschulstoff",
+      "path": "Berufsschule/Berufsschulstoff.md"
+    },
+    {
+      "basename": "00. Was ist Lernfeld 7",
+      "path": "Berufsschule/Lernfeld 7/00. Was ist Lernfeld 7.md"
+    },
+    {
+      "basename": "Back to Berufsschulzeug",
+      "path": "Templates/Back to Berufsschulzeug.md"
+    },
+    {
+      "basename": "03. Aufgabe UML",
+      "path": "Berufsschule/Lernfeld 8/03. Aufgabe UML.md"
+    },
+    {
+      "basename": "02. Aktivitätsdiagramm",
+      "path": "Berufsschule/Lernfeld 8/02. Aktivitätsdiagramm.md"
+    },
+    {
+      "basename": "01.1 Umsetzung eines Klassendiagramms",
+      "path": "Berufsschule/Lernfeld 8/01.1 Umsetzung eines Klassendiagramms.md"
+    },
+    {
+      "basename": "01. Klassendiagramm",
+      "path": "Berufsschule/Lernfeld 8/01. Klassendiagramm.md"
+    },
+    {
+      "basename": "00. Was ist Lernfeld 8",
+      "path": "Berufsschule/Lernfeld 8/00. Was ist Lernfeld 8.md"
+    },
+    {
+      "basename": "01. Maschinen Ablauf erklären",
+      "path": "Berufsschule/Lernfeld 7/01. Maschinen Ablauf erklären.md"
+    },
+    {
+      "basename": "05. Packet Tracer",
+      "path": "Berufsschule/Lernfeld 9/05. Packet Tracer.md"
+    },
+    {
+      "basename": "05.2 Cisco-Geräte konfigurieren",
+      "path": "Berufsschule/Lernfeld 9/05.2 Cisco-Geräte konfigurieren.md"
+    },
+    {
+      "basename": "05.1 Geräte",
+      "path": "Berufsschule/Lernfeld 9/05.1 Geräte.md"
+    },
+    {
+      "basename": "Guide to Obsidian",
+      "path": "Obsidian/Guide to Obsidian.md"
+    },
+    {
+      "basename": "G_Access Point",
+      "path": "Berufsschule/Lernfeld 3/G_Access Point.md"
+    },
+    {
+      "basename": "G_Switch",
+      "path": "Berufsschule/Lernfeld 3/G_Switch.md"
+    },
+    {
+      "basename": "Back to Home",
+      "path": "Templates/Back to Home.md"
+    },
+    {
+      "basename": "03. Schichtenmodelle",
+      "path": "Berufsschule/Lernfeld 9/03. Schichtenmodelle.md"
+    },
+    {
+      "basename": "index",
+      "path": "index.md"
+    },
+    {
+      "basename": "04. VPN RSA Verschlüsselungen Zertifikate",
+      "path": "Berufsschule/Lernfeld 9/04. VPN RSA Verschlüsselungen Zertifikate.md"
+    },
+    {
+      "basename": "02. DHCP - Dynamic Host Configuration Protocol",
+      "path": "Berufsschule/Lernfeld 9/02. DHCP - Dynamic Host Configuration Protocol.md"
+    },
+    {
       "basename": "04. LED und Taster",
       "path": "Berufsschule/µ-Controller/04. LED und Taster.md"
     },
@@ -9,24 +89,12 @@
       "path": "Berufsschule/µ-Controller/03. Widerstände bestimmen.md"
     },
     {
-      "basename": "index",
-      "path": "index.md"
-    },
-    {
-      "basename": "Berufsschulstoff",
-      "path": "Berufsschule/Berufsschulstoff.md"
-    },
-    {
       "basename": "10. Objektorientierung",
       "path": "Berufsschule/Lernfeld 5/10. Objektorientierung.md"
     },
     {
       "basename": "Login",
       "path": "Projekte/PasswordManager/Java/Dev-Doku/GUI/Panels/Login.md"
-    },
-    {
-      "basename": "01. Maschinen Ablauf erklären",
-      "path": "Berufsschule/Lernfeld 7/01. Maschinen Ablauf erklären.md"
     },
     {
       "basename": "Overview",
@@ -117,10 +185,6 @@
       "path": "Berufsschule/Lernfeld 5/01. Einfache Datentypen.md"
     },
     {
-      "basename": "G_Access Point",
-      "path": "Berufsschule/Lernfeld 3/G_Access Point.md"
-    },
-    {
       "basename": "02. Arduino IDE",
       "path": "Berufsschule/µ-Controller/02. Arduino IDE.md"
     },
@@ -135,70 +199,6 @@
     {
       "basename": "00. Wichtige Befehle",
       "path": "Berufsschule/µ-Controller/00. Wichtige Befehle.md"
-    },
-    {
-      "basename": "Wirtschaftskreislauf",
-      "path": "Berufsschule/Sozialkunde/Lernbaustein 1/Wirtschaftskreislauf.md"
-    },
-    {
-      "basename": "Produktionsfaktoren",
-      "path": "Berufsschule/Sozialkunde/Lernbaustein 1/Produktionsfaktoren.md"
-    },
-    {
-      "basename": "02.2 Stateless Adress Autoconfiguration - SLAAC",
-      "path": "Berufsschule/Lernfeld 9/02.2 Stateless Adress Autoconfiguration - SLAAC.md"
-    },
-    {
-      "basename": "02. DHCP - Dynamic Host Configuration Protocol",
-      "path": "Berufsschule/Lernfeld 9/02. DHCP - Dynamic Host Configuration Protocol.md"
-    },
-    {
-      "basename": "01. DNS",
-      "path": "Berufsschule/Lernfeld 9/01. DNS.md"
-    },
-    {
-      "basename": "03. Aufgabe UML",
-      "path": "Berufsschule/Lernfeld 8/03. Aufgabe UML.md"
-    },
-    {
-      "basename": "02. Aktivitätsdiagramm",
-      "path": "Berufsschule/Lernfeld 8/02. Aktivitätsdiagramm.md"
-    },
-    {
-      "basename": "01.1 Umsetzung eines Klassendiagramms",
-      "path": "Berufsschule/Lernfeld 8/01.1 Umsetzung eines Klassendiagramms.md"
-    },
-    {
-      "basename": "01. Klassendiagramm",
-      "path": "Berufsschule/Lernfeld 8/01. Klassendiagramm.md"
-    },
-    {
-      "basename": "00. Was ist Lernfeld 8",
-      "path": "Berufsschule/Lernfeld 8/00. Was ist Lernfeld 8.md"
-    },
-    {
-      "basename": "00. Was ist Lernfeld 7",
-      "path": "Berufsschule/Lernfeld 7/00. Was ist Lernfeld 7.md"
-    },
-    {
-      "basename": "Lernjob 1",
-      "path": "Berufsschule/Lernfeld 6/Lernjob 1.md"
-    },
-    {
-      "basename": "Lernfeld 6 - Serviceanfragen bearbeiten",
-      "path": "Berufsschule/Lernfeld 6/Lernfeld 6 - Serviceanfragen bearbeiten.md"
-    },
-    {
-      "basename": "P_Network Time Protocol",
-      "path": "Berufsschule/Lernfeld 3/P_Network Time Protocol.md"
-    },
-    {
-      "basename": "G_Switch",
-      "path": "Berufsschule/Lernfeld 3/G_Switch.md"
-    },
-    {
-      "basename": "G_Modem",
-      "path": "Berufsschule/Lernfeld 3/G_Modem.md"
     }
   ],
   "omittedPaths": [],
