@@ -15,10 +15,6 @@ Da die Berufsschule und mein Programming Stuff ziemlich viel Platz weg nimmt, ha
 
 - [[Inhaltsübersicht Prog|Programming Shit]]
 
-
-<h2 align="center">Meine Projekte</h2>
-- 
-
 <h2 align="center"> Obsidian </h2> 
 
 - [[Guide to Obsidian]]

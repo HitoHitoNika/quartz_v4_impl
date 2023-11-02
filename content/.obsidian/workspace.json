@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a3399b58862a10ef",
+        "id": "4fdac586dda82661",
         "type": "tabs",
         "children": [
           {
-            "id": "111c31e68315f699",
+            "id": "6b4b413196e3d17a",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -23,25 +23,12 @@
             }
           },
           {
-            "id": "aeff1707eef9e7a6",
+            "id": "6aaffb6c1be21995",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Berufsschule/Lernfeld 9/05.2 Cisco-Geräte konfigurieren.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d125547708bddf43",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Berufsschule/Berufsschulstoff.md",
+                "file": "Inhaltsverzeichnis.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -49,7 +36,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -123,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Berufsschule/Berufsschulstoff.md",
+                "file": "Inhaltsverzeichnis.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Berufsschule/Berufsschulstoff.md",
+                "file": "Inhaltsverzeichnis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Berufsschule/Berufsschulstoff.md"
+                "file": "Inhaltsverzeichnis.md"
               }
             }
           },
@@ -191,7 +178,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Berufsschule/Berufsschulstoff.md"
+                "file": "Inhaltsverzeichnis.md"
               }
             }
           }
@@ -213,8 +200,9 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "d125547708bddf43",
+  "active": "6aaffb6c1be21995",
   "lastOpenFiles": [
+    "index.md",
     "Berufsschule/Lernfeld 7/00. Was ist Lernfeld 7.md",
     "Berufsschule/Berufsschulstoff.md",
     "Templates/Back to Berufsschulzeug.md",
@@ -239,7 +227,6 @@
     "Templates/Back to Home.md",
     "Begriffslexikon.md",
     "Berufsschule/Lernfeld 9/03. Schichtenmodelle.md",
-    "index.md",
     "Berufsschule/Lernfeld 9/04. VPN RSA Verschlüsselungen Zertifikate.md",
     "Berufsschule/Lernfeld 9/02. DHCP - Dynamic Host Configuration Protocol.md",
     "Berufsschule/Lernfeld 9/04. DHCP.md",

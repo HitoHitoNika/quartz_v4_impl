@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Inhaltsverzeichnis",
+      "path": "Inhaltsverzeichnis.md"
+    },
+    {
+      "basename": "index",
+      "path": "index.md"
+    },
+    {
       "basename": "Berufsschulstoff",
       "path": "Berufsschule/Berufsschulstoff.md"
     },
@@ -67,10 +75,6 @@
     {
       "basename": "03. Schichtenmodelle",
       "path": "Berufsschule/Lernfeld 9/03. Schichtenmodelle.md"
-    },
-    {
-      "basename": "index",
-      "path": "index.md"
     },
     {
       "basename": "04. VPN RSA Verschlüsselungen Zertifikate",
@@ -143,10 +147,6 @@
     {
       "basename": "Back to Projectoverview",
       "path": "Templates/Back to Projectoverview.md"
-    },
-    {
-      "basename": "Inhaltsverzeichnis",
-      "path": "Inhaltsverzeichnis.md"
     },
     {
       "basename": "09. Daten suchen & sortieren",
