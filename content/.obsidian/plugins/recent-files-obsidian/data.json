@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Inhaltsverzeichnis",
-      "path": "Inhaltsverzeichnis.md"
+      "basename": "03. Schichtenmodelle",
+      "path": "Berufsschule/Lernfeld 9/03. Schichtenmodelle.md"
     },
     {
       "basename": "index",
       "path": "index.md"
+    },
+    {
+      "basename": "Inhaltsverzeichnis",
+      "path": "Inhaltsverzeichnis.md"
     },
     {
       "basename": "Berufsschulstoff",
@@ -71,10 +75,6 @@
     {
       "basename": "Back to Home",
       "path": "Templates/Back to Home.md"
-    },
-    {
-      "basename": "03. Schichtenmodelle",
-      "path": "Berufsschule/Lernfeld 9/03. Schichtenmodelle.md"
     },
     {
       "basename": "04. VPN RSA Verschlüsselungen Zertifikate",
@@ -195,10 +195,6 @@
     {
       "basename": "01. Warum Mikrocontroller",
       "path": "Berufsschule/µ-Controller/01. Warum Mikrocontroller.md"
-    },
-    {
-      "basename": "00. Wichtige Befehle",
-      "path": "Berufsschule/µ-Controller/00. Wichtige Befehle.md"
     }
   ],
   "omittedPaths": [],

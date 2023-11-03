@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4fdac586dda82661",
+        "id": "ff090b9d9c324037",
         "type": "tabs",
         "children": [
           {
-            "id": "6b4b413196e3d17a",
+            "id": "4bc1dec9e7a5979a",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -23,12 +23,12 @@
             }
           },
           {
-            "id": "6aaffb6c1be21995",
+            "id": "be58a7e94247cad9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inhaltsverzeichnis.md",
+                "file": "Berufsschule/Lernfeld 9/03. Schichtenmodelle.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inhaltsverzeichnis.md",
+                "file": "Berufsschule/Lernfeld 9/03. Schichtenmodelle.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inhaltsverzeichnis.md",
+                "file": "Berufsschule/Lernfeld 9/03. Schichtenmodelle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inhaltsverzeichnis.md"
+                "file": "Berufsschule/Lernfeld 9/03. Schichtenmodelle.md"
               }
             }
           },
@@ -178,7 +178,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Inhaltsverzeichnis.md"
+                "file": "Berufsschule/Lernfeld 9/03. Schichtenmodelle.md"
               }
             }
           }
@@ -200,8 +200,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "6aaffb6c1be21995",
+  "active": "be58a7e94247cad9",
   "lastOpenFiles": [
+    "Assets/Pictures/Pasted image 20231103080321.png",
+    "Berufsschule/Lernfeld 3/Untitled.md",
     "index.md",
     "Berufsschule/Lernfeld 7/00. Was ist Lernfeld 7.md",
     "Berufsschule/Berufsschulstoff.md",
@@ -233,8 +235,6 @@
     "Assets/Pictures/Pasted image 20231030095833.png",
     "Berufsschule/µ-Controller/03. Widerstände bestimmen.md",
     "Berufsschule/µ-Controller/04. LED und Taster.md",
-    "Berufsschule/Lernfeld 3/Untitled.md",
-    "Berufsschule/Lernfeld 5/10. Objektorientierung.md",
     "Projekte/PasswordManager/Java/Dev-Doku/Overview.canvas",
     "Projekte/PasswordManager/Java/Dev-Doku/GUI/Frames",
     "Projekte/PasswordManager/Java/Dev-Doku/GUI/Panels",
