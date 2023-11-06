@@ -5,12 +5,12 @@
       "path": "Berufsschule/Lernfeld 9/05.2 Cisco-Geräte konfigurieren.md"
     },
     {
-      "basename": "index",
-      "path": "index.md"
-    },
-    {
       "basename": "05.2.1 Aufgabe",
       "path": "Berufsschule/Lernfeld 9/05.2.1 Aufgabe.md"
+    },
+    {
+      "basename": "index",
+      "path": "index.md"
     },
     {
       "basename": "Berufsschulstoff",
