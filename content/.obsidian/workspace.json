@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ff090b9d9c324037",
+        "id": "d51ffdcb7d468f6f",
         "type": "tabs",
         "children": [
           {
-            "id": "4bc1dec9e7a5979a",
+            "id": "39f88f5b5360a7f6",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -23,12 +23,12 @@
             }
           },
           {
-            "id": "be58a7e94247cad9",
+            "id": "23f14a269d403faf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Berufsschule/Lernfeld 9/03. Schichtenmodelle.md",
+                "file": "Berufsschule/Lernfeld 7/02. Software Anbindung an Maschine.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Berufsschule/Lernfeld 9/03. Schichtenmodelle.md",
+                "file": "Berufsschule/Lernfeld 7/02. Software Anbindung an Maschine.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Berufsschule/Lernfeld 9/03. Schichtenmodelle.md",
+                "file": "Berufsschule/Lernfeld 7/02. Software Anbindung an Maschine.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Berufsschule/Lernfeld 9/03. Schichtenmodelle.md"
+                "file": "Berufsschule/Lernfeld 7/02. Software Anbindung an Maschine.md"
               }
             }
           },
@@ -178,7 +178,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Berufsschule/Lernfeld 9/03. Schichtenmodelle.md"
+                "file": "Berufsschule/Lernfeld 7/02. Software Anbindung an Maschine.md"
               }
             }
           }
@@ -200,11 +200,26 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "be58a7e94247cad9",
+  "active": "23f14a269d403faf",
   "lastOpenFiles": [
-    "Assets/Pictures/Pasted image 20231103080321.png",
-    "Berufsschule/Lernfeld 3/Untitled.md",
+    "Berufsschule/Lernfeld 7/01. Maschinen Ablauf erklären.md",
+    "Assets/Pictures/Anlagendokumentation.pdf",
+    "Berufsschule/Lernfeld 7/02. Software Anbindung an Maschine.md",
     "index.md",
+    "Berufsschule/µ-Controller/Untitled.md",
+    "Berufsschule/µ-Controller/04. LED und Taster.md",
+    "Assets/Pictures/Pasted image 20231106081623.png",
+    "Assets/Pictures/Pasted image 20230913134903.png",
+    "Assets/Pictures/Pasted image 20230927103600.png",
+    "Assets/Pictures/Pasted image 20230927142055.png",
+    "Assets/Pictures/Pasted image 20231002102326.png",
+    "Assets/Pictures/Taster Schaltung.png",
+    "Assets/Pictures/Startup von Cisco IOS.png",
+    "Assets/Pictures/PacketTracer Console Modes.png",
+    "Assets/Pictures/OSI.png",
+    "Assets/Pictures/Pasted image 20231106081435.png",
+    "Berufsschule/µ-Controller/03. Widerstände bestimmen.md",
+    "Berufsschule/Lernfeld 3/Untitled.md",
     "Berufsschule/Lernfeld 7/00. Was ist Lernfeld 7.md",
     "Berufsschule/Berufsschulstoff.md",
     "Templates/Back to Berufsschulzeug.md",
@@ -213,28 +228,16 @@
     "Berufsschule/Lernfeld 8/01.1 Umsetzung eines Klassendiagramms.md",
     "Berufsschule/Lernfeld 8/01. Klassendiagramm.md",
     "Berufsschule/Lernfeld 8/00. Was ist Lernfeld 8.md",
-    "Berufsschule/Lernfeld 7/01. Maschinen Ablauf erklären.md",
-    "Assets/Pictures/Stationcheck_nonTransparent.png",
-    "Assets/Pictures/Stationcheck.png",
-    "Assets/Pictures/Main.png",
-    "Assets/Pictures/Pasted image 20231102134532.png",
     "Berufsschule/Lernfeld 9/05. Packet Tracer.md",
     "Berufsschule/Lernfeld 9/05.2 Cisco-Geräte konfigurieren.md",
     "Berufsschule/Lernfeld 9/05.1 Geräte.md",
     "Obsidian/Guide to Obsidian.md",
     "Berufsschule/Lernfeld 3/G_Access Point.md",
-    "Assets/Pictures/Pasted image 20231102113053.png",
-    "Assets/Pictures/Pasted image 20231102110918.png",
     "Berufsschule/Lernfeld 3/G_Switch.md",
     "Templates/Back to Home.md",
     "Begriffslexikon.md",
     "Berufsschule/Lernfeld 9/03. Schichtenmodelle.md",
     "Berufsschule/Lernfeld 9/04. VPN RSA Verschlüsselungen Zertifikate.md",
-    "Berufsschule/Lernfeld 9/02. DHCP - Dynamic Host Configuration Protocol.md",
-    "Berufsschule/Lernfeld 9/04. DHCP.md",
-    "Assets/Pictures/Pasted image 20231030095833.png",
-    "Berufsschule/µ-Controller/03. Widerstände bestimmen.md",
-    "Berufsschule/µ-Controller/04. LED und Taster.md",
     "Projekte/PasswordManager/Java/Dev-Doku/Overview.canvas",
     "Projekte/PasswordManager/Java/Dev-Doku/GUI/Frames",
     "Projekte/PasswordManager/Java/Dev-Doku/GUI/Panels",
@@ -245,11 +248,7 @@
     "Untitled",
     "Projekte/PasswordManager/Java",
     "Projekte/PasswordManager",
-    "Projekte",
     "Assets/Canvas/Hosting für Notes.canvas",
-    "Assets/Pictures/Pasted image 20231002102326.png",
-    "Assets/Pictures/Pasted image 20230927142055.png",
-    "Assets/Pictures/Pasted image 20230927142028.png",
     "Programming Specific Stuff/Web-Entwicklung/Angular/Untitled.canvas"
   ]
 }

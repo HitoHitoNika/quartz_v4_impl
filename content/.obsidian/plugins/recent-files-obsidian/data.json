@@ -1,12 +1,64 @@
 {
   "recentFiles": [
     {
-      "basename": "03. Schichtenmodelle",
-      "path": "Berufsschule/Lernfeld 9/03. Schichtenmodelle.md"
+      "basename": "02. Software Anbindung an Maschine",
+      "path": "Berufsschule/Lernfeld 7/02. Software Anbindung an Maschine.md"
+    },
+    {
+      "basename": "01. Maschinen Ablauf erklären",
+      "path": "Berufsschule/Lernfeld 7/01. Maschinen Ablauf erklären.md"
     },
     {
       "basename": "index",
       "path": "index.md"
+    },
+    {
+      "basename": "04. LED und Taster",
+      "path": "Berufsschule/µ-Controller/04. LED und Taster.md"
+    },
+    {
+      "basename": "Untitled",
+      "path": "Berufsschule/µ-Controller/Untitled.md"
+    },
+    {
+      "basename": "Pasted image 20230913134903",
+      "path": "Assets/Pictures/Pasted image 20230913134903.png"
+    },
+    {
+      "basename": "Pasted image 20230927103600",
+      "path": "Assets/Pictures/Pasted image 20230927103600.png"
+    },
+    {
+      "basename": "Pasted image 20230927142055",
+      "path": "Assets/Pictures/Pasted image 20230927142055.png"
+    },
+    {
+      "basename": "Pasted image 20231002102326",
+      "path": "Assets/Pictures/Pasted image 20231002102326.png"
+    },
+    {
+      "basename": "Taster Schaltung",
+      "path": "Assets/Pictures/Taster Schaltung.png"
+    },
+    {
+      "basename": "Startup von Cisco IOS",
+      "path": "Assets/Pictures/Startup von Cisco IOS.png"
+    },
+    {
+      "basename": "PacketTracer Console Modes",
+      "path": "Assets/Pictures/PacketTracer Console Modes.png"
+    },
+    {
+      "basename": "OSI",
+      "path": "Assets/Pictures/OSI.png"
+    },
+    {
+      "basename": "03. Widerstände bestimmen",
+      "path": "Berufsschule/µ-Controller/03. Widerstände bestimmen.md"
+    },
+    {
+      "basename": "03. Schichtenmodelle",
+      "path": "Berufsschule/Lernfeld 9/03. Schichtenmodelle.md"
     },
     {
       "basename": "Inhaltsverzeichnis",
@@ -45,10 +97,6 @@
       "path": "Berufsschule/Lernfeld 8/00. Was ist Lernfeld 8.md"
     },
     {
-      "basename": "01. Maschinen Ablauf erklären",
-      "path": "Berufsschule/Lernfeld 7/01. Maschinen Ablauf erklären.md"
-    },
-    {
       "basename": "05. Packet Tracer",
       "path": "Berufsschule/Lernfeld 9/05. Packet Tracer.md"
     },
@@ -83,14 +131,6 @@
     {
       "basename": "02. DHCP - Dynamic Host Configuration Protocol",
       "path": "Berufsschule/Lernfeld 9/02. DHCP - Dynamic Host Configuration Protocol.md"
-    },
-    {
-      "basename": "04. LED und Taster",
-      "path": "Berufsschule/µ-Controller/04. LED und Taster.md"
-    },
-    {
-      "basename": "03. Widerstände bestimmen",
-      "path": "Berufsschule/µ-Controller/03. Widerstände bestimmen.md"
     },
     {
       "basename": "10. Objektorientierung",
@@ -159,42 +199,6 @@
     {
       "basename": "07. Methoden",
       "path": "Berufsschule/Lernfeld 5/07. Methoden.md"
-    },
-    {
-      "basename": "06. Arrays",
-      "path": "Berufsschule/Lernfeld 5/06. Arrays.md"
-    },
-    {
-      "basename": "05. Zufallszahlen",
-      "path": "Berufsschule/Lernfeld 5/05. Zufallszahlen.md"
-    },
-    {
-      "basename": "04. Ausgabe und Eingabe",
-      "path": "Berufsschule/Lernfeld 5/04. Ausgabe und Eingabe.md"
-    },
-    {
-      "basename": "03. Bedingungen und Schleifen",
-      "path": "Berufsschule/Lernfeld 5/03. Bedingungen und Schleifen.md"
-    },
-    {
-      "basename": "02. Operatoren",
-      "path": "Berufsschule/Lernfeld 5/02. Operatoren.md"
-    },
-    {
-      "basename": "01. Einfache Datentypen",
-      "path": "Berufsschule/Lernfeld 5/01. Einfache Datentypen.md"
-    },
-    {
-      "basename": "02. Arduino IDE",
-      "path": "Berufsschule/µ-Controller/02. Arduino IDE.md"
-    },
-    {
-      "basename": "Bedürfnisse, Bedarf, Nachfrage",
-      "path": "Berufsschule/Sozialkunde/Lernbaustein 1/Bedürfnisse, Bedarf, Nachfrage.md"
-    },
-    {
-      "basename": "01. Warum Mikrocontroller",
-      "path": "Berufsschule/µ-Controller/01. Warum Mikrocontroller.md"
     }
   ],
   "omittedPaths": [],
