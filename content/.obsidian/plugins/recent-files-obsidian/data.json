@@ -1,16 +1,36 @@
 {
   "recentFiles": [
     {
+      "basename": "05.2 Cisco-Geräte konfigurieren",
+      "path": "Berufsschule/Lernfeld 9/05.2 Cisco-Geräte konfigurieren.md"
+    },
+    {
+      "basename": "05.2.1 Aufgabe",
+      "path": "Berufsschule/Lernfeld 9/05.2.1 Aufgabe.md"
+    },
+    {
+      "basename": "index",
+      "path": "index.md"
+    },
+    {
+      "basename": "Berufsschulstoff",
+      "path": "Berufsschule/Berufsschulstoff.md"
+    },
+    {
+      "basename": "05. Packet Tracer",
+      "path": "Berufsschule/Lernfeld 9/05. Packet Tracer.md"
+    },
+    {
+      "basename": "05.1 Geräte",
+      "path": "Berufsschule/Lernfeld 9/05.1 Geräte.md"
+    },
+    {
       "basename": "02. Software Anbindung an Maschine",
       "path": "Berufsschule/Lernfeld 7/02. Software Anbindung an Maschine.md"
     },
     {
       "basename": "01. Maschinen Ablauf erklären",
       "path": "Berufsschule/Lernfeld 7/01. Maschinen Ablauf erklären.md"
-    },
-    {
-      "basename": "index",
-      "path": "index.md"
     },
     {
       "basename": "04. LED und Taster",
@@ -65,10 +85,6 @@
       "path": "Inhaltsverzeichnis.md"
     },
     {
-      "basename": "Berufsschulstoff",
-      "path": "Berufsschule/Berufsschulstoff.md"
-    },
-    {
       "basename": "00. Was ist Lernfeld 7",
       "path": "Berufsschule/Lernfeld 7/00. Was ist Lernfeld 7.md"
     },
@@ -95,18 +111,6 @@
     {
       "basename": "00. Was ist Lernfeld 8",
       "path": "Berufsschule/Lernfeld 8/00. Was ist Lernfeld 8.md"
-    },
-    {
-      "basename": "05. Packet Tracer",
-      "path": "Berufsschule/Lernfeld 9/05. Packet Tracer.md"
-    },
-    {
-      "basename": "05.2 Cisco-Geräte konfigurieren",
-      "path": "Berufsschule/Lernfeld 9/05.2 Cisco-Geräte konfigurieren.md"
-    },
-    {
-      "basename": "05.1 Geräte",
-      "path": "Berufsschule/Lernfeld 9/05.1 Geräte.md"
     },
     {
       "basename": "Guide to Obsidian",
@@ -195,10 +199,6 @@
     {
       "basename": "08. Testen",
       "path": "Berufsschule/Lernfeld 5/08. Testen.md"
-    },
-    {
-      "basename": "07. Methoden",
-      "path": "Berufsschule/Lernfeld 5/07. Methoden.md"
     }
   ],
   "omittedPaths": [],

@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d51ffdcb7d468f6f",
+        "id": "624cb8b423b781f0",
         "type": "tabs",
         "children": [
           {
-            "id": "39f88f5b5360a7f6",
+            "id": "c070206dbc2a8feb",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -23,12 +23,12 @@
             }
           },
           {
-            "id": "23f14a269d403faf",
+            "id": "f84fdb2cc799c331",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Berufsschule/Lernfeld 7/02. Software Anbindung an Maschine.md",
+                "file": "Berufsschule/Lernfeld 9/05.2 Cisco-Geräte konfigurieren.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Berufsschule/Lernfeld 7/02. Software Anbindung an Maschine.md",
+                "file": "Berufsschule/Lernfeld 9/05.2 Cisco-Geräte konfigurieren.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Berufsschule/Lernfeld 7/02. Software Anbindung an Maschine.md",
+                "file": "Berufsschule/Lernfeld 9/05.2 Cisco-Geräte konfigurieren.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Berufsschule/Lernfeld 7/02. Software Anbindung an Maschine.md"
+                "file": "Berufsschule/Lernfeld 9/05.2 Cisco-Geräte konfigurieren.md"
               }
             }
           },
@@ -178,7 +178,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Berufsschule/Lernfeld 7/02. Software Anbindung an Maschine.md"
+                "file": "Berufsschule/Lernfeld 9/05.2 Cisco-Geräte konfigurieren.md"
               }
             }
           }
@@ -200,12 +200,16 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "23f14a269d403faf",
+  "active": "f84fdb2cc799c331",
   "lastOpenFiles": [
+    "Berufsschule/Lernfeld 9/05.2.1 Aufgabe.md",
+    "Berufsschule/Lernfeld 9/05.2 Cisco-Geräte konfigurieren.md",
+    "index.md",
+    "Berufsschule/Lernfeld 9/05. Packet Tracer.md",
+    "Berufsschule/Lernfeld 9/05.1 Geräte.md",
     "Berufsschule/Lernfeld 7/01. Maschinen Ablauf erklären.md",
     "Assets/Pictures/Anlagendokumentation.pdf",
     "Berufsschule/Lernfeld 7/02. Software Anbindung an Maschine.md",
-    "index.md",
     "Berufsschule/µ-Controller/Untitled.md",
     "Berufsschule/µ-Controller/04. LED und Taster.md",
     "Assets/Pictures/Pasted image 20231106081623.png",
@@ -228,9 +232,6 @@
     "Berufsschule/Lernfeld 8/01.1 Umsetzung eines Klassendiagramms.md",
     "Berufsschule/Lernfeld 8/01. Klassendiagramm.md",
     "Berufsschule/Lernfeld 8/00. Was ist Lernfeld 8.md",
-    "Berufsschule/Lernfeld 9/05. Packet Tracer.md",
-    "Berufsschule/Lernfeld 9/05.2 Cisco-Geräte konfigurieren.md",
-    "Berufsschule/Lernfeld 9/05.1 Geräte.md",
     "Obsidian/Guide to Obsidian.md",
     "Berufsschule/Lernfeld 3/G_Access Point.md",
     "Berufsschule/Lernfeld 3/G_Switch.md",
