@@ -1,16 +1,84 @@
 {
   "recentFiles": [
     {
-      "basename": "05.2 Cisco-Geräte konfigurieren",
-      "path": "Berufsschule/Lernfeld 9/05.2 Cisco-Geräte konfigurieren.md"
+      "basename": "Besitz und Eigentum",
+      "path": "Berufsschule/Sozialkunde/Lernbaustein 1/Besitz und Eigentum.md"
     },
     {
-      "basename": "05.2.1 Aufgabe",
-      "path": "Berufsschule/Lernfeld 9/05.2.1 Aufgabe.md"
+      "basename": "Wirtschaftskreislauf",
+      "path": "Berufsschule/Sozialkunde/Lernbaustein 1/Wirtschaftskreislauf.md"
+    },
+    {
+      "basename": "Produktionsfaktoren",
+      "path": "Berufsschule/Sozialkunde/Lernbaustein 1/Produktionsfaktoren.md"
+    },
+    {
+      "basename": "Bedürfnisse, Bedarf, Nachfrage",
+      "path": "Berufsschule/Sozialkunde/Lernbaustein 1/Bedürfnisse, Bedarf, Nachfrage.md"
+    },
+    {
+      "basename": "Lernzettel",
+      "path": "Berufsschule/Sozialkunde/Lernzettel.md"
     },
     {
       "basename": "index",
       "path": "index.md"
+    },
+    {
+      "basename": "Taster Schaltung",
+      "path": "Assets/Pictures/Taster Schaltung.png"
+    },
+    {
+      "basename": "04. LED und Taster",
+      "path": "Berufsschule/µ-Controller/04. LED und Taster.md"
+    },
+    {
+      "basename": "UML Bildaufgabe",
+      "path": "Assets/Pictures/UML Bildaufgabe.png"
+    },
+    {
+      "basename": "UML_Aufgabe",
+      "path": "Assets/Pictures/UML_Aufgabe.png"
+    },
+    {
+      "basename": "Pasted image 20230927103600",
+      "path": "Assets/Pictures/Pasted image 20230927103600.png"
+    },
+    {
+      "basename": "Pasted image 20230913134903",
+      "path": "Assets/Pictures/Pasted image 20230913134903.png"
+    },
+    {
+      "basename": "03. Aufgabe UML",
+      "path": "Berufsschule/Lernfeld 8/03. Aufgabe UML.md"
+    },
+    {
+      "basename": "Lernjob 3 -",
+      "path": "Berufsschule/Lernfeld 6/Lernjob 3 -.md"
+    },
+    {
+      "basename": "05.2 Cisco-Geräte konfigurieren",
+      "path": "Berufsschule/Lernfeld 9/05.2 Cisco-Geräte konfigurieren.md"
+    },
+    {
+      "basename": "Lernjob 2 - Aufbau- und Ablauforganisation",
+      "path": "Berufsschule/Lernfeld 6/Lernjob 2 - Aufbau- und Ablauforganisation.md"
+    },
+    {
+      "basename": "Lernjob 1 - ERP-Systeme",
+      "path": "Berufsschule/Lernfeld 6/Lernjob 1 - ERP-Systeme.md"
+    },
+    {
+      "basename": "Lernfeld 6 - Serviceanfragen bearbeiten",
+      "path": "Berufsschule/Lernfeld 6/Lernfeld 6 - Serviceanfragen bearbeiten.md"
+    },
+    {
+      "basename": "02. Software Anbindung an Maschine",
+      "path": "Berufsschule/Lernfeld 7/02. Software Anbindung an Maschine.md"
+    },
+    {
+      "basename": "05.2.1 Aufgabe",
+      "path": "Berufsschule/Lernfeld 9/05.2.1 Aufgabe.md"
     },
     {
       "basename": "Berufsschulstoff",
@@ -25,40 +93,16 @@
       "path": "Berufsschule/Lernfeld 9/05.1 Geräte.md"
     },
     {
-      "basename": "02. Software Anbindung an Maschine",
-      "path": "Berufsschule/Lernfeld 7/02. Software Anbindung an Maschine.md"
-    },
-    {
       "basename": "01. Maschinen Ablauf erklären",
       "path": "Berufsschule/Lernfeld 7/01. Maschinen Ablauf erklären.md"
-    },
-    {
-      "basename": "04. LED und Taster",
-      "path": "Berufsschule/µ-Controller/04. LED und Taster.md"
     },
     {
       "basename": "Untitled",
       "path": "Berufsschule/µ-Controller/Untitled.md"
     },
     {
-      "basename": "Pasted image 20230913134903",
-      "path": "Assets/Pictures/Pasted image 20230913134903.png"
-    },
-    {
-      "basename": "Pasted image 20230927103600",
-      "path": "Assets/Pictures/Pasted image 20230927103600.png"
-    },
-    {
-      "basename": "Pasted image 20230927142055",
-      "path": "Assets/Pictures/Pasted image 20230927142055.png"
-    },
-    {
       "basename": "Pasted image 20231002102326",
       "path": "Assets/Pictures/Pasted image 20231002102326.png"
-    },
-    {
-      "basename": "Taster Schaltung",
-      "path": "Assets/Pictures/Taster Schaltung.png"
     },
     {
       "basename": "Startup von Cisco IOS",
@@ -91,10 +135,6 @@
     {
       "basename": "Back to Berufsschulzeug",
       "path": "Templates/Back to Berufsschulzeug.md"
-    },
-    {
-      "basename": "03. Aufgabe UML",
-      "path": "Berufsschule/Lernfeld 8/03. Aufgabe UML.md"
     },
     {
       "basename": "02. Aktivitätsdiagramm",
@@ -159,46 +199,6 @@
     {
       "basename": "JSON File Service",
       "path": "Projekte/PasswordManager/Java/Dev-Doku/Services/JSON File Service.md"
-    },
-    {
-      "basename": "User Management Service",
-      "path": "Projekte/PasswordManager/Java/Dev-Doku/Services/User Management Service.md"
-    },
-    {
-      "basename": "State to JSON Service",
-      "path": "Projekte/PasswordManager/Java/Dev-Doku/Services/State to JSON Service.md"
-    },
-    {
-      "basename": "Encryption Service",
-      "path": "Projekte/PasswordManager/Java/Dev-Doku/Services/Encryption Service.md"
-    },
-    {
-      "basename": "Password",
-      "path": "Projekte/PasswordManager/Java/Dev-Doku/Entities/Password.md"
-    },
-    {
-      "basename": "User",
-      "path": "Projekte/PasswordManager/Java/Dev-Doku/Entities/User.md"
-    },
-    {
-      "basename": "Gesamt-Projekt-Übersicht",
-      "path": "Projekte/Gesamt-Projekt-Übersicht.md"
-    },
-    {
-      "basename": "Table of Contents",
-      "path": "Projekte/PasswordManager/Java/Table of Contents.md"
-    },
-    {
-      "basename": "Back to Projectoverview",
-      "path": "Templates/Back to Projectoverview.md"
-    },
-    {
-      "basename": "09. Daten suchen & sortieren",
-      "path": "Berufsschule/Lernfeld 5/09. Daten suchen & sortieren.md"
-    },
-    {
-      "basename": "08. Testen",
-      "path": "Berufsschule/Lernfeld 5/08. Testen.md"
     }
   ],
   "omittedPaths": [],

@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "538f2c7e5ae02155",
+        "id": "3fb3de73588baafa",
         "type": "tabs",
         "children": [
           {
-            "id": "91a931da45f881b7",
+            "id": "fd6cc020e03cf876",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -23,12 +23,12 @@
             }
           },
           {
-            "id": "e913b2341939664b",
+            "id": "b9ab4a70168931d9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Berufsschule/Lernfeld 9/05.2 Cisco-Geräte konfigurieren.md",
+                "file": "Berufsschule/Sozialkunde/Lernbaustein 1/Besitz und Eigentum.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Berufsschule/Lernfeld 9/05.2 Cisco-Geräte konfigurieren.md",
+                "file": "Berufsschule/Sozialkunde/Lernbaustein 1/Besitz und Eigentum.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Berufsschule/Lernfeld 9/05.2 Cisco-Geräte konfigurieren.md",
+                "file": "Berufsschule/Sozialkunde/Lernbaustein 1/Besitz und Eigentum.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Berufsschule/Lernfeld 9/05.2 Cisco-Geräte konfigurieren.md"
+                "file": "Berufsschule/Sozialkunde/Lernbaustein 1/Besitz und Eigentum.md"
               }
             }
           },
@@ -178,7 +178,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Berufsschule/Lernfeld 9/05.2 Cisco-Geräte konfigurieren.md"
+                "file": "Berufsschule/Sozialkunde/Lernbaustein 1/Besitz und Eigentum.md"
               }
             }
           }
@@ -200,55 +200,54 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "e913b2341939664b",
+  "active": "b9ab4a70168931d9",
   "lastOpenFiles": [
-    "Berufsschule/Lernfeld 9/05.2.1 Aufgabe.md",
-    "Berufsschule/Lernfeld 9/05.2 Cisco-Geräte konfigurieren.md",
+    "Berufsschule/Sozialkunde/Lernbaustein 1/Wirtschaftskreislauf.md",
+    "Assets/PDFs/Wirtschaftskreislauf.pdf",
+    "Berufsschule/Sozialkunde/Lernbaustein 1/Produktionsfaktoren.md",
+    "Berufsschule/Sozialkunde/Lernbaustein 1/Besitz und Eigentum.md",
+    "Berufsschule/Sozialkunde/Lernbaustein 1/Bedürfnisse, Bedarf, Nachfrage.md",
+    "Berufsschule/Sozialkunde/Lernzettel.md",
+    "Assets/PDFs/Bedürfnisse, Bedarf, Nachfrage.pdf",
+    "Assets/PDFs",
+    "Assets/PDFs/Besitz_Eigentum.pdf",
     "index.md",
+    "Berufsschule/µ-Controller/04. LED und Taster.md",
+    "Assets/Pictures/UML_Aufgabe.png",
+    "Assets/Pictures/UML Bildaufgabe.png",
+    "Assets/Pictures/Pasted image 20230927103600.png",
+    "Assets/Pictures/Pasted image 20230913134903.png",
+    "Berufsschule/Lernfeld 8/03. Aufgabe UML.md",
+    "Berufsschule/Lernfeld 6/Lernjob 3 -.md",
+    "Berufsschule/Lernfeld 9/05.2 Cisco-Geräte konfigurieren.md",
+    "Berufsschule/Lernfeld 6/Lernjob 2 - Aufbau- und Ablauforganisation.md",
+    "Berufsschule/Lernfeld 6/Lernjob 1 - ERP-Systeme.md",
+    "Berufsschule/Lernfeld 6/Lernfeld 6 - Serviceanfragen bearbeiten.md",
+    "Berufsschule/Lernfeld 7/02. Software Anbindung an Maschine.md",
+    "Berufsschule/Lernfeld 9/05.2.1 Aufgabe.md",
     "Berufsschule/Lernfeld 9/05. Packet Tracer.md",
     "Berufsschule/Lernfeld 9/05.1 Geräte.md",
     "Berufsschule/Lernfeld 7/01. Maschinen Ablauf erklären.md",
     "Assets/Pictures/Anlagendokumentation.pdf",
-    "Berufsschule/Lernfeld 7/02. Software Anbindung an Maschine.md",
     "Berufsschule/µ-Controller/Untitled.md",
-    "Berufsschule/µ-Controller/04. LED und Taster.md",
     "Assets/Pictures/Pasted image 20231106081623.png",
-    "Assets/Pictures/Pasted image 20230913134903.png",
-    "Assets/Pictures/Pasted image 20230927103600.png",
-    "Assets/Pictures/Pasted image 20230927142055.png",
     "Assets/Pictures/Pasted image 20231002102326.png",
     "Assets/Pictures/Taster Schaltung.png",
     "Assets/Pictures/Startup von Cisco IOS.png",
     "Assets/Pictures/PacketTracer Console Modes.png",
     "Assets/Pictures/OSI.png",
-    "Assets/Pictures/Pasted image 20231106081435.png",
     "Berufsschule/µ-Controller/03. Widerstände bestimmen.md",
     "Berufsschule/Lernfeld 3/Untitled.md",
     "Berufsschule/Lernfeld 7/00. Was ist Lernfeld 7.md",
     "Berufsschule/Berufsschulstoff.md",
     "Templates/Back to Berufsschulzeug.md",
-    "Berufsschule/Lernfeld 8/03. Aufgabe UML.md",
     "Berufsschule/Lernfeld 8/02. Aktivitätsdiagramm.md",
-    "Berufsschule/Lernfeld 8/01.1 Umsetzung eines Klassendiagramms.md",
-    "Berufsschule/Lernfeld 8/01. Klassendiagramm.md",
-    "Berufsschule/Lernfeld 8/00. Was ist Lernfeld 8.md",
-    "Obsidian/Guide to Obsidian.md",
-    "Berufsschule/Lernfeld 3/G_Access Point.md",
-    "Berufsschule/Lernfeld 3/G_Switch.md",
-    "Templates/Back to Home.md",
-    "Begriffslexikon.md",
-    "Berufsschule/Lernfeld 9/03. Schichtenmodelle.md",
-    "Berufsschule/Lernfeld 9/04. VPN RSA Verschlüsselungen Zertifikate.md",
     "Projekte/PasswordManager/Java/Dev-Doku/Overview.canvas",
     "Projekte/PasswordManager/Java/Dev-Doku/GUI/Frames",
     "Projekte/PasswordManager/Java/Dev-Doku/GUI/Panels",
     "Projekte/PasswordManager/Java/Dev-Doku/GUI",
     "Projekte/PasswordManager/Java/Dev-Doku/Entities",
     "Projekte/PasswordManager/Java/Dev-Doku/Services",
-    "Projekte/PasswordManager/Java/Dev-Doku",
-    "Untitled",
-    "Projekte/PasswordManager/Java",
-    "Projekte/PasswordManager",
     "Assets/Canvas/Hosting für Notes.canvas",
     "Programming Specific Stuff/Web-Entwicklung/Angular/Untitled.canvas"
   ]

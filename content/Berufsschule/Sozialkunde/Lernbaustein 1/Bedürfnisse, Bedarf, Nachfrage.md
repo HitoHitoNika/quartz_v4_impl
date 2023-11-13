@@ -3,42 +3,43 @@ tags:
   - Berufsschule
 ---
 Zurück zu [[Berufsschulstoff|Berufsschul-Inhaltsübersicht]]
-## 1. Was versteht man unter Bedürfnissen?
+![[Bedürfnisse, Bedarf, Nachfrage.pdf]]
+### Aufgabe 1
 
 Unter Bedürfnissen versteht man das menschliche Verlangen, Mängel zu stillen
 
-## 2. Was heißt wirtschaften?
+### Aufgabe 2
 
 Wirtschaften heißt planvoll mit den gegebenen Gütern umgehen.
 
-## 3. Erläutern Sie die Begriffe "Existenzbedürfnisse, Kulturbedürfnisse und Luxusbedürfnisse"
+### Aufgabe 3
 
-### Existenzbedürfnisse
+#### Existenzbedürfnisse
 
 Bedürfnisse ohne die man nicht Leben kann:
 - Nahrung
 - Wohnraum
 - Schlaf
 
-### Kulturbedürfnisse
+#### Kulturbedürfnisse
 
 Bedürfnisse beruhend auf sozialen Dingen:
 - Kunst
 - Theater 
 - Musik
 
-### Luxusbedürfnisse
+#### Luxusbedürfnisse
 
 Bedürfnisse die man zur Selbstverwirklichung braucht:
 - Handy
 - Auto
 - Yacht
 
-## Was bezeichnet man als Bedarf?
+### Aufgabe 4
 
 Wenn man die finanziellen Mittel hat um die Bedürfnisse zu stillen, werden auf den Bedürfnissen ein Bedarf
 
-## Definieren Sie den Begriff "Nachfrage"
+### Aufgabe 5
 
 Eingesetzte Kaufkraft macht aus einem Bedarf eine Nachfrage
 

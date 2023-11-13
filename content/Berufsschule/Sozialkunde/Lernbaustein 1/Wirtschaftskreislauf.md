@@ -5,6 +5,8 @@ tags:
 ---
 Zurück zu [[Berufsschulstoff|Berufsschul-Inhaltsübersicht]]
 
+![[Wirtschaftskreislauf.pdf]]
+
 HIER SIND GOTTLOS VIELE LÜCKEN, TLDR LERN DEN ERWEITERTEN ([[#4. Vervollständige die Grafik]])
 
 ## 1. Erläutern Sie die vier Stufen des einfachen Wirtschaftskreislaufes.
