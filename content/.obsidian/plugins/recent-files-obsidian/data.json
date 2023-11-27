@@ -1,6 +1,70 @@
 {
   "recentFiles": [
     {
+      "basename": "Test Template - Inhaltsverzeichnis",
+      "path": "Templates/Test Template - Inhaltsverzeichnis.md"
+    },
+    {
+      "basename": "Inhaltsverzeichnis Lernfeld 3",
+      "path": "Berufsschule/Lernfeld 3/Inhaltsverzeichnis Lernfeld 3.md"
+    },
+    {
+      "basename": "P_Network Time Protocol",
+      "path": "Berufsschule/Lernfeld 3/P_Network Time Protocol.md"
+    },
+    {
+      "basename": "03. Aufgabe UML",
+      "path": "Berufsschule/Lernfeld 8/03. Aufgabe UML.md"
+    },
+    {
+      "basename": "Lernjob 4 - Übung",
+      "path": "Berufsschule/Lernfeld 6/Lernjob 4 - Übung.md"
+    },
+    {
+      "basename": "Lernjob 3 -",
+      "path": "Berufsschule/Lernfeld 6/Lernjob 3 -.md"
+    },
+    {
+      "basename": "Lernfeld 6 - Serviceanfragen bearbeiten",
+      "path": "Berufsschule/Lernfeld 6/Lernfeld 6 - Serviceanfragen bearbeiten.md"
+    },
+    {
+      "basename": "02. OPC UA",
+      "path": "Berufsschule/Lernfeld 7/02. OPC UA.md"
+    },
+    {
+      "basename": "index",
+      "path": "index.md"
+    },
+    {
+      "basename": "05. Schnittstellen",
+      "path": "Berufsschule/µ-Controller/05. Schnittstellen.md"
+    },
+    {
+      "basename": "04. LED und Taster",
+      "path": "Berufsschule/µ-Controller/04. LED und Taster.md"
+    },
+    {
+      "basename": "05.3 Funktionsweise Switch",
+      "path": "Berufsschule/Lernfeld 9/05.3 Funktionsweise Switch.md"
+    },
+    {
+      "basename": "05.1 Geräte",
+      "path": "Berufsschule/Lernfeld 9/05.1 Geräte.md"
+    },
+    {
+      "basename": "05.2 Cisco-Geräte konfigurieren",
+      "path": "Berufsschule/Lernfeld 9/05.2 Cisco-Geräte konfigurieren.md"
+    },
+    {
+      "basename": "01. Maschinen Ablauf erklären",
+      "path": "Berufsschule/Lernfeld 7/01. Maschinen Ablauf erklären.md"
+    },
+    {
+      "basename": "Berufsbildungsgesetz",
+      "path": "Berufsschule/Sozialkunde/Lernbaustein 1/Berufsbildungsgesetz.md"
+    },
+    {
       "basename": "Besitz und Eigentum",
       "path": "Berufsschule/Sozialkunde/Lernbaustein 1/Besitz und Eigentum.md"
     },
@@ -21,16 +85,8 @@
       "path": "Berufsschule/Sozialkunde/Lernzettel.md"
     },
     {
-      "basename": "index",
-      "path": "index.md"
-    },
-    {
       "basename": "Taster Schaltung",
       "path": "Assets/Pictures/Taster Schaltung.png"
-    },
-    {
-      "basename": "04. LED und Taster",
-      "path": "Berufsschule/µ-Controller/04. LED und Taster.md"
     },
     {
       "basename": "UML Bildaufgabe",
@@ -49,18 +105,6 @@
       "path": "Assets/Pictures/Pasted image 20230913134903.png"
     },
     {
-      "basename": "03. Aufgabe UML",
-      "path": "Berufsschule/Lernfeld 8/03. Aufgabe UML.md"
-    },
-    {
-      "basename": "Lernjob 3 -",
-      "path": "Berufsschule/Lernfeld 6/Lernjob 3 -.md"
-    },
-    {
-      "basename": "05.2 Cisco-Geräte konfigurieren",
-      "path": "Berufsschule/Lernfeld 9/05.2 Cisco-Geräte konfigurieren.md"
-    },
-    {
       "basename": "Lernjob 2 - Aufbau- und Ablauforganisation",
       "path": "Berufsschule/Lernfeld 6/Lernjob 2 - Aufbau- und Ablauforganisation.md"
     },
@@ -69,36 +113,12 @@
       "path": "Berufsschule/Lernfeld 6/Lernjob 1 - ERP-Systeme.md"
     },
     {
-      "basename": "Lernfeld 6 - Serviceanfragen bearbeiten",
-      "path": "Berufsschule/Lernfeld 6/Lernfeld 6 - Serviceanfragen bearbeiten.md"
-    },
-    {
-      "basename": "02. Software Anbindung an Maschine",
-      "path": "Berufsschule/Lernfeld 7/02. Software Anbindung an Maschine.md"
-    },
-    {
-      "basename": "05.2.1 Aufgabe",
-      "path": "Berufsschule/Lernfeld 9/05.2.1 Aufgabe.md"
-    },
-    {
       "basename": "Berufsschulstoff",
       "path": "Berufsschule/Berufsschulstoff.md"
     },
     {
       "basename": "05. Packet Tracer",
       "path": "Berufsschule/Lernfeld 9/05. Packet Tracer.md"
-    },
-    {
-      "basename": "05.1 Geräte",
-      "path": "Berufsschule/Lernfeld 9/05.1 Geräte.md"
-    },
-    {
-      "basename": "01. Maschinen Ablauf erklären",
-      "path": "Berufsschule/Lernfeld 7/01. Maschinen Ablauf erklären.md"
-    },
-    {
-      "basename": "Untitled",
-      "path": "Berufsschule/µ-Controller/Untitled.md"
     },
     {
       "basename": "Pasted image 20231002102326",
@@ -171,34 +191,6 @@
     {
       "basename": "04. VPN RSA Verschlüsselungen Zertifikate",
       "path": "Berufsschule/Lernfeld 9/04. VPN RSA Verschlüsselungen Zertifikate.md"
-    },
-    {
-      "basename": "02. DHCP - Dynamic Host Configuration Protocol",
-      "path": "Berufsschule/Lernfeld 9/02. DHCP - Dynamic Host Configuration Protocol.md"
-    },
-    {
-      "basename": "10. Objektorientierung",
-      "path": "Berufsschule/Lernfeld 5/10. Objektorientierung.md"
-    },
-    {
-      "basename": "Login",
-      "path": "Projekte/PasswordManager/Java/Dev-Doku/GUI/Panels/Login.md"
-    },
-    {
-      "basename": "Overview",
-      "path": "Projekte/PasswordManager/Java/Dev-Doku/Overview.canvas"
-    },
-    {
-      "basename": "RegisterUser",
-      "path": "Projekte/PasswordManager/Java/Dev-Doku/GUI/Panels/RegisterUser.md"
-    },
-    {
-      "basename": "Mainframe",
-      "path": "Projekte/PasswordManager/Java/Dev-Doku/GUI/Frames/Mainframe.md"
-    },
-    {
-      "basename": "JSON File Service",
-      "path": "Projekte/PasswordManager/Java/Dev-Doku/Services/JSON File Service.md"
     }
   ],
   "omittedPaths": [],

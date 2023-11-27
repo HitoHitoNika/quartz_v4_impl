@@ -1,4 +1,8 @@
-Mike: 
-- freier Tag 
-	- => zocken, Sport oder beides.
-	- => sein freier Tag gefüllt.
+---
+tags:
+  - Berufsschule
+  - LF6
+---
+Zurück zu [[Berufsschulstoff|Berufsschule-Inhaltsübersicht]]
+
+Siehe Miro

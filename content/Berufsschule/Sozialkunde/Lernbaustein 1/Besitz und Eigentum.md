@@ -29,3 +29,4 @@ Da er dann der Eigentümer wäre, würde der Weiterverkauf kein Problem darstell
 
 ### Aufgabe 5
 
+Leasing, Pachten, Lagerhaltung, Commissionaire
