@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "Inhaltsverzeichnis Lernfeld 3",
+      "path": "Berufsschule/Lernfeld 3/Inhaltsverzeichnis Lernfeld 3.md"
+    },
+    {
       "basename": "Test Template - Inhaltsverzeichnis",
       "path": "Templates/Test Template - Inhaltsverzeichnis.md"
     },
     {
-      "basename": "Inhaltsverzeichnis Lernfeld 3",
-      "path": "Berufsschule/Lernfeld 3/Inhaltsverzeichnis Lernfeld 3.md"
+      "basename": "index",
+      "path": "index.md"
     },
     {
       "basename": "P_Network Time Protocol",
@@ -31,10 +35,6 @@
     {
       "basename": "02. OPC UA",
       "path": "Berufsschule/Lernfeld 7/02. OPC UA.md"
-    },
-    {
-      "basename": "index",
-      "path": "index.md"
     },
     {
       "basename": "05. Schnittstellen",

@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2f7c3b69d0f4bd7b",
+        "id": "036ebaa74f319af6",
         "type": "tabs",
         "children": [
           {
-            "id": "33d46c4d20b91d32",
+            "id": "3580111d7ecf77c0",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -23,12 +23,12 @@
             }
           },
           {
-            "id": "5a8421a9f7e38419",
+            "id": "e0955dfdc9712d0d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Test Template - Inhaltsverzeichnis.md",
+                "file": "Berufsschule/Lernfeld 3/Inhaltsverzeichnis Lernfeld 3.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -94,7 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 250.5
+    "width": 282.5
   },
   "right": {
     "id": "7ebe9cef2f07b144",
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Test Template - Inhaltsverzeichnis.md",
+                "file": "Berufsschule/Lernfeld 3/Inhaltsverzeichnis Lernfeld 3.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Test Template - Inhaltsverzeichnis.md",
+                "file": "Berufsschule/Lernfeld 3/Inhaltsverzeichnis Lernfeld 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Test Template - Inhaltsverzeichnis.md"
+                "file": "Berufsschule/Lernfeld 3/Inhaltsverzeichnis Lernfeld 3.md"
               }
             }
           },
@@ -178,7 +178,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Templates/Test Template - Inhaltsverzeichnis.md"
+                "file": "Berufsschule/Lernfeld 3/Inhaltsverzeichnis Lernfeld 3.md"
               }
             }
           }
@@ -203,10 +203,11 @@
   },
   "active": "393cb06469dea704",
   "lastOpenFiles": [
+    "Templates/Test Template - Inhaltsverzeichnis.md",
     "Berufsschule/Lernfeld 3/Inhaltsverzeichnis Lernfeld 3.md",
+    "index.md",
     "Berufsschule/Lernfeld 3/Test49199919919819.md",
     "Berufsschule/Lernfeld 3/Test 123.md",
-    "Templates/Test Template - Inhaltsverzeichnis.md",
     "Berufsschule/Lernfeld 3/P_Network Time Protocol.md",
     "Berufsschule/Lernfeld 8/03. Aufgabe UML.md",
     "Assets/Pictures/UML Bildaufgabe (2).png",
@@ -221,7 +222,6 @@
     "Assets/Pictures/Pasted image 20231120115030.png",
     "Assets/Pictures/Pasted image 20231120114802.png",
     "Assets/Pictures/Pasted image 20231120114607.png",
-    "index.md",
     "Berufsschule/µ-Controller/04. LED und Taster.md",
     "Berufsschule/µ-Controller/05. Schnittstellen.md",
     "Berufsschule/Lernfeld 9/05.3 Funktionsweise Switch.md",
