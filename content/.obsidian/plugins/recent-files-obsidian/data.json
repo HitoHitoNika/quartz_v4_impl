@@ -1,20 +1,68 @@
 {
   "recentFiles": [
     {
+      "basename": "Inhaltsverzeichnis",
+      "path": "Inhaltsverzeichnis.md"
+    },
+    {
       "basename": "Berufsschulstoff",
       "path": "Berufsschule/Berufsschulstoff.md"
+    },
+    {
+      "basename": "Werbung",
+      "path": "Berufsschule/Sozialkunde/Lernbaustein 1/Werbung.md"
+    },
+    {
+      "basename": "Besitz und Eigentum",
+      "path": "Berufsschule/Sozialkunde/Lernbaustein 1/Besitz und Eigentum.md"
+    },
+    {
+      "basename": "00. Wichtige Befehle",
+      "path": "Berufsschule/µ-Controller/00. Wichtige Befehle.md"
+    },
+    {
+      "basename": "05. Schnittstellen",
+      "path": "Berufsschule/µ-Controller/05. Schnittstellen.md"
+    },
+    {
+      "basename": "04. LED und Taster",
+      "path": "Berufsschule/µ-Controller/04. LED und Taster.md"
+    },
+    {
+      "basename": "03. Widerstände bestimmen",
+      "path": "Berufsschule/µ-Controller/03. Widerstände bestimmen.md"
+    },
+    {
+      "basename": "02. Arduino IDE",
+      "path": "Berufsschule/µ-Controller/02. Arduino IDE.md"
+    },
+    {
+      "basename": "01. Warum Mikrocontroller",
+      "path": "Berufsschule/µ-Controller/01. Warum Mikrocontroller.md"
     },
     {
       "basename": "µ-Controller Übersicht",
       "path": "Berufsschule/µ-Controller/µ-Controller Übersicht.md"
     },
     {
-      "basename": "Lernfeld 6 - Serviceanfragen bearbeiten",
-      "path": "Berufsschule/Lernfeld 6/Lernfeld 6 - Serviceanfragen bearbeiten.md"
+      "basename": "Lernfeld 3 Übersicht",
+      "path": "Berufsschule/Lernfeld 3/Lernfeld 3 Übersicht.md"
+    },
+    {
+      "basename": "Mutterschutz",
+      "path": "Berufsschule/Sozialkunde/Lernbaustein 1/Mutterschutz.md"
     },
     {
       "basename": "Sozialkunde Übersicht",
       "path": "Berufsschule/Sozialkunde/Sozialkunde Übersicht.md"
+    },
+    {
+      "basename": "index",
+      "path": "index.md"
+    },
+    {
+      "basename": "Lernfeld 6 - Serviceanfragen bearbeiten",
+      "path": "Berufsschule/Lernfeld 6/Lernfeld 6 - Serviceanfragen bearbeiten.md"
     },
     {
       "basename": "Lernfeld 9 Übersicht",
@@ -31,10 +79,6 @@
     {
       "basename": "00. Lernfeld 5 Übersicht",
       "path": "Berufsschule/Lernfeld 5/00. Lernfeld 5 Übersicht.md"
-    },
-    {
-      "basename": "Lernfeld 3 Übersicht",
-      "path": "Berufsschule/Lernfeld 3/Lernfeld 3 Übersicht.md"
     },
     {
       "basename": "Access Point",
@@ -57,24 +101,12 @@
       "path": "Berufsschule/Lernfeld 7/00. Was ist Lernfeld 7.md"
     },
     {
-      "basename": "05. Schnittstellen",
-      "path": "Berufsschule/µ-Controller/05. Schnittstellen.md"
-    },
-    {
-      "basename": "index",
-      "path": "index.md"
-    },
-    {
       "basename": "01. Klassendiagramm",
       "path": "Berufsschule/Lernfeld 8/01. Klassendiagramm.md"
     },
     {
       "basename": "00. Was ist Lernfeld 8",
       "path": "Berufsschule/Lernfeld 8/00. Was ist Lernfeld 8.md"
-    },
-    {
-      "basename": "Inhaltsverzeichnis",
-      "path": "Inhaltsverzeichnis.md"
     },
     {
       "basename": "Network Time Protocol",
@@ -97,10 +129,6 @@
       "path": "Berufsschule/Lernfeld 7/02. OPC UA.md"
     },
     {
-      "basename": "04. LED und Taster",
-      "path": "Berufsschule/µ-Controller/04. LED und Taster.md"
-    },
-    {
       "basename": "05.3 Funktionsweise Switch",
       "path": "Berufsschule/Lernfeld 9/05.3 Funktionsweise Switch.md"
     },
@@ -119,10 +147,6 @@
     {
       "basename": "Berufsbildungsgesetz",
       "path": "Berufsschule/Sozialkunde/Lernbaustein 1/Berufsbildungsgesetz.md"
-    },
-    {
-      "basename": "Besitz und Eigentum",
-      "path": "Berufsschule/Sozialkunde/Lernbaustein 1/Besitz und Eigentum.md"
     },
     {
       "basename": "Wirtschaftskreislauf",
@@ -175,30 +199,6 @@
     {
       "basename": "Startup von Cisco IOS",
       "path": "Assets/Pictures/Startup von Cisco IOS.png"
-    },
-    {
-      "basename": "PacketTracer Console Modes",
-      "path": "Assets/Pictures/PacketTracer Console Modes.png"
-    },
-    {
-      "basename": "OSI",
-      "path": "Assets/Pictures/OSI.png"
-    },
-    {
-      "basename": "03. Widerstände bestimmen",
-      "path": "Berufsschule/µ-Controller/03. Widerstände bestimmen.md"
-    },
-    {
-      "basename": "03. Schichtenmodelle",
-      "path": "Berufsschule/Lernfeld 9/03. Schichtenmodelle.md"
-    },
-    {
-      "basename": "Back to Berufsschulzeug",
-      "path": "Templates/Back to Berufsschulzeug.md"
-    },
-    {
-      "basename": "02. Aktivitätsdiagramm",
-      "path": "Berufsschule/Lernfeld 8/02. Aktivitätsdiagramm.md"
     }
   ],
   "omittedPaths": [],

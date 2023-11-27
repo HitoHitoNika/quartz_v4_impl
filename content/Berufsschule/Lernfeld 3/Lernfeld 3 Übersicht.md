@@ -6,9 +6,7 @@ title: 📖 Lernfeld 3 Übersicht 📖
 ---
 Zurück zu [[Berufsschulstoff|Berufsschule-Inhaltsübersicht]]
 
-### Geräte
-
-|Thema|
+|Geräte|
 |-----|
 | [[Access Point]]|
 | [[Gateway]]|
@@ -16,9 +14,6 @@ Zurück zu [[Berufsschulstoff|Berufsschule-Inhaltsübersicht]]
 | [[Modem]]|
 | [[Switch]]|
 
-
-### Protokolle
-
-|Thema|
+|Protokolle|
 |-----|
 |[[Network Time Protocol]]|

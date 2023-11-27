@@ -5,7 +5,7 @@ aliases:
   - Gesamtübersicht
 title: 📖 Gesamtübersicht 📖
 ---
-Da die Berufsschule und mein Programming Stuff ziemlich viel Platz weg nimmt, hab ich die Bereiche in ihr eigenes Inhaltsverzeichnis aufgeteilt.
+Da die Berufsschule ziemlich viel Platz weg nimmt, hab ich die Bereiche in ihr eigenes Inhaltsverzeichnis aufgeteilt.
 
 <h2 align="center">Berufsschule </h2>
 

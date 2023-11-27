@@ -13,3 +13,8 @@ Zurück zu [[Berufsschulstoff|Berufsschule-Inhaltsübersicht]]
 |[[Produktionsfaktoren]]|
 |[[Wirtschaftskreislauf]]|
 |[[Bedürfnisse, Bedarf, Nachfrage]]|
+|[[Berufsbildungsgesetz]]|
+|[[Mutterschutz]]|
+|[[Besitz und Eigentum]]|
+
+
