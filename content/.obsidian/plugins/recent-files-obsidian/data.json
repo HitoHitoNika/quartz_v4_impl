@@ -1,20 +1,84 @@
 {
   "recentFiles": [
     {
-      "basename": "Inhaltsverzeichnis Lernfeld 3",
-      "path": "Berufsschule/Lernfeld 3/Inhaltsverzeichnis Lernfeld 3.md"
+      "basename": "Berufsschulstoff",
+      "path": "Berufsschule/Berufsschulstoff.md"
     },
     {
-      "basename": "Test Template - Inhaltsverzeichnis",
-      "path": "Templates/Test Template - Inhaltsverzeichnis.md"
+      "basename": "µ-Controller Übersicht",
+      "path": "Berufsschule/µ-Controller/µ-Controller Übersicht.md"
+    },
+    {
+      "basename": "Lernfeld 6 - Serviceanfragen bearbeiten",
+      "path": "Berufsschule/Lernfeld 6/Lernfeld 6 - Serviceanfragen bearbeiten.md"
+    },
+    {
+      "basename": "Sozialkunde Übersicht",
+      "path": "Berufsschule/Sozialkunde/Sozialkunde Übersicht.md"
+    },
+    {
+      "basename": "Lernfeld 9 Übersicht",
+      "path": "Berufsschule/Lernfeld 9/Lernfeld 9 Übersicht.md"
+    },
+    {
+      "basename": "Lernfeld 8 Übersicht",
+      "path": "Berufsschule/Lernfeld 8/Lernfeld 8 Übersicht.md"
+    },
+    {
+      "basename": "Lernfeld 7 Übersicht",
+      "path": "Berufsschule/Lernfeld 7/Lernfeld 7 Übersicht.md"
+    },
+    {
+      "basename": "00. Lernfeld 5 Übersicht",
+      "path": "Berufsschule/Lernfeld 5/00. Lernfeld 5 Übersicht.md"
+    },
+    {
+      "basename": "Lernfeld 3 Übersicht",
+      "path": "Berufsschule/Lernfeld 3/Lernfeld 3 Übersicht.md"
+    },
+    {
+      "basename": "Access Point",
+      "path": "Berufsschule/Lernfeld 3/Access Point.md"
+    },
+    {
+      "basename": "Gateway",
+      "path": "Berufsschule/Lernfeld 3/Gateway.md"
+    },
+    {
+      "basename": "Hub",
+      "path": "Berufsschule/Lernfeld 3/Hub.md"
+    },
+    {
+      "basename": "Modem",
+      "path": "Berufsschule/Lernfeld 3/Modem.md"
+    },
+    {
+      "basename": "00. Was ist Lernfeld 7",
+      "path": "Berufsschule/Lernfeld 7/00. Was ist Lernfeld 7.md"
+    },
+    {
+      "basename": "05. Schnittstellen",
+      "path": "Berufsschule/µ-Controller/05. Schnittstellen.md"
     },
     {
       "basename": "index",
       "path": "index.md"
     },
     {
-      "basename": "P_Network Time Protocol",
-      "path": "Berufsschule/Lernfeld 3/P_Network Time Protocol.md"
+      "basename": "01. Klassendiagramm",
+      "path": "Berufsschule/Lernfeld 8/01. Klassendiagramm.md"
+    },
+    {
+      "basename": "00. Was ist Lernfeld 8",
+      "path": "Berufsschule/Lernfeld 8/00. Was ist Lernfeld 8.md"
+    },
+    {
+      "basename": "Inhaltsverzeichnis",
+      "path": "Inhaltsverzeichnis.md"
+    },
+    {
+      "basename": "Network Time Protocol",
+      "path": "Berufsschule/Lernfeld 3/Network Time Protocol.md"
     },
     {
       "basename": "03. Aufgabe UML",
@@ -29,16 +93,8 @@
       "path": "Berufsschule/Lernfeld 6/Lernjob 3 -.md"
     },
     {
-      "basename": "Lernfeld 6 - Serviceanfragen bearbeiten",
-      "path": "Berufsschule/Lernfeld 6/Lernfeld 6 - Serviceanfragen bearbeiten.md"
-    },
-    {
       "basename": "02. OPC UA",
       "path": "Berufsschule/Lernfeld 7/02. OPC UA.md"
-    },
-    {
-      "basename": "05. Schnittstellen",
-      "path": "Berufsschule/µ-Controller/05. Schnittstellen.md"
     },
     {
       "basename": "04. LED und Taster",
@@ -81,10 +137,6 @@
       "path": "Berufsschule/Sozialkunde/Lernbaustein 1/Bedürfnisse, Bedarf, Nachfrage.md"
     },
     {
-      "basename": "Lernzettel",
-      "path": "Berufsschule/Sozialkunde/Lernzettel.md"
-    },
-    {
       "basename": "Taster Schaltung",
       "path": "Assets/Pictures/Taster Schaltung.png"
     },
@@ -111,10 +163,6 @@
     {
       "basename": "Lernjob 1 - ERP-Systeme",
       "path": "Berufsschule/Lernfeld 6/Lernjob 1 - ERP-Systeme.md"
-    },
-    {
-      "basename": "Berufsschulstoff",
-      "path": "Berufsschule/Berufsschulstoff.md"
     },
     {
       "basename": "05. Packet Tracer",
@@ -145,52 +193,12 @@
       "path": "Berufsschule/Lernfeld 9/03. Schichtenmodelle.md"
     },
     {
-      "basename": "Inhaltsverzeichnis",
-      "path": "Inhaltsverzeichnis.md"
-    },
-    {
-      "basename": "00. Was ist Lernfeld 7",
-      "path": "Berufsschule/Lernfeld 7/00. Was ist Lernfeld 7.md"
-    },
-    {
       "basename": "Back to Berufsschulzeug",
       "path": "Templates/Back to Berufsschulzeug.md"
     },
     {
       "basename": "02. Aktivitätsdiagramm",
       "path": "Berufsschule/Lernfeld 8/02. Aktivitätsdiagramm.md"
-    },
-    {
-      "basename": "01.1 Umsetzung eines Klassendiagramms",
-      "path": "Berufsschule/Lernfeld 8/01.1 Umsetzung eines Klassendiagramms.md"
-    },
-    {
-      "basename": "01. Klassendiagramm",
-      "path": "Berufsschule/Lernfeld 8/01. Klassendiagramm.md"
-    },
-    {
-      "basename": "00. Was ist Lernfeld 8",
-      "path": "Berufsschule/Lernfeld 8/00. Was ist Lernfeld 8.md"
-    },
-    {
-      "basename": "Guide to Obsidian",
-      "path": "Obsidian/Guide to Obsidian.md"
-    },
-    {
-      "basename": "G_Access Point",
-      "path": "Berufsschule/Lernfeld 3/G_Access Point.md"
-    },
-    {
-      "basename": "G_Switch",
-      "path": "Berufsschule/Lernfeld 3/G_Switch.md"
-    },
-    {
-      "basename": "Back to Home",
-      "path": "Templates/Back to Home.md"
-    },
-    {
-      "basename": "04. VPN RSA Verschlüsselungen Zertifikate",
-      "path": "Berufsschule/Lernfeld 9/04. VPN RSA Verschlüsselungen Zertifikate.md"
     }
   ],
   "omittedPaths": [],

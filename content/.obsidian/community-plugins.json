@@ -6,7 +6,5 @@
   "obsidian-kanban",
   "obsidian-plugin-toc",
   "obsidian-discordrpc",
-  "obsidian-plantuml",
-  "templater-obsidian",
-  "dataview"
+  "obsidian-plantuml"
 ]

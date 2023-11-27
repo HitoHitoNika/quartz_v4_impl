@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "036ebaa74f319af6",
+        "id": "ea406625e32342fe",
         "type": "tabs",
         "children": [
           {
-            "id": "3580111d7ecf77c0",
+            "id": "9041bb62c27ba73d",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -23,12 +23,12 @@
             }
           },
           {
-            "id": "e0955dfdc9712d0d",
+            "id": "dbcf8fc0093f9ba7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Berufsschule/Lernfeld 3/Inhaltsverzeichnis Lernfeld 3.md",
+                "file": "Berufsschule/Berufsschulstoff.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -37,6 +37,78 @@
           }
         ],
         "currentTab": 1
+      },
+      {
+        "id": "3ffbd37d1c45645e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "01bda9f5736739dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Berufsschule/Lernfeld 3/Lernfeld 3 Übersicht.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c15e8687b7f0ce70",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Berufsschule/Lernfeld 5/00. Lernfeld 5 Übersicht.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5365901e6baca90b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Berufsschule/Lernfeld 6/Lernfeld 6 - Serviceanfragen bearbeiten.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e2c62dc566d0e40d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Berufsschule/Lernfeld 9/Lernfeld 9 Übersicht.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ed1c3fe766ce52e2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Berufsschule/Berufsschulstoff.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -110,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Berufsschule/Lernfeld 3/Inhaltsverzeichnis Lernfeld 3.md",
+                "file": "Berufsschule/Berufsschulstoff.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Berufsschule/Lernfeld 3/Inhaltsverzeichnis Lernfeld 3.md",
+                "file": "Berufsschule/Berufsschulstoff.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +211,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Berufsschule/Lernfeld 3/Inhaltsverzeichnis Lernfeld 3.md"
+                "file": "Berufsschule/Berufsschulstoff.md"
               }
             }
           },
@@ -173,12 +245,12 @@
             }
           },
           {
-            "id": "8685efa41ea2ba00",
+            "id": "d698905d8c373f5f",
             "type": "leaf",
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Berufsschule/Lernfeld 3/Inhaltsverzeichnis Lernfeld 3.md"
+                "file": "Berufsschule/Berufsschulstoff.md"
               }
             }
           }
@@ -203,48 +275,48 @@
   },
   "active": "393cb06469dea704",
   "lastOpenFiles": [
-    "Templates/Test Template - Inhaltsverzeichnis.md",
-    "Berufsschule/Lernfeld 3/Inhaltsverzeichnis Lernfeld 3.md",
+    "Berufsschule/µ-Controller/µ-Controller Übersicht.md",
+    "Berufsschule/Berufsschulstoff.md",
+    "Berufsschule/Lernfeld 6/Lernfeld 6 - Serviceanfragen bearbeiten.md",
+    "Berufsschule/Sozialkunde/Sozialkunde Übersicht.md",
+    "Berufsschule/Sozialkunde/Lernzettel.md",
+    "Berufsschule/Lernfeld 9/Lernfeld 9 Übersicht.md",
+    "Berufsschule/Lernfeld 8/Lernfeld 8 Übersicht.md",
+    "Berufsschule/Lernfeld 7/Lernfeld 7 Übersicht.md",
+    "Berufsschule/Lernfeld 5/00. Lernfeld 5 Übersicht.md",
+    "Berufsschule/Lernfeld 3/Lernfeld 3 Übersicht.md",
+    "Berufsschule/Lernfeld 3/Access Point.md",
+    "Berufsschule/Lernfeld 3/Gateway.md",
+    "Berufsschule/Lernfeld 3/Hub.md",
+    "Berufsschule/Lernfeld 3/Modem.md",
+    "Berufsschule/Lernfeld 7/00. Was ist Lernfeld 7.md",
+    "Berufsschule/Lernfeld 6/Untitled.md",
+    "Berufsschule/µ-Controller/05. Schnittstellen.md",
     "index.md",
+    "Templates/Templater - Inhaltverzeichnisse BerufsschuleUntitled.md",
+    "Berufsschule/Lernfeld 3/Test234.md",
+    "Berufsschule/Lernfeld 3/Inhaltsverzeichnis Lernfeld 3.md",
+    "Berufsschule/Lernfeld 8/01. Klassendiagramm.md",
+    "Berufsschule/Lernfeld 8/00. Was ist Lernfeld 8.md",
+    "Inhaltsverzeichnis.md",
     "Berufsschule/Lernfeld 3/Test49199919919819.md",
     "Berufsschule/Lernfeld 3/Test 123.md",
-    "Berufsschule/Lernfeld 3/P_Network Time Protocol.md",
-    "Berufsschule/Lernfeld 8/03. Aufgabe UML.md",
     "Assets/Pictures/UML Bildaufgabe (2).png",
     "Assets/Pictures/Pasted image 20231122124234.png",
     "Assets/Pictures/UML Bildaufgabe 2.png",
-    "Berufsschule/Lernfeld 6/Lernjob 4 - Übung.md",
     "Berufsschule/Lernfeld 6/Untitled.canvas",
-    "Berufsschule/Lernfeld 6/Lernjob 3 -.md",
-    "Berufsschule/Lernfeld 6/Lernfeld 6 - Serviceanfragen bearbeiten.md",
-    "Berufsschule/Lernfeld 7/02. OPC UA.md",
     "Assets/Pictures/Pasted image 20231120115148.png",
     "Assets/Pictures/Pasted image 20231120115030.png",
     "Assets/Pictures/Pasted image 20231120114802.png",
     "Assets/Pictures/Pasted image 20231120114607.png",
-    "Berufsschule/µ-Controller/04. LED und Taster.md",
-    "Berufsschule/µ-Controller/05. Schnittstellen.md",
-    "Berufsschule/Lernfeld 9/05.3 Funktionsweise Switch.md",
-    "Untitled.md",
-    "Berufsschule/Lernfeld 9/05.1 Geräte.md",
-    "Berufsschule/Lernfeld 9/05.2 Cisco-Geräte konfigurieren.md",
-    "Berufsschule/Lernfeld 9/05.2.1 Aufgabe.md",
     "Assets/Pictures/Pasted image 20231113125530.png",
     "Assets/Pictures/Pasted image 20231113125401.png",
     "Assets/Pictures/Pasted image 20231113124944.png",
-    "Berufsschule/Lernfeld 7/01. Maschinen Ablauf erklären.md",
-    "Berufsschule/Sozialkunde/Lernbaustein 1/Berufsbildungsgesetz.md",
-    "Berufsschule/Sozialkunde/Lernbaustein 1/Besitz und Eigentum.md",
     "Assets/PDFs/BBIG.pdf",
-    "Berufsschule/Sozialkunde/Lernbaustein 1/Wirtschaftskreislauf.md",
     "Assets/PDFs/Wirtschaftskreislauf.pdf",
-    "Berufsschule/Sozialkunde/Lernbaustein 1/Produktionsfaktoren.md",
-    "Berufsschule/Sozialkunde/Lernbaustein 1/Bedürfnisse, Bedarf, Nachfrage.md",
-    "Berufsschule/Sozialkunde/Lernzettel.md",
     "Assets/PDFs/Bedürfnisse, Bedarf, Nachfrage.pdf",
     "Assets/PDFs",
     "Assets/PDFs/Besitz_Eigentum.pdf",
-    "Berufsschule/Lernfeld 6/Lernjob 2 - Aufbau- und Ablauforganisation.md",
     "Assets/PDFs/Anlagendokumentation.pdf",
     "Projekte/PasswordManager/Java/Dev-Doku/Overview.canvas",
     "Projekte/PasswordManager/Java/Dev-Doku/GUI/Frames",
