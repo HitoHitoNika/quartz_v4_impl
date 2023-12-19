@@ -1,8 +1,68 @@
 {
   "recentFiles": [
     {
-      "basename": "Mutterschutz",
-      "path": "Berufsschule/Sozialkunde/Lernbaustein 1/Mutterschutz.md"
+      "basename": "10. Custom Application Properties",
+      "path": "Programming Specific Stuff/Java/Spring/10. Custom Application Properties.md"
+    },
+    {
+      "basename": "09. Spring Apps außerhalb der IDE starten",
+      "path": "Programming Specific Stuff/Java/Spring/09. Spring Apps außerhalb der IDE starten.md"
+    },
+    {
+      "basename": "Lernjob 4 - Übung",
+      "path": "Berufsschule/Lernfeld 6/Lernjob 4 - Übung.md"
+    },
+    {
+      "basename": "Lernfeld 6 - Serviceanfragen bearbeiten",
+      "path": "Berufsschule/Lernfeld 6/Lernfeld 6 - Serviceanfragen bearbeiten.md"
+    },
+    {
+      "basename": "08. Spring Secruity",
+      "path": "Programming Specific Stuff/Java/Spring/08. Spring Secruity.md"
+    },
+    {
+      "basename": "07. Spring Boot Actuator",
+      "path": "Programming Specific Stuff/Java/Spring/07. Spring Boot Actuator.md"
+    },
+    {
+      "basename": "06. Spring-Dev-Tools",
+      "path": "Programming Specific Stuff/Java/Spring/06. Spring-Dev-Tools.md"
+    },
+    {
+      "basename": "05. Spring Boot Starter Parent",
+      "path": "Programming Specific Stuff/Java/Spring/05. Spring Boot Starter Parent.md"
+    },
+    {
+      "basename": "04. Was ist ein Spring Project und warum Spring",
+      "path": "Programming Specific Stuff/Java/Spring/04. Was ist ein Spring Project und warum Spring.md"
+    },
+    {
+      "basename": "03. Spring REST Controller",
+      "path": "Programming Specific Stuff/Java/Spring/03. Spring REST Controller.md"
+    },
+    {
+      "basename": "02. Spring Initializr",
+      "path": "Programming Specific Stuff/Java/Spring/02. Spring Initializr.md"
+    },
+    {
+      "basename": "01. Spring vs Spring Boot",
+      "path": "Programming Specific Stuff/Java/Spring/01. Spring vs Spring Boot.md"
+    },
+    {
+      "basename": "index",
+      "path": "index.md"
+    },
+    {
+      "basename": "04. Einbindung von Bootstrap",
+      "path": "Programming Specific Stuff/Web-Entwicklung/Angular/04. Einbindung von Bootstrap.md"
+    },
+    {
+      "basename": "03. Projektstruktur",
+      "path": "Programming Specific Stuff/Web-Entwicklung/Angular/03. Projektstruktur.md"
+    },
+    {
+      "basename": "02. Getting Started",
+      "path": "Programming Specific Stuff/Web-Entwicklung/Angular/02. Getting Started.md"
     },
     {
       "basename": "05.3 Funktionsweise Switch",
@@ -13,8 +73,28 @@
       "path": "Berufsschule/Lernfeld 9/Lernfeld 9 Übersicht.md"
     },
     {
-      "basename": "index",
-      "path": "index.md"
+      "basename": "Lernfeld 7 Übersicht",
+      "path": "Berufsschule/Lernfeld 7/Lernfeld 7 Übersicht.md"
+    },
+    {
+      "basename": "02. OPC UA",
+      "path": "Berufsschule/Lernfeld 7/02. OPC UA.md"
+    },
+    {
+      "basename": "03. Aufgabe UML",
+      "path": "Berufsschule/Lernfeld 8/03. Aufgabe UML.md"
+    },
+    {
+      "basename": "Pasted image 20231206131243",
+      "path": "Assets/Pictures/Pasted image 20231206131243.png"
+    },
+    {
+      "basename": "Pasted image 20231206130654",
+      "path": "Assets/Pictures/Pasted image 20231206130654.png"
+    },
+    {
+      "basename": "Mutterschutz",
+      "path": "Berufsschule/Sozialkunde/Lernbaustein 1/Mutterschutz.md"
     },
     {
       "basename": "Werbung",
@@ -43,10 +123,6 @@
     {
       "basename": "05. Schnittstellen",
       "path": "Berufsschule/µ-Controller/05. Schnittstellen.md"
-    },
-    {
-      "basename": "02. OPC UA",
-      "path": "Berufsschule/Lernfeld 7/02. OPC UA.md"
     },
     {
       "basename": "Inhaltsverzeichnis",
@@ -89,16 +165,8 @@
       "path": "Berufsschule/Sozialkunde/Sozialkunde Übersicht.md"
     },
     {
-      "basename": "Lernfeld 6 - Serviceanfragen bearbeiten",
-      "path": "Berufsschule/Lernfeld 6/Lernfeld 6 - Serviceanfragen bearbeiten.md"
-    },
-    {
       "basename": "Lernfeld 8 Übersicht",
       "path": "Berufsschule/Lernfeld 8/Lernfeld 8 Übersicht.md"
-    },
-    {
-      "basename": "Lernfeld 7 Übersicht",
-      "path": "Berufsschule/Lernfeld 7/Lernfeld 7 Übersicht.md"
     },
     {
       "basename": "00. Lernfeld 5 Übersicht",
@@ -131,70 +199,6 @@
     {
       "basename": "00. Was ist Lernfeld 8",
       "path": "Berufsschule/Lernfeld 8/00. Was ist Lernfeld 8.md"
-    },
-    {
-      "basename": "Network Time Protocol",
-      "path": "Berufsschule/Lernfeld 3/Network Time Protocol.md"
-    },
-    {
-      "basename": "03. Aufgabe UML",
-      "path": "Berufsschule/Lernfeld 8/03. Aufgabe UML.md"
-    },
-    {
-      "basename": "Lernjob 4 - Übung",
-      "path": "Berufsschule/Lernfeld 6/Lernjob 4 - Übung.md"
-    },
-    {
-      "basename": "Lernjob 3 -",
-      "path": "Berufsschule/Lernfeld 6/Lernjob 3 -.md"
-    },
-    {
-      "basename": "05.1 Geräte",
-      "path": "Berufsschule/Lernfeld 9/05.1 Geräte.md"
-    },
-    {
-      "basename": "05.2 Cisco-Geräte konfigurieren",
-      "path": "Berufsschule/Lernfeld 9/05.2 Cisco-Geräte konfigurieren.md"
-    },
-    {
-      "basename": "01. Maschinen Ablauf erklären",
-      "path": "Berufsschule/Lernfeld 7/01. Maschinen Ablauf erklären.md"
-    },
-    {
-      "basename": "Taster Schaltung",
-      "path": "Assets/Pictures/Taster Schaltung.png"
-    },
-    {
-      "basename": "UML Bildaufgabe",
-      "path": "Assets/Pictures/UML Bildaufgabe.png"
-    },
-    {
-      "basename": "UML_Aufgabe",
-      "path": "Assets/Pictures/UML_Aufgabe.png"
-    },
-    {
-      "basename": "Pasted image 20230927103600",
-      "path": "Assets/Pictures/Pasted image 20230927103600.png"
-    },
-    {
-      "basename": "Pasted image 20230913134903",
-      "path": "Assets/Pictures/Pasted image 20230913134903.png"
-    },
-    {
-      "basename": "Lernjob 2 - Aufbau- und Ablauforganisation",
-      "path": "Berufsschule/Lernfeld 6/Lernjob 2 - Aufbau- und Ablauforganisation.md"
-    },
-    {
-      "basename": "Lernjob 1 - ERP-Systeme",
-      "path": "Berufsschule/Lernfeld 6/Lernjob 1 - ERP-Systeme.md"
-    },
-    {
-      "basename": "05. Packet Tracer",
-      "path": "Berufsschule/Lernfeld 9/05. Packet Tracer.md"
-    },
-    {
-      "basename": "Pasted image 20231002102326",
-      "path": "Assets/Pictures/Pasted image 20231002102326.png"
     }
   ],
   "omittedPaths": [],

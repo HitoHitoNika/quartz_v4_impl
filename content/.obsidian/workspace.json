@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c9be30d398e5e296",
+        "id": "ee70a63c38089cbc",
         "type": "tabs",
         "children": [
           {
-            "id": "f2e28fa72f6b6916",
+            "id": "fabd6df8dda19e8b",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -23,12 +23,12 @@
             }
           },
           {
-            "id": "e6dc62e14349c395",
+            "id": "747f9bc479e42474",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Berufsschule/Sozialkunde/Lernbaustein 1/Mutterschutz.md",
+                "file": "Programming Specific Stuff/Java/Spring/10. Custom Application Properties.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Berufsschule/Sozialkunde/Lernbaustein 1/Mutterschutz.md",
+                "file": "Programming Specific Stuff/Java/Spring/10. Custom Application Properties.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Berufsschule/Sozialkunde/Lernbaustein 1/Mutterschutz.md",
+                "file": "Programming Specific Stuff/Java/Spring/10. Custom Application Properties.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Berufsschule/Sozialkunde/Lernbaustein 1/Mutterschutz.md"
+                "file": "Programming Specific Stuff/Java/Spring/10. Custom Application Properties.md"
               }
             }
           },
@@ -178,7 +178,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Berufsschule/Sozialkunde/Lernbaustein 1/Mutterschutz.md"
+                "file": "Programming Specific Stuff/Java/Spring/10. Custom Application Properties.md"
               }
             }
           }
@@ -200,34 +200,38 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "e6dc62e14349c395",
+  "active": "747f9bc479e42474",
   "lastOpenFiles": [
-    "Berufsschule/Lernfeld 9/05.3 Funktionsweise Switch.md",
-    "Berufsschule/Lernfeld 9/Lernfeld 9 Übersicht.md",
-    "Berufsschule/Lernfeld 9/Untitled.md",
+    "Programming Specific Stuff/Java/Spring/09. Spring Apps außerhalb der IDE starten.md",
+    "Programming Specific Stuff/Java/Spring/10. Custom Application Properties.md",
+    "Berufsschule/Lernfeld 6/Lernjob 4 - Übung.md",
+    "Berufsschule/Lernfeld 6/Lernfeld 6 - Serviceanfragen bearbeiten.md",
+    "Programming Specific Stuff/Java/Spring/08. Spring Secruity.md",
+    "Programming Specific Stuff/Java/Spring/07. Spring Boot Actuator.md",
+    "Programming Specific Stuff/Java/Spring/06. Spring-Dev-Tools.md",
+    "Programming Specific Stuff/Java/Spring/05. Spring Boot Starter Parent.md",
+    "Programming Specific Stuff/Java/Spring/04. Was ist ein Spring Project und warum Spring.md",
+    "Programming Specific Stuff/Java/Spring/03. Spring REST Controller.md",
+    "Programming Specific Stuff/Java/Spring/02. Spring Initializr.md",
+    "Programming Specific Stuff/Java/Spring/01. Spring vs Spring Boot.md",
     "index.md",
+    "Programming Specific Stuff/Web-Entwicklung/Angular/03. Projektstruktur.md",
+    "Programming Specific Stuff/Web-Entwicklung/Angular/02. Getting Started.md",
+    "Programming Specific Stuff/Web-Entwicklung/Angular/04. Einbindung von Bootstrap.md",
+    "Berufsschule/Lernfeld 9/Lernfeld 9 Übersicht.md",
+    "Berufsschule/Lernfeld 9/05.3 Funktionsweise Switch.md",
+    "Berufsschule/Lernfeld 7/Lernfeld 7 Übersicht.md",
+    "Berufsschule/Lernfeld 7/02. OPC UA.md",
+    "Assets/Pictures/Pasted image 20231206131243.png",
+    "Berufsschule/Lernfeld 8/03. Aufgabe UML.md",
+    "Assets/Pictures/Pasted image 20231206130654.png",
+    "Assets/Pictures/Pasted image 20231206124909.png",
+    "Assets/Pictures/Pasted image 20231206124031.png",
+    "Berufsschule/Lernfeld 9/Untitled.md",
     "Berufsschule/Sozialkunde/Lernbaustein 1/Mutterschutz.md",
     "Berufsschule/Sozialkunde/Lernbaustein 1/Besitz und Eigentum.md",
     "Berufsschule/Sozialkunde/Lernbaustein 1/Berufsbildungsgesetz.md",
     "Berufsschule/Sozialkunde/Lernbaustein 1/Bedürfnisse, Bedarf, Nachfrage.md",
-    "Berufsschule/Sozialkunde/Lernbaustein 1/Produktionsfaktoren.md",
-    "Berufsschule/Sozialkunde/Lernbaustein 1/Wirtschaftskreislauf.md",
-    "Berufsschule/Sozialkunde/Lernbaustein 1/Werbung.md",
-    "Berufsschule/µ-Controller/05. Schnittstellen.md",
-    "Berufsschule/Berufsschulstoff.md",
-    "Berufsschule/µ-Controller/00. Wichtige Befehle.md",
-    "Berufsschule/µ-Controller/04. LED und Taster.md",
-    "Berufsschule/µ-Controller/03. Widerstände bestimmen.md",
-    "Berufsschule/µ-Controller/02. Arduino IDE.md",
-    "Berufsschule/µ-Controller/01. Warum Mikrocontroller.md",
-    "Berufsschule/µ-Controller/µ-Controller Übersicht.md",
-    "Berufsschule/Lernfeld 3/Lernfeld 3 Übersicht.md",
-    "Berufsschule/Sozialkunde/Sozialkunde Übersicht.md",
-    "Berufsschule/Lernfeld 6/Lernfeld 6 - Serviceanfragen bearbeiten.md",
-    "Berufsschule/Sozialkunde/Lernzettel.md",
-    "Berufsschule/Lernfeld 8/Lernfeld 8 Übersicht.md",
-    "Berufsschule/Lernfeld 7/Lernfeld 7 Übersicht.md",
-    "Berufsschule/Lernfeld 5/00. Lernfeld 5 Übersicht.md",
     "Assets/Pictures/UML Bildaufgabe (2).png",
     "Assets/Pictures/Pasted image 20231122124234.png",
     "Assets/Pictures/UML Bildaufgabe 2.png",
@@ -235,10 +239,6 @@
     "Assets/Pictures/Pasted image 20231120115148.png",
     "Assets/Pictures/Pasted image 20231120115030.png",
     "Assets/Pictures/Pasted image 20231120114802.png",
-    "Assets/Pictures/Pasted image 20231120114607.png",
-    "Assets/Pictures/Pasted image 20231113125530.png",
-    "Assets/Pictures/Pasted image 20231113125401.png",
-    "Assets/Pictures/Pasted image 20231113124944.png",
     "Assets/PDFs/BBIG.pdf",
     "Assets/PDFs/Wirtschaftskreislauf.pdf",
     "Assets/PDFs/Bedürfnisse, Bedarf, Nachfrage.pdf",
