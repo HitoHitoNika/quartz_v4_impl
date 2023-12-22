@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e0ba34f520c2de4e",
+        "id": "f4b986258037cf35",
         "type": "tabs",
         "children": [
           {
-            "id": "8a2a83e6d797b545",
+            "id": "d85336b653db3189",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -23,12 +23,12 @@
             }
           },
           {
-            "id": "0dcef93a64d46505",
+            "id": "0ac3856d0dcbbf8a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming Specific Stuff/Java/Spring/11. Spring Container.md",
+                "file": "Programming Specific Stuff/Java/Spring/14. Lazy Initialization.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming Specific Stuff/Java/Spring/11. Spring Container.md",
+                "file": "Programming Specific Stuff/Java/Spring/14. Lazy Initialization.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming Specific Stuff/Java/Spring/11. Spring Container.md",
+                "file": "Programming Specific Stuff/Java/Spring/14. Lazy Initialization.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming Specific Stuff/Java/Spring/11. Spring Container.md"
+                "file": "Programming Specific Stuff/Java/Spring/14. Lazy Initialization.md"
               }
             }
           },
@@ -178,7 +178,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Programming Specific Stuff/Java/Spring/11. Spring Container.md"
+                "file": "Programming Specific Stuff/Java/Spring/14. Lazy Initialization.md"
               }
             }
           }
@@ -200,8 +200,12 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "0dcef93a64d46505",
+  "active": "0ac3856d0dcbbf8a",
   "lastOpenFiles": [
+    "Programming Specific Stuff/Java/Spring/00. Übersicht.md",
+    "Programming Specific Stuff/Java/Spring/14. Lazy Initialization.md",
+    "Programming Specific Stuff/Java/Spring/13. Qualifier und Primary Annotation.md",
+    "index.md",
     "Programming Specific Stuff/Java/Spring/12. Component Scanning.md",
     "Berufsschule/Lernfeld 5/09. Daten suchen & sortieren.md",
     "Berufsschule/Lernfeld 5/08. Testen.md",
@@ -214,8 +218,6 @@
     "Berufsschule/Lernfeld 5/01. Einfache Datentypen.md",
     "Berufsschule/Lernfeld 5/00. Lernfeld 5 Übersicht.md",
     "Programming Specific Stuff/Java/Spring/11. Spring Container.md",
-    "Programming Specific Stuff/Java/Spring/13. Qualifiers.md",
-    "Programming Specific Stuff/Java/Spring/00. Übersicht.md",
     "Assets/Pictures/Pasted image 20231222174926.png",
     "Programming Specific Stuff/Java/Spring/10. Application Properties.md",
     "Programming Specific Stuff/Java/Spring/09. Spring Apps außerhalb der IDE starten.md",
@@ -227,8 +229,6 @@
     "Programming Specific Stuff/Java/Spring/03. Spring REST Controller.md",
     "Programming Specific Stuff/Java/Spring/02. Spring Initializr.md",
     "Programming Specific Stuff/Java/Spring/01. Spring vs Spring Boot.md",
-    "Templates/Back to Spring Übersicht.md",
-    "index.md",
     "Assets/Pictures/Pasted image 20231222102542.png",
     "Assets/Pictures/Spring Depedency Injection Bsp.png",
     "Assets/Pictures/Spring Dependency Injection.png",

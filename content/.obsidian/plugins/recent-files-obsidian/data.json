@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "14. Lazy Initialization",
+      "path": "Programming Specific Stuff/Java/Spring/14. Lazy Initialization.md"
+    },
+    {
+      "basename": "00. Übersicht",
+      "path": "Programming Specific Stuff/Java/Spring/00. Übersicht.md"
+    },
+    {
+      "basename": "13. Qualifier und Primary Annotation",
+      "path": "Programming Specific Stuff/Java/Spring/13. Qualifier und Primary Annotation.md"
+    },
+    {
+      "basename": "index",
+      "path": "index.md"
+    },
+    {
       "basename": "11. Spring Container",
       "path": "Programming Specific Stuff/Java/Spring/11. Spring Container.md"
     },
@@ -49,14 +65,6 @@
       "path": "Berufsschule/Lernfeld 5/00. Lernfeld 5 Übersicht.md"
     },
     {
-      "basename": "13. Qualifiers",
-      "path": "Programming Specific Stuff/Java/Spring/13. Qualifiers.md"
-    },
-    {
-      "basename": "00. Übersicht",
-      "path": "Programming Specific Stuff/Java/Spring/00. Übersicht.md"
-    },
-    {
       "basename": "10. Application Properties",
       "path": "Programming Specific Stuff/Java/Spring/10. Application Properties.md"
     },
@@ -99,10 +107,6 @@
     {
       "basename": "Back to Spring Übersicht",
       "path": "Templates/Back to Spring Übersicht.md"
-    },
-    {
-      "basename": "index",
-      "path": "index.md"
     },
     {
       "basename": "Inhaltsübersicht Prog",
@@ -195,10 +199,6 @@
     {
       "basename": "Sensoren 1",
       "path": "Assets/Pictures/Sensoren 1.png"
-    },
-    {
-      "basename": "Verschaltung einer LED",
-      "path": "Assets/Pictures/Verschaltung einer LED.png"
     }
   ],
   "omittedPaths": [],
