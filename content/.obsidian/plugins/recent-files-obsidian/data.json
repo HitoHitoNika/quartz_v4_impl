@@ -9,6 +9,34 @@
       "path": "Programming Specific Stuff/Java/Spring/00. Übersicht.md"
     },
     {
+      "basename": "Inhaltsübersicht Prog",
+      "path": "Programming Specific Stuff/Inhaltsübersicht Prog.md"
+    },
+    {
+      "basename": "Inhaltsverzeichnis",
+      "path": "Inhaltsverzeichnis.md"
+    },
+    {
+      "basename": "GitHub Übersicht",
+      "path": "Programming Specific Stuff/CI_CD/Git/GitHub/GitHub Übersicht.md"
+    },
+    {
+      "basename": "Back to Programming Shit",
+      "path": "Templates/Back to Programming Shit.md"
+    },
+    {
+      "basename": "Git Übersicht",
+      "path": "Programming Specific Stuff/CI_CD/Git/Git Übersicht.md"
+    },
+    {
+      "basename": "DevOps",
+      "path": "Programming Specific Stuff/CI_CD/DevOps.md"
+    },
+    {
+      "basename": "index",
+      "path": "index.md"
+    },
+    {
       "basename": "Spring Dependency Injection",
       "path": "Assets/Pictures/Spring Dependency Injection.png"
     },
@@ -141,10 +169,6 @@
       "path": "Berufsschule/Lernfeld 9/Lernfeld 9 Übersicht.md"
     },
     {
-      "basename": "index",
-      "path": "index.md"
-    },
-    {
       "basename": "Lernjob 4 - Übung",
       "path": "Berufsschule/Lernfeld 6/Lernjob 4 - Übung.md"
     },
@@ -171,30 +195,6 @@
     {
       "basename": "Lernfeld 7 Übersicht",
       "path": "Berufsschule/Lernfeld 7/Lernfeld 7 Übersicht.md"
-    },
-    {
-      "basename": "02. OPC UA",
-      "path": "Berufsschule/Lernfeld 7/02. OPC UA.md"
-    },
-    {
-      "basename": "03. Aufgabe UML",
-      "path": "Berufsschule/Lernfeld 8/03. Aufgabe UML.md"
-    },
-    {
-      "basename": "Mutterschutz",
-      "path": "Berufsschule/Sozialkunde/Lernbaustein 1/Mutterschutz.md"
-    },
-    {
-      "basename": "Werbung",
-      "path": "Berufsschule/Sozialkunde/Lernbaustein 1/Werbung.md"
-    },
-    {
-      "basename": "Besitz und Eigentum",
-      "path": "Berufsschule/Sozialkunde/Lernbaustein 1/Besitz und Eigentum.md"
-    },
-    {
-      "basename": "Berufsbildungsgesetz",
-      "path": "Berufsschule/Sozialkunde/Lernbaustein 1/Berufsbildungsgesetz.md"
     }
   ],
   "omittedPaths": [],

@@ -5,43 +5,31 @@ title: 💻Programming Shit💻
 aliases:
   - Programming Shit
 ---
-<h2 align="center"> CI/CD-Pipeline Zeugs </h2>
+## CI/CD-Pipeline Zeugs
 
 
-[[DevOps]]
-### Git
+|Thema|Link|
+|---|---|
+|DevOps|[[DevOps]]|
+|Git|[[Git Übersicht]]|
+|GitHub|[[GitHub Übersicht]]|
 
-- [[Git]]
-- [[Submodule]]
-
-#### GitHub
-
-- [[GitHub Pages]]
 
 <hr>
-<h2 align="center"> Java </h2>
+## Java 
 
-### Maven
+|Thema|Link|
+|---|---|
+|Grundlagen|[[00. Lernfeld 5 Übersicht|Lernfeld 5 Übersicht]]|
+|Maven|[[Maven]]|
+|Spring/Springboot|[[00. Übersicht]]|
+|Testing|[[JUnit]]|
 
-- [[Maven]]
-
-### Spring
-
-- [[01. Spring vs Spring Boot]]
-- [[02. Spring Initializr]]
-- [[03. Spring REST Controller]]
-- [[04. Was ist ein Spring Project und warum Spring]]
-- [[05. Spring Boot Starter Parent]]
-- [[06. Spring-Dev-Tools]]
-- [[07. Spring Boot Actuator]]
-
-### Testing
-- [[JUnit]]
 
 <hr>
 
-<h2 align="center">Web-Entwicklung </h2>
-
+## Web-Entwicklung
+**Fehlt noch einiges, daher bitte nicht hierauf berufen :)**
 ### Angular
 
 - [[01. Angular Installation Guide]]
