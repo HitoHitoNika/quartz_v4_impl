@@ -1,20 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "11. Spring Container",
-      "path": "Programming Specific Stuff/Java/Spring/11. Spring Container.md"
-    },
-    {
-      "basename": "00. Übersicht",
-      "path": "Programming Specific Stuff/Java/Spring/00. Übersicht.md"
-    },
-    {
       "basename": "Inhaltsübersicht Prog",
       "path": "Programming Specific Stuff/Inhaltsübersicht Prog.md"
     },
     {
       "basename": "Inhaltsverzeichnis",
       "path": "Inhaltsverzeichnis.md"
+    },
+    {
+      "basename": "Berufsschulstoff",
+      "path": "Berufsschule/Berufsschulstoff.md"
+    },
+    {
+      "basename": "index",
+      "path": "index.md"
+    },
+    {
+      "basename": "11. Spring Container",
+      "path": "Programming Specific Stuff/Java/Spring/11. Spring Container.md"
+    },
+    {
+      "basename": "00. Übersicht",
+      "path": "Programming Specific Stuff/Java/Spring/00. Übersicht.md"
     },
     {
       "basename": "GitHub Übersicht",
@@ -31,10 +39,6 @@
     {
       "basename": "DevOps",
       "path": "Programming Specific Stuff/CI_CD/DevOps.md"
-    },
-    {
-      "basename": "index",
-      "path": "index.md"
     },
     {
       "basename": "Spring Dependency Injection",

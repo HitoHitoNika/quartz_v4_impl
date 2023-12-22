@@ -20,7 +20,7 @@ aliases:
 
 |Thema|Link|
 |---|---|
-|Grundlagen|[[00. Lernfeld 5 Übersicht|Lernfeld 5 Übersicht]]|
+|Grundlagen|[[00. Lernfeld 5 Übersicht]]|
 |Maven|[[Maven]]|
 |Spring/Springboot|[[00. Übersicht]]|
 |Testing|[[JUnit]]|

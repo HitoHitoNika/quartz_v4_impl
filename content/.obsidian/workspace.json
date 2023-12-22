@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2946133e22d68a23",
+        "id": "2374f622a3029d74",
         "type": "tabs",
         "children": [
           {
-            "id": "d6b24e57f01ecd6f",
+            "id": "1b8778220665cff2",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -23,12 +23,12 @@
             }
           },
           {
-            "id": "9d2e053960d37a03",
+            "id": "840793b8dbbae1f7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming Specific Stuff/Java/Spring/11. Spring Container.md",
+                "file": "Programming Specific Stuff/Inhaltsübersicht Prog.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming Specific Stuff/Java/Spring/11. Spring Container.md",
+                "file": "Programming Specific Stuff/Inhaltsübersicht Prog.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming Specific Stuff/Java/Spring/11. Spring Container.md",
+                "file": "Programming Specific Stuff/Inhaltsübersicht Prog.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming Specific Stuff/Java/Spring/11. Spring Container.md"
+                "file": "Programming Specific Stuff/Inhaltsübersicht Prog.md"
               }
             }
           },
@@ -178,7 +178,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Programming Specific Stuff/Java/Spring/11. Spring Container.md"
+                "file": "Programming Specific Stuff/Inhaltsübersicht Prog.md"
               }
             }
           }
@@ -200,17 +200,18 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "9d2e053960d37a03",
+  "active": "840793b8dbbae1f7",
   "lastOpenFiles": [
+    "Inhaltsverzeichnis.md",
+    "Berufsschule/Berufsschulstoff.md",
+    "index.md",
     "Programming Specific Stuff/Java/Spring/00. Übersicht.md",
     "www.luv2code.com.md",
     "Programming Specific Stuff/Inhaltsübersicht Prog.md",
-    "Inhaltsverzeichnis.md",
     "Programming Specific Stuff/CI_CD/Git/GitHub/GitHub Übersicht.md",
     "Templates/Back to Programming Shit.md",
     "Programming Specific Stuff/CI_CD/Git/Git Übersicht.md",
     "Programming Specific Stuff/CI_CD/DevOps.md",
-    "index.md",
     "Assets/Pictures/Pasted image 20231222102542.png",
     "Assets/Pictures/Spring Depedency Injection Bsp.png",
     "Assets/Pictures/Spring Dependency Injection.png",
@@ -237,7 +238,6 @@
     "Berufsschule/Lernfeld 9/Lernfeld 9 Übersicht.md",
     "Berufsschule/Lernfeld 6/Lernjob 4 - Übung.md",
     "Berufsschule/Lernfeld 6/Lernfeld 6 - Serviceanfragen bearbeiten.md",
-    "Programming Specific Stuff/Web-Entwicklung/Angular/03. Projektstruktur.md",
     "Berufsschule/Lernfeld 6/Untitled.canvas",
     "Assets/PDFs/BBIG.pdf",
     "Assets/PDFs/Wirtschaftskreislauf.pdf",
