@@ -43,4 +43,4 @@ Der einfache Wirtschaftskreislauf besteht aus zwei Hauptakteuren, nämlich den H
 
 ## 4. Vervollständige die Grafik
 
-![[Pasted image 20231002102326.png]]
+![[Geldkreislauf.png]]

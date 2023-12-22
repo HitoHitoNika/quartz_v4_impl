@@ -5,7 +5,7 @@ tags:
 ---
 Zurück zu [[Berufsschulstoff|Berufsschul-Inhaltsübersicht]]
 
-![[Pasted image 20230927103600.png]]
+![[Lernjob 1.png]]
 
 # 2
 

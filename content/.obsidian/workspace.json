@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ee70a63c38089cbc",
+        "id": "06596c67c3efd81c",
         "type": "tabs",
         "children": [
           {
-            "id": "fabd6df8dda19e8b",
+            "id": "81010004076b4677",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -23,12 +23,12 @@
             }
           },
           {
-            "id": "747f9bc479e42474",
+            "id": "57edb73e475a4b06",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming Specific Stuff/Java/Spring/10. Custom Application Properties.md",
+                "file": "Programming Specific Stuff/Java/Spring/11. Spring Container.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming Specific Stuff/Java/Spring/10. Custom Application Properties.md",
+                "file": "Programming Specific Stuff/Java/Spring/11. Spring Container.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming Specific Stuff/Java/Spring/10. Custom Application Properties.md",
+                "file": "Programming Specific Stuff/Java/Spring/11. Spring Container.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming Specific Stuff/Java/Spring/10. Custom Application Properties.md"
+                "file": "Programming Specific Stuff/Java/Spring/11. Spring Container.md"
               }
             }
           },
@@ -178,7 +178,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Programming Specific Stuff/Java/Spring/10. Custom Application Properties.md"
+                "file": "Programming Specific Stuff/Java/Spring/11. Spring Container.md"
               }
             }
           }
@@ -200,45 +200,45 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "747f9bc479e42474",
+  "active": "57edb73e475a4b06",
   "lastOpenFiles": [
+    "Assets/Pictures/Pasted image 20231222102542.png",
+    "Assets/Pictures/Spring Depedency Injection Bsp.png",
+    "Programming Specific Stuff/Java/Spring/00. Übersicht.md",
+    "Assets/Pictures/Spring Dependency Injection.png",
+    "Programming Specific Stuff/Java/Spring/12. Dependency Injection.md",
+    "Assets/Pictures/Spring Inversion of Control 2.png",
+    "Assets/Pictures/Spring Inversion of Control.png",
+    "Assets/Pictures/UML Bildaufgabe Zwischenstand 3.png",
+    "Assets/Pictures/UML Bildaufgabe Zwischenstand 2.png",
+    "Assets/Pictures/UML Bildaufgabe Zwischenstand.png",
+    "Assets/Pictures/Sensoren 10.png",
+    "Assets/Pictures/Sensoren 9.png",
+    "Assets/Pictures/Sensoren 8.png",
+    "Programming Specific Stuff/Java/Spring/11. Spring Container.md",
+    "Programming Specific Stuff/Java/Spring/10. Application Properties.md",
     "Programming Specific Stuff/Java/Spring/09. Spring Apps außerhalb der IDE starten.md",
-    "Programming Specific Stuff/Java/Spring/10. Custom Application Properties.md",
-    "Berufsschule/Lernfeld 6/Lernjob 4 - Übung.md",
-    "Berufsschule/Lernfeld 6/Lernfeld 6 - Serviceanfragen bearbeiten.md",
     "Programming Specific Stuff/Java/Spring/08. Spring Secruity.md",
     "Programming Specific Stuff/Java/Spring/07. Spring Boot Actuator.md",
     "Programming Specific Stuff/Java/Spring/06. Spring-Dev-Tools.md",
     "Programming Specific Stuff/Java/Spring/05. Spring Boot Starter Parent.md",
     "Programming Specific Stuff/Java/Spring/04. Was ist ein Spring Project und warum Spring.md",
     "Programming Specific Stuff/Java/Spring/03. Spring REST Controller.md",
+    "Templates/Back to Spring Übersicht.md",
     "Programming Specific Stuff/Java/Spring/02. Spring Initializr.md",
     "Programming Specific Stuff/Java/Spring/01. Spring vs Spring Boot.md",
+    "Berufsschule/Lernfeld 9/Lernfeld 9 Übersicht.md",
     "index.md",
+    "Berufsschule/Lernfeld 6/Lernjob 4 - Übung.md",
+    "Berufsschule/Lernfeld 6/Lernfeld 6 - Serviceanfragen bearbeiten.md",
     "Programming Specific Stuff/Web-Entwicklung/Angular/03. Projektstruktur.md",
     "Programming Specific Stuff/Web-Entwicklung/Angular/02. Getting Started.md",
     "Programming Specific Stuff/Web-Entwicklung/Angular/04. Einbindung von Bootstrap.md",
-    "Berufsschule/Lernfeld 9/Lernfeld 9 Übersicht.md",
     "Berufsschule/Lernfeld 9/05.3 Funktionsweise Switch.md",
     "Berufsschule/Lernfeld 7/Lernfeld 7 Übersicht.md",
     "Berufsschule/Lernfeld 7/02. OPC UA.md",
-    "Assets/Pictures/Pasted image 20231206131243.png",
     "Berufsschule/Lernfeld 8/03. Aufgabe UML.md",
-    "Assets/Pictures/Pasted image 20231206130654.png",
-    "Assets/Pictures/Pasted image 20231206124909.png",
-    "Assets/Pictures/Pasted image 20231206124031.png",
-    "Berufsschule/Lernfeld 9/Untitled.md",
-    "Berufsschule/Sozialkunde/Lernbaustein 1/Mutterschutz.md",
-    "Berufsschule/Sozialkunde/Lernbaustein 1/Besitz und Eigentum.md",
-    "Berufsschule/Sozialkunde/Lernbaustein 1/Berufsbildungsgesetz.md",
-    "Berufsschule/Sozialkunde/Lernbaustein 1/Bedürfnisse, Bedarf, Nachfrage.md",
-    "Assets/Pictures/UML Bildaufgabe (2).png",
-    "Assets/Pictures/Pasted image 20231122124234.png",
-    "Assets/Pictures/UML Bildaufgabe 2.png",
     "Berufsschule/Lernfeld 6/Untitled.canvas",
-    "Assets/Pictures/Pasted image 20231120115148.png",
-    "Assets/Pictures/Pasted image 20231120115030.png",
-    "Assets/Pictures/Pasted image 20231120114802.png",
     "Assets/PDFs/BBIG.pdf",
     "Assets/PDFs/Wirtschaftskreislauf.pdf",
     "Assets/PDFs/Bedürfnisse, Bedarf, Nachfrage.pdf",

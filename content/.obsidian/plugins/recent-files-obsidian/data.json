@@ -1,20 +1,104 @@
 {
   "recentFiles": [
     {
-      "basename": "10. Custom Application Properties",
-      "path": "Programming Specific Stuff/Java/Spring/10. Custom Application Properties.md"
+      "basename": "11. Spring Container",
+      "path": "Programming Specific Stuff/Java/Spring/11. Spring Container.md"
+    },
+    {
+      "basename": "00. Übersicht",
+      "path": "Programming Specific Stuff/Java/Spring/00. Übersicht.md"
+    },
+    {
+      "basename": "Spring Dependency Injection",
+      "path": "Assets/Pictures/Spring Dependency Injection.png"
+    },
+    {
+      "basename": "Spring Inversion of Control 2",
+      "path": "Assets/Pictures/Spring Inversion of Control 2.png"
+    },
+    {
+      "basename": "Spring Inversion of Control",
+      "path": "Assets/Pictures/Spring Inversion of Control.png"
+    },
+    {
+      "basename": "UML Bildaufgabe Zwischenstand 3",
+      "path": "Assets/Pictures/UML Bildaufgabe Zwischenstand 3.png"
+    },
+    {
+      "basename": "UML Bildaufgabe Zwischenstand 2",
+      "path": "Assets/Pictures/UML Bildaufgabe Zwischenstand 2.png"
+    },
+    {
+      "basename": "UML Bildaufgabe Zwischenstand",
+      "path": "Assets/Pictures/UML Bildaufgabe Zwischenstand.png"
+    },
+    {
+      "basename": "Sensoren 10",
+      "path": "Assets/Pictures/Sensoren 10.png"
+    },
+    {
+      "basename": "Sensoren 9",
+      "path": "Assets/Pictures/Sensoren 9.png"
+    },
+    {
+      "basename": "Sensoren 8",
+      "path": "Assets/Pictures/Sensoren 8.png"
+    },
+    {
+      "basename": "Sensoren 7",
+      "path": "Assets/Pictures/Sensoren 7.png"
+    },
+    {
+      "basename": "Sensoren 6",
+      "path": "Assets/Pictures/Sensoren 6.png"
+    },
+    {
+      "basename": "Sensoren 5",
+      "path": "Assets/Pictures/Sensoren 5.png"
+    },
+    {
+      "basename": "Sensoren 4",
+      "path": "Assets/Pictures/Sensoren 4.png"
+    },
+    {
+      "basename": "Sensoren 3",
+      "path": "Assets/Pictures/Sensoren 3.png"
+    },
+    {
+      "basename": "Sensoren 2",
+      "path": "Assets/Pictures/Sensoren 2.png"
+    },
+    {
+      "basename": "Sensoren 1",
+      "path": "Assets/Pictures/Sensoren 1.png"
+    },
+    {
+      "basename": "Verschaltung einer LED",
+      "path": "Assets/Pictures/Verschaltung einer LED.png"
+    },
+    {
+      "basename": "Geldkreislauf",
+      "path": "Assets/Pictures/Geldkreislauf.png"
+    },
+    {
+      "basename": "Lernjob 1",
+      "path": "Assets/Pictures/Lernjob 1.png"
+    },
+    {
+      "basename": "PacketTracer Console Modes",
+      "path": "Assets/Pictures/PacketTracer Console Modes.png"
+    },
+    {
+      "basename": "Klassendiagram Bsp1",
+      "path": "Assets/Pictures/Klassendiagram Bsp1.png"
+    },
+    {
+      "basename": "10. Application Properties",
+      "path": "Programming Specific Stuff/Java/Spring/10. Application Properties.md"
     },
     {
       "basename": "09. Spring Apps außerhalb der IDE starten",
       "path": "Programming Specific Stuff/Java/Spring/09. Spring Apps außerhalb der IDE starten.md"
-    },
-    {
-      "basename": "Lernjob 4 - Übung",
-      "path": "Berufsschule/Lernfeld 6/Lernjob 4 - Übung.md"
-    },
-    {
-      "basename": "Lernfeld 6 - Serviceanfragen bearbeiten",
-      "path": "Berufsschule/Lernfeld 6/Lernfeld 6 - Serviceanfragen bearbeiten.md"
     },
     {
       "basename": "08. Spring Secruity",
@@ -41,6 +125,10 @@
       "path": "Programming Specific Stuff/Java/Spring/03. Spring REST Controller.md"
     },
     {
+      "basename": "Back to Spring Übersicht",
+      "path": "Templates/Back to Spring Übersicht.md"
+    },
+    {
       "basename": "02. Spring Initializr",
       "path": "Programming Specific Stuff/Java/Spring/02. Spring Initializr.md"
     },
@@ -49,8 +137,20 @@
       "path": "Programming Specific Stuff/Java/Spring/01. Spring vs Spring Boot.md"
     },
     {
+      "basename": "Lernfeld 9 Übersicht",
+      "path": "Berufsschule/Lernfeld 9/Lernfeld 9 Übersicht.md"
+    },
+    {
       "basename": "index",
       "path": "index.md"
+    },
+    {
+      "basename": "Lernjob 4 - Übung",
+      "path": "Berufsschule/Lernfeld 6/Lernjob 4 - Übung.md"
+    },
+    {
+      "basename": "Lernfeld 6 - Serviceanfragen bearbeiten",
+      "path": "Berufsschule/Lernfeld 6/Lernfeld 6 - Serviceanfragen bearbeiten.md"
     },
     {
       "basename": "04. Einbindung von Bootstrap",
@@ -69,10 +169,6 @@
       "path": "Berufsschule/Lernfeld 9/05.3 Funktionsweise Switch.md"
     },
     {
-      "basename": "Lernfeld 9 Übersicht",
-      "path": "Berufsschule/Lernfeld 9/Lernfeld 9 Übersicht.md"
-    },
-    {
       "basename": "Lernfeld 7 Übersicht",
       "path": "Berufsschule/Lernfeld 7/Lernfeld 7 Übersicht.md"
     },
@@ -83,14 +179,6 @@
     {
       "basename": "03. Aufgabe UML",
       "path": "Berufsschule/Lernfeld 8/03. Aufgabe UML.md"
-    },
-    {
-      "basename": "Pasted image 20231206131243",
-      "path": "Assets/Pictures/Pasted image 20231206131243.png"
-    },
-    {
-      "basename": "Pasted image 20231206130654",
-      "path": "Assets/Pictures/Pasted image 20231206130654.png"
     },
     {
       "basename": "Mutterschutz",
@@ -107,98 +195,6 @@
     {
       "basename": "Berufsbildungsgesetz",
       "path": "Berufsschule/Sozialkunde/Lernbaustein 1/Berufsbildungsgesetz.md"
-    },
-    {
-      "basename": "Bedürfnisse, Bedarf, Nachfrage",
-      "path": "Berufsschule/Sozialkunde/Lernbaustein 1/Bedürfnisse, Bedarf, Nachfrage.md"
-    },
-    {
-      "basename": "Produktionsfaktoren",
-      "path": "Berufsschule/Sozialkunde/Lernbaustein 1/Produktionsfaktoren.md"
-    },
-    {
-      "basename": "Wirtschaftskreislauf",
-      "path": "Berufsschule/Sozialkunde/Lernbaustein 1/Wirtschaftskreislauf.md"
-    },
-    {
-      "basename": "05. Schnittstellen",
-      "path": "Berufsschule/µ-Controller/05. Schnittstellen.md"
-    },
-    {
-      "basename": "Inhaltsverzeichnis",
-      "path": "Inhaltsverzeichnis.md"
-    },
-    {
-      "basename": "Berufsschulstoff",
-      "path": "Berufsschule/Berufsschulstoff.md"
-    },
-    {
-      "basename": "00. Wichtige Befehle",
-      "path": "Berufsschule/µ-Controller/00. Wichtige Befehle.md"
-    },
-    {
-      "basename": "04. LED und Taster",
-      "path": "Berufsschule/µ-Controller/04. LED und Taster.md"
-    },
-    {
-      "basename": "03. Widerstände bestimmen",
-      "path": "Berufsschule/µ-Controller/03. Widerstände bestimmen.md"
-    },
-    {
-      "basename": "02. Arduino IDE",
-      "path": "Berufsschule/µ-Controller/02. Arduino IDE.md"
-    },
-    {
-      "basename": "01. Warum Mikrocontroller",
-      "path": "Berufsschule/µ-Controller/01. Warum Mikrocontroller.md"
-    },
-    {
-      "basename": "µ-Controller Übersicht",
-      "path": "Berufsschule/µ-Controller/µ-Controller Übersicht.md"
-    },
-    {
-      "basename": "Lernfeld 3 Übersicht",
-      "path": "Berufsschule/Lernfeld 3/Lernfeld 3 Übersicht.md"
-    },
-    {
-      "basename": "Sozialkunde Übersicht",
-      "path": "Berufsschule/Sozialkunde/Sozialkunde Übersicht.md"
-    },
-    {
-      "basename": "Lernfeld 8 Übersicht",
-      "path": "Berufsschule/Lernfeld 8/Lernfeld 8 Übersicht.md"
-    },
-    {
-      "basename": "00. Lernfeld 5 Übersicht",
-      "path": "Berufsschule/Lernfeld 5/00. Lernfeld 5 Übersicht.md"
-    },
-    {
-      "basename": "Access Point",
-      "path": "Berufsschule/Lernfeld 3/Access Point.md"
-    },
-    {
-      "basename": "Gateway",
-      "path": "Berufsschule/Lernfeld 3/Gateway.md"
-    },
-    {
-      "basename": "Hub",
-      "path": "Berufsschule/Lernfeld 3/Hub.md"
-    },
-    {
-      "basename": "Modem",
-      "path": "Berufsschule/Lernfeld 3/Modem.md"
-    },
-    {
-      "basename": "00. Was ist Lernfeld 7",
-      "path": "Berufsschule/Lernfeld 7/00. Was ist Lernfeld 7.md"
-    },
-    {
-      "basename": "01. Klassendiagramm",
-      "path": "Berufsschule/Lernfeld 8/01. Klassendiagramm.md"
-    },
-    {
-      "basename": "00. Was ist Lernfeld 8",
-      "path": "Berufsschule/Lernfeld 8/00. Was ist Lernfeld 8.md"
     }
   ],
   "omittedPaths": [],
