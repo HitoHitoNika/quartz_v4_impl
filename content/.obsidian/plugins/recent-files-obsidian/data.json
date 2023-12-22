@@ -1,6 +1,110 @@
 {
   "recentFiles": [
     {
+      "basename": "11. Spring Container",
+      "path": "Programming Specific Stuff/Java/Spring/11. Spring Container.md"
+    },
+    {
+      "basename": "12. Component Scanning",
+      "path": "Programming Specific Stuff/Java/Spring/12. Component Scanning.md"
+    },
+    {
+      "basename": "09. Daten suchen & sortieren",
+      "path": "Berufsschule/Lernfeld 5/09. Daten suchen & sortieren.md"
+    },
+    {
+      "basename": "08. Testen",
+      "path": "Berufsschule/Lernfeld 5/08. Testen.md"
+    },
+    {
+      "basename": "07. Methoden",
+      "path": "Berufsschule/Lernfeld 5/07. Methoden.md"
+    },
+    {
+      "basename": "06. Arrays",
+      "path": "Berufsschule/Lernfeld 5/06. Arrays.md"
+    },
+    {
+      "basename": "05. Zufallszahlen",
+      "path": "Berufsschule/Lernfeld 5/05. Zufallszahlen.md"
+    },
+    {
+      "basename": "04. Ausgabe und Eingabe",
+      "path": "Berufsschule/Lernfeld 5/04. Ausgabe und Eingabe.md"
+    },
+    {
+      "basename": "03. Bedingungen und Schleifen",
+      "path": "Berufsschule/Lernfeld 5/03. Bedingungen und Schleifen.md"
+    },
+    {
+      "basename": "02. Operatoren",
+      "path": "Berufsschule/Lernfeld 5/02. Operatoren.md"
+    },
+    {
+      "basename": "01. Einfache Datentypen",
+      "path": "Berufsschule/Lernfeld 5/01. Einfache Datentypen.md"
+    },
+    {
+      "basename": "00. Lernfeld 5 Übersicht",
+      "path": "Berufsschule/Lernfeld 5/00. Lernfeld 5 Übersicht.md"
+    },
+    {
+      "basename": "13. Qualifiers",
+      "path": "Programming Specific Stuff/Java/Spring/13. Qualifiers.md"
+    },
+    {
+      "basename": "00. Übersicht",
+      "path": "Programming Specific Stuff/Java/Spring/00. Übersicht.md"
+    },
+    {
+      "basename": "10. Application Properties",
+      "path": "Programming Specific Stuff/Java/Spring/10. Application Properties.md"
+    },
+    {
+      "basename": "09. Spring Apps außerhalb der IDE starten",
+      "path": "Programming Specific Stuff/Java/Spring/09. Spring Apps außerhalb der IDE starten.md"
+    },
+    {
+      "basename": "08. Spring Secruity",
+      "path": "Programming Specific Stuff/Java/Spring/08. Spring Secruity.md"
+    },
+    {
+      "basename": "07. Spring Boot Actuator",
+      "path": "Programming Specific Stuff/Java/Spring/07. Spring Boot Actuator.md"
+    },
+    {
+      "basename": "06. Spring-Dev-Tools",
+      "path": "Programming Specific Stuff/Java/Spring/06. Spring-Dev-Tools.md"
+    },
+    {
+      "basename": "05. Spring Boot Starter Parent",
+      "path": "Programming Specific Stuff/Java/Spring/05. Spring Boot Starter Parent.md"
+    },
+    {
+      "basename": "04. Was ist ein Spring Project und warum Spring",
+      "path": "Programming Specific Stuff/Java/Spring/04. Was ist ein Spring Project und warum Spring.md"
+    },
+    {
+      "basename": "03. Spring REST Controller",
+      "path": "Programming Specific Stuff/Java/Spring/03. Spring REST Controller.md"
+    },
+    {
+      "basename": "02. Spring Initializr",
+      "path": "Programming Specific Stuff/Java/Spring/02. Spring Initializr.md"
+    },
+    {
+      "basename": "01. Spring vs Spring Boot",
+      "path": "Programming Specific Stuff/Java/Spring/01. Spring vs Spring Boot.md"
+    },
+    {
+      "basename": "Back to Spring Übersicht",
+      "path": "Templates/Back to Spring Übersicht.md"
+    },
+    {
+      "basename": "index",
+      "path": "index.md"
+    },
+    {
       "basename": "Inhaltsübersicht Prog",
       "path": "Programming Specific Stuff/Inhaltsübersicht Prog.md"
     },
@@ -9,20 +113,8 @@
       "path": "Inhaltsverzeichnis.md"
     },
     {
-      "basename": "index",
-      "path": "index.md"
-    },
-    {
       "basename": "Berufsschulstoff",
       "path": "Berufsschule/Berufsschulstoff.md"
-    },
-    {
-      "basename": "11. Spring Container",
-      "path": "Programming Specific Stuff/Java/Spring/11. Spring Container.md"
-    },
-    {
-      "basename": "00. Übersicht",
-      "path": "Programming Specific Stuff/Java/Spring/00. Übersicht.md"
     },
     {
       "basename": "GitHub Übersicht",
@@ -107,98 +199,6 @@
     {
       "basename": "Verschaltung einer LED",
       "path": "Assets/Pictures/Verschaltung einer LED.png"
-    },
-    {
-      "basename": "Geldkreislauf",
-      "path": "Assets/Pictures/Geldkreislauf.png"
-    },
-    {
-      "basename": "Lernjob 1",
-      "path": "Assets/Pictures/Lernjob 1.png"
-    },
-    {
-      "basename": "PacketTracer Console Modes",
-      "path": "Assets/Pictures/PacketTracer Console Modes.png"
-    },
-    {
-      "basename": "Klassendiagram Bsp1",
-      "path": "Assets/Pictures/Klassendiagram Bsp1.png"
-    },
-    {
-      "basename": "10. Application Properties",
-      "path": "Programming Specific Stuff/Java/Spring/10. Application Properties.md"
-    },
-    {
-      "basename": "09. Spring Apps außerhalb der IDE starten",
-      "path": "Programming Specific Stuff/Java/Spring/09. Spring Apps außerhalb der IDE starten.md"
-    },
-    {
-      "basename": "08. Spring Secruity",
-      "path": "Programming Specific Stuff/Java/Spring/08. Spring Secruity.md"
-    },
-    {
-      "basename": "07. Spring Boot Actuator",
-      "path": "Programming Specific Stuff/Java/Spring/07. Spring Boot Actuator.md"
-    },
-    {
-      "basename": "06. Spring-Dev-Tools",
-      "path": "Programming Specific Stuff/Java/Spring/06. Spring-Dev-Tools.md"
-    },
-    {
-      "basename": "05. Spring Boot Starter Parent",
-      "path": "Programming Specific Stuff/Java/Spring/05. Spring Boot Starter Parent.md"
-    },
-    {
-      "basename": "04. Was ist ein Spring Project und warum Spring",
-      "path": "Programming Specific Stuff/Java/Spring/04. Was ist ein Spring Project und warum Spring.md"
-    },
-    {
-      "basename": "03. Spring REST Controller",
-      "path": "Programming Specific Stuff/Java/Spring/03. Spring REST Controller.md"
-    },
-    {
-      "basename": "Back to Spring Übersicht",
-      "path": "Templates/Back to Spring Übersicht.md"
-    },
-    {
-      "basename": "02. Spring Initializr",
-      "path": "Programming Specific Stuff/Java/Spring/02. Spring Initializr.md"
-    },
-    {
-      "basename": "01. Spring vs Spring Boot",
-      "path": "Programming Specific Stuff/Java/Spring/01. Spring vs Spring Boot.md"
-    },
-    {
-      "basename": "Lernfeld 9 Übersicht",
-      "path": "Berufsschule/Lernfeld 9/Lernfeld 9 Übersicht.md"
-    },
-    {
-      "basename": "Lernjob 4 - Übung",
-      "path": "Berufsschule/Lernfeld 6/Lernjob 4 - Übung.md"
-    },
-    {
-      "basename": "Lernfeld 6 - Serviceanfragen bearbeiten",
-      "path": "Berufsschule/Lernfeld 6/Lernfeld 6 - Serviceanfragen bearbeiten.md"
-    },
-    {
-      "basename": "04. Einbindung von Bootstrap",
-      "path": "Programming Specific Stuff/Web-Entwicklung/Angular/04. Einbindung von Bootstrap.md"
-    },
-    {
-      "basename": "03. Projektstruktur",
-      "path": "Programming Specific Stuff/Web-Entwicklung/Angular/03. Projektstruktur.md"
-    },
-    {
-      "basename": "02. Getting Started",
-      "path": "Programming Specific Stuff/Web-Entwicklung/Angular/02. Getting Started.md"
-    },
-    {
-      "basename": "05.3 Funktionsweise Switch",
-      "path": "Berufsschule/Lernfeld 9/05.3 Funktionsweise Switch.md"
-    },
-    {
-      "basename": "Lernfeld 7 Übersicht",
-      "path": "Berufsschule/Lernfeld 7/Lernfeld 7 Übersicht.md"
     }
   ],
   "omittedPaths": [],
