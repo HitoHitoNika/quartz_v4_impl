@@ -9,12 +9,12 @@
       "path": "Inhaltsverzeichnis.md"
     },
     {
-      "basename": "Berufsschulstoff",
-      "path": "Berufsschule/Berufsschulstoff.md"
-    },
-    {
       "basename": "index",
       "path": "index.md"
+    },
+    {
+      "basename": "Berufsschulstoff",
+      "path": "Berufsschule/Berufsschulstoff.md"
     },
     {
       "basename": "11. Spring Container",
