@@ -7,7 +7,7 @@ import spaRouterScript from "../../components/scripts/spa.inline"
 import plausibleScript from "../../components/scripts/plausible.inline"
 // @ts-ignore
 import popoverScript from "../../components/scripts/popover.inline"
-import styles from "../../styles/base.scss"
+import styles from "../../styles/custom.scss"
 import popoverStyle from "../../components/styles/popover.scss"
 import { BuildCtx } from "../../util/ctx"
 import { StaticResources } from "../../util/resources"
@@ -85,11 +85,11 @@ function addGlobalPageResources(
     componentResources.afterDOMLoaded.push(`
       window.dataLayer = window.dataLayer || [];
       function gtag() { dataLayer.push(arguments); }
-      gtag(\`js\`, new Date());
-      gtag(\`config\`, \`${tagId}\`, { send_page_view: false });
+      gtag("js", new Date());
+      gtag("config", "${tagId}", { send_page_view: false });
   
-      document.addEventListener(\`nav\`, () => {
-        gtag(\`event\`, \`page_view\`, {
+      document.addEventListener("nav", () => {
+        gtag("event", "page_view", {
           page_title: document.title,
           page_location: location.href,
         });
@@ -164,7 +164,7 @@ export const ComponentResources: QuartzEmitterPlugin<Options> = (opts?: Partial<
 
       addGlobalPageResources(ctx, resources, componentResources)
 
-      const stylesheet = joinStyles(ctx.cfg.configuration.theme, styles, ...componentResources.css)
+      const stylesheet = joinStyles(ctx.cfg.configuration.theme, ...componentResources.css, styles)
       const prescript = joinScripts(componentResources.beforeDOMLoaded)
       const postscript = joinScripts(componentResources.afterDOMLoaded)
       const fps = await Promise.all([
