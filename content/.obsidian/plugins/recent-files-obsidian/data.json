@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "00. Übersicht",
+      "path": "Programming Specific Stuff/Java/Spring/00. Übersicht.md"
+    },
+    {
+      "basename": "index",
+      "path": "index.md"
+    },
+    {
       "basename": "15. Bean Scopes",
       "path": "Programming Specific Stuff/Java/Spring/15. Bean Scopes.md"
     },
@@ -9,16 +17,8 @@
       "path": "Programming Specific Stuff/Java/Spring/16. Bean Lifecycle.md"
     },
     {
-      "basename": "00. Übersicht",
-      "path": "Programming Specific Stuff/Java/Spring/00. Übersicht.md"
-    },
-    {
       "basename": "14. Lazy Initialization",
       "path": "Programming Specific Stuff/Java/Spring/14. Lazy Initialization.md"
-    },
-    {
-      "basename": "index",
-      "path": "index.md"
     },
     {
       "basename": "13. Qualifier und Primary Annotation",
