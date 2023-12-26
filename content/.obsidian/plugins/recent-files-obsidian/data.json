@@ -1,20 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "14. Lazy Initialization",
-      "path": "Programming Specific Stuff/Java/Spring/14. Lazy Initialization.md"
+      "basename": "15. Bean Scopes",
+      "path": "Programming Specific Stuff/Java/Spring/15. Bean Scopes.md"
+    },
+    {
+      "basename": "16. Bean Lifecycle",
+      "path": "Programming Specific Stuff/Java/Spring/16. Bean Lifecycle.md"
     },
     {
       "basename": "00. Übersicht",
       "path": "Programming Specific Stuff/Java/Spring/00. Übersicht.md"
     },
     {
-      "basename": "13. Qualifier und Primary Annotation",
-      "path": "Programming Specific Stuff/Java/Spring/13. Qualifier und Primary Annotation.md"
+      "basename": "14. Lazy Initialization",
+      "path": "Programming Specific Stuff/Java/Spring/14. Lazy Initialization.md"
     },
     {
       "basename": "index",
       "path": "index.md"
+    },
+    {
+      "basename": "13. Qualifier und Primary Annotation",
+      "path": "Programming Specific Stuff/Java/Spring/13. Qualifier und Primary Annotation.md"
     },
     {
       "basename": "11. Spring Container",
@@ -191,14 +199,6 @@
     {
       "basename": "Sensoren 3",
       "path": "Assets/Pictures/Sensoren 3.png"
-    },
-    {
-      "basename": "Sensoren 2",
-      "path": "Assets/Pictures/Sensoren 2.png"
-    },
-    {
-      "basename": "Sensoren 1",
-      "path": "Assets/Pictures/Sensoren 1.png"
     }
   ],
   "omittedPaths": [],
