@@ -38,7 +38,8 @@ export function gitPull(origin, branch) {
   if (out.stderr) {
     throw new Error(chalk.red(`Error while pulling updates: ${out.stderr}`))
   } else if (out.status !== 0) {
-    throw new Error(chalk.red("Error while pulling updates"))  }
+    throw new Error(chalk.red("Error while pulling updates"))
+  }
 }
 
 export async function popContentFolder(contentFolder) {

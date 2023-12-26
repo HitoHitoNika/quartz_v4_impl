@@ -159,7 +159,6 @@ async function startServing(
     clientRefresh()
     toRebuild.clear()
     toRemove.clear()
-    release()
   }
 
   const watcher = chokidar.watch(".", {

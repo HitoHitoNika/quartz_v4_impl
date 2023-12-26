@@ -1,16 +1,8 @@
-@use './variables.scss' as *;
 @use "sass:color";
 
-/*
--
-CALLOUT THEMEING
-FROM PULL REQUEST: https://github.com/insanum/obsidian_gruvbox/pull/42/commits/9dca0cbb672ba2ce653c440ba12ec62dacdad704
--
-*/
-
 .callout {
-  border: 1px 0.4 var(--border);
-  background-color: $depth5;
+  border: 1px solid var(--border);
+  background-color: var(--bg);
   border-radius: 5px;
   padding: 0 1rem;
   overflow-y: hidden;
@@ -22,7 +14,7 @@ FROM PULL REQUEST: https://github.com/insanum/obsidian_gruvbox/pull/42/commits/9
   }
 
   &[data-callout="note"] {
-    --color: $depth5;
+    --color: #448aff;
     --border: #448aff44;
     --bg: #448aff10;
   }
@@ -41,25 +33,25 @@ FROM PULL REQUEST: https://github.com/insanum/obsidian_gruvbox/pull/42/commits/9
   }
 
   &[data-callout="tip"] {
-    --color: $aqua;
+    --color: #00bfa5;
     --border: #00bfa544;
     --bg: #00bfa510;
   }
 
   &[data-callout="success"] {
-    --color: $depth4;
+    --color: #09ad7a;
     --border: #09ad7144;
     --bg: #09ad7110;
   }
 
   &[data-callout="question"] {
-    --color: $depth3;
+    --color: #dba642;
     --border: #dba64244;
     --bg: #dba64210;
   }
 
   &[data-callout="warning"] {
-    --color: $depth2;
+    --color: #db8942;
     --border: #db894244;
     --bg: #db894210;
   }
@@ -67,19 +59,19 @@ FROM PULL REQUEST: https://github.com/insanum/obsidian_gruvbox/pull/42/commits/9
   &[data-callout="failure"],
   &[data-callout="danger"],
   &[data-callout="bug"] {
-    --color: $depth1;
+    --color: #db4242;
     --border: #db424244;
     --bg: #db424210;
   }
 
   &[data-callout="example"] {
-    --color: $depth6;
+    --color: #7a43b5;
     --border: #7a43b544;
     --bg: #7a43b510;
   }
 
   &[data-callout="quote"] {
-    --color: $dark4;
+    --color: var(--secondary);
     --border: var(--lightgray);
   }
 
