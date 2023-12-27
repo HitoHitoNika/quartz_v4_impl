@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "00. Übersicht",
+      "path": "Programming Specific Stuff/Java/Spring/00. Übersicht.md"
+    },
+    {
+      "basename": "index",
+      "path": "index.md"
+    },
+    {
       "basename": "18. Hibernate und JPA Überblick",
       "path": "Programming Specific Stuff/Java/Spring/18. Hibernate und JPA Überblick.md"
     },
@@ -11,10 +19,6 @@
     {
       "basename": "16. Bean Lifecycle",
       "path": "Programming Specific Stuff/Java/Spring/16. Bean Lifecycle.md"
-    },
-    {
-      "basename": "00. Übersicht",
-      "path": "Programming Specific Stuff/Java/Spring/00. Übersicht.md"
     },
     {
       "basename": "15. Bean Scopes",
@@ -79,10 +83,6 @@
     {
       "basename": "Guide to Obsidian",
       "path": "Obsidian/Guide to Obsidian.md"
-    },
-    {
-      "basename": "index",
-      "path": "index.md"
     },
     {
       "basename": "09. Daten suchen & sortieren",

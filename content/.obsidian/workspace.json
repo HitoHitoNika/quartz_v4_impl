@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "05a1d76bbfed8a09",
+        "id": "6526110fb006eaaf",
         "type": "tabs",
         "children": [
           {
-            "id": "942cd1774583ee77",
+            "id": "d0ca0806992cf61c",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -23,12 +23,12 @@
             }
           },
           {
-            "id": "eaf456b2cf756e0c",
+            "id": "5bca9825a7e48e89",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming Specific Stuff/Java/Spring/18. Hibernate und JPA Überblick.md",
+                "file": "Programming Specific Stuff/Java/Spring/00. Übersicht.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming Specific Stuff/Java/Spring/18. Hibernate und JPA Überblick.md",
+                "file": "Programming Specific Stuff/Java/Spring/00. Übersicht.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming Specific Stuff/Java/Spring/18. Hibernate und JPA Überblick.md",
+                "file": "Programming Specific Stuff/Java/Spring/00. Übersicht.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming Specific Stuff/Java/Spring/18. Hibernate und JPA Überblick.md"
+                "file": "Programming Specific Stuff/Java/Spring/00. Übersicht.md"
               }
             }
           },
@@ -180,7 +180,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Programming Specific Stuff/Java/Spring/18. Hibernate und JPA Überblick.md"
+                "file": "Programming Specific Stuff/Java/Spring/00. Übersicht.md"
               }
             }
           }
@@ -202,8 +202,9 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "eaf456b2cf756e0c",
+  "active": "5bca9825a7e48e89",
   "lastOpenFiles": [
+    "index.md",
     "Assets/Pictures/Pasted image 20231227113236.png",
     "Programming Specific Stuff/Java/Spring/17. Bean mit Java Code konfigurieren.md",
     "Programming Specific Stuff/Java/Spring/16. Bean Lifecycle.md",
@@ -225,7 +226,6 @@
     "Programming Specific Stuff/Java/Spring/02. Spring Initializr.md",
     "Programming Specific Stuff/Java/Spring/01. Spring vs Spring Boot.md",
     "Obsidian/Guide to Obsidian.md",
-    "index.md",
     "Assets/Pictures/Pasted image 20231225113812.png",
     "Berufsschule/Lernfeld 5/09. Daten suchen & sortieren.md",
     "Berufsschule/Lernfeld 5/08. Testen.md",
@@ -239,7 +239,6 @@
     "Assets/Pictures/Spring Inversion of Control.png",
     "Assets/Pictures/UML Bildaufgabe Zwischenstand 3.png",
     "Assets/Pictures/UML Bildaufgabe Zwischenstand 2.png",
-    "Assets/Pictures/UML Bildaufgabe Zwischenstand.png",
     "Berufsschule/Lernfeld 6/Untitled.canvas",
     "Assets/PDFs/BBIG.pdf",
     "Assets/PDFs/Wirtschaftskreislauf.pdf",
