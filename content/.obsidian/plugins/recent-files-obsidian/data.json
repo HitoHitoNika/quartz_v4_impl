@@ -1,20 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "00. Übersicht",
-      "path": "Programming Specific Stuff/Java/Spring/00. Übersicht.md"
+      "basename": "18. Hibernate und JPA Überblick",
+      "path": "Programming Specific Stuff/Java/Spring/18. Hibernate und JPA Überblick.md"
     },
     {
-      "basename": "index",
-      "path": "index.md"
-    },
-    {
-      "basename": "15. Bean Scopes",
-      "path": "Programming Specific Stuff/Java/Spring/15. Bean Scopes.md"
+      "basename": "17. Bean mit Java Code konfigurieren",
+      "path": "Programming Specific Stuff/Java/Spring/17. Bean mit Java Code konfigurieren.md"
     },
     {
       "basename": "16. Bean Lifecycle",
       "path": "Programming Specific Stuff/Java/Spring/16. Bean Lifecycle.md"
+    },
+    {
+      "basename": "00. Übersicht",
+      "path": "Programming Specific Stuff/Java/Spring/00. Übersicht.md"
+    },
+    {
+      "basename": "15. Bean Scopes",
+      "path": "Programming Specific Stuff/Java/Spring/15. Bean Scopes.md"
     },
     {
       "basename": "14. Lazy Initialization",
@@ -25,52 +29,12 @@
       "path": "Programming Specific Stuff/Java/Spring/13. Qualifier und Primary Annotation.md"
     },
     {
-      "basename": "11. Spring Container",
-      "path": "Programming Specific Stuff/Java/Spring/11. Spring Container.md"
-    },
-    {
       "basename": "12. Component Scanning",
       "path": "Programming Specific Stuff/Java/Spring/12. Component Scanning.md"
     },
     {
-      "basename": "09. Daten suchen & sortieren",
-      "path": "Berufsschule/Lernfeld 5/09. Daten suchen & sortieren.md"
-    },
-    {
-      "basename": "08. Testen",
-      "path": "Berufsschule/Lernfeld 5/08. Testen.md"
-    },
-    {
-      "basename": "07. Methoden",
-      "path": "Berufsschule/Lernfeld 5/07. Methoden.md"
-    },
-    {
-      "basename": "06. Arrays",
-      "path": "Berufsschule/Lernfeld 5/06. Arrays.md"
-    },
-    {
-      "basename": "05. Zufallszahlen",
-      "path": "Berufsschule/Lernfeld 5/05. Zufallszahlen.md"
-    },
-    {
-      "basename": "04. Ausgabe und Eingabe",
-      "path": "Berufsschule/Lernfeld 5/04. Ausgabe und Eingabe.md"
-    },
-    {
-      "basename": "03. Bedingungen und Schleifen",
-      "path": "Berufsschule/Lernfeld 5/03. Bedingungen und Schleifen.md"
-    },
-    {
-      "basename": "02. Operatoren",
-      "path": "Berufsschule/Lernfeld 5/02. Operatoren.md"
-    },
-    {
-      "basename": "01. Einfache Datentypen",
-      "path": "Berufsschule/Lernfeld 5/01. Einfache Datentypen.md"
-    },
-    {
-      "basename": "00. Lernfeld 5 Übersicht",
-      "path": "Berufsschule/Lernfeld 5/00. Lernfeld 5 Übersicht.md"
+      "basename": "11. Spring Container",
+      "path": "Programming Specific Stuff/Java/Spring/11. Spring Container.md"
     },
     {
       "basename": "10. Application Properties",
@@ -111,6 +75,54 @@
     {
       "basename": "01. Spring vs Spring Boot",
       "path": "Programming Specific Stuff/Java/Spring/01. Spring vs Spring Boot.md"
+    },
+    {
+      "basename": "Guide to Obsidian",
+      "path": "Obsidian/Guide to Obsidian.md"
+    },
+    {
+      "basename": "index",
+      "path": "index.md"
+    },
+    {
+      "basename": "09. Daten suchen & sortieren",
+      "path": "Berufsschule/Lernfeld 5/09. Daten suchen & sortieren.md"
+    },
+    {
+      "basename": "08. Testen",
+      "path": "Berufsschule/Lernfeld 5/08. Testen.md"
+    },
+    {
+      "basename": "07. Methoden",
+      "path": "Berufsschule/Lernfeld 5/07. Methoden.md"
+    },
+    {
+      "basename": "06. Arrays",
+      "path": "Berufsschule/Lernfeld 5/06. Arrays.md"
+    },
+    {
+      "basename": "05. Zufallszahlen",
+      "path": "Berufsschule/Lernfeld 5/05. Zufallszahlen.md"
+    },
+    {
+      "basename": "04. Ausgabe und Eingabe",
+      "path": "Berufsschule/Lernfeld 5/04. Ausgabe und Eingabe.md"
+    },
+    {
+      "basename": "03. Bedingungen und Schleifen",
+      "path": "Berufsschule/Lernfeld 5/03. Bedingungen und Schleifen.md"
+    },
+    {
+      "basename": "02. Operatoren",
+      "path": "Berufsschule/Lernfeld 5/02. Operatoren.md"
+    },
+    {
+      "basename": "01. Einfache Datentypen",
+      "path": "Berufsschule/Lernfeld 5/01. Einfache Datentypen.md"
+    },
+    {
+      "basename": "00. Lernfeld 5 Übersicht",
+      "path": "Berufsschule/Lernfeld 5/00. Lernfeld 5 Übersicht.md"
     },
     {
       "basename": "Back to Spring Übersicht",
@@ -187,18 +199,6 @@
     {
       "basename": "Sensoren 6",
       "path": "Assets/Pictures/Sensoren 6.png"
-    },
-    {
-      "basename": "Sensoren 5",
-      "path": "Assets/Pictures/Sensoren 5.png"
-    },
-    {
-      "basename": "Sensoren 4",
-      "path": "Assets/Pictures/Sensoren 4.png"
-    },
-    {
-      "basename": "Sensoren 3",
-      "path": "Assets/Pictures/Sensoren 3.png"
     }
   ],
   "omittedPaths": [],
