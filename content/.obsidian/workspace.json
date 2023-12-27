@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "fef8c7a436c52ac4",
+        "id": "896267cf9b721c26",
         "type": "tabs",
         "children": [
           {
-            "id": "6f1ee6ed4b22a7b3",
+            "id": "7cb6530b2dc619d9",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -23,7 +23,7 @@
             }
           },
           {
-            "id": "e836bc751919a420",
+            "id": "02e1874df519acaf",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -202,13 +202,13 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "e836bc751919a420",
+  "active": "02e1874df519acaf",
   "lastOpenFiles": [
+    "index.md",
     "Assets/Pictures/Pasted image 20231227181921.png",
     "Assets/Pictures/Pasted image 20231227174615.png",
     "Programming Specific Stuff/Java/Spring/00. Spring Übersicht.md",
     "Programming Specific Stuff/Java/Spring/19. MySQL Datenbank einrichten.md",
-    "index.md",
     "Obsidian/Guide to Obsidian.md",
     "Berufsschule/Lernfeld 5/07. Methoden.md",
     "Berufsschule/Lernfeld 9/05.2 Cisco-Geräte konfigurieren.md",
@@ -239,7 +239,6 @@
     "Assets/Pictures/Spring Dependency Injection.png",
     "Assets/Pictures/Spring Inversion of Control 2.png",
     "Assets/Pictures/Spring Inversion of Control.png",
-    "Assets/Pictures/UML Bildaufgabe Zwischenstand 3.png",
     "Berufsschule/Lernfeld 6/Untitled.canvas",
     "Assets/PDFs/BBIG.pdf",
     "Assets/PDFs/Wirtschaftskreislauf.pdf",
