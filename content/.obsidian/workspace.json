@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "6526110fb006eaaf",
+        "id": "fef8c7a436c52ac4",
         "type": "tabs",
         "children": [
           {
-            "id": "d0ca0806992cf61c",
+            "id": "6f1ee6ed4b22a7b3",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -23,12 +23,12 @@
             }
           },
           {
-            "id": "5bca9825a7e48e89",
+            "id": "e836bc751919a420",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming Specific Stuff/Java/Spring/00. Übersicht.md",
+                "file": "Programming Specific Stuff/Java/Spring/19. MySQL Datenbank einrichten.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -65,7 +65,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "WICHTIG",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming Specific Stuff/Java/Spring/00. Übersicht.md",
+                "file": "Programming Specific Stuff/Java/Spring/19. MySQL Datenbank einrichten.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming Specific Stuff/Java/Spring/00. Übersicht.md",
+                "file": "Programming Specific Stuff/Java/Spring/19. MySQL Datenbank einrichten.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming Specific Stuff/Java/Spring/00. Übersicht.md"
+                "file": "Programming Specific Stuff/Java/Spring/19. MySQL Datenbank einrichten.md"
               }
             }
           },
@@ -180,7 +180,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Programming Specific Stuff/Java/Spring/00. Übersicht.md"
+                "file": "Programming Specific Stuff/Java/Spring/19. MySQL Datenbank einrichten.md"
               }
             }
           }
@@ -202,20 +202,28 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "5bca9825a7e48e89",
+  "active": "e836bc751919a420",
   "lastOpenFiles": [
+    "Assets/Pictures/Pasted image 20231227181921.png",
+    "Assets/Pictures/Pasted image 20231227174615.png",
+    "Programming Specific Stuff/Java/Spring/00. Spring Übersicht.md",
+    "Programming Specific Stuff/Java/Spring/19. MySQL Datenbank einrichten.md",
     "index.md",
-    "Assets/Pictures/Pasted image 20231227113236.png",
-    "Programming Specific Stuff/Java/Spring/17. Bean mit Java Code konfigurieren.md",
-    "Programming Specific Stuff/Java/Spring/16. Bean Lifecycle.md",
+    "Obsidian/Guide to Obsidian.md",
+    "Berufsschule/Lernfeld 5/07. Methoden.md",
+    "Berufsschule/Lernfeld 9/05.2 Cisco-Geräte konfigurieren.md",
+    "Programming Specific Stuff/Java/Spring/10. Application Properties.md",
     "Programming Specific Stuff/Java/Spring/18. Hibernate und JPA Überblick.md",
-    "Programming Specific Stuff/Java/Spring/00. Übersicht.md",
+    "Programming Specific Stuff/Java/Spring/17. Bean mit Java Code konfigurieren.md",
+    "Programming Specific Stuff/Inhaltsübersicht Prog.md",
+    "Programming Specific Stuff/Java/Spring/19. JDBC.md",
+    "Assets/Pictures/Pasted image 20231227113236.png",
+    "Programming Specific Stuff/Java/Spring/16. Bean Lifecycle.md",
     "Programming Specific Stuff/Java/Spring/15. Bean Scopes.md",
     "Programming Specific Stuff/Java/Spring/14. Lazy Initialization.md",
     "Programming Specific Stuff/Java/Spring/13. Qualifier und Primary Annotation.md",
     "Programming Specific Stuff/Java/Spring/12. Component Scanning.md",
     "Programming Specific Stuff/Java/Spring/11. Spring Container.md",
-    "Programming Specific Stuff/Java/Spring/10. Application Properties.md",
     "Programming Specific Stuff/Java/Spring/09. Spring Apps außerhalb der IDE starten.md",
     "Programming Specific Stuff/Java/Spring/08. Spring Secruity.md",
     "Programming Specific Stuff/Java/Spring/07. Spring Boot Actuator.md",
@@ -224,13 +232,7 @@
     "Programming Specific Stuff/Java/Spring/04. Was ist ein Spring Project und warum Spring.md",
     "Programming Specific Stuff/Java/Spring/03. Spring REST Controller.md",
     "Programming Specific Stuff/Java/Spring/02. Spring Initializr.md",
-    "Programming Specific Stuff/Java/Spring/01. Spring vs Spring Boot.md",
-    "Obsidian/Guide to Obsidian.md",
     "Assets/Pictures/Pasted image 20231225113812.png",
-    "Berufsschule/Lernfeld 5/09. Daten suchen & sortieren.md",
-    "Berufsschule/Lernfeld 5/08. Testen.md",
-    "Berufsschule/Lernfeld 5/07. Methoden.md",
-    "Berufsschule/Lernfeld 5/06. Arrays.md",
     "Assets/Pictures/Pasted image 20231222174926.png",
     "Assets/Pictures/Pasted image 20231222102542.png",
     "Assets/Pictures/Spring Depedency Injection Bsp.png",
@@ -238,7 +240,6 @@
     "Assets/Pictures/Spring Inversion of Control 2.png",
     "Assets/Pictures/Spring Inversion of Control.png",
     "Assets/Pictures/UML Bildaufgabe Zwischenstand 3.png",
-    "Assets/Pictures/UML Bildaufgabe Zwischenstand 2.png",
     "Berufsschule/Lernfeld 6/Untitled.canvas",
     "Assets/PDFs/BBIG.pdf",
     "Assets/PDFs/Wirtschaftskreislauf.pdf",

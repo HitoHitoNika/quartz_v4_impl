@@ -23,7 +23,7 @@ aliases:
 |---|---|
 |Grundlagen|[[00. Lernfeld 5 Übersicht]]|
 |Maven|[[Maven]]|
-|Spring/Springboot|[[00. Übersicht]]|
+|Spring/Springboot|[[00. Spring Übersicht]]|
 |Testing|[[JUnit]]|
 
 

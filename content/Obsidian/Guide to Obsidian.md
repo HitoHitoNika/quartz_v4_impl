@@ -33,7 +33,7 @@ Obsidian ist eine Open Source Notizen App. Sie arbeitet mit Markdown Dateien und
 Strg+N öffnet eine neue Untiteld Note, während Strg+Shift+N eine neue Note in einem extra Tab öffnet.
 ### Verlinkungen zu anderen Notizen
 Eines der wichtigsten Tools in Obsidian ist es auf andere Notizen zu verweisen.
-Beispielsweise kann ich wenn ich einen [[01. Angular Installation Guide]] schreibe auf eine Notiz  verlinken in dem ich den Titel mit doppelten Eckigen Klammern umrunde. Dann werden diese unterstrichen und highlightet. Mit Strg+Linke Maustaste (Schreibeview) oder nur linke Maustaste(Leseview) kann man direkt zu dieser Notiz kommen. 
+Beispielsweise kann ich wenn ich einen [[01. Angular Installation Guide]] schreibe auf eine Notiz  verlinken in dem ich den Titel mit doppelten Eckigen Klammern umrunde. Dann werden diese unterstrichen und highlightet.
 ### Möglichkeit Ordner zu erstellen
 Ordner bieten eine Möglichkeit die Notes strukturiert zu hinterlegen. Hierfür kann man sich beispielsweise Oberthemen suchen.
 ### Views
@@ -49,7 +49,10 @@ Diese werden in einem Ordner innerhalb des Vaults abgespeichert. Diesen kann man
 
 ## Style
 ### Überschriften
-Wie in Markdown üblich kann man mit der # eine Überschrift erzeugen. ACHTUNG: Im Gegensatz zu den Hashtags muss nach der Raute in den Überschriften ein Leerzeichen gesetzt werden !
+Wie in Markdown üblich kann man mit der # eine Überschrift erzeugen. 
+
+> [!warning] ACHTUNG
+> Im Gegensatz zu den Hashtags muss nach der Raute in den Überschriften ein Leerzeichen gesetzt werden !
 
 ### Formatierungsmöglichkeiten
 Wie in jedem Texteditor gibt es die Möglichkeiten **Fett** , *kursiv* oder ==markiert==  zu schreiben.
