@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "896267cf9b721c26",
+        "id": "471b034b1fa58b69",
         "type": "tabs",
         "children": [
           {
-            "id": "7cb6530b2dc619d9",
+            "id": "e06209e4db138d89",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -23,12 +23,12 @@
             }
           },
           {
-            "id": "02e1874df519acaf",
+            "id": "91f69ff4525a9a77",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming Specific Stuff/Java/Spring/19. MySQL Datenbank einrichten.md",
+                "file": "Programming Specific Stuff/Java/Spring/Shady.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming Specific Stuff/Java/Spring/19. MySQL Datenbank einrichten.md",
+                "file": "Programming Specific Stuff/Java/Spring/Shady.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming Specific Stuff/Java/Spring/19. MySQL Datenbank einrichten.md",
+                "file": "Programming Specific Stuff/Java/Spring/Shady.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming Specific Stuff/Java/Spring/19. MySQL Datenbank einrichten.md"
+                "file": "Programming Specific Stuff/Java/Spring/Shady.md"
               }
             }
           },
@@ -180,7 +180,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Programming Specific Stuff/Java/Spring/19. MySQL Datenbank einrichten.md"
+                "file": "Programming Specific Stuff/Java/Spring/Shady.md"
               }
             }
           }
@@ -202,12 +202,13 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "02e1874df519acaf",
+  "active": "91f69ff4525a9a77",
   "lastOpenFiles": [
+    "Programming Specific Stuff/Java/Spring/00. Spring Übersicht.md",
+    "Programming Specific Stuff/Java/Spring/Shady.md",
     "index.md",
     "Assets/Pictures/Pasted image 20231227181921.png",
     "Assets/Pictures/Pasted image 20231227174615.png",
-    "Programming Specific Stuff/Java/Spring/00. Spring Übersicht.md",
     "Programming Specific Stuff/Java/Spring/19. MySQL Datenbank einrichten.md",
     "Obsidian/Guide to Obsidian.md",
     "Berufsschule/Lernfeld 5/07. Methoden.md",

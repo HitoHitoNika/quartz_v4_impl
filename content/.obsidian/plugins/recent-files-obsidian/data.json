@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "19. MySQL Datenbank einrichten",
-      "path": "Programming Specific Stuff/Java/Spring/19. MySQL Datenbank einrichten.md"
+      "basename": "Shady",
+      "path": "Programming Specific Stuff/Java/Spring/Shady.md"
+    },
+    {
+      "basename": "00. Spring Übersicht",
+      "path": "Programming Specific Stuff/Java/Spring/00. Spring Übersicht.md"
     },
     {
       "basename": "index",
       "path": "index.md"
     },
     {
-      "basename": "00. Spring Übersicht",
-      "path": "Programming Specific Stuff/Java/Spring/00. Spring Übersicht.md"
+      "basename": "19. MySQL Datenbank einrichten",
+      "path": "Programming Specific Stuff/Java/Spring/19. MySQL Datenbank einrichten.md"
     },
     {
       "basename": "Guide to Obsidian",
@@ -195,10 +199,6 @@
     {
       "basename": "Sensoren 9",
       "path": "Assets/Pictures/Sensoren 9.png"
-    },
-    {
-      "basename": "Sensoren 8",
-      "path": "Assets/Pictures/Sensoren 8.png"
     }
   ],
   "omittedPaths": [],
