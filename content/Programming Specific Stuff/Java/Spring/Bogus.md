@@ -1,25 +1,31 @@
-a) **Auto:**
+**Tabelle "Auto":**
 
-- **Hersteller:** String (z. B. "Volkswagen", "Toyota")
-- **Modell:** String (z. B. "Golf", "Camry")
-- **Modelljahr:** Integer (z. B. 2022)
-- **Motorleistung:** Float (in PS oder kW, z. B. 150.5)
-- **Farbe:** String (z. B. "Blau", "Silber")
-- **KFZ-Kennzeichen:** String (z. B. "M-AB 1234")
+| Attribut            | Datentyp | Wertebereich                                   |
+|---------------------|----------|------------------------------------------------|
+| Hersteller          | String   | "Volkswagen", "Toyota", ...                    |
+| Modell              | String   | "Golf", "Camry", ...                           |
+| Modelljahr          | Integer  | Ganze Zahl, z. B. 2022                         |
+| Motorleistung       | Float    | Dezimalzahl, z. B. 150.5                       |
+| Farbe               | String   | "Blau", "Silber", ...                          |
+| KFZ-Kennzeichen    | String   | Alphanumerisch, z. B. "M-AB 1234"             |
 
-b) **Versicherung:**
+**Tabelle "Versicherung":**
 
-- **Versicherungsgesellschaft:** String (z. B. "Allianz", "HDI")
-- **Versicherungssparte:** String (z. B. "Kfz-Haftpflicht", "Lebensversicherung")
-- **Versicherungsnummer:** String oder Integer (je nach Vergabepraxis)
-- **Versicherungssumme:** Float (in Euro, z. B. 100000.0)
+| Attribut                   | Datentyp | Wertebereich                                          |
+|----------------------------|----------|-------------------------------------------------------|
+| Versicherungsgesellschaft  | String   | "Allianz", "HDI", ...                                 |
+| Versicherungssparte        | String   | "Kfz-Haftpflicht", "Lebensversicherung", ...         |
+| Versicherungsnummer        | String   | Alphanumerisch oder Integer, je nach Vergabepraxis    |
+| Versicherungssumme         | Float    | Euro, z. B. 100000.0                                  |
 
-c) **Person:**
+**Tabelle "Person":**
 
-- **Name:** String (Nachname, z. B. "Müller")
-- **Vorname:** String (z. B. "Anna")
-- **Geburtsdatum:** Date (Datum, z. B. 1990-05-15)
-- **Anschrift:** String (z. B. "Musterstraße 123, 12345 Musterstadt")
+| Attribut        | Datentyp | Wertebereich                                      |
+|-----------------|----------|---------------------------------------------------|
+| Name            | String   | Nachname, z. B. "Müller"                          |
+| Vorname         | String   | "Anna", ...                                       |
+| Geburtsdatum    | Date     | Datum im Format "YYYY-MM-DD", z. B. 1990-05-15    |
+| Anschrift       | String   | Adresse, z. B. "Musterstraße 123, 12345 Musterstadt" |
 
 ---
 
