@@ -5,6 +5,10 @@
       "path": "Programming Specific Stuff/Java/Spring/Bogus.md"
     },
     {
+      "basename": "index",
+      "path": "index.md"
+    },
+    {
       "basename": "19. MySQL Datenbank einrichten",
       "path": "Programming Specific Stuff/Java/Spring/19. MySQL Datenbank einrichten.md"
     },
@@ -107,10 +111,6 @@
     {
       "basename": "Inhaltsübersicht Prog",
       "path": "Programming Specific Stuff/Inhaltsübersicht Prog.md"
-    },
-    {
-      "basename": "index",
-      "path": "index.md"
     },
     {
       "basename": "Guide to Obsidian",

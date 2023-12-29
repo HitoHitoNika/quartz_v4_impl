@@ -34,12 +34,15 @@
 ## Aufgabe 2
 
 ```
+100
 Versicherungsgesellschaft,Versicherungssparte,Versicherungsnummer,Versicherungssumme
 Allianz,Kfz-Haftpflicht,123456789,100000.00
 
+101
 Name,Vorname,Geburtsdatum,Anschrift
 Müller,Anna,1990-05-15,"Musterstraße 123, 12345 Musterstadt"
 
+102
 Hersteller,Modell,Modelljahr,Motorleistung,Farbe,KFZ-Kennzeichen
 Volkswagen,Golf,2022,150.5,Blau,M-AB 1234
 ```
@@ -136,7 +139,8 @@ Volkswagen,Golf,2022,150.5,Blau,M-AB 1234
     - Vorname
     - Geburtsdatum
     - Anschrift
-2. **Auto:**
+    - **FK**: Versicherungsnummer
+1. **Auto:**
     
     - **PK**: KFZ-Kennzeichen
     - Hersteller
