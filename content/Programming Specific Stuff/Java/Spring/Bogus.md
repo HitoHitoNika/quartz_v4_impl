@@ -164,10 +164,10 @@ Volkswagen,Golf,2022,150.5,Blau,M-AB 1234
 
 **Person:**
 
-|PersonID|Name|Vorname|Geburtsdatum|Anschrift|
-|---|---|---|---|---|
-|1|Müller|Anna|1990-05-15|Musterstraße 123, Musterstadt|
-|2|Schmidt|Peter|1985-08-22|Hauptweg 456, Beispielstadt|
+| PersonID | Name | Vorname | Geburtsdatum | Anschrift | Versicherungsnummer |
+| ---- | ---- | ---- | ---- | ---- | ---- |
+| 1 | Müller | Anna | 1990-05-15 | Musterstraße 123, Musterstadt | 12345 |
+| 2 | Schmidt | Peter | 1985-08-22 | Hauptweg 456, Beispielstadt | 67890 |
 
 **Auto:**
 
@@ -181,7 +181,7 @@ Volkswagen,Golf,2022,150.5,Blau,M-AB 1234
 |Versicherungsnummer|Versicherungssparte|Versicherungssumme|VersicherungsgeberID|
 |---|---|---|---|
 |12345|Kfz-Haftpflicht|100000.0|1|
-|67890|Lebensversicherung|50000.0|2|
+|67890|Lebensversicherung|LV50000.0 |2|
 
 **Versicherungsgesellschaft:**
 
