@@ -181,7 +181,7 @@ Volkswagen,Golf,2022,150.5,Blau,M-AB 1234
 |Versicherungsnummer|Versicherungssparte|Versicherungssumme|VersicherungsgeberID|
 |---|---|---|---|
 |12345|Kfz-Haftpflicht|100000.0|1|
-|67890|Lebensversicherung|LV50000.0 |2|
+|LV67890 |Lebensversicherung|50000.0 |2|
 
 **Versicherungsgesellschaft:**
 
@@ -192,7 +192,7 @@ Volkswagen,Golf,2022,150.5,Blau,M-AB 1234
 
 **d) ERM und ERD Vergleich:**
 
-Das ERD und ERM repräsentieren die gleichen Informationen wie zuvor in Aufgabe 3 beschrieben. Der Hauptunterschied besteht darin, dass das ERD auf Tabellenebene detaillierter ist und die Fremdschlüssel-Beziehungen zwischen den Tabellen deutlicher zeigt. Das Modell in 3. Normalform stellt sicher, dass Redundanzen minimiert werden und die Daten effizient und konsistent gespeichert werden können.
+Das ERD und ERM repräsentieren die gleichen Informationen wie zuvor in Aufgabe 3 beschrieben. Der Hauptunterschied besteht darin, dass das ERD auf Tabellenebene detaillierter ist und die Fremdschlüssel-Beziehungen zwischen den Tabellen deutlicher zeigt. Das Modell in 3. Normalform stellt sicher, dass Redundanzen minimiert werden und die Daten effizient und konsistent gespeichert werden können, wodurch das ganze noch ersichtlicher wird.
 
 ---
 
