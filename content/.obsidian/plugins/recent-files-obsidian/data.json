@@ -5,12 +5,12 @@
       "path": "Programming Specific Stuff/Java/Spring/Bogus.md"
     },
     {
-      "basename": "00. Spring Übersicht",
-      "path": "Programming Specific Stuff/Java/Spring/00. Spring Übersicht.md"
-    },
-    {
       "basename": "index",
       "path": "index.md"
+    },
+    {
+      "basename": "00. Spring Übersicht",
+      "path": "Programming Specific Stuff/Java/Spring/00. Spring Übersicht.md"
     },
     {
       "basename": "19. MySQL Datenbank einrichten",
