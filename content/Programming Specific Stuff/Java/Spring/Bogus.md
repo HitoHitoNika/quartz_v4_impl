@@ -29,8 +29,6 @@
 | Geburtsdatum    | Date     | Datum im Format "YYYY-MM-DD", z. B. 1990-05-15    |
 | Anschrift       | String   | Adresse, z. B. "Musterstraße 123, 12345 Musterstadt" |
 
----
-
 ## Aufgabe 2
 
 ```
@@ -45,120 +43,112 @@ Müller,Anna,1990-05-15,"Musterstraße 123, 12345 Musterstadt"
 102
 Hersteller,Modell,Modelljahr,Motorleistung,Farbe,KFZ-Kennzeichen
 Volkswagen,Golf,2022,150.5,Blau,M-AB 1234
-```
-
---- 
+``` 
 
 ## Aufgabe 3
 
 **ERM (Entity-Relationship Model):**
 
-1. Entitäten (Entities):
-    
+![[ERM.png]]
+
+1. Entitäten:
     - Person
     - Auto
     - Versicherung
     - Versicherungsgesellschaft
-2. Beziehungen (Relationships):
-    
+2. Beziehungen:
     - Besitzt: Verbindung zwischen Person und Auto (1:N)
     - Gehört zu: Verbindung zwischen Auto und Person (N:1)
     - Versichert: Verbindung zwischen Person und Versicherung (N:M)
     - Bietet an: Verbindung zwischen Versicherungsgesellschaft und Versicherung (1:N)
-3. Attribute (Attributes):
-    
+3. Attribute:
     - Person: Name, Vorname, Geburtsdatum, Anschrift
     - Auto: Hersteller, Modell, Modelljahr, Motorleistung, Farbe, KFZ-Kennzeichen
     - Versicherung: Versicherungssparte, Versicherungsnummer, Versicherungssumme
-    - Versicherungsgesellschaft: Name
-
-**ERD (Entity-Relationship Diagram):**
-
-```
-   +-----------------------+       +--------------------------+
-   |      Person           |       |    Auto                  |
-   +-----------------------+       +--------------------------+
-   | PK    Name            |       | PK   KFZ-Kennzeichen     |
-   |      Vorname          |       |     Hersteller           |
-   |      Geburtsdatum     |       |     Modell               |
-   |      Anschrift        |       |     Modelljahr           |
-   |                       |       |     Motorleistung        |
-   +-----------------------+       |     Farbe                |
-                                   | FK  Besitzer (Person)    |
-                                   +--------------------------+
-  
-   +------------------------+      +-------------------------+
-   |    Versicherung        |      | Versicherungsgesellschaft|
-   +------------------------+      +-------------------------+
-   | PK   Versicherungsnummer|      | PK   Name               |
-   |     Versicherungssparte|      +-------------------------+
-   |     Versicherungssumme |     
-   +------------------------+  
-
-```
-
---- 
+    - Versicherungsgesellschaft: Name 
 
 ## Aufgabe 4
 
 **a) Modell in Tabellendarstellung:**
 
-1. Person
-    
-    - **PK** (Primärschlüssel): PersonID
-    - Name
-    - Vorname
-    - Geburtsdatum
-    - Anschrift
-2. Auto
-    
-    - **PK**: KFZ-Kennzeichen
-    - Hersteller
-    - Modell
-    - Modelljahr
-    - Motorleistung
-    - Farbe
-    - **FK** (Fremdschlüssel): BesitzerID (verweist auf PersonID in der Tabelle Person)
-3. Versicherung
-    
-    - **PK**: Versicherungsnummer
-    - Versicherungssparte
-    - Versicherungssumme
-    - **FK**: Versicherungsgeber (verweist auf VersicherungsgeberID in der Tabelle Versicherungsgesellschaft)
-4. Versicherungsgesellschaft
-    
-    - **PK**: VersicherungsgeberID
-    - Name
+1. **Tabelle "Person":**
+
+| Attribut        | Datentyp | Wertebereich                                      |
+|-----------------|----------|---------------------------------------------------|
+| PersonID (PK)   | Integer  | Eindeutige ID für jede Person                     |
+| Name            | String   | Nachname                                          |
+| Vorname         | String   | Vorname                                           |
+| Geburtsdatum    | Date     | Datum im Format "YYYY-MM-DD"                      |
+| Anschrift       | String   | Adresse                                           |
+
+2. **Tabelle "Auto":**
+
+| Attribut | Datentyp | Wertebereich |
+| ---- | ---- | ---- |
+| KFZ-Kennzeichen (PK) | String | Alphanumerisch, eindeutiges Kennzeichen |
+| Hersteller | String | Alphanumerisch, z. B. "Volkswagen" |
+| Modell | String | Alphanumerisch, z. B. "Golf" |
+| Modelljahr | Integer | Ganze Zahl, 1885-9999 |
+| Motorleistung | Integer | Ganze Zahl 0-1999 |
+| Farbe | String | "Blau", "Rot", ... |
+
+
+3. **Tabelle "Versicherung":**
+
+| Attribut | Datentyp | Wertebereich |
+| ---- | ---- | ---- |
+| Versicherungsnummer (PK) | String | Alphanumerisch, eindeutige Versicherungsnummer |
+| Versicherungssparte | String | Art der Versicherung, z. B. "Kfz-Haftpflicht" |
+| Versicherungssumme | Float | Euro, z. B. 100000.0 |
+
+
+4. **Tabelle "Versicherungsgesellschaft":**
+
+| Attribut               | Datentyp | Wertebereich                                          |
+|------------------------|----------|-------------------------------------------------------|
+| VersicherungsgeberID (PK)| Integer  | Eindeutige ID für jede Versicherungsgesellschaft      |
+| Name                   | String   | Name der Versicherungsgesellschaft, z. B. "Allianz"    |
 
 **b) In 3. Normalform:**
 
-1. **Person:**
-    
-    - **PK**: PersonID
-    - Name
-    - Vorname
-    - Geburtsdatum
-    - Anschrift
-    - **FK**: Versicherungsnummer
-1. **Auto:**
-    
-    - **PK**: KFZ-Kennzeichen
-    - Hersteller
-    - Modell
-    - Modelljahr
-    - Motorleistung
-    - Farbe
-    - **FK**: BesitzerID
+1. **Person**
+
+|Attribut|Datentyp|Wertebereich|
+|---|---|---|
+|PersonID (PK)|Integer|Eindeutige ID für jede Person|
+|Name|String|Nachname|
+|Vorname|String|Vorname|
+|Geburtsdatum|Date|Datum im Format "YYYY-MM-DD"|
+|Anschrift|String|Adresse|
+|Versicherungsnummer (FK)|String|Fremdschlüssel, verweist auf Versicherungsnummer in Tabelle "Versicherung"|
+2. **Auto:**
+
+| Attribut | Datentyp | Wertebereich |
+| ---- | ---- | ---- |
+| KFZ-Kennzeichen (PK) | String | Alphanumerisch, eindeutiges Kennzeichen |
+| Hersteller | String | Alphanumerisch, z. B. "Volkswagen" |
+| Modell | String | Alphanumerisch, z. B. "Golf" |
+| Modelljahr | Integer | Ganze Zahl, 1885-9999 |
+| Motorleistung | Integer | Ganze Zahl 0-1999 |
+| Farbe | String | "Blau", "Rot", ... |
+| BesitzerID (FK) | Integer | Fremdschlüssel, verweist auf PersonID in Tabelle "Person" |
+
 3. **Versicherung:**
-    
-    - **PK**: Versicherungsnummer
-    - Versicherungssparte
-    - Versicherungssumme
-    - **FK**: VersicherungsgeberID
+
+|Attribut|Datentyp|Wertebereich|
+|---|---|---|
+|Versicherungsnummer (PK)|String|Alphanumerisch, eindeutige Versicherungsnummer|
+|Versicherungssparte|String|Art der Versicherung, z. B. "Kfz-Haftpflicht"|
+|Versicherungssumme|Float|Euro, z. B. 100000.0|
+|VersicherungsgeberID (FK)|Integer|Fremdschlüssel, verweist auf VersicherungsgeberID in Tabelle"Versicherungsgesellschaft"|
+
+
 4. **Versicherungsgesellschaft:**
-    
-    - **PK**: VersicherungsgeberID
-    - Name
+
+|Attribut|Datentyp|Wertebereich|
+|---|---|---|
+|VersicherungsgeberID (PK)|Integer|Eindeutige ID für jede Versicherungsgesellschaft|
+|Name|String|Name der Versicherungsgesellschaft, z. B. "Allianz"|
 
 **c) Tabellen mit Datensätzen:**
 
@@ -188,13 +178,7 @@ Volkswagen,Golf,2022,150.5,Blau,M-AB 1234
 |VersicherungsgeberID|Name|
 |---|---|
 |1|Allianz|
-|2|HDI|
-
-**d) ERM und ERD Vergleich:**
-
-Das ERD und ERM repräsentieren die gleichen Informationen wie zuvor in Aufgabe 3 beschrieben. Der Hauptunterschied besteht darin, dass das ERD auf Tabellenebene detaillierter ist und die Fremdschlüssel-Beziehungen zwischen den Tabellen deutlicher zeigt. Das Modell in 3. Normalform stellt sicher, dass Redundanzen minimiert werden und die Daten effizient und konsistent gespeichert werden können, wodurch das ganze noch ersichtlicher wird.
-
----
+|2|Debeka |
 
 ## Aufgabe 5
 
@@ -220,15 +204,12 @@ Das ERD und ERM repräsentieren die gleichen Informationen wie zuvor in Aufgabe 
 **Begriffe eher in der Relationalen Welt:**
 
 - **TITEL:** Attribut in einer Tabelle, repräsentiert einen bestimmten Aspekt der gespeicherten Informationen.
-- **Zeile:** Ein Tupel in einer Tabelle, repräsentiert einen vollständigen Datensatz.
+- **Zeile:** Ein Zeile in einer Tabelle, repräsentiert einen vollständigen Datensatz.
 - **Spalte:** Ein Attribut in einer Tabelle, repräsentiert eine bestimmte Eigenschaft der gespeicherten Daten.
-- **Tupel:** Eine Zeile in einer Tabelle, repräsentiert einen vollständigen Datensatz.
+- **Tupel:** Eine Tupel in einer Tabelle, repräsentiert einen vollständigen Datensatz.
 - **Attribut:** Eine Spalte in einer Tabelle, repräsentiert eine bestimmte Eigenschaft der gespeicherten Daten.
 - **Datensatz:** Ein Tupel in einer Tabelle, repräsentiert einen vollständigen Datensatz.
 
 **Synonyme:**
 
 - Die Begriffe **Tupel** und **Datensatz** werden oft synonym verwendet.
-- Die Begriffe **Attribut** und **Datenfeld** können in einigen Kontexten synonym verwendet werden.
-
-Die Begriffe, die eher in der relationalen Welt verwendet werden, sind eng miteinander verbunden und werden oft als Synonyme verwendet. Der Begriff **Datenfeld** wird manchmal als allgemeinere Bezeichnung für ein Element in einer Datenbank verwendet.

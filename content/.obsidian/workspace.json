@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "afc37c8196ab79b2",
+        "id": "bdf80d794f1e0eec",
         "type": "tabs",
         "children": [
           {
-            "id": "ac1ce7e29590eda3",
+            "id": "468b6caf016db772",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -23,7 +23,7 @@
             }
           },
           {
-            "id": "155b3a3b5b7598e6",
+            "id": "debee931d63ebf15",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -202,8 +202,9 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "155b3a3b5b7598e6",
+  "active": "debee931d63ebf15",
   "lastOpenFiles": [
+    "Assets/Pictures/ERM.png",
     "index.md",
     "Programming Specific Stuff/Java/Spring/19. MySQL Datenbank einrichten.md",
     "Programming Specific Stuff/Java/Spring/18. Hibernate und JPA Überblick.md",
@@ -229,7 +230,6 @@
     "Templates/Back to Projectoverview.md",
     "Templates/Back to Programming Shit.md",
     "Templates/Back to Home.md",
-    "Templates/Back to Berufsschulzeug.md",
     "Assets/Pictures/Pasted image 20231227181921.png",
     "Assets/Pictures/Pasted image 20231227174615.png",
     "Assets/Pictures/Pasted image 20231227113236.png",
