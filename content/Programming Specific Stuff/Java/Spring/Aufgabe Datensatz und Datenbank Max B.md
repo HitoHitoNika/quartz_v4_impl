@@ -33,21 +33,17 @@
 
 ```
 100
-Versicherungsgesellschaft,Versicherungssparte,Versicherungsnummer,Versicherungssumme
 Allianz,Kfz-Haftpflicht,123456789,100000.00
 
 101
-Name,Vorname,Geburtsdatum,Anschrift
 Müller,Anna,1990-05-15,"Musterstraße 123, 12345 Musterstadt"
 
 102
-Hersteller,Modell,Modelljahr,Motorleistung,Farbe,KFZ-Kennzeichen
 Volkswagen,Golf,2022,150.5,Blau,M-AB 1234
 ``` 
 
 ## Aufgabe 3
 
-**ERM (Entity-Relationship Model):**
 
 ![[ERM.png]]
 
@@ -190,7 +186,6 @@ Volkswagen,Golf,2022,150.5,Blau,M-AB 1234
 |978-3-78901-2|"Programmieren lernen"|Schmidt, Peter|2020|
 
 **Kennzeichnung:**
-
 - **TITEL:** Spaltenüberschrift "Titel"
 - **Zeile:** Eine Zeile in der Tabelle, z. B., die Zeile für "Datenbanken kompakt"
 - **Spalte:** Eine Spalte in der Tabelle, z. B., die Spalte "Titel"
@@ -202,7 +197,6 @@ Volkswagen,Golf,2022,150.5,Blau,M-AB 1234
 - **Attributwert:** Der Wert in einer Zelle, z. B., der Titel "Datenbanken kompakt"
 
 **Begriffe eher in der Relationalen Welt:**
-
 - **TITEL:** Attribut in einer Tabelle, repräsentiert einen bestimmten Aspekt der gespeicherten Informationen.
 - **Zeile:** Ein Zeile in einer Tabelle, repräsentiert einen vollständigen Datensatz.
 - **Spalte:** Ein Attribut in einer Tabelle, repräsentiert eine bestimmte Eigenschaft der gespeicherten Daten.
@@ -211,5 +205,12 @@ Volkswagen,Golf,2022,150.5,Blau,M-AB 1234
 - **Datensatz:** Ein Tupel in einer Tabelle, repräsentiert einen vollständigen Datensatz.
 
 **Synonyme:**
-
 - Die Begriffe **Tupel** und **Datensatz** werden oft synonym verwendet.
+
+
+
+
+
+## Aufgabe 6
+
+![[Aufgabe 6.png]]
