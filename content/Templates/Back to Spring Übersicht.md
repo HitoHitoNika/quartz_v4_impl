@@ -4,4 +4,4 @@ tags:
   - Java
   - Guide
 ---
-Back to [[00. Spring Übersicht]]
+Zurück zu [[00. Spring Übersicht]]

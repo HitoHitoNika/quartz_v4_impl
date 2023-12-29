@@ -3,4 +3,4 @@ tags:
   - Projekte
   - ToC
 ---
-Back to [[Gesamt-Projekt-Übersicht]]
+Zurück zu [[Gesamt-Projekt-Übersicht]]

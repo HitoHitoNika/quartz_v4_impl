@@ -5,32 +5,8 @@
       "path": "Programming Specific Stuff/Java/Spring/Bogus.md"
     },
     {
-      "basename": "index",
-      "path": "index.md"
-    },
-    {
-      "basename": "00. Spring Übersicht",
-      "path": "Programming Specific Stuff/Java/Spring/00. Spring Übersicht.md"
-    },
-    {
       "basename": "19. MySQL Datenbank einrichten",
       "path": "Programming Specific Stuff/Java/Spring/19. MySQL Datenbank einrichten.md"
-    },
-    {
-      "basename": "Guide to Obsidian",
-      "path": "Obsidian/Guide to Obsidian.md"
-    },
-    {
-      "basename": "07. Methoden",
-      "path": "Berufsschule/Lernfeld 5/07. Methoden.md"
-    },
-    {
-      "basename": "05.2 Cisco-Geräte konfigurieren",
-      "path": "Berufsschule/Lernfeld 9/05.2 Cisco-Geräte konfigurieren.md"
-    },
-    {
-      "basename": "10. Application Properties",
-      "path": "Programming Specific Stuff/Java/Spring/10. Application Properties.md"
     },
     {
       "basename": "18. Hibernate und JPA Überblick",
@@ -39,10 +15,6 @@
     {
       "basename": "17. Bean mit Java Code konfigurieren",
       "path": "Programming Specific Stuff/Java/Spring/17. Bean mit Java Code konfigurieren.md"
-    },
-    {
-      "basename": "Inhaltsübersicht Prog",
-      "path": "Programming Specific Stuff/Inhaltsübersicht Prog.md"
     },
     {
       "basename": "16. Bean Lifecycle",
@@ -67,6 +39,10 @@
     {
       "basename": "11. Spring Container",
       "path": "Programming Specific Stuff/Java/Spring/11. Spring Container.md"
+    },
+    {
+      "basename": "10. Application Properties",
+      "path": "Programming Specific Stuff/Java/Spring/10. Application Properties.md"
     },
     {
       "basename": "09. Spring Apps außerhalb der IDE starten",
@@ -105,6 +81,50 @@
       "path": "Programming Specific Stuff/Java/Spring/01. Spring vs Spring Boot.md"
     },
     {
+      "basename": "00. Spring Übersicht",
+      "path": "Programming Specific Stuff/Java/Spring/00. Spring Übersicht.md"
+    },
+    {
+      "basename": "Back to Spring Übersicht",
+      "path": "Templates/Back to Spring Übersicht.md"
+    },
+    {
+      "basename": "Back to Projectoverview",
+      "path": "Templates/Back to Projectoverview.md"
+    },
+    {
+      "basename": "Back to Programming Shit",
+      "path": "Templates/Back to Programming Shit.md"
+    },
+    {
+      "basename": "Back to Home",
+      "path": "Templates/Back to Home.md"
+    },
+    {
+      "basename": "Back to Berufsschulzeug",
+      "path": "Templates/Back to Berufsschulzeug.md"
+    },
+    {
+      "basename": "Inhaltsübersicht Prog",
+      "path": "Programming Specific Stuff/Inhaltsübersicht Prog.md"
+    },
+    {
+      "basename": "index",
+      "path": "index.md"
+    },
+    {
+      "basename": "Guide to Obsidian",
+      "path": "Obsidian/Guide to Obsidian.md"
+    },
+    {
+      "basename": "07. Methoden",
+      "path": "Berufsschule/Lernfeld 5/07. Methoden.md"
+    },
+    {
+      "basename": "05.2 Cisco-Geräte konfigurieren",
+      "path": "Berufsschule/Lernfeld 9/05.2 Cisco-Geräte konfigurieren.md"
+    },
+    {
       "basename": "09. Daten suchen & sortieren",
       "path": "Berufsschule/Lernfeld 5/09. Daten suchen & sortieren.md"
     },
@@ -141,10 +161,6 @@
       "path": "Berufsschule/Lernfeld 5/00. Lernfeld 5 Übersicht.md"
     },
     {
-      "basename": "Back to Spring Übersicht",
-      "path": "Templates/Back to Spring Übersicht.md"
-    },
-    {
       "basename": "Inhaltsverzeichnis",
       "path": "Inhaltsverzeichnis.md"
     },
@@ -155,10 +171,6 @@
     {
       "basename": "GitHub Übersicht",
       "path": "Programming Specific Stuff/CI_CD/Git/GitHub/GitHub Übersicht.md"
-    },
-    {
-      "basename": "Back to Programming Shit",
-      "path": "Templates/Back to Programming Shit.md"
     },
     {
       "basename": "Git Übersicht",
@@ -187,18 +199,6 @@
     {
       "basename": "UML Bildaufgabe Zwischenstand 2",
       "path": "Assets/Pictures/UML Bildaufgabe Zwischenstand 2.png"
-    },
-    {
-      "basename": "UML Bildaufgabe Zwischenstand",
-      "path": "Assets/Pictures/UML Bildaufgabe Zwischenstand.png"
-    },
-    {
-      "basename": "Sensoren 10",
-      "path": "Assets/Pictures/Sensoren 10.png"
-    },
-    {
-      "basename": "Sensoren 9",
-      "path": "Assets/Pictures/Sensoren 9.png"
     }
   ],
   "omittedPaths": [],

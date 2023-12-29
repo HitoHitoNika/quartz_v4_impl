@@ -5,6 +5,18 @@ title: 💻Programming Shit💻
 aliases:
   - Programming Shit
 ---
+Zurück zu [[Inhaltsverzeichnis]]
+## Java 
+
+|Thema|Link|
+|---|---|
+|Grundlagen|[[00. Lernfeld 5 Übersicht\|Java Basics]] |
+|Maven|[[Maven]]|
+|Spring/Springboot|[[00. Spring Übersicht\|Spring Übersicht]] |
+|Testing|[[JUnit]]|
+
+---
+
 ## CI/CD-Pipeline Zeugs
 
 
@@ -15,20 +27,7 @@ aliases:
 |GitHub|[[GitHub Übersicht]]|
 
 
-<hr>
-
-## Java 
-
-|Thema|Link|
-|---|---|
-|Grundlagen|[[00. Lernfeld 5 Übersicht]]|
-|Maven|[[Maven]]|
-|Spring/Springboot|[[00. Spring Übersicht]]|
-|Testing|[[JUnit]]|
-
-
-<hr>
-
+---
 ## Web-Entwicklung
 **Fehlt noch einiges, daher bitte nicht hierauf berufen :)**
 ### Angular
