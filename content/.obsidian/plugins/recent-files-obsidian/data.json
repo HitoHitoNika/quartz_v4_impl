@@ -1,12 +1,8 @@
 {
   "recentFiles": [
     {
-      "basename": "Aufgabe Datensatz und Datenbank Max B",
-      "path": "Programming Specific Stuff/Java/Spring/Aufgabe Datensatz und Datenbank Max B.md"
-    },
-    {
-      "basename": "index",
-      "path": "index.md"
+      "basename": "20. Spring Boot Projekt einrichten für JPA_JDBC",
+      "path": "Programming Specific Stuff/Java/Spring/20. Spring Boot Projekt einrichten für JPA_JDBC.md"
     },
     {
       "basename": "19. MySQL Datenbank einrichten",
@@ -15,6 +11,18 @@
     {
       "basename": "18. Hibernate und JPA Überblick",
       "path": "Programming Specific Stuff/Java/Spring/18. Hibernate und JPA Überblick.md"
+    },
+    {
+      "basename": "Back to Spring Übersicht",
+      "path": "Templates/Back to Spring Übersicht.md"
+    },
+    {
+      "basename": "00. Spring Übersicht",
+      "path": "Programming Specific Stuff/Java/Spring/00. Spring Übersicht.md"
+    },
+    {
+      "basename": "index",
+      "path": "index.md"
     },
     {
       "basename": "17. Bean mit Java Code konfigurieren",
@@ -83,14 +91,6 @@
     {
       "basename": "01. Spring vs Spring Boot",
       "path": "Programming Specific Stuff/Java/Spring/01. Spring vs Spring Boot.md"
-    },
-    {
-      "basename": "00. Spring Übersicht",
-      "path": "Programming Specific Stuff/Java/Spring/00. Spring Übersicht.md"
-    },
-    {
-      "basename": "Back to Spring Übersicht",
-      "path": "Templates/Back to Spring Übersicht.md"
     },
     {
       "basename": "Back to Projectoverview",
@@ -195,10 +195,6 @@
     {
       "basename": "UML Bildaufgabe Zwischenstand 3",
       "path": "Assets/Pictures/UML Bildaufgabe Zwischenstand 3.png"
-    },
-    {
-      "basename": "UML Bildaufgabe Zwischenstand 2",
-      "path": "Assets/Pictures/UML Bildaufgabe Zwischenstand 2.png"
     }
   ],
   "omittedPaths": [],
