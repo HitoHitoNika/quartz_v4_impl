@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5be6481d74307088",
+        "id": "b747d4b1b0c6fbf8",
         "type": "tabs",
         "children": [
           {
-            "id": "02f56e1066b505ac",
+            "id": "6efc71a0a390c91d",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -23,12 +23,12 @@
             }
           },
           {
-            "id": "e7a6aa168151d3b5",
+            "id": "f268507c5e6aa8ce",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming Specific Stuff/Java/Spring/20. Spring Boot Projekt einrichten für JPA_JDBC.md",
+                "file": "Programming Specific Stuff/Java/Spring/21. JPA Klassen erstellen.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming Specific Stuff/Java/Spring/20. Spring Boot Projekt einrichten für JPA_JDBC.md",
+                "file": "Programming Specific Stuff/Java/Spring/21. JPA Klassen erstellen.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming Specific Stuff/Java/Spring/20. Spring Boot Projekt einrichten für JPA_JDBC.md",
+                "file": "Programming Specific Stuff/Java/Spring/21. JPA Klassen erstellen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming Specific Stuff/Java/Spring/20. Spring Boot Projekt einrichten für JPA_JDBC.md"
+                "file": "Programming Specific Stuff/Java/Spring/21. JPA Klassen erstellen.md"
               }
             }
           },
@@ -180,7 +180,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Programming Specific Stuff/Java/Spring/20. Spring Boot Projekt einrichten für JPA_JDBC.md"
+                "file": "Programming Specific Stuff/Java/Spring/21. JPA Klassen erstellen.md"
               }
             }
           }
@@ -202,17 +202,18 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "e7a6aa168151d3b5",
+  "active": "f268507c5e6aa8ce",
   "lastOpenFiles": [
-    "Projekte/Aufgabe Datensatz und Datenbank Max B.md",
-    "Programming Specific Stuff/Java/Spring/20. Spring Boot Projekt einrichten für JPA_JDBC.md",
+    "Programming Specific Stuff/Java/Spring/20. Spring Boot Projekt einrichten für JPA & JDBC.md",
     "Programming Specific Stuff/Java/Spring/19. MySQL Datenbank einrichten.md",
+    "Programming Specific Stuff/Java/Spring/21. JPA Klassen erstellen.md",
+    "Programming Specific Stuff/Java/Spring/00. Spring Übersicht.md",
+    "index.md",
+    "Projekte/Aufgabe Datensatz und Datenbank Max B.md",
     "Programming Specific Stuff/Java/Spring/18. Hibernate und JPA Überblick.md",
     "Templates/Back to Spring Übersicht.md",
     "Assets/Pictures/Pasted image 20231229125726.png",
-    "Programming Specific Stuff/Java/Spring/00. Spring Übersicht.md",
     "Programming Specific Stuff/Java/Spring/Aufgabe Datensatz und Datenbank Max B 1.md",
-    "index.md",
     "Assets/Pictures/Aufgabe 6.png",
     "Assets/Pictures/ERM.png",
     "Programming Specific Stuff/Java/Spring/17. Bean mit Java Code konfigurieren.md",
@@ -232,7 +233,6 @@
     "Programming Specific Stuff/Java/Spring/03. Spring REST Controller.md",
     "Programming Specific Stuff/Java/Spring/02. Spring Initializr.md",
     "Programming Specific Stuff/Java/Spring/01. Spring vs Spring Boot.md",
-    "Templates/Back to Projectoverview.md",
     "Assets/Pictures/Pasted image 20231227181921.png",
     "Assets/Pictures/Pasted image 20231227174615.png",
     "Assets/Pictures/Pasted image 20231227113236.png",

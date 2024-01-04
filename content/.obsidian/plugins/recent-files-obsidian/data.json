@@ -1,20 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "20. Spring Boot Projekt einrichten für JPA_JDBC",
-      "path": "Programming Specific Stuff/Java/Spring/20. Spring Boot Projekt einrichten für JPA_JDBC.md"
+      "basename": "21. JPA Klassen erstellen",
+      "path": "Programming Specific Stuff/Java/Spring/21. JPA Klassen erstellen.md"
+    },
+    {
+      "basename": "20. Spring Boot Projekt einrichten für JPA & JDBC",
+      "path": "Programming Specific Stuff/Java/Spring/20. Spring Boot Projekt einrichten für JPA & JDBC.md"
     },
     {
       "basename": "19. MySQL Datenbank einrichten",
       "path": "Programming Specific Stuff/Java/Spring/19. MySQL Datenbank einrichten.md"
-    },
-    {
-      "basename": "18. Hibernate und JPA Überblick",
-      "path": "Programming Specific Stuff/Java/Spring/18. Hibernate und JPA Überblick.md"
-    },
-    {
-      "basename": "Back to Spring Übersicht",
-      "path": "Templates/Back to Spring Übersicht.md"
     },
     {
       "basename": "00. Spring Übersicht",
@@ -23,6 +19,14 @@
     {
       "basename": "index",
       "path": "index.md"
+    },
+    {
+      "basename": "18. Hibernate und JPA Überblick",
+      "path": "Programming Specific Stuff/Java/Spring/18. Hibernate und JPA Überblick.md"
+    },
+    {
+      "basename": "Back to Spring Übersicht",
+      "path": "Templates/Back to Spring Übersicht.md"
     },
     {
       "basename": "17. Bean mit Java Code konfigurieren",
