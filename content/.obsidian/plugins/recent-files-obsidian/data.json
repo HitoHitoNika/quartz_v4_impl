@@ -1,24 +1,32 @@
 {
   "recentFiles": [
     {
+      "basename": "00. Spring Übersicht",
+      "path": "Programming Specific Stuff/Java/Spring/00. Spring Übersicht.md"
+    },
+    {
       "basename": "21. JPA Klassen erstellen",
       "path": "Programming Specific Stuff/Java/Spring/21. JPA Klassen erstellen.md"
     },
     {
-      "basename": "20. Spring Boot Projekt einrichten für JPA & JDBC",
-      "path": "Programming Specific Stuff/Java/Spring/20. Spring Boot Projekt einrichten für JPA & JDBC.md"
+      "basename": "22. Speichern eines Java Objektes mit JPA",
+      "path": "Programming Specific Stuff/Java/Spring/22. Speichern eines Java Objektes mit JPA.md"
+    },
+    {
+      "basename": "16. Bean Lifecycle",
+      "path": "Programming Specific Stuff/Java/Spring/16. Bean Lifecycle.md"
     },
     {
       "basename": "19. MySQL Datenbank einrichten",
       "path": "Programming Specific Stuff/Java/Spring/19. MySQL Datenbank einrichten.md"
     },
     {
-      "basename": "00. Spring Übersicht",
-      "path": "Programming Specific Stuff/Java/Spring/00. Spring Übersicht.md"
-    },
-    {
       "basename": "index",
       "path": "index.md"
+    },
+    {
+      "basename": "20. Spring Boot Projekt einrichten für JPA & JDBC",
+      "path": "Programming Specific Stuff/Java/Spring/20. Spring Boot Projekt einrichten für JPA & JDBC.md"
     },
     {
       "basename": "18. Hibernate und JPA Überblick",
@@ -31,10 +39,6 @@
     {
       "basename": "17. Bean mit Java Code konfigurieren",
       "path": "Programming Specific Stuff/Java/Spring/17. Bean mit Java Code konfigurieren.md"
-    },
-    {
-      "basename": "16. Bean Lifecycle",
-      "path": "Programming Specific Stuff/Java/Spring/16. Bean Lifecycle.md"
     },
     {
       "basename": "15. Bean Scopes",
@@ -195,10 +199,6 @@
     {
       "basename": "Spring Inversion of Control",
       "path": "Assets/Pictures/Spring Inversion of Control.png"
-    },
-    {
-      "basename": "UML Bildaufgabe Zwischenstand 3",
-      "path": "Assets/Pictures/UML Bildaufgabe Zwischenstand 3.png"
     }
   ],
   "omittedPaths": [],
