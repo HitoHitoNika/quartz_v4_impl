@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "22. Speichern eines Java Objektes mit JPA",
+      "path": "Programming Specific Stuff/Java/Spring/22. Speichern eines Java Objektes mit JPA.md"
+    },
+    {
+      "basename": "index",
+      "path": "index.md"
+    },
+    {
       "basename": "00. Spring Übersicht",
       "path": "Programming Specific Stuff/Java/Spring/00. Spring Übersicht.md"
     },
@@ -9,20 +17,12 @@
       "path": "Programming Specific Stuff/Java/Spring/21. JPA Klassen erstellen.md"
     },
     {
-      "basename": "22. Speichern eines Java Objektes mit JPA",
-      "path": "Programming Specific Stuff/Java/Spring/22. Speichern eines Java Objektes mit JPA.md"
-    },
-    {
       "basename": "16. Bean Lifecycle",
       "path": "Programming Specific Stuff/Java/Spring/16. Bean Lifecycle.md"
     },
     {
       "basename": "19. MySQL Datenbank einrichten",
       "path": "Programming Specific Stuff/Java/Spring/19. MySQL Datenbank einrichten.md"
-    },
-    {
-      "basename": "index",
-      "path": "index.md"
     },
     {
       "basename": "20. Spring Boot Projekt einrichten für JPA & JDBC",
