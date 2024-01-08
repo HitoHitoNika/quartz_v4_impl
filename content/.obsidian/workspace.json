@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c8d1e8fda7913844",
+        "id": "1acf347e2cbfed6d",
         "type": "tabs",
         "children": [
           {
-            "id": "1f61ce7338092211",
+            "id": "838951c2edbc51d3",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -23,12 +23,12 @@
             }
           },
           {
-            "id": "575f2d0b55e30f7b",
+            "id": "4685bb44ae8bfec1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Berufsschule/µ-Controller/µ-Controller Übersicht.md",
+                "file": "Berufsschule/µ-Controller/06. Display verwenden.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Berufsschule/µ-Controller/µ-Controller Übersicht.md",
+                "file": "Berufsschule/µ-Controller/06. Display verwenden.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Berufsschule/µ-Controller/µ-Controller Übersicht.md",
+                "file": "Berufsschule/µ-Controller/06. Display verwenden.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Berufsschule/µ-Controller/µ-Controller Übersicht.md"
+                "file": "Berufsschule/µ-Controller/06. Display verwenden.md"
               }
             }
           },
@@ -180,7 +180,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Berufsschule/µ-Controller/µ-Controller Übersicht.md"
+                "file": "Berufsschule/µ-Controller/06. Display verwenden.md"
               }
             }
           }
@@ -202,7 +202,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "575f2d0b55e30f7b",
+  "active": "4685bb44ae8bfec1",
   "lastOpenFiles": [
     "index.md",
     "Berufsschule/µ-Controller/00. Wichtige Befehle.md",
