@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "22. Speichern eines Java Objektes mit JPA",
-      "path": "Programming Specific Stuff/Java/Spring/22. Speichern eines Java Objektes mit JPA.md"
+      "basename": "06. Display verwenden",
+      "path": "Berufsschule/µ-Controller/06. Display verwenden.md"
+    },
+    {
+      "basename": "00. Wichtige Befehle",
+      "path": "Berufsschule/µ-Controller/00. Wichtige Befehle.md"
     },
     {
       "basename": "index",
       "path": "index.md"
+    },
+    {
+      "basename": "22. Speichern eines Java Objektes mit JPA",
+      "path": "Programming Specific Stuff/Java/Spring/22. Speichern eines Java Objektes mit JPA.md"
     },
     {
       "basename": "00. Spring Übersicht",
@@ -191,14 +199,6 @@
     {
       "basename": "Spring Dependency Injection",
       "path": "Assets/Pictures/Spring Dependency Injection.png"
-    },
-    {
-      "basename": "Spring Inversion of Control 2",
-      "path": "Assets/Pictures/Spring Inversion of Control 2.png"
-    },
-    {
-      "basename": "Spring Inversion of Control",
-      "path": "Assets/Pictures/Spring Inversion of Control.png"
     }
   ],
   "omittedPaths": [],
