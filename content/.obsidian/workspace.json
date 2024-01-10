@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1acf347e2cbfed6d",
+        "id": "800e41f1b506eb0d",
         "type": "tabs",
         "children": [
           {
-            "id": "838951c2edbc51d3",
+            "id": "8f8fbfdae9e878c4",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -23,12 +23,12 @@
             }
           },
           {
-            "id": "4685bb44ae8bfec1",
+            "id": "5cbe4fa3e3fa47a2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Berufsschule/µ-Controller/06. Display verwenden.md",
+                "file": "Programming Specific Stuff/Java/Spring/22. Speichern eines Java Objektes mit JPA.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Berufsschule/µ-Controller/06. Display verwenden.md",
+                "file": "Programming Specific Stuff/Java/Spring/22. Speichern eines Java Objektes mit JPA.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Berufsschule/µ-Controller/06. Display verwenden.md",
+                "file": "Programming Specific Stuff/Java/Spring/22. Speichern eines Java Objektes mit JPA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Berufsschule/µ-Controller/06. Display verwenden.md"
+                "file": "Programming Specific Stuff/Java/Spring/22. Speichern eines Java Objektes mit JPA.md"
               }
             }
           },
@@ -180,7 +180,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Berufsschule/µ-Controller/06. Display verwenden.md"
+                "file": "Programming Specific Stuff/Java/Spring/22. Speichern eines Java Objektes mit JPA.md"
               }
             }
           }
@@ -202,7 +202,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "4685bb44ae8bfec1",
+  "active": "5cbe4fa3e3fa47a2",
   "lastOpenFiles": [
     "index.md",
     "Berufsschule/µ-Controller/00. Wichtige Befehle.md",
