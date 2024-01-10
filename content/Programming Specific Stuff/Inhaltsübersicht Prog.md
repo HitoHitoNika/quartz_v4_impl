@@ -1,9 +1,9 @@
 ---
 tags:
   - ToC
-title: 💻Programming Shit💻
+title: 💻Programmier Zeugs💻
 aliases:
-  - Programming Shit
+  - Programmier Zeugs
 ---
 Zurück zu [[Inhaltsverzeichnis]]
 ## Java 

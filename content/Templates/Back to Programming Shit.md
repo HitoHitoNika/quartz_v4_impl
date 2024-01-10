@@ -1,1 +1,1 @@
-Zurück zu [[Inhaltsübersicht Prog|Programming Shit]]
+Zurück zu [[Inhaltsübersicht Prog|Programmier Zeugs]]
