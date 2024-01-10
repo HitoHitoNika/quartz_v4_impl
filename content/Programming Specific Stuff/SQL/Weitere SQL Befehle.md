@@ -3,6 +3,19 @@ tags:
   - SQL
 ---
 Zurück zu [[Inhaltsübersicht Prog|Programmier Zeugs]]
+
+- [[#Aggregate-Funktionen|Aggregate-Funktionen]]
+- [[#JOIN-Operationen|JOIN-Operationen]]
+	- [[#JOIN-Operationen#INNER JOIN|INNER JOIN]]
+	- [[#JOIN-Operationen#LEFT JOIN|LEFT JOIN]]
+	- [[#JOIN-Operationen#RIGHT JOIN|RIGHT JOIN]]
+	- [[#JOIN-Operationen#FULL JOIN|FULL JOIN]]
+	- [[#JOIN-Operationen#Cheatsheet|Cheatsheet]]
+- [[#Unterabfragen (Subqueries)|Unterabfragen (Subqueries)]]
+- [[#Indizes und Leistungsoptimierung|Indizes und Leistungsoptimierung]]
+- [[#Transaktionen|Transaktionen]]
+- [[#Gespeicherte Prozeduren|Gespeicherte Prozeduren]]
+
 ## Aggregate-Funktionen
 
 Aggregate-Funktionen wie SUM, AVG, COUNT, MIN und MAX werden verwendet, um Berechnungen über eine Gruppe von Datensätzen durchzuführen, z.B. den Durchschnitt oder die Summe von Werten.
@@ -57,6 +70,9 @@ FULL JOIN Bestellungen ON Kunden.KundenID = Bestellungen.KundenID;
 ```
 
 Hier werden alle Kunden und Bestellungen angezeigt, und NULL-Werte werden für nicht übereinstimmende Datensätze eingefügt.
+
+### Cheatsheet
+![[Pasted image 20240110103055.png]]
 
 ## Unterabfragen (Subqueries)
 

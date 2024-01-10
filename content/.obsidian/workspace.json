@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e0962dcf5ad041ed",
+        "id": "c137bcda9c41c316",
         "type": "tabs",
         "children": [
           {
-            "id": "1d57a6b34dbc6622",
+            "id": "2d8c223ac5017e05",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -23,12 +23,12 @@
             }
           },
           {
-            "id": "6cf4264546b4190e",
+            "id": "eb35444c02746da4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming Specific Stuff/SQL/Häufig gestellte Fragen.md",
+                "file": "Programming Specific Stuff/SQL/Weitere SQL Befehle.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming Specific Stuff/SQL/Häufig gestellte Fragen.md",
+                "file": "Programming Specific Stuff/SQL/Weitere SQL Befehle.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming Specific Stuff/SQL/Häufig gestellte Fragen.md",
+                "file": "Programming Specific Stuff/SQL/Weitere SQL Befehle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming Specific Stuff/SQL/Häufig gestellte Fragen.md"
+                "file": "Programming Specific Stuff/SQL/Weitere SQL Befehle.md"
               }
             }
           },
@@ -180,7 +180,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Programming Specific Stuff/SQL/Häufig gestellte Fragen.md"
+                "file": "Programming Specific Stuff/SQL/Weitere SQL Befehle.md"
               }
             }
           }
@@ -202,14 +202,15 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "6cf4264546b4190e",
+  "active": "eb35444c02746da4",
   "lastOpenFiles": [
-    "Programming Specific Stuff/SQL/SQL-Syntax und Grundlagen.md",
-    "Programming Specific Stuff/SQL/Weitere SQL Befehle.md",
     "Programming Specific Stuff/SQL/SQL-Übersicht.md",
+    "Programming Specific Stuff/SQL/SQL-Syntax und Grundlagen.md",
     "Programming Specific Stuff/SQL/Häufig gestellte Fragen.md",
-    "Programming Specific Stuff/Inhaltsübersicht Prog.md",
+    "Programming Specific Stuff/SQL/Weitere SQL Befehle.md",
+    "Assets/Pictures/Pasted image 20240110103055.png",
     "index.md",
+    "Programming Specific Stuff/Inhaltsübersicht Prog.md",
     "Programming Specific Stuff/Java/Spring/00. Spring Übersicht.md",
     "Templates/Back to Spring Übersicht.md",
     "Templates/Back to Projectoverview.md",
@@ -234,13 +235,11 @@
     "Assets/Pictures/ERM.png",
     "Programming Specific Stuff/Java/Spring/17. Bean mit Java Code konfigurieren.md",
     "Programming Specific Stuff/Java/Spring/15. Bean Scopes.md",
-    "Programming Specific Stuff/Java/Spring/14. Lazy Initialization.md",
     "Assets/Pictures/Pasted image 20231227181921.png",
     "Assets/Pictures/Pasted image 20231227174615.png",
     "Assets/Pictures/Pasted image 20231227113236.png",
     "Assets/Pictures/Pasted image 20231225113812.png",
     "Assets/Pictures/Pasted image 20231222174926.png",
-    "Assets/Pictures/Pasted image 20231222102542.png",
     "Berufsschule/Lernfeld 6/Untitled.canvas",
     "Assets/PDFs/BBIG.pdf",
     "Assets/PDFs/Wirtschaftskreislauf.pdf",

@@ -3,6 +3,21 @@ tags:
   - SQL
 ---
 Zurück zu [[Inhaltsübersicht Prog|Programmier Zeugs]]
+
+- [[#1. Was ist der Unterschied zwischen SQL und MySQL?|1. Was ist der Unterschied zwischen SQL und MySQL?]]
+- [[#2. Wie erstelle ich eine Datenbank in SQL?|2. Wie erstelle ich eine Datenbank in SQL?]]
+- [[#3. Was sind Indizes und warum sind sie wichtig?|3. Was sind Indizes und warum sind sie wichtig?]]
+- [[#4. Wie erstelle ich eine Tabelle in SQL?|4. Wie erstelle ich eine Tabelle in SQL?]]
+- [[#5. Was ist der Unterschied zwischen INNER JOIN und LEFT JOIN?|5. Was ist der Unterschied zwischen INNER JOIN und LEFT JOIN?]]
+- [[#6. Wie füge ich Daten in eine Tabelle ein?|6. Wie füge ich Daten in eine Tabelle ein?]]
+- [[#7. Was ist eine gespeicherte Prozedur?|7. Was ist eine gespeicherte Prozedur?]]
+- [[#8. Wie kann ich Duplikate in einer Tabelle vermeiden?|8. Wie kann ich Duplikate in einer Tabelle vermeiden?]]
+- [[#9. Wie lösche ich Daten aus einer Tabelle?|9. Wie lösche ich Daten aus einer Tabelle?]]
+- [[#10. Was sind Trigger in SQL?|10. Was sind Trigger in SQL?]]
+- [[#11. Wie ändere ich die Struktur einer bestehenden Tabelle?|11. Wie ändere ich die Struktur einer bestehenden Tabelle?]]
+- [[#12. Was sind Aggregate-Funktionen in SQL?|12. Was sind Aggregate-Funktionen in SQL?]]
+- [[#13. Wie gruppiere ich Datensätze in SQL?|13. Wie gruppiere ich Datensätze in SQL?]]
+
 ## 1. Was ist der Unterschied zwischen SQL und MySQL?
 
 SQL steht für Structured Query Language und ist die Sprache, die zur Kommunikation mit relationalen Datenbanken verwendet wird. MySQL hingegen ist ein konkretes relationales Datenbankmanagementsystem (RDBMS), das SQL als Abfragesprache verwendet.

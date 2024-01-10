@@ -1,14 +1,6 @@
 {
   "recentFiles": [
     {
-      "basename": "Häufig gestellte Fragen",
-      "path": "Programming Specific Stuff/SQL/Häufig gestellte Fragen.md"
-    },
-    {
-      "basename": "SQL-Syntax und Grundlagen",
-      "path": "Programming Specific Stuff/SQL/SQL-Syntax und Grundlagen.md"
-    },
-    {
       "basename": "Weitere SQL Befehle",
       "path": "Programming Specific Stuff/SQL/Weitere SQL Befehle.md"
     },
@@ -17,12 +9,20 @@
       "path": "Programming Specific Stuff/SQL/SQL-Übersicht.md"
     },
     {
-      "basename": "Inhaltsübersicht Prog",
-      "path": "Programming Specific Stuff/Inhaltsübersicht Prog.md"
+      "basename": "SQL-Syntax und Grundlagen",
+      "path": "Programming Specific Stuff/SQL/SQL-Syntax und Grundlagen.md"
+    },
+    {
+      "basename": "Häufig gestellte Fragen",
+      "path": "Programming Specific Stuff/SQL/Häufig gestellte Fragen.md"
     },
     {
       "basename": "index",
       "path": "index.md"
+    },
+    {
+      "basename": "Inhaltsübersicht Prog",
+      "path": "Programming Specific Stuff/Inhaltsübersicht Prog.md"
     },
     {
       "basename": "00. Spring Übersicht",
