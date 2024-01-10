@@ -2,6 +2,7 @@
 tags:
   - SQL
 ---
+Zurück zu [[Inhaltsübersicht Prog|Programmier Zeugs]]
 ## Aggregate-Funktionen
 
 Aggregate-Funktionen wie SUM, AVG, COUNT, MIN und MAX werden verwendet, um Berechnungen über eine Gruppe von Datensätzen durchzuführen, z.B. den Durchschnitt oder die Summe von Werten.
@@ -98,6 +99,6 @@ CREATE PROCEDURE GetKundenByLand (IN Land CHAR(2)) BEGIN     SELECT * FROM Kunde
 In diesem Beispiel wird eine gespeicherte Prozedur erstellt, die alle Kunden für ein bestimmtes Land zurückgibt.
 
 ## Weitere Ressourcen
-
-- [SQL-Optimierungstechniken](Link zur Seite mit Optimierungstechniken)
-- [Fortgeschrittene SQL-Funktionen](Link zu fortgeschrittenen Funktionen)
+- [[SQL-Übersicht]]
+- [[SQL-Syntax und Grundlagen]]
+- [[Häufig gestellte Fragen]]

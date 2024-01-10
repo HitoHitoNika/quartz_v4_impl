@@ -2,6 +2,7 @@
 tags:
   - SQL
 ---
+Zurück zu [[Inhaltsübersicht Prog|Programmier Zeugs]]
 ## 1. Was ist der Unterschied zwischen SQL und MySQL?
 
 SQL steht für Structured Query Language und ist die Sprache, die zur Kommunikation mit relationalen Datenbanken verwendet wird. MySQL hingegen ist ein konkretes relationales Datenbankmanagementsystem (RDBMS), das SQL als Abfragesprache verwendet.
@@ -89,3 +90,8 @@ Die GROUP BY-Klausel wird verwendet, um Datensätze zu gruppieren, basierend auf
 ```sql
 SELECT Abteilung, AVG(Gehalt) FROM Mitarbeiter GROUP BY Abteilung;
 ```
+
+## Weitere Ressourcen
+- [[SQL-Übersicht]]
+- [[SQL-Syntax und Grundlagen]]
+- [[Weitere SQL Befehle]]

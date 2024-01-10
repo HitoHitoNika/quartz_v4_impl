@@ -2,6 +2,7 @@
 tags:
   - SQL
 ---
+Zurück zu [[Inhaltsübersicht Prog|Programmier Zeugs]]
 ## SQL-Grundstruktur
 
 SQL-Anweisungen werden durch Semikolons beendet. Eine einfache SQL-Anweisung könnte folgendermaßen aussehen:
@@ -67,5 +68,6 @@ UPDATE Tabelle SET Spalte1 = Wert1 WHERE Bedingung;
 DELETE FROM Tabelle WHERE Bedingung;
 ```
 ## Weitere Ressourcen
+- [[SQL-Übersicht]]
 - [[Weitere SQL Befehle]]
 - [[Häufig gestellte Fragen]]
