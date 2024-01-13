@@ -7,11 +7,6 @@ Zurück zu [[Inhaltsübersicht Prog|Programmier Zeugs]]
 - [[#Was ist SQL?|Was ist SQL?]]
 - [[#Wo wird SQL verwendet?|Wo wird SQL verwendet?]]
 - [[#Grundlegende SQL-Begriffe|Grundlegende SQL-Begriffe]]
-	- [[#Grundlegende SQL-Begriffe#Datenbank:|Datenbank:]]
-	- [[#Grundlegende SQL-Begriffe#Tabelle:|Tabelle:]]
-	- [[#Grundlegende SQL-Begriffe#Abfrage:|Abfrage:]]
-	- [[#Grundlegende SQL-Begriffe#Datensatz:|Datensatz:]]
-	- [[#Grundlegende SQL-Begriffe#Primärschlüssel:|Primärschlüssel:]]
 
 ## Was ist SQL?
 

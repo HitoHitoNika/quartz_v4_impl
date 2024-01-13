@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "22. CRUD Operationen mit JPA",
+      "path": "Programming Specific Stuff/Java/Spring/22. CRUD Operationen mit JPA.md"
+    },
+    {
+      "basename": "21. JPA Klassen erstellen",
+      "path": "Programming Specific Stuff/Java/Spring/21. JPA Klassen erstellen.md"
+    },
+    {
+      "basename": "00. Spring Übersicht",
+      "path": "Programming Specific Stuff/Java/Spring/00. Spring Übersicht.md"
+    },
+    {
       "basename": "Weitere SQL Befehle",
       "path": "Programming Specific Stuff/SQL/Weitere SQL Befehle.md"
     },
@@ -17,20 +29,68 @@
       "path": "Programming Specific Stuff/SQL/Häufig gestellte Fragen.md"
     },
     {
+      "basename": "12. Component Scanning",
+      "path": "Programming Specific Stuff/Java/Spring/12. Component Scanning.md"
+    },
+    {
+      "basename": "13. Qualifier und Primary Annotation",
+      "path": "Programming Specific Stuff/Java/Spring/13. Qualifier und Primary Annotation.md"
+    },
+    {
+      "basename": "14. Lazy Initialization",
+      "path": "Programming Specific Stuff/Java/Spring/14. Lazy Initialization.md"
+    },
+    {
+      "basename": "15. Bean Scopes",
+      "path": "Programming Specific Stuff/Java/Spring/15. Bean Scopes.md"
+    },
+    {
+      "basename": "16. Bean Lifecycle",
+      "path": "Programming Specific Stuff/Java/Spring/16. Bean Lifecycle.md"
+    },
+    {
+      "basename": "17. Bean mit Java Code konfigurieren",
+      "path": "Programming Specific Stuff/Java/Spring/17. Bean mit Java Code konfigurieren.md"
+    },
+    {
+      "basename": "18. Hibernate und JPA Überblick",
+      "path": "Programming Specific Stuff/Java/Spring/18. Hibernate und JPA Überblick.md"
+    },
+    {
+      "basename": "19. MySQL Datenbank einrichten",
+      "path": "Programming Specific Stuff/Java/Spring/19. MySQL Datenbank einrichten.md"
+    },
+    {
+      "basename": "20. Spring Boot Projekt einrichten für JPA & JDBC",
+      "path": "Programming Specific Stuff/Java/Spring/20. Spring Boot Projekt einrichten für JPA & JDBC.md"
+    },
+    {
+      "basename": "Back to Spring Übersicht",
+      "path": "Templates/Back to Spring Übersicht.md"
+    },
+    {
+      "basename": "11. Spring Container",
+      "path": "Programming Specific Stuff/Java/Spring/11. Spring Container.md"
+    },
+    {
+      "basename": "10. Application Properties",
+      "path": "Programming Specific Stuff/Java/Spring/10. Application Properties.md"
+    },
+    {
+      "basename": "02. Spring Initializr",
+      "path": "Programming Specific Stuff/Java/Spring/02. Spring Initializr.md"
+    },
+    {
+      "basename": "01. Spring vs Spring Boot",
+      "path": "Programming Specific Stuff/Java/Spring/01. Spring vs Spring Boot.md"
+    },
+    {
       "basename": "index",
       "path": "index.md"
     },
     {
       "basename": "Inhaltsübersicht Prog",
       "path": "Programming Specific Stuff/Inhaltsübersicht Prog.md"
-    },
-    {
-      "basename": "00. Spring Übersicht",
-      "path": "Programming Specific Stuff/Java/Spring/00. Spring Übersicht.md"
-    },
-    {
-      "basename": "Back to Spring Übersicht",
-      "path": "Templates/Back to Spring Übersicht.md"
     },
     {
       "basename": "Back to Projectoverview",
@@ -53,10 +113,6 @@
       "path": "Inhaltsverzeichnis.md"
     },
     {
-      "basename": "22. Speichern eines Java Objektes mit JPA",
-      "path": "Programming Specific Stuff/Java/Spring/22. Speichern eines Java Objektes mit JPA.md"
-    },
-    {
       "basename": "06. Display verwenden",
       "path": "Berufsschule/µ-Controller/06. Display verwenden.md"
     },
@@ -67,54 +123,6 @@
     {
       "basename": "00. Wichtige Befehle",
       "path": "Berufsschule/µ-Controller/00. Wichtige Befehle.md"
-    },
-    {
-      "basename": "21. JPA Klassen erstellen",
-      "path": "Programming Specific Stuff/Java/Spring/21. JPA Klassen erstellen.md"
-    },
-    {
-      "basename": "16. Bean Lifecycle",
-      "path": "Programming Specific Stuff/Java/Spring/16. Bean Lifecycle.md"
-    },
-    {
-      "basename": "19. MySQL Datenbank einrichten",
-      "path": "Programming Specific Stuff/Java/Spring/19. MySQL Datenbank einrichten.md"
-    },
-    {
-      "basename": "20. Spring Boot Projekt einrichten für JPA & JDBC",
-      "path": "Programming Specific Stuff/Java/Spring/20. Spring Boot Projekt einrichten für JPA & JDBC.md"
-    },
-    {
-      "basename": "18. Hibernate und JPA Überblick",
-      "path": "Programming Specific Stuff/Java/Spring/18. Hibernate und JPA Überblick.md"
-    },
-    {
-      "basename": "17. Bean mit Java Code konfigurieren",
-      "path": "Programming Specific Stuff/Java/Spring/17. Bean mit Java Code konfigurieren.md"
-    },
-    {
-      "basename": "15. Bean Scopes",
-      "path": "Programming Specific Stuff/Java/Spring/15. Bean Scopes.md"
-    },
-    {
-      "basename": "14. Lazy Initialization",
-      "path": "Programming Specific Stuff/Java/Spring/14. Lazy Initialization.md"
-    },
-    {
-      "basename": "13. Qualifier und Primary Annotation",
-      "path": "Programming Specific Stuff/Java/Spring/13. Qualifier und Primary Annotation.md"
-    },
-    {
-      "basename": "12. Component Scanning",
-      "path": "Programming Specific Stuff/Java/Spring/12. Component Scanning.md"
-    },
-    {
-      "basename": "11. Spring Container",
-      "path": "Programming Specific Stuff/Java/Spring/11. Spring Container.md"
-    },
-    {
-      "basename": "10. Application Properties",
-      "path": "Programming Specific Stuff/Java/Spring/10. Application Properties.md"
     },
     {
       "basename": "09. Spring Apps außerhalb der IDE starten",
@@ -143,14 +151,6 @@
     {
       "basename": "03. Spring REST Controller",
       "path": "Programming Specific Stuff/Java/Spring/03. Spring REST Controller.md"
-    },
-    {
-      "basename": "02. Spring Initializr",
-      "path": "Programming Specific Stuff/Java/Spring/02. Spring Initializr.md"
-    },
-    {
-      "basename": "01. Spring vs Spring Boot",
-      "path": "Programming Specific Stuff/Java/Spring/01. Spring vs Spring Boot.md"
     },
     {
       "basename": "Guide to Obsidian",
@@ -195,10 +195,6 @@
     {
       "basename": "01. Einfache Datentypen",
       "path": "Berufsschule/Lernfeld 5/01. Einfache Datentypen.md"
-    },
-    {
-      "basename": "00. Lernfeld 5 Übersicht",
-      "path": "Berufsschule/Lernfeld 5/00. Lernfeld 5 Übersicht.md"
     }
   ],
   "omittedPaths": [],
