@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "23.",
+      "path": "Programming Specific Stuff/Java/Spring/23..md"
+    },
+    {
+      "basename": "22. CRUD Operationen mit JPA",
+      "path": "Programming Specific Stuff/Java/Spring/22. CRUD Operationen mit JPA.md"
+    },
+    {
+      "basename": "00. Spring Übersicht",
+      "path": "Programming Specific Stuff/Java/Spring/00. Spring Übersicht.md"
+    },
+    {
+      "basename": "index",
+      "path": "index.md"
+    },
+    {
       "basename": "06. Display verwenden",
       "path": "Berufsschule/µ-Controller/06. Display verwenden.md"
     },
@@ -9,20 +25,8 @@
       "path": "Programming Specific Stuff/Java/Spring/01. Spring vs Spring Boot.md"
     },
     {
-      "basename": "index",
-      "path": "index.md"
-    },
-    {
-      "basename": "22. CRUD Operationen mit JPA",
-      "path": "Programming Specific Stuff/Java/Spring/22. CRUD Operationen mit JPA.md"
-    },
-    {
       "basename": "21. JPA Klassen erstellen",
       "path": "Programming Specific Stuff/Java/Spring/21. JPA Klassen erstellen.md"
-    },
-    {
-      "basename": "00. Spring Übersicht",
-      "path": "Programming Specific Stuff/Java/Spring/00. Spring Übersicht.md"
     },
     {
       "basename": "Weitere SQL Befehle",
