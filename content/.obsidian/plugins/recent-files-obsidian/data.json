@@ -5,12 +5,16 @@
       "path": "Berufsschule/µ-Controller/06. Display verwenden.md"
     },
     {
-      "basename": "22. CRUD Operationen mit JPA",
-      "path": "Programming Specific Stuff/Java/Spring/22. CRUD Operationen mit JPA.md"
+      "basename": "01. Spring vs Spring Boot",
+      "path": "Programming Specific Stuff/Java/Spring/01. Spring vs Spring Boot.md"
     },
     {
       "basename": "index",
       "path": "index.md"
+    },
+    {
+      "basename": "22. CRUD Operationen mit JPA",
+      "path": "Programming Specific Stuff/Java/Spring/22. CRUD Operationen mit JPA.md"
     },
     {
       "basename": "21. JPA Klassen erstellen",
@@ -87,10 +91,6 @@
     {
       "basename": "02. Spring Initializr",
       "path": "Programming Specific Stuff/Java/Spring/02. Spring Initializr.md"
-    },
-    {
-      "basename": "01. Spring vs Spring Boot",
-      "path": "Programming Specific Stuff/Java/Spring/01. Spring vs Spring Boot.md"
     },
     {
       "basename": "Inhaltsübersicht Prog",

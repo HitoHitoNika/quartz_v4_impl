@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "24f4cdd7950d4062",
+        "id": "0ce565c2be9694a2",
         "type": "tabs",
         "children": [
           {
-            "id": "749187485fa4c5a3",
+            "id": "9f5e754297b382b9",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -23,7 +23,7 @@
             }
           },
           {
-            "id": "0a517652978cecda",
+            "id": "70485ea71d23bf93",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -202,10 +202,12 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "0a517652978cecda",
+  "active": "70485ea71d23bf93",
   "lastOpenFiles": [
-    "Programming Specific Stuff/Java/Spring/22. CRUD Operationen mit JPA.md",
+    "Programming Specific Stuff/Java/Spring/01. Spring vs Spring Boot.md",
+    "Berufsschule/µ-Controller/06. Display verwenden.md",
     "index.md",
+    "Programming Specific Stuff/Java/Spring/22. CRUD Operationen mit JPA.md",
     "Programming Specific Stuff/Java/Spring/21. JPA Klassen erstellen.md",
     "Programming Specific Stuff/Java/Spring/00. Spring Übersicht.md",
     "Programming Specific Stuff/Java/Spring/23. Lesen eines Java Objektes mit JPA.md",
@@ -226,11 +228,9 @@
     "Programming Specific Stuff/Java/Spring/11. Spring Container.md",
     "Programming Specific Stuff/Java/Spring/10. Application Properties.md",
     "Programming Specific Stuff/Java/Spring/02. Spring Initializr.md",
-    "Programming Specific Stuff/Java/Spring/01. Spring vs Spring Boot.md",
     "Assets/Pictures/Pasted image 20240110103055.png",
     "Programming Specific Stuff/Inhaltsübersicht Prog.md",
     "Templates/Back to Projectoverview.md",
-    "Templates/Back to Programming Shit.md",
     "Programming Specific Stuff/SQL",
     "Assets/Pictures/Pasted image 20240108085435.png",
     "Assets/Pictures/Pasted image 20231229125726.png",
