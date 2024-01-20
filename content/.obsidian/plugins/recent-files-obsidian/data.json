@@ -1,6 +1,42 @@
 {
   "recentFiles": [
     {
+      "basename": "20. Spring Boot Projekt einrichten für JPA & JDBC",
+      "path": "Programming Specific Stuff/Java/Spring/20. Spring Boot Projekt einrichten für JPA & JDBC.md"
+    },
+    {
+      "basename": "02.2 Stateless Adress Autoconfiguration - SLAAC",
+      "path": "Berufsschule/Lernfeld 9/02.2 Stateless Adress Autoconfiguration - SLAAC.md"
+    },
+    {
+      "basename": "02. DHCP - Dynamic Host Configuration Protocol",
+      "path": "Berufsschule/Lernfeld 9/02. DHCP - Dynamic Host Configuration Protocol.md"
+    },
+    {
+      "basename": "05.3 Funktionsweise Switch",
+      "path": "Berufsschule/Lernfeld 9/05.3 Funktionsweise Switch.md"
+    },
+    {
+      "basename": "02. OPC UA",
+      "path": "Berufsschule/Lernfeld 7/02. OPC UA.md"
+    },
+    {
+      "basename": "01. Maschinen Ablauf erklären",
+      "path": "Berufsschule/Lernfeld 7/01. Maschinen Ablauf erklären.md"
+    },
+    {
+      "basename": "00. Was ist Lernfeld 7",
+      "path": "Berufsschule/Lernfeld 7/00. Was ist Lernfeld 7.md"
+    },
+    {
+      "basename": "Lernfeld 7 Übersicht",
+      "path": "Berufsschule/Lernfeld 7/Lernfeld 7 Übersicht.md"
+    },
+    {
+      "basename": "index",
+      "path": "index.md"
+    },
+    {
       "basename": "23.",
       "path": "Programming Specific Stuff/Java/Spring/23..md"
     },
@@ -11,10 +47,6 @@
     {
       "basename": "00. Spring Übersicht",
       "path": "Programming Specific Stuff/Java/Spring/00. Spring Übersicht.md"
-    },
-    {
-      "basename": "index",
-      "path": "index.md"
     },
     {
       "basename": "06. Display verwenden",
@@ -75,10 +107,6 @@
     {
       "basename": "19. MySQL Datenbank einrichten",
       "path": "Programming Specific Stuff/Java/Spring/19. MySQL Datenbank einrichten.md"
-    },
-    {
-      "basename": "20. Spring Boot Projekt einrichten für JPA & JDBC",
-      "path": "Programming Specific Stuff/Java/Spring/20. Spring Boot Projekt einrichten für JPA & JDBC.md"
     },
     {
       "basename": "Back to Spring Übersicht",
@@ -171,34 +199,6 @@
     {
       "basename": "09. Daten suchen & sortieren",
       "path": "Berufsschule/Lernfeld 5/09. Daten suchen & sortieren.md"
-    },
-    {
-      "basename": "08. Testen",
-      "path": "Berufsschule/Lernfeld 5/08. Testen.md"
-    },
-    {
-      "basename": "06. Arrays",
-      "path": "Berufsschule/Lernfeld 5/06. Arrays.md"
-    },
-    {
-      "basename": "05. Zufallszahlen",
-      "path": "Berufsschule/Lernfeld 5/05. Zufallszahlen.md"
-    },
-    {
-      "basename": "04. Ausgabe und Eingabe",
-      "path": "Berufsschule/Lernfeld 5/04. Ausgabe und Eingabe.md"
-    },
-    {
-      "basename": "03. Bedingungen und Schleifen",
-      "path": "Berufsschule/Lernfeld 5/03. Bedingungen und Schleifen.md"
-    },
-    {
-      "basename": "02. Operatoren",
-      "path": "Berufsschule/Lernfeld 5/02. Operatoren.md"
-    },
-    {
-      "basename": "01. Einfache Datentypen",
-      "path": "Berufsschule/Lernfeld 5/01. Einfache Datentypen.md"
     }
   ],
   "omittedPaths": [],
