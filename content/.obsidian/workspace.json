@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a17498a43b315692",
+        "id": "ec7c9846f185bca8",
         "type": "tabs",
         "children": [
           {
-            "id": "09a7cd1d779017b3",
+            "id": "36a6ed93ebf104ad",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -23,12 +23,12 @@
             }
           },
           {
-            "id": "53f4613641f5b2d4",
+            "id": "450b9738adfbfef5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming Specific Stuff/Java/Spring/20. Spring Boot Projekt einrichten für JPA & JDBC.md",
+                "file": "Berufsschule/Lernfeld 9/06.1 Aufgabe NAT.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming Specific Stuff/Java/Spring/20. Spring Boot Projekt einrichten für JPA & JDBC.md",
+                "file": "Berufsschule/Lernfeld 9/06.1 Aufgabe NAT.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming Specific Stuff/Java/Spring/20. Spring Boot Projekt einrichten für JPA & JDBC.md",
+                "file": "Berufsschule/Lernfeld 9/06.1 Aufgabe NAT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming Specific Stuff/Java/Spring/20. Spring Boot Projekt einrichten für JPA & JDBC.md"
+                "file": "Berufsschule/Lernfeld 9/06.1 Aufgabe NAT.md"
               }
             }
           },
@@ -180,7 +180,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Programming Specific Stuff/Java/Spring/20. Spring Boot Projekt einrichten für JPA & JDBC.md"
+                "file": "Berufsschule/Lernfeld 9/06.1 Aufgabe NAT.md"
               }
             }
           }
@@ -202,8 +202,16 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "393cb06469dea704",
+  "active": "450b9738adfbfef5",
   "lastOpenFiles": [
+    "Assets/Pictures/Aufgabe NAT_1+2.png",
+    "Berufsschule/Lernfeld 8/04. ERM - RM.md",
+    "Berufsschule/Lernfeld 9/06.1 Aufgabe NAT.md",
+    "Assets/Pictures/Pasted image 20240129121744.png",
+    "Obsidian/Guide to Obsidian.md",
+    "Assets/Pictures/Pasted image 20240129120552.png",
+    "index.md",
+    "Berufsschule/Lernfeld 9/06. RFC1918 - Private Adressen.md",
     "Berufsschule/Lernfeld 9/02.2 Stateless Adress Autoconfiguration - SLAAC.md",
     "Berufsschule/Lernfeld 9/02. DHCP - Dynamic Host Configuration Protocol.md",
     "Berufsschule/Lernfeld 9/05.3 Funktionsweise Switch.md",
@@ -211,7 +219,6 @@
     "Berufsschule/Lernfeld 7/01. Maschinen Ablauf erklären.md",
     "Berufsschule/Lernfeld 7/00. Was ist Lernfeld 7.md",
     "Berufsschule/Lernfeld 7/Lernfeld 7 Übersicht.md",
-    "index.md",
     "Programming Specific Stuff/Java/Spring/22. CRUD Operationen mit JPA.md",
     "Programming Specific Stuff/Java/Spring/23..md",
     "Programming Specific Stuff/Java/Spring/00. Spring Übersicht.md",
@@ -225,11 +232,6 @@
     "Programming Specific Stuff/SQL/Häufig gestellte Fragen.md",
     "Programming Specific Stuff/Java/Spring/12. Component Scanning.md",
     "Programming Specific Stuff/Java/Spring/13. Qualifier und Primary Annotation.md",
-    "Programming Specific Stuff/Java/Spring/14. Lazy Initialization.md",
-    "Programming Specific Stuff/Java/Spring/15. Bean Scopes.md",
-    "Programming Specific Stuff/Java/Spring/16. Bean Lifecycle.md",
-    "Programming Specific Stuff/Java/Spring/17. Bean mit Java Code konfigurieren.md",
-    "Programming Specific Stuff/Java/Spring/18. Hibernate und JPA Überblick.md",
     "Assets/Pictures/Pasted image 20240110103055.png",
     "Programming Specific Stuff/SQL",
     "Assets/Pictures/Pasted image 20240108085435.png",
@@ -239,8 +241,6 @@
     "Assets/Pictures/Pasted image 20231227181921.png",
     "Assets/Pictures/Pasted image 20231227174615.png",
     "Assets/Pictures/Pasted image 20231227113236.png",
-    "Assets/Pictures/Pasted image 20231225113812.png",
-    "Assets/Pictures/Pasted image 20231222174926.png",
     "Berufsschule/Lernfeld 6/Untitled.canvas",
     "Assets/PDFs/BBIG.pdf",
     "Assets/PDFs/Wirtschaftskreislauf.pdf",

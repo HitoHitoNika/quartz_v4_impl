@@ -1,6 +1,34 @@
 {
   "recentFiles": [
     {
+      "basename": "06.1 Aufgabe NAT",
+      "path": "Berufsschule/Lernfeld 9/06.1 Aufgabe NAT.md"
+    },
+    {
+      "basename": "04. ERM - RM",
+      "path": "Berufsschule/Lernfeld 8/04. ERM - RM.md"
+    },
+    {
+      "basename": "Guide to Obsidian",
+      "path": "Obsidian/Guide to Obsidian.md"
+    },
+    {
+      "basename": "index",
+      "path": "index.md"
+    },
+    {
+      "basename": "06. Display verwenden",
+      "path": "Berufsschule/µ-Controller/06. Display verwenden.md"
+    },
+    {
+      "basename": "06. RFC1918 - Private Adressen",
+      "path": "Berufsschule/Lernfeld 9/06. RFC1918 - Private Adressen.md"
+    },
+    {
+      "basename": "05.3 Funktionsweise Switch",
+      "path": "Berufsschule/Lernfeld 9/05.3 Funktionsweise Switch.md"
+    },
+    {
       "basename": "20. Spring Boot Projekt einrichten für JPA & JDBC",
       "path": "Programming Specific Stuff/Java/Spring/20. Spring Boot Projekt einrichten für JPA & JDBC.md"
     },
@@ -11,10 +39,6 @@
     {
       "basename": "02. DHCP - Dynamic Host Configuration Protocol",
       "path": "Berufsschule/Lernfeld 9/02. DHCP - Dynamic Host Configuration Protocol.md"
-    },
-    {
-      "basename": "05.3 Funktionsweise Switch",
-      "path": "Berufsschule/Lernfeld 9/05.3 Funktionsweise Switch.md"
     },
     {
       "basename": "02. OPC UA",
@@ -33,10 +57,6 @@
       "path": "Berufsschule/Lernfeld 7/Lernfeld 7 Übersicht.md"
     },
     {
-      "basename": "index",
-      "path": "index.md"
-    },
-    {
       "basename": "23.",
       "path": "Programming Specific Stuff/Java/Spring/23..md"
     },
@@ -47,10 +67,6 @@
     {
       "basename": "00. Spring Übersicht",
       "path": "Programming Specific Stuff/Java/Spring/00. Spring Übersicht.md"
-    },
-    {
-      "basename": "06. Display verwenden",
-      "path": "Berufsschule/µ-Controller/06. Display verwenden.md"
     },
     {
       "basename": "01. Spring vs Spring Boot",
@@ -183,22 +199,6 @@
     {
       "basename": "03. Spring REST Controller",
       "path": "Programming Specific Stuff/Java/Spring/03. Spring REST Controller.md"
-    },
-    {
-      "basename": "Guide to Obsidian",
-      "path": "Obsidian/Guide to Obsidian.md"
-    },
-    {
-      "basename": "07. Methoden",
-      "path": "Berufsschule/Lernfeld 5/07. Methoden.md"
-    },
-    {
-      "basename": "05.2 Cisco-Geräte konfigurieren",
-      "path": "Berufsschule/Lernfeld 9/05.2 Cisco-Geräte konfigurieren.md"
-    },
-    {
-      "basename": "09. Daten suchen & sortieren",
-      "path": "Berufsschule/Lernfeld 5/09. Daten suchen & sortieren.md"
     }
   ],
   "omittedPaths": [],
