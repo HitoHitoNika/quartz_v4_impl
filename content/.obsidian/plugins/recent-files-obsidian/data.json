@@ -1,20 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "06.1 Aufgabe NAT",
-      "path": "Berufsschule/Lernfeld 9/06.1 Aufgabe NAT.md"
+      "basename": "Dokumentation der Wetterstation",
+      "path": "Berufsschule/µ-Controller/Dokumentation der Wetterstation.md"
+    },
+    {
+      "basename": "index",
+      "path": "index.md"
+    },
+    {
+      "basename": "05. SQL",
+      "path": "Berufsschule/Lernfeld 8/05. SQL.md"
     },
     {
       "basename": "04. ERM - RM",
       "path": "Berufsschule/Lernfeld 8/04. ERM - RM.md"
     },
     {
-      "basename": "Guide to Obsidian",
-      "path": "Obsidian/Guide to Obsidian.md"
+      "basename": "06.1 Aufgabe NAT",
+      "path": "Berufsschule/Lernfeld 9/06.1 Aufgabe NAT.md"
     },
     {
-      "basename": "index",
-      "path": "index.md"
+      "basename": "Guide to Obsidian",
+      "path": "Obsidian/Guide to Obsidian.md"
     },
     {
       "basename": "06. Display verwenden",
@@ -191,14 +199,6 @@
     {
       "basename": "05. Spring Boot Starter Parent",
       "path": "Programming Specific Stuff/Java/Spring/05. Spring Boot Starter Parent.md"
-    },
-    {
-      "basename": "04. Was ist ein Spring Project und warum Spring",
-      "path": "Programming Specific Stuff/Java/Spring/04. Was ist ein Spring Project und warum Spring.md"
-    },
-    {
-      "basename": "03. Spring REST Controller",
-      "path": "Programming Specific Stuff/Java/Spring/03. Spring REST Controller.md"
     }
   ],
   "omittedPaths": [],
