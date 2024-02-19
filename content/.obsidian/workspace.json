@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b70cfb8076720f08",
+        "id": "1c25a624833ff647",
         "type": "tabs",
         "children": [
           {
-            "id": "f3f294ec73570c8d",
+            "id": "42d42df7c386ee58",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -23,12 +23,12 @@
             }
           },
           {
-            "id": "3dc6686ef2b76ed3",
+            "id": "26efc38854f3c0e6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Berufsschule/Lernfeld 8/05.1 OPC UA Datenbank erstellen.md",
+                "file": "Berufsschule/Lernfeld 9/10. Interpreter, Compiler und Linker.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Berufsschule/Lernfeld 8/05.1 OPC UA Datenbank erstellen.md",
+                "file": "Berufsschule/Lernfeld 9/10. Interpreter, Compiler und Linker.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Berufsschule/Lernfeld 8/05.1 OPC UA Datenbank erstellen.md",
+                "file": "Berufsschule/Lernfeld 9/10. Interpreter, Compiler und Linker.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Berufsschule/Lernfeld 8/05.1 OPC UA Datenbank erstellen.md"
+                "file": "Berufsschule/Lernfeld 9/10. Interpreter, Compiler und Linker.md"
               }
             }
           },
@@ -180,7 +180,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Berufsschule/Lernfeld 8/05.1 OPC UA Datenbank erstellen.md"
+                "file": "Berufsschule/Lernfeld 9/10. Interpreter, Compiler und Linker.md"
               }
             }
           }
@@ -202,46 +202,46 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "3dc6686ef2b76ed3",
+  "active": "26efc38854f3c0e6",
   "lastOpenFiles": [
-    "Berufsschule/Lernfeld 8/05. SQL.md",
-    "Berufsschule/Lernfeld 8/05.1 OPC UA Datenbank erstellen.md",
+    "Berufsschule/Lernfeld 9/09. Virtualisierung.md",
+    "Berufsschule/Lernfeld 9/10. Interpreter, Compiler und Linker.md",
+    "Assets/Pictures/Pasted image 20240219143603.png",
+    "Assets/Pictures/Pasted image 20240219143253.png",
+    "Berufsschule/Lernfeld 9/08. Elektrotechnik Basics.md",
+    "Programming Specific Stuff/Java/Spring/19. MySQL Datenbank einrichten.md",
+    "Programming Specific Stuff/Java/Spring/18. Hibernate und JPA Überblick.md",
+    "Programming Specific Stuff/Java/Spring/17. Bean mit Java Code konfigurieren.md",
+    "Programming Specific Stuff/Java/Spring/13. Qualifier und Primary Annotation.md",
+    "Programming Specific Stuff/Java/Spring/00. Spring Übersicht.md",
+    "Berufsschule/Lernfeld 9/05.2 Cisco-Geräte konfigurieren.md",
+    "Berufsschule/Lernfeld 9/05.3 Funktionsweise Switch.md",
+    "Berufsschule/Lernfeld 9/06. RFC1918 - Private Adressen.md",
+    "Berufsschule/Lernfeld 9/06.1 Aufgabe NAT.md",
     "Berufsschule/Lernfeld 9/07. RAID.md",
     "index.md",
+    "Berufsschule/Lernfeld 8/05. SQL.md",
+    "Berufsschule/Lernfeld 8/05.1 OPC UA Datenbank erstellen.md",
     "Berufsschule/Sozialkunde/Lernbaustein 2/Bürgergeld.md",
     "Berufsschule/Sozialkunde/Lernbaustein 2",
     "Berufsschule/µ-Controller/Dokumentation der Wetterstation.md",
     "Berufsschule/Lernfeld 8/04. ERM - RM.md",
     "Assets/Pictures/Pasted image 20240131123327.png",
     "Assets/Pictures/Aufgabe NAT_1+2.png",
-    "Berufsschule/Lernfeld 9/06.1 Aufgabe NAT.md",
     "Assets/Pictures/Pasted image 20240129121744.png",
     "Obsidian/Guide to Obsidian.md",
     "Assets/Pictures/Pasted image 20240129120552.png",
-    "Berufsschule/Lernfeld 9/06. RFC1918 - Private Adressen.md",
     "Berufsschule/Lernfeld 9/02.2 Stateless Adress Autoconfiguration - SLAAC.md",
     "Berufsschule/Lernfeld 9/02. DHCP - Dynamic Host Configuration Protocol.md",
-    "Berufsschule/Lernfeld 9/05.3 Funktionsweise Switch.md",
     "Berufsschule/Lernfeld 7/02. OPC UA.md",
     "Berufsschule/Lernfeld 7/01. Maschinen Ablauf erklären.md",
     "Berufsschule/Lernfeld 7/00. Was ist Lernfeld 7.md",
     "Berufsschule/Lernfeld 7/Lernfeld 7 Übersicht.md",
-    "Programming Specific Stuff/Java/Spring/22. CRUD Operationen mit JPA.md",
-    "Programming Specific Stuff/Java/Spring/23..md",
-    "Programming Specific Stuff/Java/Spring/00. Spring Übersicht.md",
-    "Programming Specific Stuff/Java/Spring/01. Spring vs Spring Boot.md",
-    "Berufsschule/µ-Controller/06. Display verwenden.md",
-    "Programming Specific Stuff/Java/Spring/21. JPA Klassen erstellen.md",
-    "Programming Specific Stuff/Java/Spring/23. Lesen eines Java Objektes mit JPA.md",
-    "Programming Specific Stuff/SQL/Weitere SQL Befehle.md",
-    "Programming Specific Stuff/SQL/SQL-Übersicht.md",
     "Assets/Pictures/Pasted image 20240110103055.png",
     "Programming Specific Stuff/SQL",
     "Assets/Pictures/Pasted image 20240108085435.png",
     "Assets/Pictures/Pasted image 20231229125726.png",
     "Assets/Pictures/Aufgabe 6.png",
-    "Assets/Pictures/ERM.png",
-    "Assets/Pictures/Pasted image 20231227181921.png",
     "Berufsschule/Lernfeld 6/Untitled.canvas",
     "Assets/PDFs/BBIG.pdf",
     "Assets/PDFs/Wirtschaftskreislauf.pdf",

@@ -1,12 +1,52 @@
 {
   "recentFiles": [
     {
-      "basename": "05.1 OPC UA Datenbank erstellen",
-      "path": "Berufsschule/Lernfeld 8/05.1 OPC UA Datenbank erstellen.md"
+      "basename": "10. Interpreter, Compiler und Linker",
+      "path": "Berufsschule/Lernfeld 9/10. Interpreter, Compiler und Linker.md"
     },
     {
-      "basename": "05. SQL",
-      "path": "Berufsschule/Lernfeld 8/05. SQL.md"
+      "basename": "09. Virtualisierung",
+      "path": "Berufsschule/Lernfeld 9/09. Virtualisierung.md"
+    },
+    {
+      "basename": "08. Elektrotechnik Basics",
+      "path": "Berufsschule/Lernfeld 9/08. Elektrotechnik Basics.md"
+    },
+    {
+      "basename": "19. MySQL Datenbank einrichten",
+      "path": "Programming Specific Stuff/Java/Spring/19. MySQL Datenbank einrichten.md"
+    },
+    {
+      "basename": "18. Hibernate und JPA Überblick",
+      "path": "Programming Specific Stuff/Java/Spring/18. Hibernate und JPA Überblick.md"
+    },
+    {
+      "basename": "17. Bean mit Java Code konfigurieren",
+      "path": "Programming Specific Stuff/Java/Spring/17. Bean mit Java Code konfigurieren.md"
+    },
+    {
+      "basename": "13. Qualifier und Primary Annotation",
+      "path": "Programming Specific Stuff/Java/Spring/13. Qualifier und Primary Annotation.md"
+    },
+    {
+      "basename": "00. Spring Übersicht",
+      "path": "Programming Specific Stuff/Java/Spring/00. Spring Übersicht.md"
+    },
+    {
+      "basename": "05.2 Cisco-Geräte konfigurieren",
+      "path": "Berufsschule/Lernfeld 9/05.2 Cisco-Geräte konfigurieren.md"
+    },
+    {
+      "basename": "05.3 Funktionsweise Switch",
+      "path": "Berufsschule/Lernfeld 9/05.3 Funktionsweise Switch.md"
+    },
+    {
+      "basename": "06. RFC1918 - Private Adressen",
+      "path": "Berufsschule/Lernfeld 9/06. RFC1918 - Private Adressen.md"
+    },
+    {
+      "basename": "06.1 Aufgabe NAT",
+      "path": "Berufsschule/Lernfeld 9/06.1 Aufgabe NAT.md"
     },
     {
       "basename": "07. RAID",
@@ -15,6 +55,14 @@
     {
       "basename": "index",
       "path": "index.md"
+    },
+    {
+      "basename": "05.1 OPC UA Datenbank erstellen",
+      "path": "Berufsschule/Lernfeld 8/05.1 OPC UA Datenbank erstellen.md"
+    },
+    {
+      "basename": "05. SQL",
+      "path": "Berufsschule/Lernfeld 8/05. SQL.md"
     },
     {
       "basename": "Bürgergeld",
@@ -29,24 +77,12 @@
       "path": "Berufsschule/Lernfeld 8/04. ERM - RM.md"
     },
     {
-      "basename": "06.1 Aufgabe NAT",
-      "path": "Berufsschule/Lernfeld 9/06.1 Aufgabe NAT.md"
-    },
-    {
       "basename": "Guide to Obsidian",
       "path": "Obsidian/Guide to Obsidian.md"
     },
     {
       "basename": "06. Display verwenden",
       "path": "Berufsschule/µ-Controller/06. Display verwenden.md"
-    },
-    {
-      "basename": "06. RFC1918 - Private Adressen",
-      "path": "Berufsschule/Lernfeld 9/06. RFC1918 - Private Adressen.md"
-    },
-    {
-      "basename": "05.3 Funktionsweise Switch",
-      "path": "Berufsschule/Lernfeld 9/05.3 Funktionsweise Switch.md"
     },
     {
       "basename": "20. Spring Boot Projekt einrichten für JPA & JDBC",
@@ -85,10 +121,6 @@
       "path": "Programming Specific Stuff/Java/Spring/22. CRUD Operationen mit JPA.md"
     },
     {
-      "basename": "00. Spring Übersicht",
-      "path": "Programming Specific Stuff/Java/Spring/00. Spring Übersicht.md"
-    },
-    {
       "basename": "01. Spring vs Spring Boot",
       "path": "Programming Specific Stuff/Java/Spring/01. Spring vs Spring Boot.md"
     },
@@ -117,10 +149,6 @@
       "path": "Programming Specific Stuff/Java/Spring/12. Component Scanning.md"
     },
     {
-      "basename": "13. Qualifier und Primary Annotation",
-      "path": "Programming Specific Stuff/Java/Spring/13. Qualifier und Primary Annotation.md"
-    },
-    {
       "basename": "14. Lazy Initialization",
       "path": "Programming Specific Stuff/Java/Spring/14. Lazy Initialization.md"
     },
@@ -131,18 +159,6 @@
     {
       "basename": "16. Bean Lifecycle",
       "path": "Programming Specific Stuff/Java/Spring/16. Bean Lifecycle.md"
-    },
-    {
-      "basename": "17. Bean mit Java Code konfigurieren",
-      "path": "Programming Specific Stuff/Java/Spring/17. Bean mit Java Code konfigurieren.md"
-    },
-    {
-      "basename": "18. Hibernate und JPA Überblick",
-      "path": "Programming Specific Stuff/Java/Spring/18. Hibernate und JPA Überblick.md"
-    },
-    {
-      "basename": "19. MySQL Datenbank einrichten",
-      "path": "Programming Specific Stuff/Java/Spring/19. MySQL Datenbank einrichten.md"
     },
     {
       "basename": "Back to Spring Übersicht",
@@ -183,22 +199,6 @@
     {
       "basename": "Inhaltsverzeichnis",
       "path": "Inhaltsverzeichnis.md"
-    },
-    {
-      "basename": "µ-Controller Übersicht",
-      "path": "Berufsschule/µ-Controller/µ-Controller Übersicht.md"
-    },
-    {
-      "basename": "00. Wichtige Befehle",
-      "path": "Berufsschule/µ-Controller/00. Wichtige Befehle.md"
-    },
-    {
-      "basename": "09. Spring Apps außerhalb der IDE starten",
-      "path": "Programming Specific Stuff/Java/Spring/09. Spring Apps außerhalb der IDE starten.md"
-    },
-    {
-      "basename": "08. Spring Secruity",
-      "path": "Programming Specific Stuff/Java/Spring/08. Spring Secruity.md"
     }
   ],
   "omittedPaths": [],
