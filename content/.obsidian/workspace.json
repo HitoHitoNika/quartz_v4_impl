@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "6e5582f6686f7ee4",
+        "id": "b70cfb8076720f08",
         "type": "tabs",
         "children": [
           {
-            "id": "0e92920e62b9f0df",
+            "id": "f3f294ec73570c8d",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -23,12 +23,12 @@
             }
           },
           {
-            "id": "d9869f8e98a974ba",
+            "id": "3dc6686ef2b76ed3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Berufsschule/µ-Controller/Dokumentation der Wetterstation.md",
+                "file": "Berufsschule/Lernfeld 8/05.1 OPC UA Datenbank erstellen.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Berufsschule/µ-Controller/Dokumentation der Wetterstation.md",
+                "file": "Berufsschule/Lernfeld 8/05.1 OPC UA Datenbank erstellen.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Berufsschule/µ-Controller/Dokumentation der Wetterstation.md",
+                "file": "Berufsschule/Lernfeld 8/05.1 OPC UA Datenbank erstellen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Berufsschule/µ-Controller/Dokumentation der Wetterstation.md"
+                "file": "Berufsschule/Lernfeld 8/05.1 OPC UA Datenbank erstellen.md"
               }
             }
           },
@@ -180,7 +180,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Berufsschule/µ-Controller/Dokumentation der Wetterstation.md"
+                "file": "Berufsschule/Lernfeld 8/05.1 OPC UA Datenbank erstellen.md"
               }
             }
           }
@@ -202,12 +202,16 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "d9869f8e98a974ba",
+  "active": "3dc6686ef2b76ed3",
   "lastOpenFiles": [
+    "Berufsschule/Lernfeld 8/05. SQL.md",
+    "Berufsschule/Lernfeld 8/05.1 OPC UA Datenbank erstellen.md",
+    "Berufsschule/Lernfeld 9/07. RAID.md",
     "index.md",
+    "Berufsschule/Sozialkunde/Lernbaustein 2/Bürgergeld.md",
+    "Berufsschule/Sozialkunde/Lernbaustein 2",
     "Berufsschule/µ-Controller/Dokumentation der Wetterstation.md",
     "Berufsschule/Lernfeld 8/04. ERM - RM.md",
-    "Berufsschule/Lernfeld 8/05. SQL.md",
     "Assets/Pictures/Pasted image 20240131123327.png",
     "Assets/Pictures/Aufgabe NAT_1+2.png",
     "Berufsschule/Lernfeld 9/06.1 Aufgabe NAT.md",
@@ -231,9 +235,6 @@
     "Programming Specific Stuff/Java/Spring/23. Lesen eines Java Objektes mit JPA.md",
     "Programming Specific Stuff/SQL/Weitere SQL Befehle.md",
     "Programming Specific Stuff/SQL/SQL-Übersicht.md",
-    "Programming Specific Stuff/SQL/SQL-Syntax und Grundlagen.md",
-    "Programming Specific Stuff/SQL/Häufig gestellte Fragen.md",
-    "Programming Specific Stuff/Java/Spring/12. Component Scanning.md",
     "Assets/Pictures/Pasted image 20240110103055.png",
     "Programming Specific Stuff/SQL",
     "Assets/Pictures/Pasted image 20240108085435.png",
@@ -251,7 +252,6 @@
     "Projekte/PasswordManager/Java/Dev-Doku/Overview.canvas",
     "Projekte/PasswordManager/Java/Dev-Doku/GUI/Frames",
     "Projekte/PasswordManager/Java/Dev-Doku/GUI/Panels",
-    "Projekte/PasswordManager/Java/Dev-Doku/GUI",
     "Assets/Canvas/Hosting für Notes.canvas",
     "Programming Specific Stuff/Web-Entwicklung/Angular/Untitled.canvas"
   ]

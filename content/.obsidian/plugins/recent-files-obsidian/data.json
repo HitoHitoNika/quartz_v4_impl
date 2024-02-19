@@ -1,16 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "Dokumentation der Wetterstation",
-      "path": "Berufsschule/µ-Controller/Dokumentation der Wetterstation.md"
+      "basename": "05.1 OPC UA Datenbank erstellen",
+      "path": "Berufsschule/Lernfeld 8/05.1 OPC UA Datenbank erstellen.md"
+    },
+    {
+      "basename": "05. SQL",
+      "path": "Berufsschule/Lernfeld 8/05. SQL.md"
+    },
+    {
+      "basename": "07. RAID",
+      "path": "Berufsschule/Lernfeld 9/07. RAID.md"
     },
     {
       "basename": "index",
       "path": "index.md"
     },
     {
-      "basename": "05. SQL",
-      "path": "Berufsschule/Lernfeld 8/05. SQL.md"
+      "basename": "Bürgergeld",
+      "path": "Berufsschule/Sozialkunde/Lernbaustein 2/Bürgergeld.md"
+    },
+    {
+      "basename": "Dokumentation der Wetterstation",
+      "path": "Berufsschule/µ-Controller/Dokumentation der Wetterstation.md"
     },
     {
       "basename": "04. ERM - RM",
@@ -187,18 +199,6 @@
     {
       "basename": "08. Spring Secruity",
       "path": "Programming Specific Stuff/Java/Spring/08. Spring Secruity.md"
-    },
-    {
-      "basename": "07. Spring Boot Actuator",
-      "path": "Programming Specific Stuff/Java/Spring/07. Spring Boot Actuator.md"
-    },
-    {
-      "basename": "06. Spring-Dev-Tools",
-      "path": "Programming Specific Stuff/Java/Spring/06. Spring-Dev-Tools.md"
-    },
-    {
-      "basename": "05. Spring Boot Starter Parent",
-      "path": "Programming Specific Stuff/Java/Spring/05. Spring Boot Starter Parent.md"
     }
   ],
   "omittedPaths": [],
