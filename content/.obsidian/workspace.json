@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1c25a624833ff647",
+        "id": "2a5d37091e8e15e1",
         "type": "tabs",
         "children": [
           {
-            "id": "42d42df7c386ee58",
+            "id": "7c0ddf05fc1d2909",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -23,12 +23,12 @@
             }
           },
           {
-            "id": "26efc38854f3c0e6",
+            "id": "bf5c0e8cb99cef5e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Berufsschule/Lernfeld 9/10. Interpreter, Compiler und Linker.md",
+                "file": "Berufsschule/Lernfeld 9/Lernfeld 9 Übersicht.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Berufsschule/Lernfeld 9/10. Interpreter, Compiler und Linker.md",
+                "file": "Berufsschule/Lernfeld 9/Lernfeld 9 Übersicht.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Berufsschule/Lernfeld 9/10. Interpreter, Compiler und Linker.md",
+                "file": "Berufsschule/Lernfeld 9/Lernfeld 9 Übersicht.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Berufsschule/Lernfeld 9/10. Interpreter, Compiler und Linker.md"
+                "file": "Berufsschule/Lernfeld 9/Lernfeld 9 Übersicht.md"
               }
             }
           },
@@ -180,7 +180,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Berufsschule/Lernfeld 9/10. Interpreter, Compiler und Linker.md"
+                "file": "Berufsschule/Lernfeld 9/Lernfeld 9 Übersicht.md"
               }
             }
           }
@@ -202,8 +202,9 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "26efc38854f3c0e6",
+  "active": "bf5c0e8cb99cef5e",
   "lastOpenFiles": [
+    "index.md",
     "Berufsschule/Lernfeld 9/09. Virtualisierung.md",
     "Berufsschule/Lernfeld 9/10. Interpreter, Compiler und Linker.md",
     "Assets/Pictures/Pasted image 20240219143603.png",
@@ -219,7 +220,6 @@
     "Berufsschule/Lernfeld 9/06. RFC1918 - Private Adressen.md",
     "Berufsschule/Lernfeld 9/06.1 Aufgabe NAT.md",
     "Berufsschule/Lernfeld 9/07. RAID.md",
-    "index.md",
     "Berufsschule/Lernfeld 8/05. SQL.md",
     "Berufsschule/Lernfeld 8/05.1 OPC UA Datenbank erstellen.md",
     "Berufsschule/Sozialkunde/Lernbaustein 2/Bürgergeld.md",

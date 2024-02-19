@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Lernfeld 9 Übersicht",
+      "path": "Berufsschule/Lernfeld 9/Lernfeld 9 Übersicht.md"
+    },
+    {
+      "basename": "index",
+      "path": "index.md"
+    },
+    {
       "basename": "10. Interpreter, Compiler und Linker",
       "path": "Berufsschule/Lernfeld 9/10. Interpreter, Compiler und Linker.md"
     },
@@ -51,10 +59,6 @@
     {
       "basename": "07. RAID",
       "path": "Berufsschule/Lernfeld 9/07. RAID.md"
-    },
-    {
-      "basename": "index",
-      "path": "index.md"
     },
     {
       "basename": "05.1 OPC UA Datenbank erstellen",
@@ -195,10 +199,6 @@
     {
       "basename": "Back to Berufsschulzeug",
       "path": "Templates/Back to Berufsschulzeug.md"
-    },
-    {
-      "basename": "Inhaltsverzeichnis",
-      "path": "Inhaltsverzeichnis.md"
     }
   ],
   "omittedPaths": [],
