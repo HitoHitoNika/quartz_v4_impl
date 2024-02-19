@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2a5d37091e8e15e1",
+        "id": "cfc089f12d3ea8e6",
         "type": "tabs",
         "children": [
           {
-            "id": "7c0ddf05fc1d2909",
+            "id": "075c76062f3aaef4",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -23,12 +23,12 @@
             }
           },
           {
-            "id": "bf5c0e8cb99cef5e",
+            "id": "b8fe5ddaab483abb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Berufsschule/Lernfeld 9/Lernfeld 9 Übersicht.md",
+                "file": "Berufsschule/Lernfeld 9/10. Interpreter, Compiler und Linker.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Berufsschule/Lernfeld 9/Lernfeld 9 Übersicht.md",
+                "file": "Berufsschule/Lernfeld 9/10. Interpreter, Compiler und Linker.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Berufsschule/Lernfeld 9/Lernfeld 9 Übersicht.md",
+                "file": "Berufsschule/Lernfeld 9/10. Interpreter, Compiler und Linker.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Berufsschule/Lernfeld 9/Lernfeld 9 Übersicht.md"
+                "file": "Berufsschule/Lernfeld 9/10. Interpreter, Compiler und Linker.md"
               }
             }
           },
@@ -180,7 +180,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Berufsschule/Lernfeld 9/Lernfeld 9 Übersicht.md"
+                "file": "Berufsschule/Lernfeld 9/10. Interpreter, Compiler und Linker.md"
               }
             }
           }
@@ -202,7 +202,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "bf5c0e8cb99cef5e",
+  "active": "b8fe5ddaab483abb",
   "lastOpenFiles": [
     "index.md",
     "Berufsschule/Lernfeld 9/09. Virtualisierung.md",
