@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "cfc089f12d3ea8e6",
+        "id": "6ea086a358932911",
         "type": "tabs",
         "children": [
           {
-            "id": "075c76062f3aaef4",
+            "id": "2f6709232fbba7a7",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -21,22 +21,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "b8fe5ddaab483abb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Berufsschule/Lernfeld 9/10. Interpreter, Compiler und Linker.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Berufsschule/Lernfeld 9/10. Interpreter, Compiler und Linker.md",
+                "file": "index.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Berufsschule/Lernfeld 9/10. Interpreter, Compiler und Linker.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Berufsschule/Lernfeld 9/10. Interpreter, Compiler und Linker.md"
+                "file": "index.md"
               }
             }
           },
@@ -180,7 +166,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Berufsschule/Lernfeld 9/10. Interpreter, Compiler und Linker.md"
+                "file": "index.md"
               }
             }
           }
@@ -202,14 +188,25 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "b8fe5ddaab483abb",
+  "active": "2f6709232fbba7a7",
   "lastOpenFiles": [
-    "index.md",
+    "Berufsschule/Lernfeld 8/05.1 OPC UA Datenbank erstellen.md",
+    "Berufsschule/Lernfeld 8/Lernfeld 8 Übersicht.md",
+    "Berufsschule/Lernfeld 9/Lernfeld 9 Übersicht.md",
+    "Berufsschule/Lernfeld 9/11. VLAN.md",
+    "Berufsschule/Lernfeld 9/11. Ethernet Frame.md",
+    "Berufsschule/Lernfeld 9/08. Elektrotechnik Basics.md",
     "Berufsschule/Lernfeld 9/09. Virtualisierung.md",
     "Berufsschule/Lernfeld 9/10. Interpreter, Compiler und Linker.md",
+    "Assets/Pictures/Pasted image 20240226084523.png",
+    "Berufsschule/µ-Controller/Dokumentation der Wetterstation.md",
+    "Berufsschule/µ-Controller/07. PWM Befehle + Lautsprecher.md",
+    "Berufsschule/µ-Controller/06. Display verwenden.md",
+    "Berufsschule/µ-Controller/00. Wichtige Befehle.md",
+    "Berufsschule/µ-Controller/Untitled.md",
+    "index.md",
     "Assets/Pictures/Pasted image 20240219143603.png",
     "Assets/Pictures/Pasted image 20240219143253.png",
-    "Berufsschule/Lernfeld 9/08. Elektrotechnik Basics.md",
     "Programming Specific Stuff/Java/Spring/19. MySQL Datenbank einrichten.md",
     "Programming Specific Stuff/Java/Spring/18. Hibernate und JPA Überblick.md",
     "Programming Specific Stuff/Java/Spring/17. Bean mit Java Code konfigurieren.md",
@@ -221,27 +218,16 @@
     "Berufsschule/Lernfeld 9/06.1 Aufgabe NAT.md",
     "Berufsschule/Lernfeld 9/07. RAID.md",
     "Berufsschule/Lernfeld 8/05. SQL.md",
-    "Berufsschule/Lernfeld 8/05.1 OPC UA Datenbank erstellen.md",
     "Berufsschule/Sozialkunde/Lernbaustein 2/Bürgergeld.md",
     "Berufsschule/Sozialkunde/Lernbaustein 2",
-    "Berufsschule/µ-Controller/Dokumentation der Wetterstation.md",
-    "Berufsschule/Lernfeld 8/04. ERM - RM.md",
     "Assets/Pictures/Pasted image 20240131123327.png",
     "Assets/Pictures/Aufgabe NAT_1+2.png",
     "Assets/Pictures/Pasted image 20240129121744.png",
-    "Obsidian/Guide to Obsidian.md",
     "Assets/Pictures/Pasted image 20240129120552.png",
-    "Berufsschule/Lernfeld 9/02.2 Stateless Adress Autoconfiguration - SLAAC.md",
-    "Berufsschule/Lernfeld 9/02. DHCP - Dynamic Host Configuration Protocol.md",
-    "Berufsschule/Lernfeld 7/02. OPC UA.md",
-    "Berufsschule/Lernfeld 7/01. Maschinen Ablauf erklären.md",
-    "Berufsschule/Lernfeld 7/00. Was ist Lernfeld 7.md",
-    "Berufsschule/Lernfeld 7/Lernfeld 7 Übersicht.md",
     "Assets/Pictures/Pasted image 20240110103055.png",
     "Programming Specific Stuff/SQL",
     "Assets/Pictures/Pasted image 20240108085435.png",
     "Assets/Pictures/Pasted image 20231229125726.png",
-    "Assets/Pictures/Aufgabe 6.png",
     "Berufsschule/Lernfeld 6/Untitled.canvas",
     "Assets/PDFs/BBIG.pdf",
     "Assets/PDFs/Wirtschaftskreislauf.pdf",

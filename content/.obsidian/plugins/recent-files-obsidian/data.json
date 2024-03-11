@@ -1,24 +1,60 @@
 {
   "recentFiles": [
     {
-      "basename": "10. Interpreter, Compiler und Linker",
-      "path": "Berufsschule/Lernfeld 9/10. Interpreter, Compiler und Linker.md"
-    },
-    {
       "basename": "index",
       "path": "index.md"
+    },
+    {
+      "basename": "Lernfeld 7 Übersicht",
+      "path": "Berufsschule/Lernfeld 7/Lernfeld 7 Übersicht.md"
+    },
+    {
+      "basename": "05.1 OPC UA Datenbank erstellen",
+      "path": "Berufsschule/Lernfeld 8/05.1 OPC UA Datenbank erstellen.md"
+    },
+    {
+      "basename": "Lernfeld 8 Übersicht",
+      "path": "Berufsschule/Lernfeld 8/Lernfeld 8 Übersicht.md"
     },
     {
       "basename": "Lernfeld 9 Übersicht",
       "path": "Berufsschule/Lernfeld 9/Lernfeld 9 Übersicht.md"
     },
     {
-      "basename": "09. Virtualisierung",
-      "path": "Berufsschule/Lernfeld 9/09. Virtualisierung.md"
+      "basename": "11. VLAN",
+      "path": "Berufsschule/Lernfeld 9/11. VLAN.md"
     },
     {
       "basename": "08. Elektrotechnik Basics",
       "path": "Berufsschule/Lernfeld 9/08. Elektrotechnik Basics.md"
+    },
+    {
+      "basename": "09. Virtualisierung",
+      "path": "Berufsschule/Lernfeld 9/09. Virtualisierung.md"
+    },
+    {
+      "basename": "10. Interpreter, Compiler und Linker",
+      "path": "Berufsschule/Lernfeld 9/10. Interpreter, Compiler und Linker.md"
+    },
+    {
+      "basename": "07. PWM Befehle + Lautsprecher",
+      "path": "Berufsschule/µ-Controller/07. PWM Befehle + Lautsprecher.md"
+    },
+    {
+      "basename": "Dokumentation der Wetterstation",
+      "path": "Berufsschule/µ-Controller/Dokumentation der Wetterstation.md"
+    },
+    {
+      "basename": "06. Display verwenden",
+      "path": "Berufsschule/µ-Controller/06. Display verwenden.md"
+    },
+    {
+      "basename": "00. Wichtige Befehle",
+      "path": "Berufsschule/µ-Controller/00. Wichtige Befehle.md"
+    },
+    {
+      "basename": "Untitled",
+      "path": "Berufsschule/µ-Controller/Untitled.md"
     },
     {
       "basename": "19. MySQL Datenbank einrichten",
@@ -61,10 +97,6 @@
       "path": "Berufsschule/Lernfeld 9/07. RAID.md"
     },
     {
-      "basename": "05.1 OPC UA Datenbank erstellen",
-      "path": "Berufsschule/Lernfeld 8/05.1 OPC UA Datenbank erstellen.md"
-    },
-    {
       "basename": "05. SQL",
       "path": "Berufsschule/Lernfeld 8/05. SQL.md"
     },
@@ -73,20 +105,12 @@
       "path": "Berufsschule/Sozialkunde/Lernbaustein 2/Bürgergeld.md"
     },
     {
-      "basename": "Dokumentation der Wetterstation",
-      "path": "Berufsschule/µ-Controller/Dokumentation der Wetterstation.md"
-    },
-    {
       "basename": "04. ERM - RM",
       "path": "Berufsschule/Lernfeld 8/04. ERM - RM.md"
     },
     {
       "basename": "Guide to Obsidian",
       "path": "Obsidian/Guide to Obsidian.md"
-    },
-    {
-      "basename": "06. Display verwenden",
-      "path": "Berufsschule/µ-Controller/06. Display verwenden.md"
     },
     {
       "basename": "20. Spring Boot Projekt einrichten für JPA & JDBC",
@@ -111,10 +135,6 @@
     {
       "basename": "00. Was ist Lernfeld 7",
       "path": "Berufsschule/Lernfeld 7/00. Was ist Lernfeld 7.md"
-    },
-    {
-      "basename": "Lernfeld 7 Übersicht",
-      "path": "Berufsschule/Lernfeld 7/Lernfeld 7 Übersicht.md"
     },
     {
       "basename": "23.",
@@ -179,26 +199,6 @@
     {
       "basename": "02. Spring Initializr",
       "path": "Programming Specific Stuff/Java/Spring/02. Spring Initializr.md"
-    },
-    {
-      "basename": "Inhaltsübersicht Prog",
-      "path": "Programming Specific Stuff/Inhaltsübersicht Prog.md"
-    },
-    {
-      "basename": "Back to Projectoverview",
-      "path": "Templates/Back to Projectoverview.md"
-    },
-    {
-      "basename": "Back to Programming Shit",
-      "path": "Templates/Back to Programming Shit.md"
-    },
-    {
-      "basename": "Back to Home",
-      "path": "Templates/Back to Home.md"
-    },
-    {
-      "basename": "Back to Berufsschulzeug",
-      "path": "Templates/Back to Berufsschulzeug.md"
     }
   ],
   "omittedPaths": [],

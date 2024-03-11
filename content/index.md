@@ -3,6 +3,11 @@ tags:
   - Index
 title: 👋🏻 Willkommen in meinem Wiki ! 👋🏻
 ---
+# HINWEIS
+
+>[!warning] Verschiebung der Domain
+>Das Wiki wird bald unter wiki.hitohitonika.de zu finden sein.
+>Der alte Link wird noch eine Weile unter der alten Domain zu finden sein. Wer sich nicht den neuen Link speichert hat Pech :)
 
 Mein Wiki besteht aus Dingen die ich als wissenswert sehe. Von Notizen aus der Berufsschule, bis hin zu Dingen die ich mir selber beibringe ist hier alles dabei 😎
 
