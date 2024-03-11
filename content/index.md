@@ -7,7 +7,7 @@ title: 👋🏻 Willkommen in meinem Wiki ! 👋🏻
 
 >[!warning] Verschiebung der Domain
 >Das Wiki wird bald unter wiki.hitohitonika.de zu finden sein.
->Der alte Link wird noch eine Weile unter der alten Domain zu finden sein. Wer sich nicht den neuen Link speichert hat Pech :)
+>Der alte Link wird noch eine Weile funktionieren, wird aber keine neuen Einträge bekommen. [Klick mich für den neuen Link](wiki.hitohitonika.de)
 
 Mein Wiki besteht aus Dingen die ich als wissenswert sehe. Von Notizen aus der Berufsschule, bis hin zu Dingen die ich mir selber beibringe ist hier alles dabei 😎
 
