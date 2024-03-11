@@ -23,7 +23,7 @@ Obsidian ist ein Markdown basierter Texteditor, mit dem Ziel durch eigenen Synta
 
 Quartz bietet die Möglichkeiten dieses Wiki online darzustellen.
 
-Mehr dazu erfahrt ihr hier:
+Mehr dazu erfahrt ihr hier :
 
 - [[Guide to Obsidian]]
 - [[Quartz]]
