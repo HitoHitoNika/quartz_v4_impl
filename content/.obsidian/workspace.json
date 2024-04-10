@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "64ec96bac308f3b0",
+        "id": "f6b482a62e850fc8",
         "type": "tabs",
         "children": [
           {
-            "id": "ab9f83472426b2c5",
+            "id": "971acd3b29179bdf",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -21,8 +21,22 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "d460b9095baadf66",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Berufsschule/Lernfeld 9/12. Router.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -96,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "Berufsschule/Lernfeld 9/12. Router.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "Berufsschule/Lernfeld 9/12. Router.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "Berufsschule/Lernfeld 9/12. Router.md"
               }
             }
           },
@@ -166,7 +180,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "index.md"
+                "file": "Berufsschule/Lernfeld 9/12. Router.md"
               }
             }
           }
@@ -188,12 +202,15 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "ab9f83472426b2c5",
+  "active": "d460b9095baadf66",
   "lastOpenFiles": [
+    "Berufsschule/Lernfeld 9/11.1 Klassenarbeit-Themen.md",
+    "Berufsschule/Lernfeld 9/12. Router.md",
+    "Berufsschule/Lernfeld 9/11. VLAN.md",
+    "index.md",
     "Berufsschule/Lernfeld 8/05.1 OPC UA Datenbank erstellen.md",
     "Berufsschule/Lernfeld 8/Lernfeld 8 Übersicht.md",
     "Berufsschule/Lernfeld 9/Lernfeld 9 Übersicht.md",
-    "Berufsschule/Lernfeld 9/11. VLAN.md",
     "Berufsschule/Lernfeld 9/11. Ethernet Frame.md",
     "Berufsschule/Lernfeld 9/08. Elektrotechnik Basics.md",
     "Berufsschule/Lernfeld 9/09. Virtualisierung.md",
@@ -204,7 +221,6 @@
     "Berufsschule/µ-Controller/06. Display verwenden.md",
     "Berufsschule/µ-Controller/00. Wichtige Befehle.md",
     "Berufsschule/µ-Controller/Untitled.md",
-    "index.md",
     "Assets/Pictures/Pasted image 20240219143603.png",
     "Assets/Pictures/Pasted image 20240219143253.png",
     "Programming Specific Stuff/Java/Spring/19. MySQL Datenbank einrichten.md",
@@ -217,8 +233,6 @@
     "Berufsschule/Lernfeld 9/06. RFC1918 - Private Adressen.md",
     "Berufsschule/Lernfeld 9/06.1 Aufgabe NAT.md",
     "Berufsschule/Lernfeld 9/07. RAID.md",
-    "Berufsschule/Lernfeld 8/05. SQL.md",
-    "Berufsschule/Sozialkunde/Lernbaustein 2/Bürgergeld.md",
     "Berufsschule/Sozialkunde/Lernbaustein 2",
     "Assets/Pictures/Pasted image 20240131123327.png",
     "Assets/Pictures/Aufgabe NAT_1+2.png",
