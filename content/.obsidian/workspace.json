@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "48df82f42a802d0f",
+        "id": "f3709686941d116e",
         "type": "tabs",
         "children": [
           {
-            "id": "f46650afbb66ea1d",
+            "id": "dfb9125f49fef949",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -23,12 +23,12 @@
             }
           },
           {
-            "id": "c267022cd1e36074",
+            "id": "fad63a064a316ebb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inhaltsverzeichnis.md",
+                "file": "Berufsschule/App-Entwicklung/Allgemeines zu Android.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inhaltsverzeichnis.md",
+                "file": "Berufsschule/App-Entwicklung/Allgemeines zu Android.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inhaltsverzeichnis.md",
+                "file": "Berufsschule/App-Entwicklung/Allgemeines zu Android.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inhaltsverzeichnis.md"
+                "file": "Berufsschule/App-Entwicklung/Allgemeines zu Android.md"
               }
             }
           },
@@ -180,7 +180,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Inhaltsverzeichnis.md"
+                "file": "Berufsschule/App-Entwicklung/Allgemeines zu Android.md"
               }
             }
           }
@@ -202,9 +202,14 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "c267022cd1e36074",
+  "active": "fad63a064a316ebb",
   "lastOpenFiles": [
+    "Berufsschule/App-Entwicklung/Übersicht.md",
+    "Berufsschule/App-Entwicklung/Allgemeines zu Android.md",
     "index.md",
+    "Berufsschule/App-Entwicklung",
+    "Berufsschule/µ-Controller/04. LED und Taster.md",
+    "Berufsschule/Lernfeld 6/Lernjob 6.md",
     "Projekte/PasswordManager/Java/Dev-Doku/Entities/User.md",
     "Projekte/PasswordManager/Java/Dev-Doku/Entities/Password.md",
     "Berufsschule/µ-Controller/08. MQTT.md",
@@ -229,10 +234,6 @@
     "Programming Specific Stuff/Java/Spring/19. MySQL Datenbank einrichten.md",
     "Programming Specific Stuff/Java/Spring/18. Hibernate und JPA Überblick.md",
     "Programming Specific Stuff/Java/Spring/17. Bean mit Java Code konfigurieren.md",
-    "Programming Specific Stuff/Java/Spring/13. Qualifier und Primary Annotation.md",
-    "Programming Specific Stuff/Java/Spring/00. Spring Übersicht.md",
-    "Berufsschule/Lernfeld 9/05.2 Cisco-Geräte konfigurieren.md",
-    "Berufsschule/Lernfeld 9/05.3 Funktionsweise Switch.md",
     "Berufsschule/Sozialkunde/Lernbaustein 2",
     "Assets/Pictures/Pasted image 20240131123327.png",
     "Assets/Pictures/Aufgabe NAT_1+2.png",
@@ -251,7 +252,6 @@
     "Assets/PDFs/Anlagendokumentation.pdf",
     "Projekte/PasswordManager/Java/Dev-Doku/Overview.canvas",
     "Projekte/PasswordManager/Java/Dev-Doku/GUI/Frames",
-    "Projekte/PasswordManager/Java/Dev-Doku/GUI/Panels",
     "Assets/Canvas/Hosting für Notes.canvas",
     "Programming Specific Stuff/Web-Entwicklung/Angular/Untitled.canvas"
   ]

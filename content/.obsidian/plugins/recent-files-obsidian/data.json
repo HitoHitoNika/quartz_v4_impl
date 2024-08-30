@@ -1,12 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "Inhaltsverzeichnis",
-      "path": "Inhaltsverzeichnis.md"
+      "basename": "Allgemeines zu Android",
+      "path": "Berufsschule/App-Entwicklung/Allgemeines zu Android.md"
+    },
+    {
+      "basename": "Übersicht",
+      "path": "Berufsschule/App-Entwicklung/Übersicht.md"
     },
     {
       "basename": "index",
       "path": "index.md"
+    },
+    {
+      "basename": "04. LED und Taster",
+      "path": "Berufsschule/µ-Controller/04. LED und Taster.md"
+    },
+    {
+      "basename": "Lernjob 6",
+      "path": "Berufsschule/Lernfeld 6/Lernjob 6.md"
+    },
+    {
+      "basename": "Inhaltsverzeichnis",
+      "path": "Inhaltsverzeichnis.md"
     },
     {
       "basename": "Overview",
@@ -183,22 +199,6 @@
     {
       "basename": "Weitere SQL Befehle",
       "path": "Programming Specific Stuff/SQL/Weitere SQL Befehle.md"
-    },
-    {
-      "basename": "SQL-Übersicht",
-      "path": "Programming Specific Stuff/SQL/SQL-Übersicht.md"
-    },
-    {
-      "basename": "SQL-Syntax und Grundlagen",
-      "path": "Programming Specific Stuff/SQL/SQL-Syntax und Grundlagen.md"
-    },
-    {
-      "basename": "Häufig gestellte Fragen",
-      "path": "Programming Specific Stuff/SQL/Häufig gestellte Fragen.md"
-    },
-    {
-      "basename": "12. Component Scanning",
-      "path": "Programming Specific Stuff/Java/Spring/12. Component Scanning.md"
     }
   ],
   "omittedPaths": [],
