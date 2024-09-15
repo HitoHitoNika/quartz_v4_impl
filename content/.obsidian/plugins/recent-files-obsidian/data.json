@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "Websocket vs STOMP over WebSocket",
+      "path": "Programming Specific Stuff/Web-Entwicklung/Websocket/Websocket vs STOMP over WebSocket.md"
+    },
+    {
+      "basename": "index",
+      "path": "index.md"
+    },
+    {
       "basename": "Allgemeines zu Android",
       "path": "Berufsschule/App-Entwicklung/Allgemeines zu Android.md"
     },
     {
       "basename": "Übersicht",
       "path": "Berufsschule/App-Entwicklung/Übersicht.md"
-    },
-    {
-      "basename": "index",
-      "path": "index.md"
     },
     {
       "basename": "04. LED und Taster",
@@ -191,14 +195,6 @@
     {
       "basename": "01. Spring vs Spring Boot",
       "path": "Programming Specific Stuff/Java/Spring/01. Spring vs Spring Boot.md"
-    },
-    {
-      "basename": "21. JPA Klassen erstellen",
-      "path": "Programming Specific Stuff/Java/Spring/21. JPA Klassen erstellen.md"
-    },
-    {
-      "basename": "Weitere SQL Befehle",
-      "path": "Programming Specific Stuff/SQL/Weitere SQL Befehle.md"
     }
   ],
   "omittedPaths": [],

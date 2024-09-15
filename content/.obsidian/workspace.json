@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f3709686941d116e",
+        "id": "7e2160d4bb7233b7",
         "type": "tabs",
         "children": [
           {
-            "id": "dfb9125f49fef949",
+            "id": "01c26a74bd8a39f6",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -23,12 +23,12 @@
             }
           },
           {
-            "id": "fad63a064a316ebb",
+            "id": "3c67ae0393621bdd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Berufsschule/App-Entwicklung/Allgemeines zu Android.md",
+                "file": "Programming Specific Stuff/Web-Entwicklung/Websocket/Websocket vs STOMP over WebSocket.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Berufsschule/App-Entwicklung/Allgemeines zu Android.md",
+                "file": "Programming Specific Stuff/Web-Entwicklung/Websocket/Websocket vs STOMP over WebSocket.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Berufsschule/App-Entwicklung/Allgemeines zu Android.md",
+                "file": "Programming Specific Stuff/Web-Entwicklung/Websocket/Websocket vs STOMP over WebSocket.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Berufsschule/App-Entwicklung/Allgemeines zu Android.md"
+                "file": "Programming Specific Stuff/Web-Entwicklung/Websocket/Websocket vs STOMP over WebSocket.md"
               }
             }
           },
@@ -180,7 +180,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Berufsschule/App-Entwicklung/Allgemeines zu Android.md"
+                "file": "Programming Specific Stuff/Web-Entwicklung/Websocket/Websocket vs STOMP over WebSocket.md"
               }
             }
           }
@@ -202,11 +202,17 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "fad63a064a316ebb",
+  "active": "3c67ae0393621bdd",
   "lastOpenFiles": [
-    "Berufsschule/App-Entwicklung/Übersicht.md",
-    "Berufsschule/App-Entwicklung/Allgemeines zu Android.md",
+    "Assets/Pictures/Pasted image 20240913213447.png",
+    "Assets/Pictures/Pasted image 20240913212126.png",
+    "Assets/Pictures/Pasted image 20240913212041.png",
+    "Assets/Pictures/Pasted image 20240913211946.png",
+    "Programming Specific Stuff/Web-Entwicklung/Websocket/Websocket vs STOMP over WebSocket.md",
     "index.md",
+    "Programming Specific Stuff/Web-Entwicklung/Websocket",
+    "Berufsschule/App-Entwicklung/Allgemeines zu Android.md",
+    "Berufsschule/App-Entwicklung/Übersicht.md",
     "Berufsschule/App-Entwicklung",
     "Berufsschule/µ-Controller/04. LED und Taster.md",
     "Berufsschule/Lernfeld 6/Lernjob 6.md",
@@ -232,17 +238,12 @@
     "Assets/Pictures/Pasted image 20240219143603.png",
     "Assets/Pictures/Pasted image 20240219143253.png",
     "Programming Specific Stuff/Java/Spring/19. MySQL Datenbank einrichten.md",
-    "Programming Specific Stuff/Java/Spring/18. Hibernate und JPA Überblick.md",
-    "Programming Specific Stuff/Java/Spring/17. Bean mit Java Code konfigurieren.md",
     "Berufsschule/Sozialkunde/Lernbaustein 2",
     "Assets/Pictures/Pasted image 20240131123327.png",
     "Assets/Pictures/Aufgabe NAT_1+2.png",
     "Assets/Pictures/Pasted image 20240129121744.png",
     "Assets/Pictures/Pasted image 20240129120552.png",
-    "Assets/Pictures/Pasted image 20240110103055.png",
     "Programming Specific Stuff/SQL",
-    "Assets/Pictures/Pasted image 20240108085435.png",
-    "Assets/Pictures/Pasted image 20231229125726.png",
     "Berufsschule/Lernfeld 6/Untitled.canvas",
     "Assets/PDFs/BBIG.pdf",
     "Assets/PDFs/Wirtschaftskreislauf.pdf",
@@ -251,7 +252,6 @@
     "Assets/PDFs/Besitz_Eigentum.pdf",
     "Assets/PDFs/Anlagendokumentation.pdf",
     "Projekte/PasswordManager/Java/Dev-Doku/Overview.canvas",
-    "Projekte/PasswordManager/Java/Dev-Doku/GUI/Frames",
     "Assets/Canvas/Hosting für Notes.canvas",
     "Programming Specific Stuff/Web-Entwicklung/Angular/Untitled.canvas"
   ]
